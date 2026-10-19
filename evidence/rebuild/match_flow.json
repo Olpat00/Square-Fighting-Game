@@ -1,0 +1,739 @@
+{
+  "checks": 35,
+  "failures": 0,
+  "graphical": true,
+  "limitation": "Accelerated full-match lifecycle coverage; not a real-time performance measurement or human playtest.",
+  "matches": [
+    {
+      "arena": "rooftop_riot",
+      "contacts": 270,
+      "kos": 11,
+      "preset": "Party",
+      "result": {
+        "ko_log": [
+          {
+            "assists": [
+              1,
+              3,
+              0
+            ],
+            "credited": 1,
+            "tick": 3132,
+            "victim": 2
+          },
+          {
+            "assists": [
+              3,
+              0,
+              2
+            ],
+            "credited": 0,
+            "tick": 3474,
+            "victim": 1
+          },
+          {
+            "assists": [
+              1,
+              0,
+              2
+            ],
+            "credited": 0,
+            "tick": 3795,
+            "victim": 3
+          },
+          {
+            "assists": [
+              0,
+              3,
+              1
+            ],
+            "credited": 0,
+            "tick": 4733,
+            "victim": 2
+          },
+          {
+            "assists": [
+              1,
+              3,
+              0
+            ],
+            "credited": 3,
+            "tick": 6072,
+            "victim": 2
+          },
+          {
+            "assists": [
+              2,
+              3,
+              0
+            ],
+            "credited": 3,
+            "tick": 6099,
+            "victim": 1
+          },
+          {
+            "assists": [
+              3,
+              1,
+              2
+            ],
+            "credited": 1,
+            "tick": 6581,
+            "victim": 0
+          },
+          {
+            "assists": [
+              1,
+              3
+            ],
+            "credited": 1,
+            "tick": 8306,
+            "victim": 0
+          },
+          {
+            "assists": [
+              1,
+              0,
+              2
+            ],
+            "credited": 1,
+            "tick": 8551,
+            "victim": 3
+          },
+          {
+            "assists": [
+              3,
+              0
+            ],
+            "credited": 0,
+            "tick": 10616,
+            "victim": 1
+          },
+          {
+            "assists": [
+              1,
+              3
+            ],
+            "credited": 3,
+            "tick": 16003,
+            "victim": 0
+          }
+        ],
+        "reason": "LAST ONE STANDING",
+        "ticks": 16003,
+        "winner": 3
+      },
+      "ticks": 16003
+    },
+    {
+      "arena": "lunar_reach",
+      "contacts": 306,
+      "kos": 11,
+      "preset": "Fair Fight",
+      "result": {
+        "ko_log": [
+          {
+            "assists": [
+              3
+            ],
+            "credited": 3,
+            "tick": 470,
+            "victim": 1
+          },
+          {
+            "assists": [
+              1,
+              0,
+              2
+            ],
+            "credited": 2,
+            "tick": 1915,
+            "victim": 3
+          },
+          {
+            "assists": [
+              2,
+              1,
+              3
+            ],
+            "credited": 2,
+            "tick": 4175,
+            "victim": 0
+          },
+          {
+            "assists": [
+              2,
+              3,
+              0
+            ],
+            "credited": 3,
+            "tick": 4319,
+            "victim": 1
+          },
+          {
+            "assists": [
+              3,
+              2,
+              0
+            ],
+            "credited": 0,
+            "tick": 7637,
+            "victim": 1
+          },
+          {
+            "assists": [
+              0,
+              3,
+              1
+            ],
+            "credited": 3,
+            "tick": 7641,
+            "victim": 2
+          },
+          {
+            "assists": [
+              2,
+              0,
+              1
+            ],
+            "credited": 0,
+            "tick": 8344,
+            "victim": 3
+          },
+          {
+            "assists": [
+              2,
+              0
+            ],
+            "credited": 0,
+            "tick": 10182,
+            "victim": 3
+          },
+          {
+            "assists": [
+              3,
+              1,
+              2
+            ],
+            "credited": 2,
+            "tick": 10622,
+            "victim": 0
+          },
+          {
+            "assists": [
+              0,
+              3
+            ],
+            "credited": 0,
+            "tick": 10953,
+            "victim": 2
+          },
+          {
+            "assists": [
+              0
+            ],
+            "credited": 0,
+            "tick": 14753,
+            "victim": 2
+          }
+        ],
+        "reason": "LAST ONE STANDING",
+        "ticks": 14753,
+        "winner": 0
+      },
+      "ticks": 14753
+    },
+    {
+      "arena": "verdant_shrine",
+      "contacts": 188,
+      "kos": 11,
+      "preset": "Party",
+      "result": {
+        "ko_log": [
+          {
+            "assists": [],
+            "credited": -1,
+            "tick": 211,
+            "victim": 0
+          },
+          {
+            "assists": [
+              3,
+              0,
+              1
+            ],
+            "credited": 0,
+            "tick": 2045,
+            "victim": 2
+          },
+          {
+            "assists": [
+              1,
+              3,
+              2
+            ],
+            "credited": 3,
+            "tick": 2127,
+            "victim": 0
+          },
+          {
+            "assists": [
+              3,
+              0,
+              2
+            ],
+            "credited": 3,
+            "tick": 3357,
+            "victim": 1
+          },
+          {
+            "assists": [
+              1,
+              3,
+              2
+            ],
+            "credited": 3,
+            "tick": 3443,
+            "victim": 0
+          },
+          {
+            "assists": [
+              2,
+              1,
+              0
+            ],
+            "credited": 0,
+            "tick": 3473,
+            "victim": 3
+          },
+          {
+            "assists": [
+              1,
+              0,
+              3
+            ],
+            "credited": 3,
+            "tick": 3879,
+            "victim": 2
+          },
+          {
+            "assists": [
+              2,
+              3
+            ],
+            "credited": 3,
+            "tick": 4191,
+            "victim": 1
+          },
+          {
+            "assists": [
+              2,
+              1
+            ],
+            "credited": 2,
+            "tick": 6039,
+            "victim": 3
+          },
+          {
+            "assists": [
+              3,
+              1
+            ],
+            "credited": 3,
+            "tick": 7382,
+            "victim": 2
+          },
+          {
+            "assists": [
+              3,
+              2
+            ],
+            "credited": 3,
+            "tick": 9699,
+            "victim": 1
+          }
+        ],
+        "reason": "LAST ONE STANDING",
+        "ticks": 9699,
+        "winner": 3
+      },
+      "ticks": 9699
+    },
+    {
+      "arena": "abyssal_observatory",
+      "contacts": 298,
+      "kos": 11,
+      "preset": "Fair Fight",
+      "result": {
+        "ko_log": [
+          {
+            "assists": [
+              2,
+              1,
+              3
+            ],
+            "credited": 3,
+            "tick": 2160,
+            "victim": 0
+          },
+          {
+            "assists": [
+              0,
+              3,
+              1
+            ],
+            "credited": 3,
+            "tick": 2353,
+            "victim": 2
+          },
+          {
+            "assists": [
+              1,
+              2,
+              0
+            ],
+            "credited": 2,
+            "tick": 3999,
+            "victim": 3
+          },
+          {
+            "assists": [
+              0,
+              1,
+              2
+            ],
+            "credited": 2,
+            "tick": 6509,
+            "victim": 3
+          },
+          {
+            "assists": [
+              3,
+              0,
+              2
+            ],
+            "credited": 0,
+            "tick": 7110,
+            "victim": 1
+          },
+          {
+            "assists": [
+              3,
+              1,
+              2
+            ],
+            "credited": 2,
+            "tick": 7179,
+            "victim": 0
+          },
+          {
+            "assists": [
+              3,
+              2,
+              0
+            ],
+            "credited": 2,
+            "tick": 8142,
+            "victim": 1
+          },
+          {
+            "assists": [
+              1,
+              0,
+              3
+            ],
+            "credited": 3,
+            "tick": 8327,
+            "victim": 2
+          },
+          {
+            "assists": [
+              3,
+              0,
+              1
+            ],
+            "credited": 0,
+            "tick": 9963,
+            "victim": 2
+          },
+          {
+            "assists": [
+              0,
+              3,
+              2
+            ],
+            "credited": 0,
+            "tick": 11034,
+            "victim": 1
+          },
+          {
+            "assists": [
+              2,
+              3,
+              1
+            ],
+            "credited": 3,
+            "tick": 12526,
+            "victim": 0
+          }
+        ],
+        "reason": "LAST ONE STANDING",
+        "ticks": 12526,
+        "winner": 3
+      },
+      "ticks": 12526
+    },
+    {
+      "arena": "ember_foundry",
+      "contacts": 214,
+      "kos": 10,
+      "preset": "Party",
+      "result": {
+        "ko_log": [
+          {
+            "assists": [
+              3,
+              2,
+              0
+            ],
+            "credited": 0,
+            "tick": 1903,
+            "victim": 1
+          },
+          {
+            "assists": [
+              0,
+              3,
+              1
+            ],
+            "credited": -1,
+            "tick": 3121,
+            "victim": 2
+          },
+          {
+            "assists": [
+              1,
+              3,
+              2
+            ],
+            "credited": 1,
+            "tick": 4104,
+            "victim": 0
+          },
+          {
+            "assists": [
+              1,
+              0,
+              3
+            ],
+            "credited": 3,
+            "tick": 4342,
+            "victim": 2
+          },
+          {
+            "assists": [
+              1,
+              2,
+              0
+            ],
+            "credited": 0,
+            "tick": 4950,
+            "victim": 3
+          },
+          {
+            "assists": [
+              3,
+              2,
+              0
+            ],
+            "credited": 0,
+            "tick": 5238,
+            "victim": 1
+          },
+          {
+            "assists": [
+              3,
+              2,
+              1
+            ],
+            "credited": 3,
+            "tick": 6886,
+            "victim": 0
+          },
+          {
+            "assists": [
+              3,
+              0,
+              1
+            ],
+            "credited": 0,
+            "tick": 7153,
+            "victim": 2
+          },
+          {
+            "assists": [],
+            "credited": -1,
+            "tick": 7380,
+            "victim": 0
+          },
+          {
+            "assists": [
+              3,
+              0,
+              2
+            ],
+            "credited": 3,
+            "tick": 8319,
+            "victim": 1
+          }
+        ],
+        "reason": "LAST ONE STANDING",
+        "ticks": 8319,
+        "winner": 3
+      },
+      "ticks": 8319
+    }
+  ],
+  "results": [
+    {
+      "name": "rooftop_riot starts four selected fighters through main",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot completes the full ready countdown before combat",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot finishes through stock or clock rules without forced result",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot full match contains real contacts and ring-outs",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot finish signal displays results and hides match HUD",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot rematch preserves selections and rules with clean resources",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot leaving rematch clears combat ownership",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach starts four selected fighters through main",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach completes the full ready countdown before combat",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach finishes through stock or clock rules without forced result",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach full match contains real contacts and ring-outs",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach finish signal displays results and hides match HUD",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach rematch preserves selections and rules with clean resources",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach leaving rematch clears combat ownership",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine starts four selected fighters through main",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine completes the full ready countdown before combat",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine finishes through stock or clock rules without forced result",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine full match contains real contacts and ring-outs",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine finish signal displays results and hides match HUD",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine rematch preserves selections and rules with clean resources",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine leaving rematch clears combat ownership",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory starts four selected fighters through main",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory completes the full ready countdown before combat",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory finishes through stock or clock rules without forced result",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory full match contains real contacts and ring-outs",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory finish signal displays results and hides match HUD",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory rematch preserves selections and rules with clean resources",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory leaving rematch clears combat ownership",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry starts four selected fighters through main",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry completes the full ready countdown before combat",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry finishes through stock or clock rules without forced result",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry full match contains real contacts and ring-outs",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry finish signal displays results and hides match HUD",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry rematch preserves selections and rules with clean resources",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry leaving rematch clears combat ownership",
+      "passed": true
+    }
+  ]
+}

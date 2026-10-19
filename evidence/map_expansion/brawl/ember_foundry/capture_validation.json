@@ -1,0 +1,31 @@
+{
+  "started_utc": "2026-10-03T22:26:59.2079928Z",
+  "finished_utc": "2026-10-03T22:27:52.3889963Z",
+  "requested_arena": "ember_foundry",
+  "ticks": 900,
+  "contacts": 41,
+  "passed": true,
+  "files": [
+    {
+      "file": "brawl.mp4",
+      "bytes": 13831842,
+      "sha256": "3B4E10A98F5C7CA379363DBB01D01380AC07B958EB910D81B8DB47BEC7B76196"
+    },
+    {
+      "file": "brawl_half_speed.mp4",
+      "bytes": 15581940,
+      "sha256": "522CB3C36330DA355A061FD337A381AB6A3E50883C3CB13615200ABE10E7998A"
+    },
+    {
+      "file": "brawl.png",
+      "bytes": 2622725,
+      "sha256": "797EEA90FD8AF1DD3F5549FE744D810B8CFBB50DE47A37EA25EB6F46BE2AF543"
+    },
+    {
+      "file": "smoke_runtime.json",
+      "bytes": 14156,
+      "sha256": "D261D77DADD322E173E4886D92C0D9FA82DEE65BCDFC942DE50F605B23E3D1F9"
+    }
+  ],
+  "scope": "Continuous four-CPU movie; screenshot arena requires visual inspection. Movie recording costs are not performance evidence."
+}

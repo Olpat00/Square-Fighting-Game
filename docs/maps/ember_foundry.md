@@ -1,0 +1,13 @@
+# Ember Foundry
+
+A suspended iron and obsidian bridge above a deep volcanic forge. The distant matte depicts cathedral-scale furnaces, bridges, basalt caverns, chained crucibles and towering lavafalls. Small moving bronze flywheels and 3D crucibles frame the margins, while the open smoky center keeps fighters readable. Cool skylight and teal instrument strips separate the playable bridge from the warm industrial depths.
+
+The arena ID is `ember_foundry`. Its four collision planes are a main deck 18.4 m wide at y=0, 3.6 m side platforms at x=±5.6/y=2.9, and a 3.2 m hydraulic crown at y=6.4. Party mode raises the crown by a sine wave with amplitude 0.9 and period parameter 174 ticks, and uses the established announced vent hazards at x=±8. Decorative geometry never adds collision or damage.
+
+The floating platforms use inset bronze surrounds with their top faces 0.045 m below the walking surface. Main-deck bronze end caps sit 0.009 m above the deck finish. These small authored separations remove competing coplanar faces and the visible depth flicker they caused at oblique camera angles. The gameplay top planes remain at their original heights.
+
+Editable foreground geometry is authored in `Game File/stages/ember_foundry/ember_stage.gd` and four shaders. The generated distant artwork lives at `Game File/assets/arenas/ember_foundry/backdrop.png` and uses the shared `ArenaBackdrop` camera-framing helper at exposure 0.80. The backdrop's architecture, lavafalls and deep river are static art; the bridge, beveled platforms, hydraulic lift, small banded open crucibles, toroidal flywheels and chain links are 3D. Small molten crucible pools animate locally. Gear teeth, rivets, chains and embers use instanced batches. No opaque wall or foreground lava plane blocks the distant art. Supplied originals remain untouched.
+
+Animated scenery uses `tick / 60.0`, including molten crucible pools, counter-rotating wheels, embers and hazard shaders; pause therefore freezes it with combat. Reset restores the crown and animation phases. Low quality reduces embers from 96 to 24, hides decorative 3D flywheels, crucibles and rivets, simplifies shader detail, and disables incidental lighting, scenery shadows and expensive environment effects. Switching back to High restores these features without altering collision.
+
+The scene smoke script is `source_art/environment/ember_foundry/validate_scene.gd`. It exercises platform/hazard counts, 600 combat steps, lift following, quality restoration and rematch reset. Visual acceptance and packaged game validation are recorded by the central map validation workflow after integration.

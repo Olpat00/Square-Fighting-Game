@@ -1,0 +1,14 @@
+{
+  "fighter": "f06_rugged_explorer",
+  "changed_clips": [
+    "shield_hold"
+  ],
+  "changed_bones": [
+    "spine",
+    "chest"
+  ],
+  "all_other_clips_unchanged": true,
+  "clip_seconds_preserved": 1.0,
+  "previous_curated_sha256": "92432a0aef050c53fd051b2c7cbc78a62ce89407b5d9a65fc2efe4feee27a148",
+  "new_curated_sha256": "f5ab628dda79a4916a63baad22df19241519081540d6fc07d44ea4e4523324dc"
+}

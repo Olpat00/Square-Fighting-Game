@@ -1,0 +1,439 @@
+{
+  "checks": 108,
+  "failures": 0,
+  "graphical": true,
+  "results": [
+    {
+      "name": "Title creates usable screen",
+      "passed": true
+    },
+    {
+      "name": "Character selection creates player cards",
+      "passed": true
+    },
+    {
+      "name": "Settings and remapping screen builds",
+      "passed": true
+    },
+    {
+      "name": "Training starts on same arena with hazards off",
+      "passed": true
+    },
+    {
+      "name": "Physical keyboard event path moves assigned player",
+      "passed": true
+    },
+    {
+      "name": "Training reset works",
+      "passed": true
+    },
+    {
+      "name": "Training shows held and pressed actions from the actual fighter snapshot",
+      "passed": true
+    },
+    {
+      "name": "Training shows the current move's authored purpose and counterplay",
+      "passed": true
+    },
+    {
+      "name": "Training clears released actions and retains the last move tip after recovery",
+      "passed": true
+    },
+    {
+      "name": "Training input and move tips fit their panel at 1.25 text scale",
+      "passed": true
+    },
+    {
+      "name": "F6 key routing begins a player-two recording",
+      "passed": true
+    },
+    {
+      "name": "Held training shortcut does not toggle again on keyboard echo",
+      "passed": true
+    },
+    {
+      "name": "Recording routes assigned controls to P2 and exposes ownership in the HUD",
+      "passed": true
+    },
+    {
+      "name": "F6 saves the current input tape",
+      "passed": true
+    },
+    {
+      "name": "F7 resets and replays the saved opponent input in the HUD",
+      "passed": true
+    },
+    {
+      "name": "Pause ignores tape shortcuts and resume preserves the playhead",
+      "passed": true
+    },
+    {
+      "name": "F7 stops playback while retaining the saved input tape",
+      "passed": true
+    },
+    {
+      "name": "Pause menu opens",
+      "passed": true
+    },
+    {
+      "name": "Resume restores gameplay screen",
+      "passed": true
+    },
+    {
+      "name": "Result signal creates results screen",
+      "passed": true
+    },
+    {
+      "name": "Results flourish transitions to winner loop with loser torso visible outside the panel",
+      "passed": true
+    },
+    {
+      "name": "Rematch rebuilds clean match",
+      "passed": true
+    },
+    {
+      "name": "Return to title clears fighters",
+      "passed": true
+    },
+    {
+      "name": "Title at 1.25 scale fits and final action is reachable",
+      "passed": true
+    },
+    {
+      "name": "Four-player selection at 1.25 scale fits and Ready is reachable",
+      "passed": true
+    },
+    {
+      "name": "All fighter, device, difficulty, and preset selectors remain reachable at 1.25 scale",
+      "passed": true
+    },
+    {
+      "name": "Selection reports assigned keyboard, CPU, and disabled slots",
+      "passed": true
+    },
+    {
+      "name": "Duplicate keyboard assignment is visibly identified",
+      "passed": true
+    },
+    {
+      "name": "Absent assigned controller is visibly identified",
+      "passed": true
+    },
+    {
+      "name": "Settings at 1.25 scale fit and Save remains reachable by scrolling",
+      "passed": true
+    },
+    {
+      "name": "Remap labels refresh both sides of a swapped binding",
+      "passed": true
+    },
+    {
+      "name": "HUD cue text uses current keyboard bindings",
+      "passed": true
+    },
+    {
+      "name": "Live ultimate cue matches remapped keyboard key",
+      "passed": true
+    },
+    {
+      "name": "Four-player HUD at 1.25 scale stays within screen and contains resource labels",
+      "passed": true
+    },
+    {
+      "name": "Winner caption appears after authoritative match finish",
+      "passed": true
+    },
+    {
+      "name": "Finished-match HUD and countdown are hidden behind results",
+      "passed": true
+    },
+    {
+      "name": "Four-player results at 1.25 scale fit and final action is reachable",
+      "passed": true
+    },
+    {
+      "name": "Shipped roster contains exactly eight real fighter definitions",
+      "passed": true
+    },
+    {
+      "name": "f01_clutch has canonical model, portrait and exported presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f01_clutch is enabled in the actual fighter selector",
+      "passed": true
+    },
+    {
+      "name": "f01_clutch selection updates the slot and matching portrait path",
+      "passed": true
+    },
+    {
+      "name": "f01_clutch starts through the actual Ready action using the selected definition",
+      "passed": true
+    },
+    {
+      "name": "f01_clutch instantiates its canonical animated model and loads presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f02_sunstruck has canonical model, portrait and exported presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f02_sunstruck is enabled in the actual fighter selector",
+      "passed": true
+    },
+    {
+      "name": "f02_sunstruck selection updates the slot and matching portrait path",
+      "passed": true
+    },
+    {
+      "name": "f02_sunstruck starts through the actual Ready action using the selected definition",
+      "passed": true
+    },
+    {
+      "name": "f02_sunstruck instantiates its canonical animated model and loads presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f03_heavy_duty has canonical model, portrait and exported presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f03_heavy_duty is enabled in the actual fighter selector",
+      "passed": true
+    },
+    {
+      "name": "f03_heavy_duty selection updates the slot and matching portrait path",
+      "passed": true
+    },
+    {
+      "name": "f03_heavy_duty starts through the actual Ready action using the selected definition",
+      "passed": true
+    },
+    {
+      "name": "f03_heavy_duty instantiates its canonical animated model and loads presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f04_deadfall has canonical model, portrait and exported presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f04_deadfall is enabled in the actual fighter selector",
+      "passed": true
+    },
+    {
+      "name": "f04_deadfall selection updates the slot and matching portrait path",
+      "passed": true
+    },
+    {
+      "name": "f04_deadfall starts through the actual Ready action using the selected definition",
+      "passed": true
+    },
+    {
+      "name": "f04_deadfall instantiates its canonical animated model and loads presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f05_fine_print has canonical model, portrait and exported presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f05_fine_print is enabled in the actual fighter selector",
+      "passed": true
+    },
+    {
+      "name": "f05_fine_print selection updates the slot and matching portrait path",
+      "passed": true
+    },
+    {
+      "name": "f05_fine_print starts through the actual Ready action using the selected definition",
+      "passed": true
+    },
+    {
+      "name": "f05_fine_print instantiates its canonical animated model and loads presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f06_rugged_explorer has canonical model, portrait and exported presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f06_rugged_explorer is enabled in the actual fighter selector",
+      "passed": true
+    },
+    {
+      "name": "f06_rugged_explorer selection updates the slot and matching portrait path",
+      "passed": true
+    },
+    {
+      "name": "f06_rugged_explorer starts through the actual Ready action using the selected definition",
+      "passed": true
+    },
+    {
+      "name": "f06_rugged_explorer instantiates its canonical animated model and loads presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f07_urban_sentinel has canonical model, portrait and exported presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f07_urban_sentinel is enabled in the actual fighter selector",
+      "passed": true
+    },
+    {
+      "name": "f07_urban_sentinel selection updates the slot and matching portrait path",
+      "passed": true
+    },
+    {
+      "name": "f07_urban_sentinel starts through the actual Ready action using the selected definition",
+      "passed": true
+    },
+    {
+      "name": "f07_urban_sentinel instantiates its canonical animated model and loads presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f08_midnight_gentleman has canonical model, portrait and exported presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "f08_midnight_gentleman is enabled in the actual fighter selector",
+      "passed": true
+    },
+    {
+      "name": "f08_midnight_gentleman selection updates the slot and matching portrait path",
+      "passed": true
+    },
+    {
+      "name": "f08_midnight_gentleman starts through the actual Ready action using the selected definition",
+      "passed": true
+    },
+    {
+      "name": "f08_midnight_gentleman instantiates its canonical animated model and loads presentation metadata",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot appears in the complete enabled arena selector",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot selection loads the matching live arena preview",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot Ready starts the selected Party arena with two assigned players",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot pause freezes moving platforms, hazards and scenery clock",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot rematch preserves selection and resets its authored lift height",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot training preserves arena and disables Party hazards",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach appears in the complete enabled arena selector",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach selection loads the matching live arena preview",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach Ready starts the selected Party arena with two assigned players",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach pause freezes moving platforms, hazards and scenery clock",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach rematch preserves selection and resets its authored lift height",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach training preserves arena and disables Party hazards",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine appears in the complete enabled arena selector",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine selection loads the matching live arena preview",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine Ready starts the selected Party arena with two assigned players",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine pause freezes moving platforms, hazards and scenery clock",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine rematch preserves selection and resets its authored lift height",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine training preserves arena and disables Party hazards",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory appears in the complete enabled arena selector",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory selection loads the matching live arena preview",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory Ready starts the selected Party arena with two assigned players",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory pause freezes moving platforms, hazards and scenery clock",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory rematch preserves selection and resets its authored lift height",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory training preserves arena and disables Party hazards",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry appears in the complete enabled arena selector",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry selection loads the matching live arena preview",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry Ready starts the selected Party arena with two assigned players",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry pause freezes moving platforms, hazards and scenery clock",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry rematch preserves selection and resets its authored lift height",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry training preserves arena and disables Party hazards",
+      "passed": true
+    }
+  ]
+}

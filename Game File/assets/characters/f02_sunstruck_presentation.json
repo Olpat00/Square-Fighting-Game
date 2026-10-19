@@ -1,0 +1,84 @@
+{
+  "strides": {
+    "walk": 0.997236,
+    "run": 2.003798
+  },
+  "contacts": {
+    "walk": {
+      "L": [
+        0.035,
+        0.565
+      ],
+      "R": [
+        0.535,
+        0.06500000000000017
+      ]
+    },
+    "run": {
+      "L": [
+        0.035,
+        0.365
+      ],
+      "R": [
+        0.535,
+        0.865
+      ]
+    }
+  },
+  "transition_ticks": {
+    "move_start": 10,
+    "turnaround": 10,
+    "move_stop": 12
+  },
+  "effect_sockets": {
+    "left_hand": "hand.L",
+    "right_hand": "hand.R",
+    "left_foot": "foot.L",
+    "right_foot": "foot.R",
+    "chest": "chest"
+  },
+  "measurement": {
+    "walk": {
+      "source": "evaluated foot.L ankle trajectory in curated.blend",
+      "sample_phases": [
+        0.05,
+        0.5499999999999999
+      ],
+      "positions": [
+        [
+          0.14665593206882477,
+          -0.24930602312088013,
+          0.11246156692504883
+        ],
+        [
+          0.14665110409259796,
+          0.24931205809116364,
+          0.11240682005882263
+        ]
+      ],
+      "cycle_seconds": 1.05,
+      "max_contact_height_delta": 5.474686622619629e-05
+    },
+    "run": {
+      "source": "evaluated foot.L ankle trajectory in curated.blend",
+      "sample_phases": [
+        0.05,
+        0.35000000000000003
+      ],
+      "positions": [
+        [
+          0.14669786393642426,
+          -0.29931527376174927,
+          0.11200088262557983
+        ],
+        [
+          0.14664272964000702,
+          0.3018241822719574,
+          0.11235079169273376
+        ]
+      ],
+      "cycle_seconds": 0.6166666666666667,
+      "max_contact_height_delta": 0.00034990906715393066
+    }
+  }
+}

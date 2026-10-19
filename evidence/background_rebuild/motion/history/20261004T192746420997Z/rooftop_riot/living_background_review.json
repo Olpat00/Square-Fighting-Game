@@ -1,0 +1,55 @@
+{
+  "arenas": [
+    "rooftop_riot"
+  ],
+  "captures": [],
+  "cases": [],
+  "checks": 5,
+  "failures": 1,
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "harness_sha256": "3669bf4c5c8872a89557b7df31ddc5e750276548a9168546dd72da32021f3a5d",
+  "limitations": [
+    "Deterministic stationary-player presentation fixtures, not performance measurements or human gameplay/controller testing.",
+    "State checks prove scene clock ownership, pause/reset and graphics restoration, not aesthetic quality or visibility at gameplay distance.",
+    "Pause image equality is reviewed separately; image hashes are identities, not a visual-motion verdict.",
+    "Movie writer may include setup/shutdown frames; bootstrap and captured draw-frame counts are recorded for editorial trimming."
+  ],
+  "movie": true,
+  "passed": false,
+  "qualities": [
+    "High"
+  ],
+  "renderer": "forward_plus",
+  "results": [
+    {
+      "details": {},
+      "name": "A graphical renderer is required",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Known arena rooftop_riot",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Known graphics tier High",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Movie selects exactly one arena and tier",
+      "passed": true
+    },
+    {
+      "details": {
+        "fixed_fps": 0,
+        "path": ""
+      },
+      "name": "Movie uses engine AVI writer at fixed 60 FPS",
+      "passed": false
+    }
+  ],
+  "settings_saved": false,
+  "visual_review": "pending_human_or_image_inspection"
+}

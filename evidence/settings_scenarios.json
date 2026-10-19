@@ -1,0 +1,6 @@
+{
+  "corrupt_file_defaults": true,
+  "invalid_values_sanitized": true,
+  "roundtrip": true,
+  "user_settings_preserved": true
+}

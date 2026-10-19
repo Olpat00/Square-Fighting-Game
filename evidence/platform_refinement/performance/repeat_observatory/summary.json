@@ -1,0 +1,9 @@
+{
+  "case": "abyssal_observatory_high_4p",
+  "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\repeat_observatory\\abyssal_observatory_high_4p.json",
+  "frame_p95_ms": 2.258,
+  "frame_p99_ms": 3.263,
+  "gpu_p95_ms": 0.814999997615814,
+  "cpu_p95_ms": 0.711000025272369,
+  "peak_draws": 1034.0
+}

@@ -1,0 +1,3858 @@
+{
+  "captures": [
+    {
+      "ability_objects": [],
+      "camera_mode": "gameplay",
+      "camera_position": [
+        0.0,
+        12.1000003814697,
+        32.0
+      ],
+      "camera_size": 18.5,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "idle",
+          "clip_seconds": 0.133333333333333,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f06_rugged_explorer",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            -5.5,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "idle",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "idle",
+          "clip_seconds": 0.133333333333333,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f07_urban_sentinel",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            5.5,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "idle",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/lunar_gameplay_wide.png",
+      "impact_particle_count": 0,
+      "name": "lunar_gameplay_wide",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Actual playable arena at the initial wide framing; no simulation beyond idle fixture.",
+      "scenario": "lunar_arena",
+      "scripted_inputs": [],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 8
+    },
+    {
+      "ability_objects": [],
+      "camera_mode": "gameplay",
+      "camera_position": [
+        0.0,
+        12.1000003814697,
+        32.0
+      ],
+      "camera_size": 11.7092504501343,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "idle",
+          "clip_seconds": 0.133333333333333,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f06_rugged_explorer",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            -5.5,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "idle",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "idle",
+          "clip_seconds": 0.133333333333333,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f07_urban_sentinel",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            5.5,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "idle",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/lunar_gameplay.png",
+      "impact_particle_count": 0,
+      "name": "lunar_gameplay",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Ordinary gameplay camera settled on the starting pair; unchanged arena lighting and models.",
+      "scenario": "lunar_arena",
+      "scripted_inputs": [],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 8
+    },
+    {
+      "ability_objects": [],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.142857849597931,
+        11.1209344863892,
+        32.0
+      ],
+      "camera_size": 5.64186859130859,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "heavy_side"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.330000013113022,
+            1.41999995708466,
+            0.0
+          ],
+          "details": {
+            "damage": 16.16,
+            "heavy": true,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 29
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "heavy_side",
+          "clip_seconds": 0.4,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f01_clutch",
+          "model_loaded": true,
+          "move": "heavy_side",
+          "move_tick": 22,
+          "position": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 6.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "hit_heavy",
+          "clip_seconds": 0.075,
+          "damage": 16.16,
+          "grounded": false,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            1.03571569919586,
+            0.141868278384209,
+            0.0
+          ],
+          "slot": 1,
+          "state": "hitstun",
+          "stocks": 3,
+          "ultimate_meter": 2.9088,
+          "velocity": [
+            5.7143120765686,
+            2.47069883346558,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f01_clutch_heavy.png",
+      "impact_particle_count": 21,
+      "name": "f01_clutch_heavy",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real directional heavy: skeletal attack trail, signature material and impact in lunar lighting.",
+      "scenario": "f01_clutch_heavy",
+      "scripted_inputs": [
+        {
+          "action": "heavy",
+          "direction": [
+            1.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 39
+    },
+    {
+      "ability_objects": [
+        {
+          "active": true,
+          "age": 5,
+          "cosmetic": false,
+          "expired": false,
+          "life": 22,
+          "owner": 0,
+          "position": [
+            0.200000047683716,
+            1.04999995231628
+          ],
+          "type": "ring",
+          "visible": true
+        }
+      ],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.0,
+        11.0500001907349,
+        32.0
+      ],
+      "camera_size": 5.59999990463257,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -2.0,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "special_neutral"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            -0.899999976158142,
+            1.04999995231628,
+            0.0
+          ],
+          "details": {
+            "type": "ring"
+          },
+          "event": "ability",
+          "tick": 24
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "special_neutral",
+          "clip_seconds": 0.35,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f01_clutch",
+          "model_loaded": true,
+          "move": "special_neutral",
+          "move_tick": 19,
+          "position": [
+            -2.0,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "idle",
+          "clip_seconds": 0.483333333333333,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            2.0,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "idle",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f01_clutch_special.png",
+      "impact_particle_count": 0,
+      "name": "f01_clutch_special",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Actual signature special and its authored dimensional effect; close QA camera only.",
+      "scenario": "f01_clutch_special",
+      "scripted_inputs": [
+        {
+          "action": "special",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 29
+    },
+    {
+      "ability_objects": [],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.5,
+        11.0500001907349,
+        32.0
+      ],
+      "camera_size": 5.59999990463257,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "ultimate"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.579999983310699,
+            1.25,
+            0.0
+          ],
+          "details": {
+            "damage": 8.0,
+            "heavy": false,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 38
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "ultimate",
+          "clip_seconds": 0.5,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 1,
+          "id": "f01_clutch",
+          "model_loaded": true,
+          "move": "ultimate",
+          "move_tick": 29,
+          "position": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "ability_sequence",
+          "stocks": 3,
+          "ultimate_meter": 3.36,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": true,
+          "clip": "victim_grab",
+          "clip_seconds": 0.0,
+          "damage": 8.0,
+          "grounded": false,
+          "hitstop": 1,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "captured",
+          "stocks": 3,
+          "ultimate_meter": 1.44,
+          "velocity": [
+            2.73354125022888,
+            1.27467119693756,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f01_clutch_ultimate.png",
+      "impact_particle_count": 15,
+      "name": "f01_clutch_ultimate",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real ultimate opening impact, without spawning synthetic effect props.",
+      "scenario": "f01_clutch_ultimate",
+      "scripted_inputs": [
+        {
+          "action": "ultimate",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [
+        {
+          "age": 0,
+          "cancelled": false,
+          "capture": true,
+          "duration": 40,
+          "move": "ultimate"
+        }
+      ],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 41
+    },
+    {
+      "ability_objects": [],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.129907965660095,
+        11.1066694259644,
+        32.0
+      ],
+      "camera_size": 5.61333847045898,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "heavy_side"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.620000004768372,
+            1.04999995231628,
+            0.0
+          ],
+          "details": {
+            "damage": 14.645,
+            "heavy": true,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 31
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "heavy_side",
+          "clip_seconds": 0.433333333333333,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f02_sunstruck",
+          "model_loaded": true,
+          "move": "heavy_side",
+          "move_tick": 24,
+          "position": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 6.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "hit_heavy",
+          "clip_seconds": 0.077999997138977,
+          "damage": 14.645,
+          "grounded": false,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            1.00981593132019,
+            0.113338187336922,
+            0.0
+          ],
+          "slot": 1,
+          "state": "hitstun",
+          "stocks": 3,
+          "ultimate_meter": 2.6361,
+          "velocity": [
+            5.19632005691528,
+            1.90009701251984,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f02_sunstruck_heavy.png",
+      "impact_particle_count": 21,
+      "name": "f02_sunstruck_heavy",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real directional heavy: skeletal attack trail, signature material and impact in lunar lighting.",
+      "scenario": "f02_sunstruck_heavy",
+      "scripted_inputs": [
+        {
+          "action": "heavy",
+          "direction": [
+            1.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 41
+    },
+    {
+      "ability_objects": [
+        {
+          "active": true,
+          "age": 5,
+          "cosmetic": false,
+          "expired": false,
+          "life": 115,
+          "owner": 0,
+          "position": [
+            -0.230000078678131,
+            1.10000002384186
+          ],
+          "type": "disc",
+          "visible": true
+        }
+      ],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.0,
+        11.0500001907349,
+        32.0
+      ],
+      "camera_size": 5.59999990463257,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -2.0,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "special_neutral"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            -1.14999997615814,
+            1.10000002384186,
+            0.0
+          ],
+          "details": {
+            "type": "disc"
+          },
+          "event": "ability",
+          "tick": 21
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "special_neutral",
+          "clip_seconds": 0.299999982118607,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f02_sunstruck",
+          "model_loaded": true,
+          "move": "special_neutral",
+          "move_tick": 17,
+          "position": [
+            -2.0,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "idle",
+          "clip_seconds": 0.433333333333333,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            2.0,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "idle",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f02_sunstruck_special.png",
+      "impact_particle_count": 0,
+      "name": "f02_sunstruck_special",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Actual signature special and its authored dimensional effect; close QA camera only.",
+      "scenario": "f02_sunstruck_special",
+      "scripted_inputs": [
+        {
+          "action": "special",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 26
+    },
+    {
+      "ability_objects": [
+        {
+          "active": true,
+          "age": 38,
+          "cosmetic": false,
+          "expired": false,
+          "life": 57,
+          "owner": 0,
+          "position": [
+            2.0,
+            0.75
+          ],
+          "type": "spotlight",
+          "visible": true
+        }
+      ],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.899999976158142,
+        11.0500001907349,
+        32.0
+      ],
+      "camera_size": 5.59999990463257,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            2.0,
+            0.75,
+            0.0
+          ],
+          "details": {
+            "type": "spotlight"
+          },
+          "event": "ability",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "ultimate"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            1.41999995708466,
+            0.75,
+            0.0
+          ],
+          "details": {
+            "damage": 8.0,
+            "heavy": false,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 47
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "ultimate",
+          "clip_seconds": 0.65,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 1,
+          "id": "f02_sunstruck",
+          "model_loaded": true,
+          "move": "ultimate",
+          "move_tick": 38,
+          "position": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 3.36,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "hit_light",
+          "clip_seconds": 0.0,
+          "damage": 8.0,
+          "grounded": false,
+          "hitstop": 1,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "hitstun",
+          "stocks": 3,
+          "ultimate_meter": 1.44,
+          "velocity": [
+            0.807502150535584,
+            3.79899907112122,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f02_sunstruck_ultimate.png",
+      "impact_particle_count": 15,
+      "name": "f02_sunstruck_ultimate",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real ultimate opening impact, without spawning synthetic effect props.",
+      "scenario": "f02_sunstruck_ultimate",
+      "scripted_inputs": [
+        {
+          "action": "ultimate",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 50
+    },
+    {
+      "ability_objects": [],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.19074022769928,
+        11.1417903900146,
+        32.0
+      ],
+      "camera_size": 5.68358135223389,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "heavy_side"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.379999995231628,
+            1.0,
+            0.0
+          ],
+          "details": {
+            "damage": 21.1938461538462,
+            "heavy": true,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 34
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "heavy_side",
+          "clip_seconds": 0.483333333333333,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "heavy_side",
+          "move_tick": 27,
+          "position": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 6.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "hit_heavy",
+          "clip_seconds": 0.0629032254219055,
+          "damage": 21.1938461538462,
+          "grounded": false,
+          "hitstop": 0,
+          "id": "f07_urban_sentinel",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            1.13148045539856,
+            0.183581128716469,
+            0.0
+          ],
+          "slot": 1,
+          "state": "hitstun",
+          "stocks": 3,
+          "ultimate_meter": 3.0,
+          "velocity": [
+            7.62960720062256,
+            3.30495595932007,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f03_heavy_duty_heavy.png",
+      "impact_particle_count": 21,
+      "name": "f03_heavy_duty_heavy",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real directional heavy: skeletal attack trail, signature material and impact in lunar lighting.",
+      "scenario": "f03_heavy_duty_heavy",
+      "scripted_inputs": [
+        {
+          "action": "heavy",
+          "direction": [
+            1.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 46
+    },
+    {
+      "ability_objects": [
+        {
+          "active": true,
+          "age": 5,
+          "cosmetic": true,
+          "expired": false,
+          "life": 6,
+          "owner": 0,
+          "position": [
+            -0.850000023841858,
+            1.12000000476837
+          ],
+          "type": "ring",
+          "visible": true
+        }
+      ],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.0,
+        11.0500001907349,
+        32.0
+      ],
+      "camera_size": 5.59999990463257,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -2.0,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "special_neutral"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            -0.850000023841858,
+            1.12000000476837,
+            0.0
+          ],
+          "details": {
+            "type": "ring"
+          },
+          "event": "ability",
+          "tick": 31
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "special_neutral",
+          "clip_seconds": 0.466666666666667,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "special_neutral",
+          "move_tick": 27,
+          "position": [
+            -2.0,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "idle",
+          "clip_seconds": 0.6,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f07_urban_sentinel",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            2.0,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "idle",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f03_heavy_duty_special.png",
+      "impact_particle_count": 0,
+      "name": "f03_heavy_duty_special",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Actual signature special and its authored dimensional effect; close QA camera only.",
+      "scenario": "f03_heavy_duty_special",
+      "scripted_inputs": [
+        {
+          "action": "special",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 36
+    },
+    {
+      "ability_objects": [
+        {
+          "active": true,
+          "age": 44,
+          "cosmetic": true,
+          "expired": false,
+          "life": 61,
+          "owner": 0,
+          "position": [
+            0.125000014901161,
+            0.0
+          ],
+          "type": "chair",
+          "visible": true
+        }
+      ],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.125,
+        10.7945356369019,
+        32.0
+      ],
+      "camera_size": 6.18907070159912,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -0.574999988079071,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "ultimate"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.125000014901161,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "type": "chair"
+          },
+          "event": "ability",
+          "tick": 40
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.505000054836273,
+            1.10000002384186,
+            0.0
+          ],
+          "details": {
+            "damage": 25.0,
+            "heavy": true,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 85
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "ultimate",
+          "clip_seconds": 1.26666668206453,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 5,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "ultimate",
+          "move_tick": 76,
+          "position": [
+            -0.574999988079071,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 6.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "victim_throw",
+          "clip_seconds": 0.0,
+          "damage": 25.0,
+          "grounded": false,
+          "hitstop": 5,
+          "id": "f07_urban_sentinel",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            0.121056139469147,
+            0.0890708193182945,
+            0.0
+          ],
+          "slot": 1,
+          "state": "hitstun",
+          "stocks": 3,
+          "ultimate_meter": 3.0,
+          "velocity": [
+            4.51603126525879,
+            9.68466091156006,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f03_heavy_duty_ultimate.png",
+      "impact_particle_count": 21,
+      "name": "f03_heavy_duty_ultimate",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real ultimate opening impact, without spawning synthetic effect props.",
+      "scenario": "f03_heavy_duty_ultimate",
+      "scripted_inputs": [
+        {
+          "action": "ultimate",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 88
+    },
+    {
+      "ability_objects": [],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.142650425434113,
+        11.1208047866821,
+        32.0
+      ],
+      "camera_size": 5.64160919189453,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "heavy_side"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.570000052452087,
+            1.12000000476837,
+            0.0
+          ],
+          "details": {
+            "damage": 17.17,
+            "heavy": true,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 32
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "heavy_side",
+          "clip_seconds": 0.45,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f04_deadfall",
+          "model_loaded": true,
+          "move": "heavy_side",
+          "move_tick": 25,
+          "position": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 6.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "hit_heavy",
+          "clip_seconds": 0.0722222208976746,
+          "damage": 17.17,
+          "grounded": false,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            1.03530085086823,
+            0.141609087586403,
+            0.0
+          ],
+          "slot": 1,
+          "state": "hitstun",
+          "stocks": 3,
+          "ultimate_meter": 3.0,
+          "velocity": [
+            5.70601654052734,
+            2.46551513671875,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f04_deadfall_heavy.png",
+      "impact_particle_count": 21,
+      "name": "f04_deadfall_heavy",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real directional heavy: skeletal attack trail, signature material and impact in lunar lighting.",
+      "scenario": "f04_deadfall_heavy",
+      "scripted_inputs": [
+        {
+          "action": "heavy",
+          "direction": [
+            1.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 43
+    },
+    {
+      "ability_objects": [
+        {
+          "active": true,
+          "age": 5,
+          "cosmetic": false,
+          "expired": false,
+          "life": 95,
+          "owner": 0,
+          "position": [
+            -0.339999914169312,
+            0.479999989271164
+          ],
+          "type": "log",
+          "visible": true
+        }
+      ],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.0,
+        10.9899997711182,
+        32.0
+      ],
+      "camera_size": 5.61999988555908,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -2.0,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "special_neutral"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            -1.03999996185303,
+            0.270000010728836,
+            0.0
+          ],
+          "details": {
+            "type": "log"
+          },
+          "event": "ability",
+          "tick": 26
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "special_neutral",
+          "clip_seconds": 0.383333333333333,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f04_deadfall",
+          "model_loaded": true,
+          "move": "special_neutral",
+          "move_tick": 22,
+          "position": [
+            -2.0,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "idle",
+          "clip_seconds": 0.516666666666667,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            2.0,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "idle",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f04_deadfall_special.png",
+      "impact_particle_count": 0,
+      "name": "f04_deadfall_special",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Actual signature special and its authored dimensional effect; close QA camera only.",
+      "scenario": "f04_deadfall_special",
+      "scripted_inputs": [
+        {
+          "action": "special",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 31
+    },
+    {
+      "ability_objects": [
+        {
+          "active": true,
+          "age": 43,
+          "cosmetic": false,
+          "expired": false,
+          "life": 50,
+          "owner": 0,
+          "position": [
+            1.40000009536743,
+            1.89999997615814
+          ],
+          "type": "tree",
+          "visible": true
+        }
+      ],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.600000023841858,
+        11.1499996185303,
+        32.0
+      ],
+      "camera_size": 5.69999980926514,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            1.40000009536743,
+            1.89999997615814,
+            0.0
+          ],
+          "details": {
+            "type": "tree"
+          },
+          "event": "ability",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "ultimate"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            1.40000009536743,
+            1.60000002384186,
+            0.0
+          ],
+          "details": {
+            "damage": 31.0,
+            "heavy": true,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 52
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "ultimate",
+          "clip_seconds": 0.733333333333334,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 7,
+          "id": "f04_deadfall",
+          "model_loaded": true,
+          "move": "ultimate",
+          "move_tick": 43,
+          "position": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 6.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "hit_heavy",
+          "clip_seconds": 0.0,
+          "damage": 31.0,
+          "grounded": false,
+          "hitstop": 7,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "hitstun",
+          "stocks": 3,
+          "ultimate_meter": 3.0,
+          "velocity": [
+            7.68882417678833,
+            6.00716781616211,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f04_deadfall_ultimate.png",
+      "impact_particle_count": 21,
+      "name": "f04_deadfall_ultimate",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real ultimate opening impact, without spawning synthetic effect props.",
+      "scenario": "f04_deadfall_ultimate",
+      "scripted_inputs": [
+        {
+          "action": "ultimate",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 55
+    },
+    {
+      "ability_objects": [],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.141758918762207,
+        11.1102447509766,
+        32.0
+      ],
+      "camera_size": 5.62049007415771,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "heavy_side"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.700000047683716,
+            1.08000004291534,
+            0.0
+          ],
+          "details": {
+            "damage": 16.16,
+            "heavy": true,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 30
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "heavy_side",
+          "clip_seconds": 0.416666666666667,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f05_fine_print",
+          "model_loaded": true,
+          "move": "heavy_side",
+          "move_tick": 23,
+          "position": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 6.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "hit_heavy",
+          "clip_seconds": 0.075,
+          "damage": 16.16,
+          "grounded": false,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            1.03351783752441,
+            0.120489865541458,
+            0.0
+          ],
+          "slot": 1,
+          "state": "hitstun",
+          "stocks": 3,
+          "ultimate_meter": 2.9088,
+          "velocity": [
+            5.67035722732544,
+            2.04313063621521,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f05_fine_print_heavy.png",
+      "impact_particle_count": 21,
+      "name": "f05_fine_print_heavy",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real directional heavy: skeletal attack trail, signature material and impact in lunar lighting.",
+      "scenario": "f05_fine_print_heavy",
+      "scripted_inputs": [
+        {
+          "action": "heavy",
+          "direction": [
+            1.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 40
+    },
+    {
+      "ability_objects": [
+        {
+          "active": true,
+          "age": 1,
+          "cosmetic": true,
+          "expired": false,
+          "life": 5,
+          "owner": 0,
+          "position": [
+            0.949999928474426,
+            1.12000000476837
+          ],
+          "type": "precision_line",
+          "visible": true
+        }
+      ],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.324999928474426,
+        11.0500001907349,
+        32.0
+      ],
+      "camera_size": 5.59999990463257,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -1.10000002384186,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "special_neutral"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.949999928474426,
+            1.12000000476837,
+            0.0
+          ],
+          "details": {
+            "type": "precision_line"
+          },
+          "event": "ability",
+          "tick": 21
+        },
+        {
+          "actor": 1,
+          "at": [
+            1.10000002384186,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "count": 1
+          },
+          "event": "citation",
+          "tick": 21
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.949999928474426,
+            1.12000000476837,
+            0.0
+          ],
+          "details": {
+            "damage": 10.0,
+            "heavy": true,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 21
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "special_neutral",
+          "clip_seconds": 0.216666666666667,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f05_fine_print",
+          "model_loaded": true,
+          "move": "special_neutral",
+          "move_tick": 12,
+          "position": [
+            -1.10000002384186,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 4.2,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "hit_heavy",
+          "clip_seconds": 0.0,
+          "damage": 10.0,
+          "grounded": false,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            1.10000002384186,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "hitstun",
+          "stocks": 3,
+          "ultimate_meter": 1.8,
+          "velocity": [
+            3.77838492393494,
+            2.18145155906677,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f05_fine_print_special.png",
+      "impact_particle_count": 27,
+      "name": "f05_fine_print_special",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Actual signature special and its authored dimensional effect; close QA camera only.",
+      "scenario": "f05_fine_print_special",
+      "scripted_inputs": [
+        {
+          "action": "special",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 26
+    },
+    {
+      "ability_objects": [],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.0,
+        11.0500001907349,
+        32.0
+      ],
+      "camera_size": 5.59999990463257,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            0.950000047683716,
+            1.08000004291534,
+            0.0
+          ],
+          "details": {
+            "type": "geometry"
+          },
+          "event": "ability",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "ultimate"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.950000047683716,
+            1.08000004291534,
+            0.0
+          ],
+          "details": {
+            "damage": 8.0,
+            "heavy": false,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 39
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "ultimate",
+          "clip_seconds": 0.516666666666667,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 1,
+          "id": "f05_fine_print",
+          "model_loaded": true,
+          "move": "ultimate",
+          "move_tick": 30,
+          "position": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "ability_sequence",
+          "stocks": 3,
+          "ultimate_meter": 3.36,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": true,
+          "clip": "victim_grab",
+          "clip_seconds": 0.0,
+          "damage": 8.0,
+          "grounded": false,
+          "hitstop": 1,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "captured",
+          "stocks": 3,
+          "ultimate_meter": 1.44,
+          "velocity": [
+            2.49709248542786,
+            1.74848306179047,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f05_fine_print_ultimate.png",
+      "impact_particle_count": 15,
+      "name": "f05_fine_print_ultimate",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real ultimate opening impact, without spawning synthetic effect props.",
+      "scenario": "f05_fine_print_ultimate",
+      "scripted_inputs": [
+        {
+          "action": "ultimate",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [
+        {
+          "age": 0,
+          "cancelled": false,
+          "capture": true,
+          "duration": 37,
+          "move": "ultimate"
+        }
+      ],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 42
+    },
+    {
+      "ability_objects": [],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.134637236595154,
+        11.1157970428467,
+        32.0
+      ],
+      "camera_size": 5.63159465789795,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "heavy_side"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.570000052452087,
+            1.08000004291534,
+            0.0
+          ],
+          "details": {
+            "damage": 16.16,
+            "heavy": true,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 31
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "heavy_side",
+          "clip_seconds": 0.433333333333333,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f06_rugged_explorer",
+          "model_loaded": true,
+          "move": "heavy_side",
+          "move_tick": 24,
+          "position": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 6.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "hit_heavy",
+          "clip_seconds": 0.075,
+          "damage": 16.16,
+          "grounded": false,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            1.01927447319031,
+            0.131594687700272,
+            0.0
+          ],
+          "slot": 1,
+          "state": "hitstun",
+          "stocks": 3,
+          "ultimate_meter": 2.9088,
+          "velocity": [
+            5.38548851013184,
+            2.26522707939148,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f06_rugged_explorer_heavy.png",
+      "impact_particle_count": 21,
+      "name": "f06_rugged_explorer_heavy",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real directional heavy: skeletal attack trail, signature material and impact in lunar lighting.",
+      "scenario": "f06_rugged_explorer_heavy",
+      "scripted_inputs": [
+        {
+          "action": "heavy",
+          "direction": [
+            1.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 41
+    },
+    {
+      "ability_objects": [
+        {
+          "active": true,
+          "age": 5,
+          "cosmetic": false,
+          "expired": false,
+          "life": 29,
+          "owner": 0,
+          "position": [
+            0.150000184774399,
+            1.12000000476837
+          ],
+          "type": "hook",
+          "visible": true
+        }
+      ],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.0,
+        11.0500001907349,
+        32.0
+      ],
+      "camera_size": 5.59999990463257,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -2.0,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "special_neutral"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            -1.14999997615814,
+            1.12000000476837,
+            0.0
+          ],
+          "details": {
+            "type": "hook"
+          },
+          "event": "ability",
+          "tick": 24
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "special_neutral",
+          "clip_seconds": 0.349999979138374,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f06_rugged_explorer",
+          "model_loaded": true,
+          "move": "special_neutral",
+          "move_tick": 20,
+          "position": [
+            -2.0,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "idle",
+          "clip_seconds": 0.483333333333333,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            2.0,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "idle",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f06_rugged_explorer_special.png",
+      "impact_particle_count": 0,
+      "name": "f06_rugged_explorer_special",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Actual signature special and its authored dimensional effect; close QA camera only.",
+      "scenario": "f06_rugged_explorer_special",
+      "scripted_inputs": [
+        {
+          "action": "special",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 29
+    },
+    {
+      "ability_objects": [],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.183333337306976,
+        11.0500001907349,
+        32.0
+      ],
+      "camera_size": 5.59999990463257,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -0.574999988079071,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "ultimate"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.995000004768372,
+            1.07000005245209,
+            0.0
+          ],
+          "details": {
+            "damage": 10.0,
+            "heavy": true,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 38
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "ultimate",
+          "clip_seconds": 0.5,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 2,
+          "id": "f06_rugged_explorer",
+          "model_loaded": true,
+          "move": "ultimate",
+          "move_tick": 29,
+          "position": [
+            -0.208333313465118,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "ability_sequence",
+          "stocks": 3,
+          "ultimate_meter": 4.2,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": true,
+          "clip": "victim_grab",
+          "clip_seconds": 0.0,
+          "damage": 10.0,
+          "grounded": false,
+          "hitstop": 2,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            0.574999988079071,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "captured",
+          "stocks": 3,
+          "ultimate_meter": 1.8,
+          "velocity": [
+            3.03218388557434,
+            2.12315797805786,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f06_rugged_explorer_ultimate.png",
+      "impact_particle_count": 21,
+      "name": "f06_rugged_explorer_ultimate",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real ultimate opening impact, without spawning synthetic effect props.",
+      "scenario": "f06_rugged_explorer_ultimate",
+      "scripted_inputs": [
+        {
+          "action": "ultimate",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [
+        {
+          "age": 0,
+          "cancelled": false,
+          "capture": true,
+          "duration": 42,
+          "move": "ultimate"
+        }
+      ],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 41
+    },
+    {
+      "ability_objects": [],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.144184350967407,
+        11.1183013916016,
+        32.0
+      ],
+      "camera_size": 5.63660287857056,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "heavy_side"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.580000042915344,
+            1.10000002384186,
+            0.0
+          ],
+          "details": {
+            "damage": 17.17,
+            "heavy": true,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 32
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "heavy_side",
+          "clip_seconds": 0.45,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f07_urban_sentinel",
+          "model_loaded": true,
+          "move": "heavy_side",
+          "move_tick": 25,
+          "position": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 6.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "hit_heavy",
+          "clip_seconds": 0.0722222208976746,
+          "damage": 17.17,
+          "grounded": false,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            1.03836870193481,
+            0.136602759361267,
+            0.0
+          ],
+          "slot": 1,
+          "state": "hitstun",
+          "stocks": 3,
+          "ultimate_meter": 3.0,
+          "velocity": [
+            5.76737403869629,
+            2.3653883934021,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f07_urban_sentinel_heavy.png",
+      "impact_particle_count": 21,
+      "name": "f07_urban_sentinel_heavy",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real directional heavy: skeletal attack trail, signature material and impact in lunar lighting.",
+      "scenario": "f07_urban_sentinel_heavy",
+      "scripted_inputs": [
+        {
+          "action": "heavy",
+          "direction": [
+            1.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 43
+    },
+    {
+      "ability_objects": [
+        {
+          "active": true,
+          "age": 5,
+          "cosmetic": false,
+          "expired": false,
+          "life": 30,
+          "owner": 0,
+          "position": [
+            -0.179999977350235,
+            1.12000000476837
+          ],
+          "type": "ring",
+          "visible": true
+        }
+      ],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.0,
+        11.0500001907349,
+        32.0
+      ],
+      "camera_size": 5.59999990463257,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -2.0,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "special_neutral"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            -1.07999992370605,
+            1.12000000476837,
+            0.0
+          ],
+          "details": {
+            "type": "ring"
+          },
+          "event": "ability",
+          "tick": 26
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "special_neutral",
+          "clip_seconds": 0.383333333333333,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f07_urban_sentinel",
+          "model_loaded": true,
+          "move": "special_neutral",
+          "move_tick": 22,
+          "position": [
+            -2.0,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "idle",
+          "clip_seconds": 0.516666666666667,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            2.0,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "idle",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f07_urban_sentinel_special.png",
+      "impact_particle_count": 0,
+      "name": "f07_urban_sentinel_special",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Actual signature special and its authored dimensional effect; close QA camera only.",
+      "scenario": "f07_urban_sentinel_special",
+      "scripted_inputs": [
+        {
+          "action": "special",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 31
+    },
+    {
+      "ability_objects": [
+        {
+          "active": true,
+          "age": 40,
+          "cosmetic": false,
+          "expired": false,
+          "life": 47,
+          "owner": 0,
+          "position": [
+            0.879999995231628,
+            1.10000002384186
+          ],
+          "type": "geometry",
+          "visible": true
+        }
+      ],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.339999973773956,
+        11.0500001907349,
+        32.0
+      ],
+      "camera_size": 5.59999990463257,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            0.879999995231628,
+            1.10000002384186,
+            0.0
+          ],
+          "details": {
+            "type": "geometry"
+          },
+          "event": "ability",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "ultimate"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.879999995231628,
+            1.10000002384186,
+            0.0
+          ],
+          "details": {
+            "damage": 29.0,
+            "heavy": true,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 49
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "ultimate",
+          "clip_seconds": 0.683333333333334,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 7,
+          "id": "f07_urban_sentinel",
+          "model_loaded": true,
+          "move": "ultimate",
+          "move_tick": 40,
+          "position": [
+            -1.0,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 6.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "hit_heavy",
+          "clip_seconds": 0.0,
+          "damage": 29.0,
+          "grounded": false,
+          "hitstop": 7,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            1.0,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "hitstun",
+          "stocks": 3,
+          "ultimate_meter": 3.0,
+          "velocity": [
+            6.9987006187439,
+            5.66743612289429,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f07_urban_sentinel_ultimate.png",
+      "impact_particle_count": 21,
+      "name": "f07_urban_sentinel_ultimate",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real ultimate opening impact, without spawning synthetic effect props.",
+      "scenario": "f07_urban_sentinel_ultimate",
+      "scripted_inputs": [
+        {
+          "action": "ultimate",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 52
+    },
+    {
+      "ability_objects": [],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.128178358078003,
+        11.1117610931396,
+        32.0
+      ],
+      "camera_size": 5.62352275848389,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "heavy_side"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.620000004768372,
+            1.0900000333786,
+            0.0
+          ],
+          "details": {
+            "damage": 15.15,
+            "heavy": true,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 30
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "heavy_side",
+          "clip_seconds": 0.416666666666667,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f08_midnight_gentleman",
+          "model_loaded": true,
+          "move": "heavy_side",
+          "move_tick": 23,
+          "position": [
+            -0.75,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 6.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "hit_heavy",
+          "clip_seconds": 0.077999997138977,
+          "damage": 15.15,
+          "grounded": false,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            1.00635671615601,
+            0.123522818088531,
+            0.0
+          ],
+          "slot": 1,
+          "state": "hitstun",
+          "stocks": 3,
+          "ultimate_meter": 2.727,
+          "velocity": [
+            5.12713479995728,
+            2.10378956794739,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f08_midnight_gentleman_heavy.png",
+      "impact_particle_count": 21,
+      "name": "f08_midnight_gentleman_heavy",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real directional heavy: skeletal attack trail, signature material and impact in lunar lighting.",
+      "scenario": "f08_midnight_gentleman_heavy",
+      "scripted_inputs": [
+        {
+          "action": "heavy",
+          "direction": [
+            1.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 40
+    },
+    {
+      "ability_objects": [
+        {
+          "active": true,
+          "age": 5,
+          "cosmetic": false,
+          "expired": false,
+          "life": 27,
+          "owner": 0,
+          "position": [
+            -0.0899998098611832,
+            1.14999997615814
+          ],
+          "type": "ring",
+          "visible": true
+        }
+      ],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.0,
+        11.0500001907349,
+        32.0
+      ],
+      "camera_size": 5.59999990463257,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -2.0,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "special_neutral"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            -1.08999991416931,
+            1.14999997615814,
+            0.0
+          ],
+          "details": {
+            "type": "ring"
+          },
+          "event": "ability",
+          "tick": 23
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "special_neutral",
+          "clip_seconds": 0.333333333333333,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f08_midnight_gentleman",
+          "model_loaded": true,
+          "move": "special_neutral",
+          "move_tick": 19,
+          "position": [
+            -2.0,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "attack",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": false,
+          "clip": "idle",
+          "clip_seconds": 0.466666666666667,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 0,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            2.0,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "idle",
+          "stocks": 3,
+          "ultimate_meter": 0.0,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f08_midnight_gentleman_special.png",
+      "impact_particle_count": 0,
+      "name": "f08_midnight_gentleman_special",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Actual signature special and its authored dimensional effect; close QA camera only.",
+      "scenario": "f08_midnight_gentleman_special",
+      "scripted_inputs": [
+        {
+          "action": "special",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 28
+    },
+    {
+      "ability_objects": [],
+      "camera_mode": "same main camera, closer QA framing; unchanged angle and arena lighting",
+      "camera_position": [
+        0.300000011920929,
+        11.0500001907349,
+        32.0
+      ],
+      "camera_size": 5.59999990463257,
+      "captured": true,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "events": [
+        {
+          "actor": 0,
+          "at": [
+            -0.574999988079071,
+            0.0,
+            0.0
+          ],
+          "details": {
+            "move": "ultimate"
+          },
+          "event": "move",
+          "tick": 9
+        },
+        {
+          "actor": 0,
+          "at": [
+            0.995000004768372,
+            1.08000004291534,
+            0.0
+          ],
+          "details": {
+            "damage": 9.0,
+            "heavy": false,
+            "target": 1
+          },
+          "event": "hit",
+          "tick": 39
+        }
+      ],
+      "fighters": [
+        {
+          "captured": false,
+          "clip": "ultimate",
+          "clip_seconds": 0.516666666666667,
+          "damage": 0.0,
+          "grounded": true,
+          "hitstop": 1,
+          "id": "f08_midnight_gentleman",
+          "model_loaded": true,
+          "move": "ultimate",
+          "move_tick": 30,
+          "position": [
+            0.0250000655651093,
+            0.0,
+            0.0
+          ],
+          "slot": 0,
+          "state": "ability_sequence",
+          "stocks": 3,
+          "ultimate_meter": 3.78,
+          "velocity": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "captured": true,
+          "clip": "victim_grab",
+          "clip_seconds": 0.0,
+          "damage": 9.0,
+          "grounded": false,
+          "hitstop": 1,
+          "id": "f03_heavy_duty",
+          "model_loaded": true,
+          "move": "",
+          "move_tick": 0,
+          "position": [
+            0.574999988079071,
+            0.0,
+            0.0
+          ],
+          "slot": 1,
+          "state": "captured",
+          "stocks": 3,
+          "ultimate_meter": 1.62,
+          "velocity": [
+            2.68508982658386,
+            2.02336025238037,
+            0.0
+          ]
+        }
+      ],
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/lunar_upgrade/review2/f08_midnight_gentleman_ultimate.png",
+      "impact_particle_count": 15,
+      "name": "f08_midnight_gentleman_ultimate",
+      "presentation_settings": {
+        "blood": true,
+        "flashes": 0.45
+      },
+      "preset": "Fair Fight",
+      "purpose": "Real ultimate opening impact, without spawning synthetic effect props.",
+      "scenario": "f08_midnight_gentleman_ultimate",
+      "scripted_inputs": [
+        {
+          "action": "ultimate",
+          "direction": [
+            0.0,
+            0.0
+          ],
+          "held_ticks": 1,
+          "slot": 0,
+          "tick": 8
+        }
+      ],
+      "sequences": [
+        {
+          "age": 0,
+          "cancelled": false,
+          "capture": true,
+          "duration": 39,
+          "move": "ultimate"
+        }
+      ],
+      "visual_review": "Not automatically graded. Inspect the saved running-game frame.",
+      "world_tick": 42
+    }
+  ],
+  "case_filter": "",
+  "checks": [
+    {
+      "detail": "",
+      "name": "Stage still saved: lunar_title",
+      "passed": true,
+      "scenario": "lunar_arena",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Both arenas are selectable",
+      "passed": true,
+      "scenario": "lunar_arena",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Stage still saved: lunar_selection",
+      "passed": true,
+      "scenario": "lunar_arena",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Stage still saved: lunar_architecture",
+      "passed": true,
+      "scenario": "lunar_arena",
+      "tick": 0
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: lunar_gameplay_wide",
+      "passed": true,
+      "scenario": "lunar_arena",
+      "tick": 8
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: lunar_gameplay",
+      "passed": true,
+      "scenario": "lunar_arena",
+      "tick": 8
+    },
+    {
+      "detail": "",
+      "name": "Rematch retains the selected Moon arena",
+      "passed": true,
+      "scenario": "lunar_arena",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Can return to the original rooftop",
+      "passed": true,
+      "scenario": "lunar_arena",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Stage still saved: rooftop_preserved",
+      "passed": true,
+      "scenario": "lunar_arena",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Heavy reaches its active pose",
+      "passed": true,
+      "scenario": "f01_clutch_heavy",
+      "tick": 37
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f01_clutch_heavy",
+      "passed": true,
+      "scenario": "f01_clutch_heavy",
+      "tick": 39
+    },
+    {
+      "detail": "",
+      "name": "Signature special activates",
+      "passed": true,
+      "scenario": "f01_clutch_special",
+      "tick": 24
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f01_clutch_special",
+      "passed": true,
+      "scenario": "f01_clutch_special",
+      "tick": 29
+    },
+    {
+      "detail": "",
+      "name": "Ultimate produces a real hit",
+      "passed": true,
+      "scenario": "f01_clutch_ultimate",
+      "tick": 38
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f01_clutch_ultimate",
+      "passed": true,
+      "scenario": "f01_clutch_ultimate",
+      "tick": 41
+    },
+    {
+      "detail": "",
+      "name": "Heavy reaches its active pose",
+      "passed": true,
+      "scenario": "f02_sunstruck_heavy",
+      "tick": 39
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f02_sunstruck_heavy",
+      "passed": true,
+      "scenario": "f02_sunstruck_heavy",
+      "tick": 41
+    },
+    {
+      "detail": "",
+      "name": "Signature special activates",
+      "passed": true,
+      "scenario": "f02_sunstruck_special",
+      "tick": 21
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f02_sunstruck_special",
+      "passed": true,
+      "scenario": "f02_sunstruck_special",
+      "tick": 26
+    },
+    {
+      "detail": "",
+      "name": "Ultimate produces a real hit",
+      "passed": true,
+      "scenario": "f02_sunstruck_ultimate",
+      "tick": 47
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f02_sunstruck_ultimate",
+      "passed": true,
+      "scenario": "f02_sunstruck_ultimate",
+      "tick": 50
+    },
+    {
+      "detail": "",
+      "name": "Heavy reaches its active pose",
+      "passed": true,
+      "scenario": "f03_heavy_duty_heavy",
+      "tick": 44
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f03_heavy_duty_heavy",
+      "passed": true,
+      "scenario": "f03_heavy_duty_heavy",
+      "tick": 46
+    },
+    {
+      "detail": "",
+      "name": "Signature special activates",
+      "passed": true,
+      "scenario": "f03_heavy_duty_special",
+      "tick": 31
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f03_heavy_duty_special",
+      "passed": true,
+      "scenario": "f03_heavy_duty_special",
+      "tick": 36
+    },
+    {
+      "detail": "",
+      "name": "Ultimate produces a real hit",
+      "passed": true,
+      "scenario": "f03_heavy_duty_ultimate",
+      "tick": 85
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f03_heavy_duty_ultimate",
+      "passed": true,
+      "scenario": "f03_heavy_duty_ultimate",
+      "tick": 88
+    },
+    {
+      "detail": "",
+      "name": "Heavy reaches its active pose",
+      "passed": true,
+      "scenario": "f04_deadfall_heavy",
+      "tick": 41
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f04_deadfall_heavy",
+      "passed": true,
+      "scenario": "f04_deadfall_heavy",
+      "tick": 43
+    },
+    {
+      "detail": "",
+      "name": "Signature special activates",
+      "passed": true,
+      "scenario": "f04_deadfall_special",
+      "tick": 26
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f04_deadfall_special",
+      "passed": true,
+      "scenario": "f04_deadfall_special",
+      "tick": 31
+    },
+    {
+      "detail": "",
+      "name": "Ultimate produces a real hit",
+      "passed": true,
+      "scenario": "f04_deadfall_ultimate",
+      "tick": 52
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f04_deadfall_ultimate",
+      "passed": true,
+      "scenario": "f04_deadfall_ultimate",
+      "tick": 55
+    },
+    {
+      "detail": "",
+      "name": "Heavy reaches its active pose",
+      "passed": true,
+      "scenario": "f05_fine_print_heavy",
+      "tick": 38
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f05_fine_print_heavy",
+      "passed": true,
+      "scenario": "f05_fine_print_heavy",
+      "tick": 40
+    },
+    {
+      "detail": "",
+      "name": "Signature special activates",
+      "passed": true,
+      "scenario": "f05_fine_print_special",
+      "tick": 21
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f05_fine_print_special",
+      "passed": true,
+      "scenario": "f05_fine_print_special",
+      "tick": 26
+    },
+    {
+      "detail": "",
+      "name": "Ultimate produces a real hit",
+      "passed": true,
+      "scenario": "f05_fine_print_ultimate",
+      "tick": 39
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f05_fine_print_ultimate",
+      "passed": true,
+      "scenario": "f05_fine_print_ultimate",
+      "tick": 42
+    },
+    {
+      "detail": "",
+      "name": "Heavy reaches its active pose",
+      "passed": true,
+      "scenario": "f06_rugged_explorer_heavy",
+      "tick": 39
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f06_rugged_explorer_heavy",
+      "passed": true,
+      "scenario": "f06_rugged_explorer_heavy",
+      "tick": 41
+    },
+    {
+      "detail": "",
+      "name": "Signature special activates",
+      "passed": true,
+      "scenario": "f06_rugged_explorer_special",
+      "tick": 24
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f06_rugged_explorer_special",
+      "passed": true,
+      "scenario": "f06_rugged_explorer_special",
+      "tick": 29
+    },
+    {
+      "detail": "",
+      "name": "Ultimate produces a real hit",
+      "passed": true,
+      "scenario": "f06_rugged_explorer_ultimate",
+      "tick": 38
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f06_rugged_explorer_ultimate",
+      "passed": true,
+      "scenario": "f06_rugged_explorer_ultimate",
+      "tick": 41
+    },
+    {
+      "detail": "",
+      "name": "Heavy reaches its active pose",
+      "passed": true,
+      "scenario": "f07_urban_sentinel_heavy",
+      "tick": 41
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f07_urban_sentinel_heavy",
+      "passed": true,
+      "scenario": "f07_urban_sentinel_heavy",
+      "tick": 43
+    },
+    {
+      "detail": "",
+      "name": "Signature special activates",
+      "passed": true,
+      "scenario": "f07_urban_sentinel_special",
+      "tick": 26
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f07_urban_sentinel_special",
+      "passed": true,
+      "scenario": "f07_urban_sentinel_special",
+      "tick": 31
+    },
+    {
+      "detail": "",
+      "name": "Ultimate produces a real hit",
+      "passed": true,
+      "scenario": "f07_urban_sentinel_ultimate",
+      "tick": 49
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f07_urban_sentinel_ultimate",
+      "passed": true,
+      "scenario": "f07_urban_sentinel_ultimate",
+      "tick": 52
+    },
+    {
+      "detail": "",
+      "name": "Heavy reaches its active pose",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman_heavy",
+      "tick": 38
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f08_midnight_gentleman_heavy",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman_heavy",
+      "tick": 40
+    },
+    {
+      "detail": "",
+      "name": "Signature special activates",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman_special",
+      "tick": 23
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f08_midnight_gentleman_special",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman_special",
+      "tick": 28
+    },
+    {
+      "detail": "",
+      "name": "Ultimate produces a real hit",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman_ultimate",
+      "tick": 39
+    },
+    {
+      "detail": "OK",
+      "name": "Screenshot written: f08_midnight_gentleman_ultimate",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman_ultimate",
+      "tick": 42
+    }
+  ],
+  "engine": "4.7.2-stable (official)",
+  "failures": 0,
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "renderer": "forward_plus",
+  "scope": "Short scripted real-input fixtures with still screenshots; no free-play session or performance certification. Closer attack framing is labeled. User settings are not saved.",
+  "settings": {
+    "blood": true,
+    "effects": 0.85,
+    "flashes": 0.45,
+    "fullscreen": false,
+    "graphics": "High",
+    "master": 0.8,
+    "music": 0.36,
+    "profanity": false,
+    "resolution": "1920x1080",
+    "rumble": 0.5,
+    "shake": 0.0,
+    "ui_scale": 1.0
+  }
+}

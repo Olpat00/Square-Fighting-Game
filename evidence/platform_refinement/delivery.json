@@ -1,0 +1,254 @@
+{
+  "generated_at_utc": "2026-10-04T18:02:56.9245581Z",
+  "passed": true,
+  "archive": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\RooftopRiot-Platform-Upgrade-Windows.zip",
+  "archive_sha256": "7D3B36F762AC219ABACDBC02D277326A4EB98B8CBB2EE37B0F8B2387BEEABB70",
+  "archive_bytes": 204874113,
+  "arenas": [
+    "rooftop_riot",
+    "lunar_reach",
+    "verdant_shrine",
+    "abyssal_observatory",
+    "ember_foundry"
+  ],
+  "files": [
+    {
+      "file": "RooftopRiot.exe",
+      "bytes": 109268480,
+      "sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562"
+    },
+    {
+      "file": "RooftopRiot.pck",
+      "bytes": 201308096,
+      "sha256": "6FE70417BF972CD7BF6A12749D8543606BF6915A4D2C0706C54E520E3EF239ED"
+    },
+    {
+      "file": "build_manifest.json",
+      "bytes": 95373,
+      "sha256": "494F2F364C6F42FE7184B2834C36E8A196D14968D65E03BEDDBA5E19D01553E2"
+    },
+    {
+      "file": "Launch-Mobile.cmd",
+      "bytes": 50,
+      "sha256": "C0DD93BFD15F67DC9A6F02E29418B2E112E6C8EEA400B7D44088F6C53BAD883F"
+    },
+    {
+      "file": "Launch-ForwardPlus.cmd",
+      "bytes": 56,
+      "sha256": "9B8286E460221FE4384611C3510A60AC37B00718379C5D27E1E34C6DA6438103"
+    },
+    {
+      "file": "MOTION_CREDITS.md",
+      "bytes": 857,
+      "sha256": "C2F0A66C1D71B935FD74A0704915FA6BA3785446E3DA3F778B525C5E43634D12"
+    },
+    {
+      "file": "LUNAR_ASSET_CREDITS.md",
+      "bytes": 1177,
+      "sha256": "11FC6618AE0CE925B4D7D336D6F536278AB865D77211876B325F38B09D566FAA"
+    },
+    {
+      "file": "README.md",
+      "bytes": 8135,
+      "sha256": "D73B4F3280EB87657051C237F7DE7D91BBDD7326717F9B2AF15CC3737F7CC7CE"
+    },
+    {
+      "file": "PROVENANCE.md",
+      "bytes": 16328,
+      "sha256": "71619BC4E1CCF35589D8E4B8612C27CCA43B8F11FE671F4D9A8DC91B56988DAC"
+    },
+    {
+      "file": "VALIDATION.md",
+      "bytes": 20417,
+      "sha256": "BC69582291411826ACA9DAD72233B7651DB4FE102EC8BF94590ECD106CC6A316"
+    },
+    {
+      "file": "PERFORMANCE.md",
+      "bytes": 18375,
+      "sha256": "EF7C031FF3A09151AA7B65C326BF4FC0F8B2D1EAC55998873CF73059E4CEB94B"
+    },
+    {
+      "file": "animation_pipeline.md",
+      "bytes": 11662,
+      "sha256": "86DD36D7FDB65577A971342AF5E8F3288BFE715DEAC81E5D04C5EE650A47C989"
+    },
+    {
+      "file": "animation_validation.md",
+      "bytes": 6574,
+      "sha256": "642EEE729DE992E4E7C7DBCEE3A7E70DDA63C4BAFBED60E96C072A98399AC791"
+    },
+    {
+      "file": "MAP_EXPANSION.md",
+      "bytes": 13681,
+      "sha256": "99C55C617BF5543F838618E923302694618ED4EF8A381908C86F74DB8322DA47"
+    },
+    {
+      "file": "maps/verdant_shrine.md",
+      "bytes": 2704,
+      "sha256": "DFF24EBDC04B87555BA9A0EC2E41408B3D7EA68C3CF7F3A09DC4A4FDD4CD284B"
+    },
+    {
+      "file": "maps/abyssal_observatory.md",
+      "bytes": 1971,
+      "sha256": "C5262BA9FE787D0C0AD454A60920A230347A1447A86A320C153FE01EBFB7A32B"
+    },
+    {
+      "file": "maps/ember_foundry.md",
+      "bytes": 2639,
+      "sha256": "481F5F5F73E9C0EEB342B3A0C8D5DAD53FD9775475935091142AA2FA2BEF883E"
+    },
+    {
+      "file": "maps/artwork_manifest.json",
+      "bytes": 9660,
+      "sha256": "7D6C8F4C9DFC34F112AADB2DFEF92A83AE276D882BBB8C86EE5BE73EC7B62B2B"
+    },
+    {
+      "file": "maps/verdant_shrine_CREDITS.md",
+      "bytes": 1974,
+      "sha256": "C4E431405026FD05D95636EE3A0D8E9435481CFC8995B3592BE8B84AB0C17EB1"
+    },
+    {
+      "file": "maps/abyssal_observatory_CREDITS.md",
+      "bytes": 1943,
+      "sha256": "0AEB0472C77D5414A46ADC667B4CD10D1E60289D4D902DA027C5C860BEC51DD3"
+    },
+    {
+      "file": "maps/ember_foundry_CREDITS.md",
+      "bytes": 1993,
+      "sha256": "DFE58EF2909289144DEED5D422C9F5607D2C31F547BC27C7A9B9DE2D7FC68E1C"
+    },
+    {
+      "file": "package_manifest.json",
+      "bytes": 6436,
+      "sha256": "EC77B367CA003D0D593516DF1B44E1F6C91981A5077F3E150B9083D85B24B4A1"
+    }
+  ],
+  "exact_entry_set_verified": true,
+  "every_entry_decoded_and_sha256_verified": true,
+  "package_manifest_sha256": "EC77B367CA003D0D593516DF1B44E1F6C91981A5077F3E150B9083D85B24B4A1",
+  "build_manifest_sha256": "494F2F364C6F42FE7184B2834C36E8A196D14968D65E03BEDDBA5E19D01553E2",
+  "runtime_source_sha256": "5D87C1AAB5E7C45183D0AFD7AD941C8BC2456A96F0A1326730F16A60C202B7B0",
+  "evidence": {
+    "source_gate": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\validation_all.json",
+      "sha256": "AECEAC86DAEB615CD5045B283EDD22871B088320A2239EFFE6935834081AE408"
+    },
+    "windows_package_validation": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\windows_release_flow\\validation.json",
+      "sha256": "A2B6B319946D8064D244900DAF3B5721A2EB6C3D47BC52BA7EEE1ACF9C9F68D5"
+    },
+    "map_release_validation": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release_validation.json",
+      "sha256": "E1F30208F23F30C8C836D148DDDF1ED1885D05F1DE2987F37958539D25D36D0E"
+    },
+    "match_lifecycle": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\match_flow.json",
+      "sha256": "2571479429BB7F95ED53A110C939E41909B1EB27A62AB45378EED738DF8A3BDF"
+    },
+    "accepted_fighter_art": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\characters\\hero_rebuild\\release_assets.json",
+      "sha256": "7FB1CB6E17D6D439C9C042D1174CEE56D3545AA798707CF1C8A7935087DFC6CD"
+    },
+    "arena_artwork": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\source_art\\environment\\arena_artwork_manifest.json",
+      "sha256": "7D6C8F4C9DFC34F112AADB2DFEF92A83AE276D882BBB8C86EE5BE73EC7B62B2B"
+    },
+    "profile_provenance": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\profile_provenance.json",
+      "sha256": "AA66048F335A29669CA9FA5381ECEAF032C41DC21E38302CD74728A13DE9B5CC"
+    }
+  },
+  "performance": [
+    {
+      "case": "rooftop_riot_high_4p",
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\rooftop_riot_high_4p.json",
+      "sha256": "CDA6AB2ADE03EADA0C18D6EE071D9E82D0DD96B10F2B9E8B348A48490CBFB5AD",
+      "frame_p95_ms": 2.11,
+      "frame_p99_ms": 2.81,
+      "gpu_p95_ms": 1.35899996757507
+    },
+    {
+      "case": "rooftop_riot_low_4p",
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\rooftop_riot_low_4p.json",
+      "sha256": "3DAB7A805C9C5EBDB8F41B002A45D61248D46BA8A19D13B60EB758FBF017B5C0",
+      "frame_p95_ms": 1.278,
+      "frame_p99_ms": 1.917,
+      "gpu_p95_ms": 0.616999983787537
+    },
+    {
+      "case": "lunar_reach_high_4p",
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\lunar_reach_high_4p.json",
+      "sha256": "C86D5D1CF1EC11DE63CB66C46A8DC3BF10F695533BEAA03C23AD0288EEE746D2",
+      "frame_p95_ms": 1.962,
+      "frame_p99_ms": 2.605,
+      "gpu_p95_ms": 0.986000001430511
+    },
+    {
+      "case": "lunar_reach_low_4p",
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\lunar_reach_low_4p.json",
+      "sha256": "E25B7CDF2159437245B2C25030232B0A0830DEE8A3F96F7ABCC05A8042EFF619",
+      "frame_p95_ms": 1.085,
+      "frame_p99_ms": 1.759,
+      "gpu_p95_ms": 0.382999986410141
+    },
+    {
+      "case": "verdant_shrine_high_4p",
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\verdant_shrine_high_4p.json",
+      "sha256": "FA84A4D4BE3F9BDE90674A9F0FCC1BA82CE3A8FCA967DB312CFB1B51DA00496B",
+      "frame_p95_ms": 1.583,
+      "frame_p99_ms": 2.2,
+      "gpu_p95_ms": 0.734000027179718
+    },
+    {
+      "case": "verdant_shrine_low_4p",
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\verdant_shrine_low_4p.json",
+      "sha256": "DF0DE349F37BAB2073DD90AD6930AC433F58E8FE372DAF549AFD1F2A2DD9B3EF",
+      "frame_p95_ms": 0.86,
+      "frame_p99_ms": 1.668,
+      "gpu_p95_ms": 0.323000013828278
+    },
+    {
+      "case": "abyssal_observatory_high_4p",
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\abyssal_observatory_high_4p.json",
+      "sha256": "FDD70F1B31AEDD050DDE07CB090B8FD389CD9650768F3512C8E112B9320DF005",
+      "frame_p95_ms": 2.178,
+      "frame_p99_ms": 8.456,
+      "gpu_p95_ms": 0.828999996185303
+    },
+    {
+      "case": "abyssal_observatory_low_4p",
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\abyssal_observatory_low_4p.json",
+      "sha256": "DDC9111D335C08857A8428481B39CCAF8B3F3ED66EE1E3813AEB574A947786B4",
+      "frame_p95_ms": 1.247,
+      "frame_p99_ms": 1.906,
+      "gpu_p95_ms": 0.34400001168251
+    },
+    {
+      "case": "ember_foundry_high_4p",
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\ember_foundry_high_4p.json",
+      "sha256": "3B5F6A06B2116F7705BEEA662E14B284941C8B716B50BB2DD90E48BE15178634",
+      "frame_p95_ms": 1.762,
+      "frame_p99_ms": 2.463,
+      "gpu_p95_ms": 1.00300002098084
+    },
+    {
+      "case": "ember_foundry_low_4p",
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\ember_foundry_low_4p.json",
+      "sha256": "3F3D0656C63164B6F480B2CCD30AEA5AC7BECEA67F662CDFA83E21327C0B9B57",
+      "frame_p95_ms": 38.051,
+      "frame_p99_ms": 58.801,
+      "gpu_p95_ms": 9.44200038909912
+    }
+  ],
+  "full_match_count": 5,
+  "lifecycle_checks": 35,
+  "actual_new_arena_release_smokes": 3,
+  "editable_stage_sources": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Game File\\stages",
+  "editable_character_art": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\source_art\\characters",
+  "tools": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\tools\\validation",
+  "limitations": [
+    "Graphical captures and automated matches are not human gameplay or audio acceptance.",
+    "Physical multiple-controller operation and weaker-PC performance remain unverified.",
+    "The ten performance cases measure this workstation at 1080p with four CPU fighters, not every hardware configuration."
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "method": "Read-only pixel samples from visually inspected, unedited real-game spread frames. Two visible spark pixels must brighten by >20 in every channel with flashes on; adjacent shirt control stays identical. Same seeded inputs/tick/pose. Animated background water is not pixel-stable and is excluded.",
+  "comparisons": [
+    {
+      "blood": 0,
+      "samples": [
+        {
+          "pixel": [
+            1106,
+            617
+          ],
+          "role": "spark",
+          "flashes_on": [
+            156,
+            190,
+            207
+          ],
+          "flashes_off": [
+            123,
+            157,
+            173
+          ]
+        },
+        {
+          "pixel": [
+            1082,
+            580
+          ],
+          "role": "spark",
+          "flashes_on": [
+            144,
+            187,
+            208
+          ],
+          "flashes_off": [
+            106,
+            148,
+            172
+          ]
+        },
+        {
+          "pixel": [
+            1053,
+            577
+          ],
+          "role": "unchanged shirt control",
+          "flashes_on": [
+            31,
+            24,
+            30
+          ],
+          "flashes_off": [
+            31,
+            24,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "blood": 1,
+      "samples": [
+        {
+          "pixel": [
+            1106,
+            617
+          ],
+          "role": "spark",
+          "flashes_on": [
+            156,
+            190,
+            207
+          ],
+          "flashes_off": [
+            123,
+            157,
+            173
+          ]
+        },
+        {
+          "pixel": [
+            1082,
+            580
+          ],
+          "role": "spark",
+          "flashes_on": [
+            144,
+            187,
+            208
+          ],
+          "flashes_off": [
+            106,
+            148,
+            172
+          ]
+        },
+        {
+          "pixel": [
+            1053,
+            577
+          ],
+          "role": "unchanged shirt control",
+          "flashes_on": [
+            31,
+            24,
+            30
+          ],
+          "flashes_off": [
+            31,
+            24,
+            30
+          ]
+        }
+      ]
+    }
+  ],
+  "passed": true
+}

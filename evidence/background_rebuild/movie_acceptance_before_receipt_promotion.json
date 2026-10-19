@@ -1,0 +1,1761 @@
+{
+  "passed": true,
+  "finished_utc": "2026-10-04T19:38:35.855617+00:00",
+  "runtime": {
+    "sha256": "F27D1FA730C48897031F76F245F4B28D50B6DFA35BC3D4C7E249666CDF1E8825",
+    "file_count": 537
+  },
+  "harness_sha256": "5357D265B380F710F05F7875C85CB4136317F9514FCBE754A79095D27F6ADB69",
+  "capture_runner_sha256": "7BE7A1F471F4327CFD89A8196C3C344A554ED8D1BFF57973F12BAE3CE0F9FDB1",
+  "capture_receipt_before_visual_promotion": {
+    "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\movie_receipt.json",
+    "bytes": 149733,
+    "sha256": "5B8134F3C5D154D60C808F8B71761C469A6C15946D5DD0B4C87C902EEA2C1A37"
+  },
+  "review_method": "Assistant visual inspection of all twenty native 1600x900 PNGs extracted from five current 12-second MP4s at 0, 2, 5 and 10 seconds; native crop comparisons for waterfall, spillway and Earth details.",
+  "source_evidence": [
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Game File\\stages\\ember_foundry\\caldera_spillway.gdshader",
+      "bytes": 1700,
+      "sha256": "CEACD7285FC0F5006C738C79ADE55D1C20582AE335D806A960314483FC2724BB"
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Game File\\stages\\verdant_shrine\\shrine_backdrop.gdshader",
+      "bytes": 3149,
+      "sha256": "91E7E0A7789FEACE6AC4914DBCEEF9CB67F15DD262373B2C247648F052885AF0"
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Game File\\stages\\lunar_reach\\earth.gdshader",
+      "bytes": 1956,
+      "sha256": "BD39851352480CED262AFCB94FF6A0A4E6CF2BC994E574496E6A06BE200DE17B"
+    }
+  ],
+  "supplementary_qa_crops": [
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\qa_crop_verdant_shrine.png",
+      "bytes": 349729,
+      "sha256": "EF71EAED1DE404ADC722DF2F41777D391FC535A4E6A5FA19AED458A8E7A8E74C"
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\qa_crop_ember_foundry.png",
+      "bytes": 683199,
+      "sha256": "35F9C479E3286414E643A589881C56CA06DAFE68AAA93A44715A9909879DC3EA"
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\qa_crop_lunar_reach.png",
+      "bytes": 179501,
+      "sha256": "5D8B0ECFDA7581AC387A8547CE933CBF3BD7BCD9B657D672A4DA80E7A9E7534D"
+    }
+  ],
+  "checks": 268,
+  "failures": 0,
+  "results": [
+    {
+      "name": "All five capture operations finished successfully before review",
+      "passed": true
+    },
+    {
+      "name": "Expected frozen runtime is the captured runtime",
+      "passed": true
+    },
+    {
+      "name": "Captured movie harness is the current movie harness",
+      "passed": true
+    },
+    {
+      "name": "Every captured runtime file matches the current complete runtime inventory",
+      "passed": true
+    },
+    {
+      "name": "Capture runner remains unchanged",
+      "passed": true
+    },
+    {
+      "name": "Source inventory receipt exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "Exactly the five requested arenas are present",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot complete High capture",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot MP4 exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot has one video track and no audio",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot current container is AVC video",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot container matches reported media dimensions and timing",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot actual media is native 1600x900 with 720 frames at 60 FPS for 12 seconds",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot engine log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot native log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot encode log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot decode log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot engine capture terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot engine capture process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot engine capture log termination proof",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot clean graphical engine output",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot encode terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot encode process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot encode log termination proof",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot encode completed all 720 frames",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot full decode terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot full decode process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot full decode log termination proof",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot decoder reached end of this complete current MP4",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot source movie report exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot current single-arena source harness passed all reported checks",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot 720 scene ticks and frames without screenshot overhead",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot source scene state at tick 0 exact hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot source scene state at tick 120 exact hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot source scene state at tick 300 exact hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot source scene state at tick 600 exact hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot source scene state at tick 720 exact hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot five expected simulation snapshots",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot four expected MP4 sample times",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot actual MP4 sample at 0 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot sample at 0 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot sample at 0 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot extraction log at 0 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot sample at 0 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot actual MP4 sample at 2 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot sample at 2 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot sample at 2 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot extraction log at 2 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot sample at 2 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot actual MP4 sample at 5 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot sample at 5 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot sample at 5 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot extraction log at 5 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot sample at 5 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot actual MP4 sample at 10 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot sample at 10 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot sample at 10 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot extraction log at 10 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot sample at 10 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach complete High capture",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach MP4 exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach has one video track and no audio",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach current container is AVC video",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach container matches reported media dimensions and timing",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach actual media is native 1600x900 with 720 frames at 60 FPS for 12 seconds",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach engine log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach native log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach encode log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach decode log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach engine capture terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach engine capture process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach engine capture log termination proof",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach clean graphical engine output",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach encode terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach encode process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach encode log termination proof",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach encode completed all 720 frames",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach full decode terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach full decode process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach full decode log termination proof",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach decoder reached end of this complete current MP4",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach source movie report exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach current single-arena source harness passed all reported checks",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach 720 scene ticks and frames without screenshot overhead",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach source scene state at tick 0 exact hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach source scene state at tick 120 exact hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach source scene state at tick 300 exact hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach source scene state at tick 600 exact hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach source scene state at tick 720 exact hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach five expected simulation snapshots",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach four expected MP4 sample times",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach actual MP4 sample at 0 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach sample at 0 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach sample at 0 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach extraction log at 0 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach sample at 0 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach actual MP4 sample at 2 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach sample at 2 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach sample at 2 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach extraction log at 2 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach sample at 2 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach actual MP4 sample at 5 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach sample at 5 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach sample at 5 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach extraction log at 5 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach sample at 5 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach actual MP4 sample at 10 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach sample at 10 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach sample at 10 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach extraction log at 10 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach sample at 10 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine complete High capture",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine MP4 exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine has one video track and no audio",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine current container is AVC video",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine container matches reported media dimensions and timing",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine actual media is native 1600x900 with 720 frames at 60 FPS for 12 seconds",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine engine log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine native log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine encode log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine decode log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine engine capture terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine engine capture process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine engine capture log termination proof",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine clean graphical engine output",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine encode terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine encode process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine encode log termination proof",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine encode completed all 720 frames",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine full decode terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine full decode process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine full decode log termination proof",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine decoder reached end of this complete current MP4",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine source movie report exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine current single-arena source harness passed all reported checks",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine 720 scene ticks and frames without screenshot overhead",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine source scene state at tick 0 exact hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine source scene state at tick 120 exact hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine source scene state at tick 300 exact hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine source scene state at tick 600 exact hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine source scene state at tick 720 exact hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine five expected simulation snapshots",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine four expected MP4 sample times",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine actual MP4 sample at 0 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine sample at 0 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine sample at 0 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine extraction log at 0 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine sample at 0 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine actual MP4 sample at 2 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine sample at 2 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine sample at 2 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine extraction log at 2 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine sample at 2 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine actual MP4 sample at 5 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine sample at 5 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine sample at 5 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine extraction log at 5 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine sample at 5 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine actual MP4 sample at 10 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine sample at 10 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine sample at 10 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine extraction log at 10 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine sample at 10 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory complete High capture",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory MP4 exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory has one video track and no audio",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory current container is AVC video",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory container matches reported media dimensions and timing",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory actual media is native 1600x900 with 720 frames at 60 FPS for 12 seconds",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory engine log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory native log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory encode log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory decode log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory engine capture terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory engine capture process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory engine capture log termination proof",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory clean graphical engine output",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory encode terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory encode process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory encode log termination proof",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory encode completed all 720 frames",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory full decode terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory full decode process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory full decode log termination proof",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory decoder reached end of this complete current MP4",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory source movie report exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory current single-arena source harness passed all reported checks",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory 720 scene ticks and frames without screenshot overhead",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory source scene state at tick 0 exact hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory source scene state at tick 120 exact hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory source scene state at tick 300 exact hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory source scene state at tick 600 exact hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory source scene state at tick 720 exact hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory five expected simulation snapshots",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory four expected MP4 sample times",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory actual MP4 sample at 0 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory sample at 0 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory sample at 0 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory extraction log at 0 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory sample at 0 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory actual MP4 sample at 2 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory sample at 2 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory sample at 2 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory extraction log at 2 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory sample at 2 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory actual MP4 sample at 5 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory sample at 5 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory sample at 5 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory extraction log at 5 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory sample at 5 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory actual MP4 sample at 10 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory sample at 10 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory sample at 10 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory extraction log at 10 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory sample at 10 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry complete High capture",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry MP4 exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry has one video track and no audio",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry current container is AVC video",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry container matches reported media dimensions and timing",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry actual media is native 1600x900 with 720 frames at 60 FPS for 12 seconds",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry engine log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry native log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry encode log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry decode log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry engine capture terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry engine capture process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry engine capture log termination proof",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry clean graphical engine output",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry encode terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry encode process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry encode log termination proof",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry encode completed all 720 frames",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry full decode terminal exit success",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry full decode process log exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry full decode log termination proof",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry decoder reached end of this complete current MP4",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry source movie report exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry current single-arena source harness passed all reported checks",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry 720 scene ticks and frames without screenshot overhead",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry source scene state at tick 0 exact hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry source scene state at tick 120 exact hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry source scene state at tick 300 exact hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry source scene state at tick 600 exact hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry source scene state at tick 720 exact hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry five expected simulation snapshots",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry four expected MP4 sample times",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry actual MP4 sample at 0 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry sample at 0 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry sample at 0 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry extraction log at 0 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry sample at 0 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry actual MP4 sample at 2 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry sample at 2 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry sample at 2 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry extraction log at 2 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry sample at 2 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry actual MP4 sample at 5 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry sample at 5 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry sample at 5 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry extraction log at 5 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry sample at 5 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry actual MP4 sample at 10 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry sample at 10 seconds retains actual movie size",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry sample at 10 seconds successfully extracted",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry extraction log at 10 seconds exact saved bytes and hash",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry sample at 10 seconds is from this MP4",
+      "passed": true
+    },
+    {
+      "name": "All five arenas and all twenty actual sample frames were reviewed; no partial matrix promoted",
+      "passed": true
+    }
+  ],
+  "cases": [
+    {
+      "arena": "rooftop_riot",
+      "quality": "High",
+      "passed": true,
+      "reviewed": true,
+      "movie": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\ambient.mp4",
+        "bytes": 1423625,
+        "sha256": "B0C62C90B88A03AA26938332794EB8E216171B0EEE07F97F00ED24BD51059A95",
+        "width": 1600,
+        "height": 900,
+        "fps": 60.0,
+        "duration_seconds": 12.0,
+        "video_frames": 720,
+        "timing_samples": 720,
+        "timescale": 15360,
+        "duration_ticks": 184320,
+        "decoded": true,
+        "reviewed": true,
+        "audio": false
+      },
+      "report_file": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\living_background_review.json",
+        "bytes": 8040,
+        "sha256": "DFACA70818BA6865E61C3C5D56E5F13D496652EFB613AD56872AFA89B30DB2C9"
+      },
+      "source_states": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\rooftop_riot_high_movie_t0000_state.json",
+          "bytes": 78141,
+          "sha256": "3C2A386D54142762000E7381B114B23EA63066BA4E9E3CDE700FAFBD6B72BFDB",
+          "seconds": 0.0,
+          "tick": 0
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\rooftop_riot_high_movie_t0120_state.json",
+          "bytes": 78569,
+          "sha256": "841989AD19D54EEC63AF33E238693372917EAE6865948FB2588127A9A1172941",
+          "seconds": 2.0,
+          "tick": 120
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\rooftop_riot_high_movie_t0300_state.json",
+          "bytes": 78621,
+          "sha256": "FBFD255EB45AA740CAD36FE98EFD440D3F207B00CCC0E7F4CDD9DA2A2B0C20FE",
+          "seconds": 5.0,
+          "tick": 300
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\rooftop_riot_high_movie_t0600_state.json",
+          "bytes": 78460,
+          "sha256": "F5A6FBDB2A34616606815D5CF7677EF3206F22D8522AEC824F404FF9E632200F",
+          "seconds": 10.0,
+          "tick": 600
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\rooftop_riot_high_movie_t0720_state.json",
+          "bytes": 78460,
+          "sha256": "192466322C4FA3239973677E9C682636C10BC784E7359CA8930C017F038B1E89",
+          "seconds": 12.0,
+          "tick": 720
+        }
+      ],
+      "samples": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\review\\t00.png",
+          "bytes": 1490311,
+          "sha256": "3DAD3F73964EA17BEDE87C295E73D2CB22F7075598A42C318DDB02F6CB0AE201",
+          "seconds": 0,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\review\\t02.png",
+          "bytes": 1571269,
+          "sha256": "E5ACE03DC4E61D04C7D88824CFA2F5BFABCEE84A3DC58C8489DB3E1C2AF51F2F",
+          "seconds": 2,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\review\\t05.png",
+          "bytes": 1525796,
+          "sha256": "5CCA732DA6A01D95102965CB394414F68C7DB260DBC9D3489146DCD3F97CA333",
+          "seconds": 5,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\review\\t10.png",
+          "bytes": 1530389,
+          "sha256": "00ED9243930C929BE1F216098A342FE46826D1A3CFC748AA3A538DC24EAF3A8A",
+          "seconds": 10,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        }
+      ],
+      "decode_process": {
+        "label": "rooftop_riot full decode",
+        "pid": 26048,
+        "started_utc": "2026-10-04T19:28:31.436347+00:00",
+        "finished_utc": "2026-10-04T19:28:31.714165+00:00",
+        "exit_code": 0,
+        "timed_out": false,
+        "timeout_seconds": 180,
+        "log": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\decode.log",
+          "bytes": 2248,
+          "sha256": "EF221838B7E92774B924197F3ADA08C520ABC85C7BD7037AFBA1370C080AA1CA"
+        }
+      },
+      "observations": [
+        "White gulls occupy different positions across the upper sky: visible left of the center platform at 2 seconds, toward the left at 5 seconds, and nearer the center again at 10 seconds.",
+        "Pool ripple highlights change across the four samples; palm fronds show small position changes. The hotel and rail architecture remain stable.",
+        "The guest bodies remain coherent. Small window-light variations and crowd motion support the rooftop ambience without covering the fighters."
+      ],
+      "readability": "Gulls stay above the exchange area; water and guest motion remain behind the fighters. Platform edges and all four fighters are clear.",
+      "limits": [
+        "Most painted clouds remain artwork; this sampled review does not claim that all cloud shapes visibly move."
+      ]
+    },
+    {
+      "arena": "lunar_reach",
+      "quality": "High",
+      "passed": true,
+      "reviewed": true,
+      "movie": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\ambient.mp4",
+        "bytes": 939367,
+        "sha256": "2B3C5564AFB8103AE20593024CDF9D6255A22C93AA015EFBC95EF9757E909BA1",
+        "width": 1600,
+        "height": 900,
+        "fps": 60.0,
+        "duration_seconds": 12.0,
+        "video_frames": 720,
+        "timing_samples": 720,
+        "timescale": 15360,
+        "duration_ticks": 184320,
+        "decoded": true,
+        "reviewed": true,
+        "audio": false
+      },
+      "report_file": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\living_background_review.json",
+        "bytes": 7329,
+        "sha256": "33C8741D495CC4AA6172A997B7C4780AC65E6EE7AE75537BF9C81040539A4CA6"
+      },
+      "source_states": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\lunar_reach_high_movie_t0000_state.json",
+          "bytes": 713196,
+          "sha256": "8E0B3956C51EA86A5C688597EE218259406D74B8702B4547E21D16E0F0BD77A7",
+          "seconds": 0.0,
+          "tick": 0
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\lunar_reach_high_movie_t0120_state.json",
+          "bytes": 713687,
+          "sha256": "7D0C15C57F918E403D0DA65F2C6962FE68099578ACD0EF6C0B6B7907BEA25204",
+          "seconds": 2.0,
+          "tick": 120
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\lunar_reach_high_movie_t0300_state.json",
+          "bytes": 713695,
+          "sha256": "8CF90F215AE9ACA36B3FB7861DE7D62590422E757B81C0987F1FD80E57361A20",
+          "seconds": 5.0,
+          "tick": 300
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\lunar_reach_high_movie_t0600_state.json",
+          "bytes": 713690,
+          "sha256": "9969F230741D2B8D1FC94F49DE9DE50C6F8857BCBD14BD586C2CC5670E59DE36",
+          "seconds": 10.0,
+          "tick": 600
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\lunar_reach_high_movie_t0720_state.json",
+          "bytes": 713688,
+          "sha256": "7A48B7A046C639055D401A533EA365C54C1793B111307B5B17A21946B1D0C733",
+          "seconds": 12.0,
+          "tick": 720
+        }
+      ],
+      "samples": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\review\\t00.png",
+          "bytes": 1365885,
+          "sha256": "81A524F0C004F11431A905ED9F60713EC9338A5BC1E0452FE3A2214BC9D22F65",
+          "seconds": 0,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\review\\t02.png",
+          "bytes": 1376205,
+          "sha256": "8AFBE631A847D40F17A63FD9E0F2B0234883D0DB3713115030E69D34A3F0811A",
+          "seconds": 2,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\review\\t05.png",
+          "bytes": 1370331,
+          "sha256": "4E95DCC641098EFB2799D675DE320DF1073F611BD2D278828A6C2E63A903D6D9",
+          "seconds": 5,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\review\\t10.png",
+          "bytes": 1370145,
+          "sha256": "EEEE767CD85623CF84DA1EADE04EBEAEB0EBF18A3E030D0A50D1DBEFD5AC9AC3",
+          "seconds": 10,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        }
+      ],
+      "decode_process": {
+        "label": "lunar_reach full decode",
+        "pid": 6232,
+        "started_utc": "2026-10-04T19:29:19.059443+00:00",
+        "finished_utc": "2026-10-04T19:29:19.295735+00:00",
+        "exit_code": 0,
+        "timed_out": false,
+        "timeout_seconds": 180,
+        "log": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\decode.log",
+          "bytes": 2246,
+          "sha256": "D32406A78C54F9422A433B865A04F91BE260B7B5F1962859971861D69CB649D2"
+        }
+      },
+      "observations": [
+        "The six-wheel rover advances left along the rear causeway from the middle gap toward Heavy Duty over the 0/2/5/10-second sequence.",
+        "The large dish at the upper left changes its aim; its central receiver and projected silhouette shift over the sequence.",
+        "Terrain and fighting platforms remain stable while the base activity changes behind them."
+      ],
+      "readability": "The rover is behind the main fighting deck and the dish is offset to the left. Their silhouettes do not cover the fighters or usable platform edges.",
+      "limits": [
+        "Earth/cloud rotation is very slow and is not conspicuous at gameplay distance over these four sample times. Orbital-relay flight is not asserted visible in this sample set. Visible-life acceptance relies on the clearly moving rover and dish."
+      ]
+    },
+    {
+      "arena": "verdant_shrine",
+      "quality": "High",
+      "passed": true,
+      "reviewed": true,
+      "movie": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\ambient.mp4",
+        "bytes": 2402020,
+        "sha256": "BD010FCFB55E9A8BE73911AA2E19AA2946EBCAAB9A64A1D0BF149CE9571C8345",
+        "width": 1600,
+        "height": 900,
+        "fps": 60.0,
+        "duration_seconds": 12.0,
+        "video_frames": 720,
+        "timing_samples": 720,
+        "timescale": 15360,
+        "duration_ticks": 184320,
+        "decoded": true,
+        "reviewed": true,
+        "audio": false
+      },
+      "report_file": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\living_background_review.json",
+        "bytes": 12212,
+        "sha256": "1FBF69B4A3D4FFE3F7B9D4171ABC9FA3D67E8EE6D4C85E6C0554427B1D8E1FE1"
+      },
+      "source_states": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\verdant_shrine_high_movie_t0000_state.json",
+          "bytes": 172809,
+          "sha256": "DBCB471C548C85632A0998CF68B30EB369E255B99BE0B77137444A87709F633D",
+          "seconds": 0.0,
+          "tick": 0
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\verdant_shrine_high_movie_t0120_state.json",
+          "bytes": 172812,
+          "sha256": "3DFB7A3FBCE3188A066317F05067FFFCC9FEC3A47FC18D9A368D853D522360F3",
+          "seconds": 2.0,
+          "tick": 120
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\verdant_shrine_high_movie_t0300_state.json",
+          "bytes": 172798,
+          "sha256": "3E7AA83343BE824A836F3A91953A46D9106CDEB1B05A856DAB14904C4F461E5E",
+          "seconds": 5.0,
+          "tick": 300
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\verdant_shrine_high_movie_t0600_state.json",
+          "bytes": 172983,
+          "sha256": "62E89ED65C860F0881F0C203D5ACA60C07327A5BB4A94D21B36D9D39EDD97AE8",
+          "seconds": 10.0,
+          "tick": 600
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\verdant_shrine_high_movie_t0720_state.json",
+          "bytes": 172980,
+          "sha256": "801B786411CE4EF1FA303C6392123B60745224AA2764305E659700249E8BB719",
+          "seconds": 12.0,
+          "tick": 720
+        }
+      ],
+      "samples": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\review\\t00.png",
+          "bytes": 2788666,
+          "sha256": "4D5F36AFE38B94423E51C1A634B3038834BAD69E8D36A43468A55D6375D449E7",
+          "seconds": 0,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\review\\t02.png",
+          "bytes": 2834992,
+          "sha256": "D40DD0F65144F13F8624B21BCF02DB481B8FD8D2F8781322800DA575CB11E1CA",
+          "seconds": 2,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\review\\t05.png",
+          "bytes": 2825716,
+          "sha256": "FC6AB1363E0EDE83370F5E54951621ABE5045AC0B9544DC0EEF674092DAEBFB5",
+          "seconds": 5,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\review\\t10.png",
+          "bytes": 2831142,
+          "sha256": "9141C57E2FDACEC22DC8A958A8445D8EC44122A952A85002C5C54F959D547F95",
+          "seconds": 10,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        }
+      ],
+      "decode_process": {
+        "label": "verdant_shrine full decode",
+        "pid": 1968,
+        "started_utc": "2026-10-04T19:30:00.180048+00:00",
+        "finished_utc": "2026-10-04T19:30:00.429047+00:00",
+        "exit_code": 0,
+        "timed_out": false,
+        "timeout_seconds": 180,
+        "log": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\decode.log",
+          "bytes": 2254,
+          "sha256": "BF814301CE5C0A655C6D4376E381E71783E7F2C4E6B45FA515AB83992D9F8B6D"
+        }
+      },
+      "observations": [
+        "Bird silhouettes travel across the upper valley between the samples and clear the central platform.",
+        "Native waterfall crops show changing irregular bright/dark ribbons and small refraction offsets confined to the cascade. Stone cliff and temple edges retain their positions.",
+        "Mist and lagoon shading vary subtly around the waterfall foot; foliage changes remain restrained rather than moving the whole artwork."
+      ],
+      "readability": "The fighting area is foreground stone; bird activity is high in the valley and water activity stays on the painted falls. All four fighters and ledges remain readable.",
+      "limits": [
+        "Water and mist movement is subtle in separated still samples; the stored 60 FPS clip is the continuous preview. This receipt is assistant sample inspection, not a continuous human viewing claim."
+      ]
+    },
+    {
+      "arena": "abyssal_observatory",
+      "quality": "High",
+      "passed": true,
+      "reviewed": true,
+      "movie": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\ambient.mp4",
+        "bytes": 3249447,
+        "sha256": "7139060FF441B7BED5B1C7E423FC99B546384AE1C64F22FAE19ABA3F57F1FFFE",
+        "width": 1600,
+        "height": 900,
+        "fps": 60.0,
+        "duration_seconds": 12.0,
+        "video_frames": 720,
+        "timing_samples": 720,
+        "timescale": 15360,
+        "duration_ticks": 184320,
+        "decoded": true,
+        "reviewed": true,
+        "audio": false
+      },
+      "report_file": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\living_background_review.json",
+        "bytes": 11501,
+        "sha256": "F95ECF85489680774600374325D8B3E1FD7387075645BA88CE312BF64D0A1CE9"
+      },
+      "source_states": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\abyssal_observatory_high_movie_t0000_state.json",
+          "bytes": 249444,
+          "sha256": "A84B88DBE9B0C0768DBECF23E67BDE2C5824BA940B78885C8AAE51674FC4C065",
+          "seconds": 0.0,
+          "tick": 0
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\abyssal_observatory_high_movie_t0120_state.json",
+          "bytes": 249569,
+          "sha256": "790EC4415D9754D921825781C6E68D869909C31FDFF2A6B2C28EEAF9825DACD7",
+          "seconds": 2.0,
+          "tick": 120
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\abyssal_observatory_high_movie_t0300_state.json",
+          "bytes": 249527,
+          "sha256": "7FB60E4D487B82FDEF547432AC607F9FED5EAB63162F21543BE17601998FDBAF",
+          "seconds": 5.0,
+          "tick": 300
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\abyssal_observatory_high_movie_t0600_state.json",
+          "bytes": 249712,
+          "sha256": "B0A5F4342F55936C5DBFA96090EC4DEEC6ECCA0A2A1A9D10B83FD34D70DEF554",
+          "seconds": 10.0,
+          "tick": 600
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\abyssal_observatory_high_movie_t0720_state.json",
+          "bytes": 249701,
+          "sha256": "AD193D7C905B8413F944F7B72D8F27150453C8CC2C792804F32F762DB9E0503E",
+          "seconds": 12.0,
+          "tick": 720
+        }
+      ],
+      "samples": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\review\\t00.png",
+          "bytes": 2151831,
+          "sha256": "0DFFF96CB029D093E8C37B6C3A02DAE35193A4CCE7B295249A76AB25080D8B0C",
+          "seconds": 0,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\review\\t02.png",
+          "bytes": 2228021,
+          "sha256": "133EABDB83EB58059DDCD0770E1A2601D2E4CCCEC1E4F1ED7658FB358895579F",
+          "seconds": 2,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\review\\t05.png",
+          "bytes": 2224919,
+          "sha256": "A7604CC5D414C53E310D207062CCAED506030C38AE2B74813FC106287ECC1AC8",
+          "seconds": 5,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\review\\t10.png",
+          "bytes": 2246484,
+          "sha256": "B195F84285B1FD75E09C324417F6589C2364F1475ABB66BA776D6AD4F8DC3C14",
+          "seconds": 10,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        }
+      ],
+      "decode_process": {
+        "label": "abyssal_observatory full decode",
+        "pid": 13024,
+        "started_utc": "2026-10-04T19:30:41.615068+00:00",
+        "finished_utc": "2026-10-04T19:30:41.868898+00:00",
+        "exit_code": 0,
+        "timed_out": false,
+        "timeout_seconds": 180,
+        "log": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\decode.log",
+          "bytes": 2264,
+          "sha256": "4DBBD5AF1D339C4FBDB4F430DBB5A9A1A36ED43625410A230F6728FA9EE0DDDB"
+        }
+      },
+      "observations": [
+        "Fish schools visibly travel laterally: the near window school crosses from the left toward the middle, while the lower right school swims left across the undercroft over 0/2/5/10 seconds.",
+        "Jellyfish occupy changing positions; their bell proportions and trailing-filament shapes change. The right jellyfish rises while the left jellyfish drifts downward and left.",
+        "A manta traverses the right window and exits to the right; the second manta glides past the lower left. The painted whale and reef remain a stable distant layer."
+      ],
+      "readability": "Fish, manta and jellyfish are behind the gallery. They make the window clearly active without covering the fighters or producing a central opaque layer.",
+      "limits": [
+        "The large whale and some distant fish are part of the supplied painted image; this review does not claim every painted animal is independently animated."
+      ]
+    },
+    {
+      "arena": "ember_foundry",
+      "quality": "High",
+      "passed": true,
+      "reviewed": true,
+      "movie": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\ambient.mp4",
+        "bytes": 4602101,
+        "sha256": "4B187E95EDD100E8EB6FC175C814BBA8C3BCC7BC83332B7DCB922CCC7E4559F4",
+        "width": 1600,
+        "height": 900,
+        "fps": 60.0,
+        "duration_seconds": 12.0,
+        "video_frames": 720,
+        "timing_samples": 720,
+        "timescale": 15360,
+        "duration_ticks": 184320,
+        "decoded": true,
+        "reviewed": true,
+        "audio": false
+      },
+      "report_file": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\living_background_review.json",
+        "bytes": 7427,
+        "sha256": "C41D03B77B9F3676FDD4DE5B39558673DF527BC3FBEB371D894BA4F5ED612B4B"
+      },
+      "source_states": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\ember_foundry_high_movie_t0000_state.json",
+          "bytes": 394585,
+          "sha256": "79D753C1B08A096DBD471B3ABBB4B9404DEA9F8C5D81B1AE53468B81B6EDE7AE",
+          "seconds": 0.0,
+          "tick": 0
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\ember_foundry_high_movie_t0120_state.json",
+          "bytes": 394649,
+          "sha256": "647CAD8C5058615E0203595AED1C7B0FAA2D2016B8415E6AC72288970B0BCBEF",
+          "seconds": 2.0,
+          "tick": 120
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\ember_foundry_high_movie_t0300_state.json",
+          "bytes": 394646,
+          "sha256": "E99F27CC44F4DC5D85F218D9EA2F491C01D93DC1E73829E2BD1C57C5E67D4300",
+          "seconds": 5.0,
+          "tick": 300
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\ember_foundry_high_movie_t0600_state.json",
+          "bytes": 394726,
+          "sha256": "3B62C0CC2220A92B3C6FFE61CDF11829FFE5628120DCBC4454AD963D58DB01AF",
+          "seconds": 10.0,
+          "tick": 600
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\ember_foundry_high_movie_t0720_state.json",
+          "bytes": 394726,
+          "sha256": "08B2054ECE1AFA12AB0E554CC5A5F0F00C5D6B2A4B9C52B6441A58D81FDAC31C",
+          "seconds": 12.0,
+          "tick": 720
+        }
+      ],
+      "samples": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\review\\t00.png",
+          "bytes": 2447555,
+          "sha256": "94CBB2D5AF5086D867113B2740A33295D580402F75C08CA96B2577BC61FBF09D",
+          "seconds": 0,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\review\\t02.png",
+          "bytes": 2498951,
+          "sha256": "FD2209472DE816B40C158A25110FEABD86BCE02F99DAB43DC7870FC802F2561F",
+          "seconds": 2,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\review\\t05.png",
+          "bytes": 2481475,
+          "sha256": "022CAC04A7697EFFF02F501C925E7452EB1554FCB9BFBBF6001EE8621BA7CCC5",
+          "seconds": 5,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\review\\t10.png",
+          "bytes": 2491755,
+          "sha256": "1E14A763F224F99FA8F994E92CAD39180BF4B0ECCBBAA6E027B29D72FE2AAEF5",
+          "seconds": 10,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true
+        }
+      ],
+      "decode_process": {
+        "label": "ember_foundry full decode",
+        "pid": 11960,
+        "started_utc": "2026-10-04T19:31:24.428653+00:00",
+        "finished_utc": "2026-10-04T19:31:24.684366+00:00",
+        "exit_code": 0,
+        "timed_out": false,
+        "timeout_seconds": 180,
+        "log": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\decode.log",
+          "bytes": 2252,
+          "sha256": "737533539F2CFE407CE40052CC6D03ABD2EFE69CC035CC631E5178B71041EC85"
+        }
+      },
+      "observations": [
+        "Native spillway crops show orange molten ribbons with cooled/bright streaks at different heights over 0/2/5/10 seconds. Advected material coordinates run downstream in the reviewed shader source.",
+        "The left and right flywheel spokes turn between sample times, while their housings and chain routes remain fixed.",
+        "Smoke and ember placements change around the rear structures. The molten palette stays orange and copper rather than the earlier pale cream."
+      ],
+      "readability": "Molten streams stay at the sides and behind the arena. Rear smoke remains thin, leaving the central fighters and platform lips clear.",
+      "limits": [
+        "Direction of flow is supported by the moving-material source and local changes in sampled frames; four stills alone do not establish continuous motion smoothness."
+      ]
+    }
+  ],
+  "limitations": [
+    "Assistant sampled-frame inspection is not continuous human viewing and may miss transient defects between samples.",
+    "MP4 clips are measured native 1600x900, 60 FPS, 720 frames, 12 seconds. The source window is 1920x1080; movies were not upscaled and are not 1080p media.",
+    "Fixed-FPS movie capture and saved scene-clock checks do not measure real-time performance.",
+    "The four players remain at fixed positions in ambient fixtures; combat readability under active gameplay is covered separately.",
+    "The clips have no audio. Human playtesting, physical controllers, and audio quality are not tested by this receipt.",
+    "Decode completion and file hashes establish evidence identity and media integrity; visible-quality findings are recorded separately above."
+  ]
+}

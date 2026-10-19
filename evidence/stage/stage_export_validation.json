@@ -1,0 +1,106 @@
+[
+  {
+    "file": "center_platform.glb",
+    "bytes": 1966816,
+    "meshes": 5,
+    "materials": 5,
+    "local_bounds_min": [
+      -1.75,
+      -0.3449999690055847,
+      -0.8250000476837158
+    ],
+    "local_bounds_max": [
+      1.75,
+      1.3317912817001343e-07,
+      0.6520000100135803
+    ],
+    "node_names": [
+      "center_platform__Brass",
+      "center_platform__Graphite",
+      "center_platform__Lighting",
+      "center_platform__Slate",
+      "center_platform__Teak"
+    ]
+  },
+  {
+    "file": "party_chair.glb",
+    "bytes": 1829096,
+    "meshes": 3,
+    "materials": 3,
+    "local_bounds_min": [
+      -0.31050002574920654,
+      4.656612873077393e-10,
+      -0.4019888639450073
+    ],
+    "local_bounds_max": [
+      0.3105000853538513,
+      0.961765706539154,
+      0.31800004839897156
+    ],
+    "node_names": [
+      "Party chair__brass",
+      "Party chair__linen",
+      "Party chair__wood"
+    ]
+  },
+  {
+    "file": "stage.glb",
+    "bytes": 19901208,
+    "meshes": 42,
+    "materials": 24,
+    "local_bounds_min": [
+      -11.66403865814209,
+      -40.0,
+      -11.950000762939453
+    ],
+    "local_bounds_max": [
+      11.551461219787598,
+      6.438767910003662,
+      1.0605000257492065
+    ],
+    "node_names": [
+      "architecture__Brass",
+      "architecture__Glass",
+      "architecture__Graphite",
+      "architecture__Hospitality",
+      "architecture__Hospitality.001",
+      "architecture__Linen",
+      "architecture__Pool",
+      "architecture__Slate",
+      "architecture__Teak",
+      "architecture__Teak.001",
+      "architecture__Travertine",
+      "balustrade__Glass",
+      "Crowd__Graphite",
+      "Crowd__Guests",
+      "Crowd__Guests.001",
+      "Crowd__Guests.002",
+      "fixed_platforms__Brass",
+      "fixed_platforms__Graphite",
+      "fixed_platforms__Lighting",
+      "fixed_platforms__Slate",
+      "fixed_platforms__Teak",
+      "furniture__Brass",
+      "furniture__Glass",
+      "furniture__Graphite",
+      "furniture__Linen",
+      "furniture__Teak",
+      "furniture__Travertine",
+      "planting__Foliage",
+      "planting__Foliage.001",
+      "planting__Palm",
+      "planting__Planter",
+      "planting__Travertine",
+      "ReactionGlow__Lighting",
+      "ReactionGlow__Lighting.001",
+      "signage__Brass",
+      "signage__Lighting",
+      "signage__Linen",
+      "signage__Slate",
+      "Vents__Brass",
+      "Vents__Graphite",
+      "Water__Water",
+      "WaterDetail__Pool"
+    ]
+  }
+]

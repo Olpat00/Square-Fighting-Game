@@ -1,0 +1,14 @@
+{
+  "fighter": "f07_urban_sentinel",
+  "changed_clips": [
+    "shield_hold"
+  ],
+  "changed_bones": [
+    "spine",
+    "chest"
+  ],
+  "all_other_clips_unchanged": true,
+  "clip_seconds_preserved": 1.0,
+  "previous_curated_sha256": "2a3a32cd8e79ba2c3bc663c25d20ce30a2c1c496a7ce430d8d49565a8c866cbf",
+  "new_curated_sha256": "def849e51b7d4bf2bd4fb97e445ddb75fa0d95c88fb47ff2ed66fde56c89fdf2"
+}

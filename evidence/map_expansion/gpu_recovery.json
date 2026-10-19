@@ -1,0 +1,10 @@
+{
+  "checked_utc": "2026-10-04T01:40:22.4337157Z",
+  "gpu": "NVIDIA GeForce RTX4080SUPER",
+  "driver": "610.88",
+  "recovered": true,
+  "last_boot_utc": "2026-10-04T01:35:53.5000000Z",
+  "runtime_files": 515,
+  "source_build_gate_match": true,
+  "runtime_sha256": "6790E9229EF67703A2C07575C2B37F8DFFCAE88AD97533CAC3BA9DB488B118AC"
+}

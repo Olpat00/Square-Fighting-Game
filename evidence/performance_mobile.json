@@ -1,0 +1,126 @@
+{
+  "captured_pixel_size": "(1920, 1080)",
+  "connected_controllers": [],
+  "contacts": 88,
+  "engine": "4.7.2-stable (official)",
+  "fighters": [
+    {
+      "damage": 154.28,
+      "id": "f01_clutch",
+      "position": "(-6.936624, 0.0, 0.0)",
+      "state": "attack",
+      "stocks": 3
+    },
+    {
+      "damage": 128.776,
+      "id": "f02_sunstruck",
+      "position": "(-7.957686, 0.0, 0.0)",
+      "state": "hitstun",
+      "stocks": 2
+    },
+    {
+      "damage": 39.725,
+      "id": "f03_heavy_duty",
+      "position": "(-8.855065, -8.255257, 0.0)",
+      "state": "eliminated",
+      "stocks": 0
+    },
+    {
+      "damage": 39.0,
+      "id": "f04_deadfall",
+      "position": "(-3.84655, 0.0, 0.0)",
+      "state": "dodge",
+      "stocks": 2
+    }
+  ],
+  "frame_spikes": [],
+  "frames_over_16_667ms": 0,
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "kos": [
+    {
+      "assists": [
+        3
+      ],
+      "credited": 3,
+      "tick": 298,
+      "victim": 1
+    },
+    {
+      "assists": [
+        0
+      ],
+      "credited": 0,
+      "tick": 539,
+      "victim": 2
+    },
+    {
+      "assists": [
+        0,
+        3,
+        1
+      ],
+      "credited": 3,
+      "tick": 1886,
+      "victim": 2
+    },
+    {
+      "assists": [
+        0,
+        2,
+        1
+      ],
+      "credited": 0,
+      "tick": 2704,
+      "victim": 3
+    },
+    {
+      "assists": [
+        0,
+        3,
+        1
+      ],
+      "credited": 1,
+      "tick": 2713,
+      "victim": 2
+    }
+  ],
+  "logical_viewport": "(1600.0, 900.0)",
+  "mean_frame_ms": 0.633702043999958,
+  "memory_static": 125467348.0,
+  "nodes": 264.0,
+  "objects": 1,
+  "p95_frame_ms": 0.929,
+  "p99_frame_ms": 1.447,
+  "peak_draw_calls": 153.0,
+  "peak_primitives": 397782.0,
+  "peak_video_memory_bytes": 614989392.0,
+  "profile_mode": true,
+  "render_frames": 94216,
+  "render_texture_pixels": "(2304.0, 1296.0)",
+  "renderer": "mobile",
+  "sample_clock": "Time.get_ticks_usec between process callbacks; unsmoothed wall time",
+  "sample_count": 93591,
+  "sample_sum_ms": 59308.8080000001,
+  "sample_window_ms": 59308.808,
+  "settings": {
+    "blood": true,
+    "effects": 0.85,
+    "flashes": 0.45,
+    "fullscreen": false,
+    "graphics": "High",
+    "master": 0.8,
+    "music": 0.36,
+    "profanity": false,
+    "resolution": "1920x1080",
+    "rumble": 0.5,
+    "shake": 0.5,
+    "ui_scale": 1.0
+  },
+  "ticks": 3600,
+  "wall_seconds": 61.325,
+  "warmup_seconds": 2,
+  "window_pixels": "(1920, 1080)",
+  "worst_frame_ms": 13.621,
+  "measured_started_utc": "2026-09-28T18:01:58.6920237Z",
+  "measured_finished_utc": "2026-09-28T18:03:01.4789598Z"
+}

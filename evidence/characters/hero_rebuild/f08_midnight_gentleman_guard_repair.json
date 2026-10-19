@@ -1,0 +1,14 @@
+{
+  "fighter": "f08_midnight_gentleman",
+  "changed_clips": [
+    "shield_hold"
+  ],
+  "changed_bones": [
+    "spine",
+    "chest"
+  ],
+  "all_other_clips_unchanged": true,
+  "clip_seconds_preserved": 1.0,
+  "previous_curated_sha256": "41b1549d17f2fc9aa9b15dcbaa3f1e30bdfb5dd8ef40b39b611fd51748a83139",
+  "new_curated_sha256": "50982e70974e74f4e632a2b1bd171287f484ceb876ce480e65679f1fcaabeb02"
+}

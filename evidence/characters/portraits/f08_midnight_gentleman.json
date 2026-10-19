@@ -1,0 +1,16 @@
+{
+  "fighter_id": "f08_midnight_gentleman",
+  "source_scene": "source_art\\characters\\f08_midnight_gentleman\\curated.blend",
+  "editable_studio": "source_art\\characters\\f08_midnight_gentleman\\portrait_studio.blend",
+  "image": "evidence\\characters\\portraits\\f08_midnight_gentleman.png",
+  "resolution": [
+    768,
+    768
+  ],
+  "render_device": "OPTIX: NVIDIA GeForce RTX 4080 SUPER",
+  "curated_source_sha256": "8434565dcd6b33ce6d8da086d6c682c8cd2a2bc2766b51f98b7230edc4c6f338",
+  "curated_source_unchanged": true,
+  "albedo_repainted": false,
+  "style": "Actual source-derived chest portrait; warm side key, cool rim and physical midnight backdrop",
+  "camera_ortho_size": 0.95
+}

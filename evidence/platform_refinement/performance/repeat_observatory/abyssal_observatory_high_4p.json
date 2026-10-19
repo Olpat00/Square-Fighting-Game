@@ -1,0 +1,72 @@
+{
+  "active_fighter_samples": {
+    "4": 45807
+  },
+  "arena": "abyssal_observatory",
+  "captured_pixels": "(1920, 1080)",
+  "completed_matches": [],
+  "contacts": 101,
+  "duration_seconds": 60.000158,
+  "engine": "4.7.2-stable (official)",
+  "frame_intervals": {
+    "available": true,
+    "count": 45807,
+    "max_ms": 48.151,
+    "mean_ms": 1.30984692295937,
+    "over_16_667": 1,
+    "p95_ms": 2.258,
+    "p99_ms": 3.263
+  },
+  "gpu_name": "NVIDIA GeForce RTX 4080 SUPER",
+  "logical_viewport": "(1600.0, 900.0)",
+  "measurement_note": "Frame intervals are monotonic process-frame intervals. Viewport CPU/GPU uses RenderingServer measured render time; process/physics are engine callback monitors. These are separate overlapping measurements, not additive.",
+  "peak_draws": 1034.0,
+  "peak_primitives": 282241.0,
+  "peak_vram_bytes": 525524672.0,
+  "physics_callback": {
+    "available": true,
+    "count": 45807,
+    "max_ms": 6.985,
+    "mean_ms": 3.35280251926547,
+    "over_16_667": 0,
+    "p95_ms": 5.761,
+    "p99_ms": 6.985
+  },
+  "players": 4,
+  "process_callback": {
+    "available": true,
+    "count": 45807,
+    "max_ms": 44.474,
+    "mean_ms": 3.57420726089939,
+    "over_16_667": 829,
+    "p95_ms": 4.545,
+    "p99_ms": 44.474
+  },
+  "quality": "High",
+  "readback_inside_sample_window": false,
+  "render_cap": 0,
+  "renderer": "forward_plus",
+  "simulation_ticks_in_sample_window": 3600,
+  "tick": 3784,
+  "viewport_render_cpu": {
+    "available": true,
+    "count": 45807,
+    "max_ms": 3.31599998474121,
+    "mean_ms": 0.455937105655243,
+    "over_16_667": 0,
+    "p95_ms": 0.711000025272369,
+    "p99_ms": 1.05400002002716
+  },
+  "viewport_render_gpu": {
+    "available": true,
+    "count": 45807,
+    "max_ms": 0.874000012874603,
+    "mean_ms": 0.776853734237531,
+    "over_16_667": 0,
+    "p95_ms": 0.814999997615814,
+    "p99_ms": 0.825999975204468
+  },
+  "vsync": "disabled",
+  "warmup_seconds": 3,
+  "window_pixels": "(1920, 1080)"
+}

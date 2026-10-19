@@ -1,0 +1,16 @@
+{
+  "fighter_id": "f05_fine_print",
+  "source_scene": "source_art\\characters\\f05_fine_print\\curated.blend",
+  "editable_studio": "source_art\\characters\\f05_fine_print\\portrait_studio.blend",
+  "image": "evidence\\characters\\portraits\\f05_fine_print.png",
+  "resolution": [
+    768,
+    768
+  ],
+  "render_device": "OPTIX: NVIDIA GeForce RTX 4080 SUPER",
+  "curated_source_sha256": "8aae33d10a87b289bc34ea172821aba1653415e4026351f488c7d831678ac408",
+  "curated_source_unchanged": true,
+  "albedo_repainted": false,
+  "style": "Actual source-derived chest portrait; warm side key, cool rim and physical midnight backdrop",
+  "camera_ortho_size": 0.95
+}

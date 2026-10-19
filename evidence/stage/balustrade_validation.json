@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "clear_material": {
+    "alphaMode": "BLEND",
+    "doubleSided": true,
+    "name": "Glass | clear terrace balustrade",
+    "pbrMetallicRoughness": {
+      "baseColorFactor": [
+        0.23999999463558197,
+        0.3700000047683716,
+        0.38999998569488525,
+        0.25
+      ],
+      "metallicFactor": 0.05000000074505806,
+      "roughnessFactor": 0.11999999731779099
+    }
+  },
+  "opaque_glass_preserved": true,
+  "pane_count": 16,
+  "stage_sha256": "0701dd93f1cebcbb9b1843781fc9205d4be35797d97d3252b01e61bf4722e642"
+}

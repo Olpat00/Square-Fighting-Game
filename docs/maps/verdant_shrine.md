@@ -1,0 +1,13 @@
+# Verdant Shrine
+
+A rainforest sanctuary above a turquoise river canyon. The approved generated distant artwork supplies ancient guardian carvings, deep layered jungle, sunlit stone towers and asymmetric waterfalls. It is framed at infinity through the shared `ArenaBackdrop` interface. The editable 3D foreground provides moss-stone fighting terraces, small tapered hanging roots, carved fascia, edge foliage, gold warning rings and turquoise spirit geysers. No distant procedural slabs or opaque water planes cover the artwork.
+
+The main deck is 20 units wide. Side terraces are 4 units wide at x ±5.8 and y 3.25. The 4-unit Heartstone platform sits at y 6.2; Party mode gives it 0.65-unit sinusoidal travel over the shared deterministic tick clock. Two inset spirit wells at x ±8 use gold warning rings followed by turquoise geysers with inherited Party timing and damage.
+
+`Game File/stages/verdant_shrine/verdant_shrine_stage.gd` is the editable foreground art source. Adjacent shaders implement moss-stone variation, bark fissures, folded leaves with wind, restrained mist, spirit wells and a very small animated refraction confined to the distant lagoon. The live foliage uses four MultiMeshes with 176 leaf instances, plus 30 small hanging moss leaves. The older local water/cascade shader sources are retained for future art authoring but are not instantiated in the delivered scene. The distant image is `Game File/assets/arenas/verdant_shrine/backdrop.png`; its generation and original master are managed by the map expansion asset pipeline.
+
+Every animation uses the stage simulation tick: pause also pauses wind, mist, pollen, distant water shimmer and hazards. Reset restores the scenery clock and pollen transforms to zero. Low mode removes pollen, hanging sprigs and light shafts, reduces leaf counts to one third, disables leaf motion and incidental shadows, simplifies stone shading, removes decorative local lights, disables lagoon shimmer and advanced post-processing. Returning to High restores the authored state. Collision is identical across quality tiers.
+
+The foreground recovery lane stays open. Illustrated cliffs and distant architecture provide no gameplay surfaces. Hanging roots remain below the fighting surfaces; margin vegetation stays outside the platform width. The matte gives scenery consistent visibility in both tight and wide camera views, while the near root/leaf geometry retains actual parallax.
+
+Current integrated validation and graphical evidence are recorded in `docs/VALIDATION.md` and `evidence/map_expansion/`, including collision, moving platforms, quality restoration, pause/reset behavior, match lifecycle and Windows release checks.

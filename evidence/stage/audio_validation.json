@@ -1,0 +1,209 @@
+[
+  {
+    "file": "break_prop.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": -0.0005080854427502909,
+    "nonzero_samples": 33363,
+    "clipped_samples": 0
+  },
+  {
+    "file": "hazard_fire.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": 0.0011583694350135888,
+    "nonzero_samples": 74812,
+    "clipped_samples": 0
+  },
+  {
+    "file": "hazard_warning.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": 1.4251751823001026e-05,
+    "nonzero_samples": 91514,
+    "clipped_samples": 0
+  },
+  {
+    "file": "hit_heavy_1.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": -0.000173164553741352,
+    "nonzero_samples": 43181,
+    "clipped_samples": 0
+  },
+  {
+    "file": "hit_heavy_2.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": -0.002621356724556319,
+    "nonzero_samples": 43173,
+    "clipped_samples": 0
+  },
+  {
+    "file": "hit_light_1.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.74169921875,
+    "dc_offset": -0.000692853813307317,
+    "nonzero_samples": 18463,
+    "clipped_samples": 0
+  },
+  {
+    "file": "hit_light_2.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": 0.00033729369400435313,
+    "nonzero_samples": 19637,
+    "clipped_samples": 0
+  },
+  {
+    "file": "hit_light_3.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": -0.000405901815833115,
+    "nonzero_samples": 20818,
+    "clipped_samples": 0
+  },
+  {
+    "file": "jump.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": 0.0015163835600274336,
+    "nonzero_samples": 18497,
+    "clipped_samples": 0
+  },
+  {
+    "file": "ko.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": 0.0012381584005371053,
+    "nonzero_samples": 118735,
+    "clipped_samples": 0
+  },
+  {
+    "file": "land.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": 0.000593556514402636,
+    "nonzero_samples": 17583,
+    "clipped_samples": 0
+  },
+  {
+    "file": "last_resort_music.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.489959716796875,
+    "dc_offset": 0.0002981495327419705,
+    "nonzero_samples": 3022362,
+    "clipped_samples": 0
+  },
+  {
+    "file": "launch.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": -0.0020057755872455573,
+    "nonzero_samples": 37894,
+    "clipped_samples": 0
+  },
+  {
+    "file": "menu_back.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": -0.00010927908032730637,
+    "nonzero_samples": 16730,
+    "clipped_samples": 0
+  },
+  {
+    "file": "menu_confirm.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": -7.695712019616875e-05,
+    "nonzero_samples": 21126,
+    "clipped_samples": 0
+  },
+  {
+    "file": "menu_move.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.776397705078125,
+    "dc_offset": 0.0001841281036430776,
+    "nonzero_samples": 7915,
+    "clipped_samples": 0
+  },
+  {
+    "file": "meter_ready.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": -7.719355645904194e-06,
+    "nonzero_samples": 96872,
+    "clipped_samples": 0
+  },
+  {
+    "file": "parry.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": -6.971409711888228e-06,
+    "nonzero_samples": 52829,
+    "clipped_samples": 0
+  },
+  {
+    "file": "rooftop_ambience.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.489959716796875,
+    "dc_offset": 0.00014834022666141108,
+    "nonzero_samples": 1058170,
+    "clipped_samples": 0
+  },
+  {
+    "file": "shield.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": -0.00014475351476607058,
+    "nonzero_samples": 29079,
+    "clipped_samples": 0
+  },
+  {
+    "file": "swing.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": 0.00747119168305343,
+    "nonzero_samples": 21994,
+    "clipped_samples": 0
+  },
+  {
+    "file": "ultimate.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": 0.00026214881735947586,
+    "nonzero_samples": 57307,
+    "clipped_samples": 0
+  },
+  {
+    "file": "victory.wav",
+    "channels": 2,
+    "sample_rate": 44100,
+    "peak": 0.77996826171875,
+    "dc_offset": -6.937818462345876e-06,
+    "nonzero_samples": 140998,
+    "clipped_samples": 0
+  }
+]

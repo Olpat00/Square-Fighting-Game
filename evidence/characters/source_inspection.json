@@ -1,0 +1,279 @@
+[
+  {
+    "source": "Assets\\Damion\\Meshy_AI_Roman_Warrior_0920200819_texture.glb",
+    "sha256": "25d03e6fa3471cc6ea6f1b92f48720a1b65099fda06966331b5c9b287937ca77",
+    "bounds_blender": [
+      [
+        -0.47947001457214355,
+        -0.19774100184440613,
+        -0.9523040056228638
+      ],
+      [
+        0.4787369966506958,
+        0.18979500234127045,
+        0.9457949995994568
+      ]
+    ],
+    "objects": [
+      {
+        "name": "mesh_node",
+        "type": "MESH",
+        "vertices": 1038271,
+        "polygons": 1991776,
+        "materials": [
+          "material"
+        ],
+        "uv_layers": 1,
+        "vertex_groups": [],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [
+      {
+        "name": "base_color",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "metallic_roughness",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "normal",
+        "size": [
+          2048,
+          2048
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Assets\\Jaydon\\Meshy_AI_Casual_Confidence_0920200803_texture.glb",
+    "sha256": "79e0611f7830dbabf076e7ed7903ffc04b440dc7fefd0a858bb1cccaefd91f01",
+    "bounds_blender": [
+      [
+        -0.46575498580932617,
+        -0.18219000101089478,
+        -0.9524520039558411
+      ],
+      [
+        0.4657129943370819,
+        0.18413500487804413,
+        0.9516909718513489
+      ]
+    ],
+    "objects": [
+      {
+        "name": "mesh_node.001",
+        "type": "MESH",
+        "vertices": 1027463,
+        "polygons": 1981988,
+        "materials": [
+          "material.001"
+        ],
+        "uv_layers": 1,
+        "vertex_groups": [],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [
+      {
+        "name": "base_color.001",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "metallic_roughness.001",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "normal.001",
+        "size": [
+          2048,
+          2048
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Assets\\Josh\\Meshy_AI_Casual_Confidence_0920200745_texture.glb",
+    "sha256": "bd0dc51b3d1dd0ae6f94caf90fa1ffd5d2e47f071de5270b7abd5f7c7e377086",
+    "bounds_blender": [
+      [
+        -0.5020959973335266,
+        -0.1755570024251938,
+        -0.9524250030517578
+      ],
+      [
+        0.5020819902420044,
+        0.17516300082206726,
+        0.9506840109825134
+      ]
+    ],
+    "objects": [
+      {
+        "name": "mesh_node.002",
+        "type": "MESH",
+        "vertices": 993313,
+        "polygons": 1919780,
+        "materials": [
+          "material.002"
+        ],
+        "uv_layers": 1,
+        "vertex_groups": [],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [
+      {
+        "name": "base_color.002",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "metallic_roughness.002",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "normal.002",
+        "size": [
+          2048,
+          2048
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Assets\\Wes\\Meshy_AI_Colts_Quarter_Zip_Stu_0920200835_texture.glb",
+    "sha256": "a6b5f4a2d86d268ed54fb380af0fa836249c48f547779a9eb1c269592a9aac0b",
+    "bounds_blender": [
+      [
+        -0.37782400846481323,
+        -0.16843099892139435,
+        -0.9519249796867371
+      ],
+      [
+        0.3762210011482239,
+        0.16968999803066254,
+        0.9506580233573914
+      ]
+    ],
+    "objects": [
+      {
+        "name": "mesh_node.003",
+        "type": "MESH",
+        "vertices": 918864,
+        "polygons": 1779734,
+        "materials": [
+          "material.003"
+        ],
+        "uv_layers": 1,
+        "vertex_groups": [],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [
+      {
+        "name": "base_color.003",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "emissive",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "metallic_roughness.003",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "normal.003",
+        "size": [
+          2048,
+          2048
+        ]
+      }
+    ]
+  },
+  {
+    "source": "Assets\\Will\\Meshy_AI_Tropical_Street_Fight_0920200858_texture.glb",
+    "sha256": "bdc32ec43aa35428b8199f4f874271eb99b39d6110b6ca66f699ade66bbb2d78",
+    "bounds_blender": [
+      [
+        -0.35403499007225037,
+        -0.1679929941892624,
+        -0.9524189829826355
+      ],
+      [
+        0.35381001234054565,
+        0.1767140030860901,
+        0.946461021900177
+      ]
+    ],
+    "objects": [
+      {
+        "name": "Mesh_0",
+        "type": "MESH",
+        "vertices": 699736,
+        "polygons": 1304502,
+        "materials": [
+          "Material_0"
+        ],
+        "uv_layers": 1,
+        "vertex_groups": [],
+        "modifiers": []
+      }
+    ],
+    "actions": [],
+    "images": [
+      {
+        "name": "Image_0",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_1",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_2",
+        "size": [
+          2048,
+          2048
+        ]
+      }
+    ]
+  }
+]

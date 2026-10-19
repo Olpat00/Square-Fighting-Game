@@ -1,0 +1,92 @@
+[
+  {
+    "case": "rooftop_riot_high_4p",
+    "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\rooftop_riot_high_4p.json",
+    "frame_p95_ms": 2.11,
+    "frame_p99_ms": 2.81,
+    "gpu_p95_ms": 1.35899996757507,
+    "cpu_p95_ms": 0.351999998092651,
+    "peak_draws": 296.0
+  },
+  {
+    "case": "rooftop_riot_low_4p",
+    "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\rooftop_riot_low_4p.json",
+    "frame_p95_ms": 1.278,
+    "frame_p99_ms": 1.917,
+    "gpu_p95_ms": 0.616999983787537,
+    "cpu_p95_ms": 0.203999996185303,
+    "peak_draws": 247.0
+  },
+  {
+    "case": "lunar_reach_high_4p",
+    "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\lunar_reach_high_4p.json",
+    "frame_p95_ms": 1.962,
+    "frame_p99_ms": 2.605,
+    "gpu_p95_ms": 0.986000001430511,
+    "cpu_p95_ms": 0.541999995708466,
+    "peak_draws": 1094.0
+  },
+  {
+    "case": "lunar_reach_low_4p",
+    "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\lunar_reach_low_4p.json",
+    "frame_p95_ms": 1.085,
+    "frame_p99_ms": 1.759,
+    "gpu_p95_ms": 0.382999986410141,
+    "cpu_p95_ms": 0.363000005483627,
+    "peak_draws": 825.0
+  },
+  {
+    "case": "verdant_shrine_high_4p",
+    "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\verdant_shrine_high_4p.json",
+    "frame_p95_ms": 1.583,
+    "frame_p99_ms": 2.2,
+    "gpu_p95_ms": 0.734000027179718,
+    "cpu_p95_ms": 0.298000007867813,
+    "peak_draws": 301.0
+  },
+  {
+    "case": "verdant_shrine_low_4p",
+    "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\verdant_shrine_low_4p.json",
+    "frame_p95_ms": 0.86,
+    "frame_p99_ms": 1.668,
+    "gpu_p95_ms": 0.323000013828278,
+    "cpu_p95_ms": 0.203999996185303,
+    "peak_draws": 250.0
+  },
+  {
+    "case": "abyssal_observatory_high_4p",
+    "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\abyssal_observatory_high_4p.json",
+    "frame_p95_ms": 2.178,
+    "frame_p99_ms": 8.456,
+    "gpu_p95_ms": 0.828999996185303,
+    "cpu_p95_ms": 0.564000010490417,
+    "peak_draws": 1043.0
+  },
+  {
+    "case": "abyssal_observatory_low_4p",
+    "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\abyssal_observatory_low_4p.json",
+    "frame_p95_ms": 1.247,
+    "frame_p99_ms": 1.906,
+    "gpu_p95_ms": 0.34400001168251,
+    "cpu_p95_ms": 0.273000001907349,
+    "peak_draws": 346.0
+  },
+  {
+    "case": "ember_foundry_high_4p",
+    "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\ember_foundry_high_4p.json",
+    "frame_p95_ms": 1.762,
+    "frame_p99_ms": 2.463,
+    "gpu_p95_ms": 1.00300002098084,
+    "cpu_p95_ms": 0.425000011920929,
+    "peak_draws": 656.0
+  },
+  {
+    "case": "ember_foundry_low_4p",
+    "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\final\\ember_foundry_low_4p.json",
+    "frame_p95_ms": 38.051,
+    "frame_p99_ms": 58.801,
+    "gpu_p95_ms": 9.44200038909912,
+    "cpu_p95_ms": 1.00899994373322,
+    "peak_draws": 425.0
+  }
+]

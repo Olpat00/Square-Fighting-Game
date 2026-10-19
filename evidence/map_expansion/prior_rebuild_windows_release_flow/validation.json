@@ -1,0 +1,281 @@
+{
+  "started_utc": "2026-10-03T20:46:08.9775815Z",
+  "passed": true,
+  "build_unchanged_during_validation": true,
+  "runtime_source_hashes_verified_before": 467,
+  "runtime_source_hashes_verified_after": 467,
+  "executable": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe",
+  "pck": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.pck",
+  "pck_ui_harness": {
+    "executable": "D:\\Game Engines\\Godot\\Godot_v4.7.2-stable_win64_console.exe",
+    "command": "\"D:\\Game Engines\\Godot\\Godot_v4.7.2-stable_win64_console.exe\" --path \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\" --main-pack \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.pck\" --script \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\tools\\validation\\ui_flow.gd\" --rendering-method forward_plus --log-file \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\windows_release_flow\\engine.log\" -- \"--evidence-root=C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/windows_release_flow\"",
+    "started_utc": "2026-10-03T20:46:09.9893195Z",
+    "finished_utc": "2026-10-03T20:48:03.7136636Z",
+    "exit_code": 0,
+    "timed_out": false,
+    "errors": [],
+    "warnings": [],
+    "engine_log": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\windows_release_flow\\engine.log",
+    "log": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\windows_release_flow\\ui_flow.log",
+    "checks": 78,
+    "passed": true,
+    "scope": "Matching editor engine loads the explicit exported PCK and runs the external UI harness. This is not execution by the release EXE.",
+    "engine_sha256": "C8F0A6BC45A19B33541501E57F6F7CD972AB18453743266339D495CBBE846643",
+    "engine_version": "4.7.2.stable.official.ed1daf0bf",
+    "expected_checks": 78,
+    "captured_images": [
+      {
+        "path": "integration/title.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1811747,
+        "sha256": "027C49308FAC17C3AC1F51B834E209C31C85EF92F567524432853BCE8453D7BC"
+      },
+      {
+        "path": "integration/selection.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 849455,
+        "sha256": "645FD4BC7BBEBFC23E99B2F5D42C0F34AF08C1B850221C09C56B927797572580"
+      },
+      {
+        "path": "integration/settings.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 588832,
+        "sha256": "E7071EFA382A848248E485235D6FDD4C1AF1B3D72C8DD08B4145B9368123D736"
+      },
+      {
+        "path": "integration/training.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1778670,
+        "sha256": "DAD3E9325E0096F2EFB70ADD5E3122D80BABAC71301E6A2C95B90EE0E423324F"
+      },
+      {
+        "path": "integration/training_tips_scale125.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1781440,
+        "sha256": "EB1100A451798F99CC300D515C9B1A704FC277DD07AD7A654F50C8043ADAF826"
+      },
+      {
+        "path": "integration/training_recording.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1773107,
+        "sha256": "53517FE8368143487F492AF07A7829EE9AEEAE2A6C53F59E2CCE517708F1841F"
+      },
+      {
+        "path": "integration/training_replay.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1772420,
+        "sha256": "6221C50BE6582FE28AD85082480157EBBB0CCAD2824D86F4771EAE9D75D96F56"
+      },
+      {
+        "path": "integration/pause.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1224622,
+        "sha256": "6E1E318BC68EE49D2C927E4C3BAC08C1DCB69C2C9C26FB3BEA0E32E6A935D37B"
+      },
+      {
+        "path": "integration/results.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1711048,
+        "sha256": "DE06AE9126EAA3C0881655DDE2E06223BE5B1ED20A698A615F8A7F0F6A83B048"
+      },
+      {
+        "path": "integration/title_scale125.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1630219,
+        "sha256": "CA62A95B6BC7DB9E7F4E99D81AA3A355DD6722FF9271EB6777793A27CABBE739"
+      },
+      {
+        "path": "integration/selection_scale125.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 893642,
+        "sha256": "702F7CD1D9EDD54341645965A8055A1C108AC374767C147F59657225921F510A"
+      },
+      {
+        "path": "integration/settings_scale125.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 588568,
+        "sha256": "47A7B00F1FD05412930F383EC5299946B37CCF7FB385A2816D7D2CFC34C3C7EF"
+      },
+      {
+        "path": "integration/four_player_scale125.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1595667,
+        "sha256": "3DD0D3FF8DA05A58D52575B0AD1224A7EDDB95FCB35EB89EBED6A6137B349627"
+      },
+      {
+        "path": "integration/results_scale125.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1738605,
+        "sha256": "A182A138C7665DBB893718B15BFB357F714FF4C10FC677078919C076699297D3"
+      },
+      {
+        "path": "integration/roster_f01_clutch_selection.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 836345,
+        "sha256": "0154F6C475AE9929B30DB321A52061BFD491C90F2B4638E8E8B47B54B51A54DD"
+      },
+      {
+        "path": "integration/roster_f01_clutch_match.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1829985,
+        "sha256": "9DCCDE89998467DB7D9AAB7A46BF8C4BD20251DF19279762DDFFB54FCC38E929"
+      },
+      {
+        "path": "integration/roster_f02_sunstruck_selection.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 859402,
+        "sha256": "B67EECDBBF7B97548282A7D712A228D529E3F40685C704C934D42E5370BA1E46"
+      },
+      {
+        "path": "integration/roster_f02_sunstruck_match.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1837466,
+        "sha256": "00E6C6B8E80CED031A28349012B2D7FF129129456EFEE5B1269D856AFC1124D4"
+      },
+      {
+        "path": "integration/roster_f03_heavy_duty_selection.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 861827,
+        "sha256": "2EFC7BA3DE9C9C9369977E0FF138592BD44ABAF87BE3CFFE681FF921EB9E02A2"
+      },
+      {
+        "path": "integration/roster_f03_heavy_duty_match.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1838142,
+        "sha256": "9B5BC7D213D092C07C763FF3927B738C8C293B875EF60753B2EC99770B15E6BB"
+      },
+      {
+        "path": "integration/roster_f04_deadfall_selection.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 849702,
+        "sha256": "16DF376F5FCC2116B7E5AD5445A5731A18419E1528FE4C89AD1BDA3D2DC37D42"
+      },
+      {
+        "path": "integration/roster_f04_deadfall_match.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1832733,
+        "sha256": "43BA196E1A6467D8689C86DC805D4EFDC47F68BD6561666CDAC0F551AF8E1648"
+      },
+      {
+        "path": "integration/roster_f05_fine_print_selection.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 837090,
+        "sha256": "CDFF283D79A74F1BB943B86D56FF9787E7CE012B1FB7E64972172BC68C113139"
+      },
+      {
+        "path": "integration/roster_f05_fine_print_match.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1829615,
+        "sha256": "C31D4D73308FB8C94E9FAAF69D90534ED2739D4EDA37BD101D36DBA33C91864D"
+      },
+      {
+        "path": "integration/roster_f06_rugged_explorer_selection.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 858214,
+        "sha256": "1AFED6EE8F3CE44EEF182D3A530B91F4225DDEFC0DB149B9D752062D465F8DA5"
+      },
+      {
+        "path": "integration/roster_f06_rugged_explorer_match.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1833768,
+        "sha256": "5847BA86672D8CED2B5F2F20782EBCC0C94B0ADCC31610FAF21127BC3FE6CFF5"
+      },
+      {
+        "path": "integration/roster_f07_urban_sentinel_selection.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 845487,
+        "sha256": "FA535F8732312275C548AE5CFDC4554F17B55B38CF62073407EE4D8112AE4399"
+      },
+      {
+        "path": "integration/roster_f07_urban_sentinel_match.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1835536,
+        "sha256": "CA6B3250E947E370169922DB21EA72A2DA7E78C63C6CB7544027B7C14853EEEB"
+      },
+      {
+        "path": "integration/roster_f08_midnight_gentleman_selection.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 849000,
+        "sha256": "22909586CCD4299607B6F59836398F0C0A257A40C3574A88695214449C06E5B5"
+      },
+      {
+        "path": "integration/roster_f08_midnight_gentleman_match.png",
+        "width": 1920,
+        "height": 1080,
+        "bytes": 1831216,
+        "sha256": "DD9DE81F8AC00223F7906A55185B0DADE375B0F09FF2C3316BAB389F6B09C300"
+      }
+    ],
+    "report": "ui_flow.json",
+    "harness": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\tools\\validation\\ui_flow.gd",
+    "harness_sha256": "614B5D3FD817BAF60F684CE4E77DB93D4D26B2690376384FFB429A35EEE2FF4A"
+  },
+  "release_executable_smoke": {
+    "executable": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe",
+    "command": "\"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe\" --rendering-method forward_plus --log-file \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\windows_release_flow\\release_smoke\\engine.log\" -- --smoke --profile --frames=600 \"--evidence-root=C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/windows_release_flow/release_smoke\" --capture-tick=300 --screenshot=release_gameplay.png",
+    "started_utc": "2026-10-03T20:48:03.8120223Z",
+    "finished_utc": "2026-10-03T20:48:26.6103423Z",
+    "exit_code": 0,
+    "timed_out": false,
+    "errors": [],
+    "warnings": [],
+    "engine_log": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\windows_release_flow\\release_smoke\\engine.log",
+    "log": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\windows_release_flow\\release_smoke\\smoke.log",
+    "reported_engine_version": "4.7.2-stable (official)",
+    "ticks": 600,
+    "fighters": 4,
+    "contacts": 33,
+    "capture": {
+      "path": "release_smoke/release_gameplay.png",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 1579642,
+      "sha256": "450142B1EEE0EDD5DD6A58C860C6A4A31723377685CBCAE9A951C5729BEFB971"
+    },
+    "passed": true,
+    "report": "release_smoke/smoke_runtime.json",
+    "scope": "Actual release EXE starts its default main scene from its adjacent PCK, runs four CPU fighters for 600 fixed ticks, captures gameplay, and exits. User smoke arguments automate play; native keyboard flow is a separate check. Screenshot readback and concurrent validation make this unsuitable for performance acceptance."
+  },
+  "executable_sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562",
+  "pck_sha256": "4A6AC77347738F0A9162BDE474AADD0C51E06B73972035832A11FE4469E0F4D8",
+  "build_manifest_sha256": "57FD596636233C067B315D175F1061433682E0679107E4A9F697987C32877AEB",
+  "source_build_timestamp_utc": "2026-10-03T20:45:26.2819737Z",
+  "source_build_timestamp_origin": "build_manifest.json build_timestamp_utc (UTC kind preserved)",
+  "finished_utc": "2026-10-03T20:48:27.3753082Z",
+  "problems": [],
+  "historical_runner_failure": {
+    "report": "historical_unsupported_override.json",
+    "reason": "Original runner passed --path/--main-pack/--script to the release template. Godot 4.7.2 release templates reject path overrides and do not expose external script execution. The repaired runner separates the matching-engine PCK harness from actual release default-scene execution.",
+    "timestamp_correction": "Original failed report reparsed an already-deserialized UTC DateTime as local time, shifting its displayed build timestamp by four hours. This report preserves the manifest UTC instant and precision."
+  },
+  "scope": "Exported-PCK graphical UI harness on the matching editor engine, plus actual release EXE default-scene CPU gameplay smoke. Source inventory and EXE/PCK/manifest hashes verified before and after. No physical-controller, subjective-audio, native keyboard-flow or performance acceptance claim. Images require visual inspection."
+}

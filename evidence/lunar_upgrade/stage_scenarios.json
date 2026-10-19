@@ -1,0 +1,485 @@
+{
+  "checks": [
+    {
+      "name": "rooftop_riot starts both fighters",
+      "passed": true
+    },
+    {
+      "name": "Selected rooftop_riot",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot has exactly one active environment after switching",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot top landing 0",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot top landing 1",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot top landing 2",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot top landing 3",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot Fair Fight remains fixed and hazard free",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot solid deck wall follows actual edge -1.0",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot actual fighter catches authored ledge facing inward -1.0",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot solid deck wall follows actual edge 1.0",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot actual fighter catches authored ledge facing inward 1.0",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot swept underside matches authored deck thickness",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot Party lift and rendered surface move together",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot decorative animation leaves fixed collision planes unchanged",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot Party warns before the vent",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot Party vent becomes active",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot training disables hazards",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot rematch clears active hazard visuals during countdown",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot rematch restores this map's authored lift height",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach starts both fighters",
+      "passed": true
+    },
+    {
+      "name": "Selected lunar_reach",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach has exactly one active environment after switching",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach top landing 0",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach top landing 1",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach top landing 2",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach top landing 3",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach Fair Fight remains fixed and hazard free",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach solid deck wall follows actual edge -1.0",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach actual fighter catches authored ledge facing inward -1.0",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach solid deck wall follows actual edge 1.0",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach actual fighter catches authored ledge facing inward 1.0",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach swept underside matches authored deck thickness",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach Party lift and rendered surface move together",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach decorative animation leaves fixed collision planes unchanged",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach Party warns before the vent",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach Party vent becomes active",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach training disables hazards",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach rematch clears active hazard visuals during countdown",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach rematch restores this map's authored lift height",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine starts both fighters",
+      "passed": true
+    },
+    {
+      "name": "Selected verdant_shrine",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine has exactly one active environment after switching",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine top landing 0",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine top landing 1",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine top landing 2",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine top landing 3",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine Fair Fight remains fixed and hazard free",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine solid deck wall follows actual edge -1.0",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine actual fighter catches authored ledge facing inward -1.0",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine solid deck wall follows actual edge 1.0",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine actual fighter catches authored ledge facing inward 1.0",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine swept underside matches authored deck thickness",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine Party lift and rendered surface move together",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine decorative animation leaves fixed collision planes unchanged",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine Party warns before the vent",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine Party vent becomes active",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine training disables hazards",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine rematch clears active hazard visuals during countdown",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine rematch restores this map's authored lift height",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory starts both fighters",
+      "passed": true
+    },
+    {
+      "name": "Selected abyssal_observatory",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory has exactly one active environment after switching",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory top landing 0",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory top landing 1",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory top landing 2",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory top landing 3",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory Fair Fight remains fixed and hazard free",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory solid deck wall follows actual edge -1.0",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory actual fighter catches authored ledge facing inward -1.0",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory solid deck wall follows actual edge 1.0",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory actual fighter catches authored ledge facing inward 1.0",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory swept underside matches authored deck thickness",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory Party lift and rendered surface move together",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory decorative animation leaves fixed collision planes unchanged",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory Party warns before the vent",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory Party vent becomes active",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory training disables hazards",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory rematch clears active hazard visuals during countdown",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory rematch restores this map's authored lift height",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry starts both fighters",
+      "passed": true
+    },
+    {
+      "name": "Selected ember_foundry",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry has exactly one active environment after switching",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry top landing 0",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry top landing 1",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry top landing 2",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry top landing 3",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry Fair Fight remains fixed and hazard free",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry solid deck wall follows actual edge -1.0",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry actual fighter catches authored ledge facing inward -1.0",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry solid deck wall follows actual edge 1.0",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry actual fighter catches authored ledge facing inward 1.0",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry swept underside matches authored deck thickness",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry Party lift and rendered surface move together",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry decorative animation leaves fixed collision planes unchanged",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry Party warns before the vent",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry Party vent becomes active",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry training disables hazards",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry rematch clears active hazard visuals during countdown",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry rematch restores this map's authored lift height",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot starts both fighters",
+      "passed": true
+    },
+    {
+      "name": "Selected rooftop_riot",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot has exactly one active environment after switching",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot top landing 0",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot top landing 1",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot top landing 2",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot top landing 3",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot Fair Fight remains fixed and hazard free",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot solid deck wall follows actual edge -1.0",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot actual fighter catches authored ledge facing inward -1.0",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot solid deck wall follows actual edge 1.0",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot actual fighter catches authored ledge facing inward 1.0",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot swept underside matches authored deck thickness",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot Party lift and rendered surface move together",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot decorative animation leaves fixed collision planes unchanged",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot Party warns before the vent",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot Party vent becomes active",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot training disables hazards",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot rematch clears active hazard visuals during countdown",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot rematch restores this map's authored lift height",
+      "passed": true
+    }
+  ],
+  "failures": 0
+}

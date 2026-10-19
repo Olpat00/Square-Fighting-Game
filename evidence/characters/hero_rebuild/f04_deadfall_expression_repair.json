@@ -1,0 +1,13 @@
+{
+  "fighter": "f04_deadfall",
+  "changed_clips": [
+    "win"
+  ],
+  "changed_bones": [
+    "mouth.L",
+    "mouth.R"
+  ],
+  "all_other_clips_unchanged": true,
+  "previous_curated_sha256": "f10c681c3c902f9e06b288f47ce9999d29198d3c670480a7f8736d2b7a3f975b",
+  "new_curated_sha256": "32ca49d37cc9c13af7ece65aa2bb132b2f73ba7c747e2813040e12d27a71b73a"
+}

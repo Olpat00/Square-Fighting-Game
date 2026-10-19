@@ -1,0 +1,175 @@
+{
+  "generated_at_utc": "2026-10-03T20:50:51.1553526Z",
+  "passed": true,
+  "files": [
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f01_clutch_right\\motion.mp4",
+      "bytes": 8885918,
+      "sha256": "B6AB3761B7FF093495CA4A485C88255B6FAF690CB425E7595B37D5F7A5C8979D",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f01_clutch_right\\motion_half_speed.mp4",
+      "bytes": 12921573,
+      "sha256": "4F6E1680FB8B1F89D16E8779E98E03F709A3641C74326A56E228E17C7D1C9F00",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f02_sunstruck_right\\motion.mp4",
+      "bytes": 9474776,
+      "sha256": "32C68AD2646DB4188D95A0E953D6D41C6457DBD750FA546511EAE2D806937DA0",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f02_sunstruck_right\\motion_half_speed.mp4",
+      "bytes": 13706921,
+      "sha256": "78B2F407875C261D0EF183894D5DA621995CB770B637F6FE299CB7FB99FF5912",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f03_heavy_duty_right\\motion.mp4",
+      "bytes": 11188108,
+      "sha256": "78C7D9DAFE232835E2EE6320EBFBA772CC70DFEF90E60FDA9D3EFF2E424E74EB",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f03_heavy_duty_right\\motion_half_speed.mp4",
+      "bytes": 16260435,
+      "sha256": "FEEC36DA80C4AD8D5B9CF2E90CA15C7E39877E06622863583ADB7DCEC0187FA5",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f04_deadfall_right\\motion.mp4",
+      "bytes": 7315266,
+      "sha256": "74712A8CD67B065DB9C4DBEE1ADB44A8975A2570295510874E04305E12E6F6B5",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f04_deadfall_right\\motion_half_speed.mp4",
+      "bytes": 10533184,
+      "sha256": "E20321F1B9CF63671256F4B76FE76CB93D994659CFE2FE44215F094CDC89B1BD",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f05_fine_print_right\\motion.mp4",
+      "bytes": 8898485,
+      "sha256": "04603B8F0D76E4CB68A1A30083B6EE6BB6FE539F1D78BE1CF702BFA91489711B",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f05_fine_print_right\\motion_half_speed.mp4",
+      "bytes": 12969916,
+      "sha256": "7452A45DE89B1883D226B95BB94A8BB3D2A934A814686729914432F5BAFDC009",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f06_rugged_explorer_right\\motion.mp4",
+      "bytes": 9833389,
+      "sha256": "0BBD58FA62BB0DE2A10A560EE6E0C3A322F1504DA37879F84998893714347A4C",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f06_rugged_explorer_right\\motion_half_speed.mp4",
+      "bytes": 14392128,
+      "sha256": "4915507CD7C78998CDAD44C7DA000B154C0ED5C09B235214C5A9A324DC3490D6",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f07_urban_sentinel_right\\motion.mp4",
+      "bytes": 9064128,
+      "sha256": "EA3BCD62CD2C36D84B9DEABDFE405663CE5D05BDD70749C98DD09625CDAC0309",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f07_urban_sentinel_right\\motion_half_speed.mp4",
+      "bytes": 13140016,
+      "sha256": "B7B7A16B3122E97DD7D26782CA100DB8E2F477597B9677484858870AE2EDE73D",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f08_midnight_gentleman_right\\motion.mp4",
+      "bytes": 8921493,
+      "sha256": "3514D4A8273BDC29C02AB2D1D3762FDFB888A6EE7AB19F1CC5069B762FA83546",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion\\f08_midnight_gentleman_right\\motion_half_speed.mp4",
+      "bytes": 12978281,
+      "sha256": "2E0DC3CF33CC28232D75946249B6BA0599CCCF11B735E52098377BFACED8D0E0",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion_lunar\\f01_clutch_left\\motion.mp4",
+      "bytes": 6467966,
+      "sha256": "AC40CCB797AD5DF34BD19206D693922CFF3D4071B043564E824360E736D425FC",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion_lunar\\f01_clutch_left\\motion_half_speed.mp4",
+      "bytes": 8993918,
+      "sha256": "1C1EF875C11BB432757C30E470E3A7109108B854A6AFB0DCB547864608AAF323",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion_lunar\\f03_heavy_duty_left\\motion.mp4",
+      "bytes": 7640963,
+      "sha256": "FE7B37491574EBE71EBF88D0D7126E10711EA820B951AC3B24FA7D8C6093B1DE",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\motion_lunar\\f03_heavy_duty_left\\motion_half_speed.mp4",
+      "bytes": 10652477,
+      "sha256": "7846011D01D03FC98911582024DBFEEED00F970F9DB5F1F7E8C033F78F119DDA",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\comparison\\f01_clutch_half_speed.mp4",
+      "bytes": 6622278,
+      "sha256": "E2E154C26DA41E04BB6243F81AA84F16E64BAE784E87F96EDB9CA76143012CA3",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\comparison\\f01_clutch.mp4",
+      "bytes": 5574113,
+      "sha256": "A2FC0DBAB897DAF2D38ECC351099B4498A069C44C75BD1C834BF73147BFA6E09",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\comparison\\f03_heavy_duty_half_speed.mp4",
+      "bytes": 7636357,
+      "sha256": "202E04A1F2707F5F2C94A0CAAF5FC7A951053D9D4234652FEE65728629583E2E",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\comparison\\f03_heavy_duty.mp4",
+      "bytes": 6208392,
+      "sha256": "33B37556AB7AE927F3F4F751A6BB3F163804E996746E9454CE0237C641400B85",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\brawl\\rooftop_riot\\brawl.mp4",
+      "bytes": 18245903,
+      "sha256": "56EB0654BA82BD0CA38166EF4E8FB8F89367ACBB18D525895E399DD2337C03E9",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\brawl\\rooftop_riot\\brawl_half_speed.mp4",
+      "bytes": 20430711,
+      "sha256": "C0499E2EDF78A33CDEAC1545B2561339D4A2507B70EEF4A8689F322851D95479",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\brawl\\lunar_reach\\brawl.mp4",
+      "bytes": 13225585,
+      "sha256": "4F7B01E3FCC821AE5C00AA6A4BCBB9B031FE3DFB3645C58B587754CA3004731A",
+      "full_decode_passed": true
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\brawl\\lunar_reach\\brawl_half_speed.mp4",
+      "bytes": 14692620,
+      "sha256": "97399842A597028EFD43EEBD6505CEF4F1480568ECF48977F72AD3E554CB0910",
+      "full_decode_passed": true
+    }
+  ],
+  "scope": "Full software decode and byte hashes of current rooftop/lunar motion, before-after comparisons and four-CPU brawls, both normal and half speed. No human motion or audio acceptance implied."
+}

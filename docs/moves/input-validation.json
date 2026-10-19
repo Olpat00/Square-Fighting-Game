@@ -1,0 +1,6 @@
+{
+	"checks": 2442,
+	"engine": "4.7.2-stable (official)",
+	"failures": [],
+	"hardware_scope": "Synthetic key/button events, disconnection path, and seeded CPU snapshots. Physical pad operation requires graphical play validation."
+}

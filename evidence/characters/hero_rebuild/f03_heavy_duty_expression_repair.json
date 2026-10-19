@@ -1,0 +1,13 @@
+{
+  "fighter": "f03_heavy_duty",
+  "changed_clips": [
+    "win"
+  ],
+  "changed_bones": [
+    "mouth.L",
+    "mouth.R"
+  ],
+  "all_other_clips_unchanged": true,
+  "previous_curated_sha256": "d9b6c9add468fa899dc7ebe7122738e2d5437ec6cabee765c1b6001785564a64",
+  "new_curated_sha256": "370e047f31699d0814d6eb04542b2af92c40ff9e4e713989458b0d7ce80bf8e0"
+}

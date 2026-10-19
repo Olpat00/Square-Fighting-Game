@@ -1,0 +1,214 @@
+{
+  "arenas": [
+    "lunar_reach"
+  ],
+  "captures": [],
+  "cases": [
+    {
+      "arena": "lunar_reach",
+      "bootstrap_draw_frames": 0,
+      "draw_frames_at_completion": 720,
+      "frame_readbacks_during_movie": 0,
+      "motion": {
+        "changed_clock_paths": [
+          "Earthrise/surface0/scene_time"
+        ],
+        "changed_pose_paths": [
+          "PhotovoltaicWing/@Node3D@712",
+          "@Node3D@733/@Node3D@735",
+          "@Node3D@756/@Node3D@758",
+          "@Node3D@779/@Node3D@781",
+          "@Node3D@802/@Node3D@804",
+          "DeepSpaceArray/@Node3D@869",
+          "@Node3D@888/@Node3D@893",
+          "@Node3D@948/@Node3D@953",
+          "AutonomousSurveyRover",
+          "AutonomousSurveyRover/@MeshInstance3D@986",
+          "AutonomousSurveyRover/@MeshInstance3D@988",
+          "AutonomousSurveyRover/@MeshInstance3D@990",
+          "AutonomousSurveyRover/@MeshInstance3D@992",
+          "AutonomousSurveyRover/@MeshInstance3D@994",
+          "AutonomousSurveyRover/@MeshInstance3D@996",
+          "PassingOrbitalRelay"
+        ],
+        "from_tick": 0,
+        "to_tick": 720,
+        "visible_clock_changes": 1,
+        "visible_pose_changes": 16,
+        "visual_judgement": "Not inferred from state or image hashes; inspect captured motion."
+      },
+      "movie_path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\ambient.avi",
+      "movie_writer_fps": 60,
+      "quality": "High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "samples": [
+        {
+          "seconds": 0.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach/lunar_reach_high_movie_t0000_state.json",
+            "saved": true,
+            "sha256": "8e0b3956c51ea86a5c688597ee218259406d74b8702b4547e21d16e0f0bd77a7"
+          },
+          "tick": 0
+        },
+        {
+          "seconds": 2.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach/lunar_reach_high_movie_t0120_state.json",
+            "saved": true,
+            "sha256": "7d0c15c57f918e403d0da65f2c6962fe68099578acd0ef6c0b6b7907bea25204"
+          },
+          "tick": 120
+        },
+        {
+          "seconds": 5.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach/lunar_reach_high_movie_t0300_state.json",
+            "saved": true,
+            "sha256": "8cf90f215ae9aca36b3fb7861de7d62590422e757b81c0987f1fd80e57361a20"
+          },
+          "tick": 300
+        },
+        {
+          "seconds": 10.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach/lunar_reach_high_movie_t0600_state.json",
+            "saved": true,
+            "sha256": "9969f230741d2b8d1fc94f49de9de50c6f8857bcbd14bd586c2cc5670e59de36"
+          },
+          "tick": 600
+        },
+        {
+          "seconds": 12.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach/lunar_reach_high_movie_t0720_state.json",
+            "saved": true,
+            "sha256": "7a48b7a046c639055d401a533ea365c54c1793b111307b5b17a21946b1d0c733"
+          },
+          "tick": 720
+        }
+      ],
+      "scenery_draw_frames": 720,
+      "simulation_seconds": 12.0,
+      "simulation_ticks": 720
+    }
+  ],
+  "checks": 13,
+  "failures": 0,
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "harness_sha256": "5357d265b380f710f05f7875c85cb4136317f9514fcbe754a79095d27f6adb69",
+  "limitations": [
+    "Deterministic stationary-player presentation fixtures, not performance measurements or human gameplay/controller testing.",
+    "State checks prove scene clock ownership, pause/reset and graphics restoration, not aesthetic quality or visibility at gameplay distance.",
+    "Pause image equality is reviewed separately; image hashes are identities, not a visual-motion verdict.",
+    "Movie writer may include setup/shutdown frames; bootstrap and captured draw-frame counts are recorded for editorial trimming."
+  ],
+  "movie": true,
+  "passed": true,
+  "qualities": [
+    "High"
+  ],
+  "renderer": "forward_plus",
+  "results": [
+    {
+      "details": {},
+      "name": "A graphical renderer is required",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Known arena lunar_reach",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Known graphics tier High",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Movie selects exactly one arena and tier",
+      "passed": true
+    },
+    {
+      "details": {
+        "fixed_fps": 60,
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\ambient.avi"
+      },
+      "name": "Movie uses engine AVI writer at fixed 60 FPS",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "lunar_reach_high movie starts from reset scenery clock",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "lunar_reach_high movie clocks follow tick 120",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "lunar_reach_high movie clocks follow tick 300",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "lunar_reach_high movie clocks follow tick 600",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "lunar_reach_high movie clocks follow tick 720",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "lunar_reach_high movie advances exactly 720 combat ticks",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "lunar_reach_high movie preserves Fair Fight geometry and clock-owned background",
+      "passed": true
+    },
+    {
+      "details": {
+        "changed_clock_paths": [
+          "Earthrise/surface0/scene_time"
+        ],
+        "changed_pose_paths": [
+          "PhotovoltaicWing/@Node3D@712",
+          "@Node3D@733/@Node3D@735",
+          "@Node3D@756/@Node3D@758",
+          "@Node3D@779/@Node3D@781",
+          "@Node3D@802/@Node3D@804",
+          "DeepSpaceArray/@Node3D@869",
+          "@Node3D@888/@Node3D@893",
+          "@Node3D@948/@Node3D@953",
+          "AutonomousSurveyRover",
+          "AutonomousSurveyRover/@MeshInstance3D@986",
+          "AutonomousSurveyRover/@MeshInstance3D@988",
+          "AutonomousSurveyRover/@MeshInstance3D@990",
+          "AutonomousSurveyRover/@MeshInstance3D@992",
+          "AutonomousSurveyRover/@MeshInstance3D@994",
+          "AutonomousSurveyRover/@MeshInstance3D@996",
+          "PassingOrbitalRelay"
+        ],
+        "from_tick": 0,
+        "to_tick": 720,
+        "visible_clock_changes": 1,
+        "visible_pose_changes": 16,
+        "visual_judgement": "Not inferred from state or image hashes; inspect captured motion."
+      },
+      "name": "lunar_reach_high movie has visible motion sources",
+      "passed": true
+    }
+  ],
+  "settings_saved": false,
+  "visual_review": "pending_human_or_image_inspection"
+}

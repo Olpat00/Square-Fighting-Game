@@ -1,0 +1,111 @@
+{
+  "generated_at_utc": "2026-10-03T20:31:59.870810+00:00",
+  "fighters": [
+    {
+      "fighter": "f01_clutch",
+      "curated_sha256": "52e5aaa92005c5cc439cbd3eb4a57df52fcfb4c74813efb05e9c23063067659f",
+      "high_sha256": "7f2dfc4f315443586c4486edf2953d8a4ef1d7f39db3eb843ff6362ebe47cff9",
+      "low_sha256": "6350ff0d6e7c7201fc4605c61fa98b7dc95b9d4e5f84404e56eb6f6e9a537eb4",
+      "portrait_sha256": "3b212e9ea4589de004c5935573f4aa9e9c7da620ba4b21d0ed7a043533377396",
+      "high_bytes": 11195392,
+      "low_bytes": 8153492,
+      "runtime_triangles": 50550,
+      "clips": 78,
+      "material_batches": 6,
+      "pass": true
+    },
+    {
+      "fighter": "f02_sunstruck",
+      "curated_sha256": "bf80abb4a7f063358809d42f9f1429699d8951d2780fa32c00822cada70fc9b1",
+      "high_sha256": "00991ecbfabf9726be944a742263eba3f970a467ab23b63d17d119d802d93d77",
+      "low_sha256": "f6d581e5855e1cd7410011d4f95180d32d5682ade36d00b9bddd650cba8e533a",
+      "portrait_sha256": "6d570f868c587c06db7cf185a87f23964ed8f82da5d97787199e0977e8e6ccbc",
+      "high_bytes": 15369424,
+      "low_bytes": 10376388,
+      "runtime_triangles": 55094,
+      "clips": 77,
+      "material_batches": 5,
+      "pass": true
+    },
+    {
+      "fighter": "f03_heavy_duty",
+      "curated_sha256": "ff060b6f938ec05bdecad5d4ae8c1b807bee410d0e10c8f2b77e1f840149557f",
+      "high_sha256": "3b2229df7c9786401147175eb3fa67b8744f056c0a29c2b67629035070009df0",
+      "low_sha256": "8741baaadc75aa3d3ea2203eea0bdf2624b2700491a19023b4348ee4dad5c31c",
+      "portrait_sha256": "c8a51b9c255ade549172efe8a1ca61e637bcf62157057cfbca29d2070e879104",
+      "high_bytes": 14490168,
+      "low_bytes": 10204420,
+      "runtime_triangles": 59453,
+      "clips": 78,
+      "material_batches": 5,
+      "pass": true
+    },
+    {
+      "fighter": "f04_deadfall",
+      "curated_sha256": "8befac08525a926547fdd095f0f0e3b047353b70eec4edfb4cdd7317bd672171",
+      "high_sha256": "aca25b607175a072966aeb5b07d403bf69253db766fc3bfd93aad52505be1fca",
+      "low_sha256": "81804883463f61f5c3d883038cb5692c47b9794ad2f620c95f4cee4733e7d928",
+      "portrait_sha256": "1bebb7df44e30180a0a5601b0c425cdd70ca4f7adc6a74b1cbaec8ce8bd9d37a",
+      "high_bytes": 13061832,
+      "low_bytes": 9212052,
+      "runtime_triangles": 53672,
+      "clips": 77,
+      "material_batches": 5,
+      "pass": true
+    },
+    {
+      "fighter": "f05_fine_print",
+      "curated_sha256": "8aae33d10a87b289bc34ea172821aba1653415e4026351f488c7d831678ac408",
+      "high_sha256": "159a90e7c6b7654ed92caedbd41635d1d827b5b57d4a9afc5c75e78c332802eb",
+      "low_sha256": "a2ce9e46a1eb8ea1251e435bd76886561f98e04d3146bb2f57544bdcd166f32d",
+      "portrait_sha256": "50d212a4e1a9a2d878a1e14770d06e6448ab9dab5c0deefd5c6701e6106706a1",
+      "high_bytes": 11987072,
+      "low_bytes": 8690764,
+      "runtime_triangles": 56224,
+      "clips": 78,
+      "material_batches": 8,
+      "pass": true
+    },
+    {
+      "fighter": "f06_rugged_explorer",
+      "curated_sha256": "1c2a82b9ff8f81d2cf82989387889273561baf4bbaf864baf623207595fcff4a",
+      "high_sha256": "d156747542c439a3f0ec051fc065348c4fb651d6626c4d9a819583559843f8b5",
+      "low_sha256": "943f52dd78baa9e183861d8eafb44bd7b70fd62f8b82d033c2d9bae089912af4",
+      "portrait_sha256": "31aa0c6f99b58c9ded5aeb784bdd31aea6570caf43e438140505fbbe278e2c55",
+      "high_bytes": 14703972,
+      "low_bytes": 10260444,
+      "runtime_triangles": 62082,
+      "clips": 77,
+      "material_batches": 7,
+      "pass": true
+    },
+    {
+      "fighter": "f07_urban_sentinel",
+      "curated_sha256": "def849e51b7d4bf2bd4fb97e445ddb75fa0d95c88fb47ff2ed66fde56c89fdf2",
+      "high_sha256": "2ea550946ada0a8b557fad8558d6b00d00ac28c6407e2814e1135c04e239f2e0",
+      "low_sha256": "75e58bf9370425ef53135d800c02862d8126bfb6a24dca0d929032d4e33d3ff6",
+      "portrait_sha256": "dbc1c16d651599f719c773fd72687f7a25c845dbc00abbde691b479274478872",
+      "high_bytes": 13288684,
+      "low_bytes": 9372292,
+      "runtime_triangles": 51264,
+      "clips": 77,
+      "material_batches": 6,
+      "pass": true
+    },
+    {
+      "fighter": "f08_midnight_gentleman",
+      "curated_sha256": "8434565dcd6b33ce6d8da086d6c682c8cd2a2bc2766b51f98b7230edc4c6f338",
+      "high_sha256": "1012a8d2d0e4f74e4212657ff581a58402ad2907f06da93397f1a12975efc6b4",
+      "low_sha256": "feba2a0676d9e098033122069a9981be743e2960b317a0a426e0dc28f5be7348",
+      "portrait_sha256": "970b83eafcc416a54258f39e0e08bd5083c05338f93789da708e0dae12863ec4",
+      "high_bytes": 12484648,
+      "low_bytes": 9114620,
+      "runtime_triangles": 55762,
+      "clips": 77,
+      "material_batches": 6,
+      "pass": true
+    }
+  ],
+  "pass": true,
+  "scope": "Final asset bytes, editable sources, portraits, source preservation, active IK export, clip structure and exact re-export. Runtime playback/performance are separate."
+}

@@ -1,0 +1,125 @@
+{
+  "captures": [
+    {
+      "arena": "verdant_shrine",
+      "camera_height": 11.8000001907349,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/verdant_shrine_high.png",
+      "purpose": "Four-player neutral exchange, current shared camera and live HUD",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "verdant_shrine",
+      "camera_height": 11.8000001907349,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/verdant_shrine_overlap.png",
+      "purpose": "Four simultaneous nearby identities; labels separate deterministically",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "verdant_shrine",
+      "camera_height": 34.6217994689941,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/verdant_shrine_recovery.png",
+      "purpose": "Low recovery and high launch share the camera without HUD clipping",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "verdant_shrine",
+      "camera_height": 15.8705358505249,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/verdant_shrine_near_ledge.png",
+      "purpose": "Both low recoveries remain readable adjacent to the stage side walls",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "verdant_shrine",
+      "camera_height": 11.8000001907349,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/verdant_shrine_low.png",
+      "purpose": "Four-player neutral exchange, current shared camera and live HUD",
+      "quality": "Low",
+      "saved": true
+    },
+    {
+      "arena": "abyssal_observatory",
+      "camera_height": 11.8000001907349,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/abyssal_observatory_high.png",
+      "purpose": "Four-player neutral exchange, current shared camera and live HUD",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "abyssal_observatory",
+      "camera_height": 11.8000001907349,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/abyssal_observatory_overlap.png",
+      "purpose": "Four simultaneous nearby identities; labels separate deterministically",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "abyssal_observatory",
+      "camera_height": 34.6217994689941,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/abyssal_observatory_recovery.png",
+      "purpose": "Low recovery and high launch share the camera without HUD clipping",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "abyssal_observatory",
+      "camera_height": 15.5577926635742,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/abyssal_observatory_near_ledge.png",
+      "purpose": "Both low recoveries remain readable adjacent to the stage side walls",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "abyssal_observatory",
+      "camera_height": 11.8000001907349,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/abyssal_observatory_low.png",
+      "purpose": "Four-player neutral exchange, current shared camera and live HUD",
+      "quality": "Low",
+      "saved": true
+    },
+    {
+      "arena": "ember_foundry",
+      "camera_height": 11.8000001907349,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/ember_foundry_high.png",
+      "purpose": "Four-player neutral exchange, current shared camera and live HUD",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "ember_foundry",
+      "camera_height": 11.8000001907349,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/ember_foundry_overlap.png",
+      "purpose": "Four simultaneous nearby identities; labels separate deterministically",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "ember_foundry",
+      "camera_height": 34.6217994689941,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/ember_foundry_recovery.png",
+      "purpose": "Low recovery and high launch share the camera without HUD clipping",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "ember_foundry",
+      "camera_height": 15.5577926635742,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/ember_foundry_near_ledge.png",
+      "purpose": "Both low recoveries remain readable adjacent to the stage side walls",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "ember_foundry",
+      "camera_height": 11.8000001907349,
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\first_review/ember_foundry_low.png",
+      "purpose": "Four-player neutral exchange, current shared camera and live HUD",
+      "quality": "Low",
+      "saved": true
+    }
+  ],
+  "limitations": "Deterministic presentation fixtures, not frame-time measurements or human playtesting."
+}

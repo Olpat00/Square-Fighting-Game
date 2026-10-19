@@ -1,0 +1,31 @@
+{
+  "started_utc": "2026-10-03T20:45:47.7875359Z",
+  "finished_utc": "2026-10-03T20:49:46.5301563Z",
+  "requested_arena": "lunar_reach",
+  "ticks": 900,
+  "contacts": 43,
+  "passed": true,
+  "files": [
+    {
+      "file": "brawl.mp4",
+      "bytes": 13225585,
+      "sha256": "4F7B01E3FCC821AE5C00AA6A4BCBB9B031FE3DFB3645C58B587754CA3004731A"
+    },
+    {
+      "file": "brawl_half_speed.mp4",
+      "bytes": 14692620,
+      "sha256": "97399842A597028EFD43EEBD6505CEF4F1480568ECF48977F72AD3E554CB0910"
+    },
+    {
+      "file": "brawl.png",
+      "bytes": 1800841,
+      "sha256": "216E8BC09A4D3C2BF1C37090107C7D5066D911DDAEBBB99EA7B2341FE5D407BF"
+    },
+    {
+      "file": "smoke_runtime.json",
+      "bytes": 13800,
+      "sha256": "F21F35E472D93557BB8AA42633C736C6594611F241B119ADECE2EE59E3EF71F6"
+    }
+  ],
+  "scope": "Continuous four-CPU movie; screenshot arena requires visual inspection. Movie recording costs are not performance evidence."
+}

@@ -1,0 +1,16 @@
+{
+  "fighter_id": "f03_heavy_duty",
+  "source_scene": "source_art\\characters\\f03_heavy_duty\\curated.blend",
+  "editable_studio": "source_art\\characters\\f03_heavy_duty\\portrait_studio.blend",
+  "image": "evidence\\characters\\portraits\\f03_heavy_duty.png",
+  "resolution": [
+    768,
+    768
+  ],
+  "render_device": "OPTIX: NVIDIA GeForce RTX 4080 SUPER",
+  "curated_source_sha256": "ff060b6f938ec05bdecad5d4ae8c1b807bee410d0e10c8f2b77e1f840149557f",
+  "curated_source_unchanged": true,
+  "albedo_repainted": false,
+  "style": "Actual source-derived chest portrait; warm side key, cool rim and physical midnight backdrop",
+  "camera_ortho_size": 0.95
+}

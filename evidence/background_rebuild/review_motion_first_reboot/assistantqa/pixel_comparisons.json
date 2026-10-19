@@ -1,0 +1,442 @@
+[
+  {
+    "arena": "rooftop_riot",
+    "quality": "High",
+    "pause_image_comparison": {
+      "a": "rooftop_riot_high_paused_a.png",
+      "b": "rooftop_riot_high_paused_b.png",
+      "rgb_mean_absolute_difference": 0.0,
+      "changed_pixels": 0,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.0,
+      "max_channel_difference": 0,
+      "difference_bbox": null
+    },
+    "reset_image_comparison": {
+      "a": "rooftop_riot_high_t0000.png",
+      "b": "rooftop_riot_high_reset.png",
+      "rgb_mean_absolute_difference": 0.682827449845679,
+      "changed_pixels": 81855,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.03947482638888889,
+      "max_channel_difference": 249,
+      "difference_bbox": [
+        22,
+        0,
+        1909,
+        911
+      ]
+    },
+    "ten_second_image_comparison": {
+      "a": "rooftop_riot_high_t0000.png",
+      "b": "rooftop_riot_high_t0600.png",
+      "rgb_mean_absolute_difference": 1.4624852109053499,
+      "changed_pixels": 501775,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.2419825424382716,
+      "max_channel_difference": 249,
+      "difference_bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    }
+  },
+  {
+    "arena": "rooftop_riot",
+    "quality": "Low",
+    "pause_image_comparison": {
+      "a": "rooftop_riot_low_paused_a.png",
+      "b": "rooftop_riot_low_paused_b.png",
+      "rgb_mean_absolute_difference": 0.0,
+      "changed_pixels": 0,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.0,
+      "max_channel_difference": 0,
+      "difference_bbox": null
+    },
+    "reset_image_comparison": {
+      "a": "rooftop_riot_low_t0000.png",
+      "b": "rooftop_riot_low_reset.png",
+      "rgb_mean_absolute_difference": 0.677269804526749,
+      "changed_pixels": 38287,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.018464023919753086,
+      "max_channel_difference": 249,
+      "difference_bbox": [
+        364,
+        26,
+        1492,
+        613
+      ]
+    },
+    "ten_second_image_comparison": {
+      "a": "rooftop_riot_low_t0000.png",
+      "b": "rooftop_riot_low_t0600.png",
+      "rgb_mean_absolute_difference": 1.2161575681584362,
+      "changed_pixels": 412952,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.19914737654320988,
+      "max_channel_difference": 249,
+      "difference_bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    }
+  },
+  {
+    "arena": "lunar_reach",
+    "quality": "High",
+    "pause_image_comparison": {
+      "a": "lunar_reach_high_paused_a.png",
+      "b": "lunar_reach_high_paused_b.png",
+      "rgb_mean_absolute_difference": 0.0,
+      "changed_pixels": 0,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.0,
+      "max_channel_difference": 0,
+      "difference_bbox": null
+    },
+    "reset_image_comparison": {
+      "a": "lunar_reach_high_t0000.png",
+      "b": "lunar_reach_high_reset.png",
+      "rgb_mean_absolute_difference": 0.8980656828703704,
+      "changed_pixels": 49252,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.023751929012345678,
+      "max_channel_difference": 255,
+      "difference_bbox": [
+        109,
+        26,
+        1770,
+        928
+      ]
+    },
+    "ten_second_image_comparison": {
+      "a": "lunar_reach_high_t0000.png",
+      "b": "lunar_reach_high_t0600.png",
+      "rgb_mean_absolute_difference": 1.8467203575102882,
+      "changed_pixels": 121360,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.058526234567901236,
+      "max_channel_difference": 255,
+      "difference_bbox": [
+        64,
+        26,
+        1770,
+        928
+      ]
+    }
+  },
+  {
+    "arena": "lunar_reach",
+    "quality": "Low",
+    "pause_image_comparison": {
+      "a": "lunar_reach_low_paused_a.png",
+      "b": "lunar_reach_low_paused_b.png",
+      "rgb_mean_absolute_difference": 0.0,
+      "changed_pixels": 0,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.0,
+      "max_channel_difference": 0,
+      "difference_bbox": null
+    },
+    "reset_image_comparison": {
+      "a": "lunar_reach_low_t0000.png",
+      "b": "lunar_reach_low_reset.png",
+      "rgb_mean_absolute_difference": 0.9074967849794239,
+      "changed_pixels": 41828,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.020171682098765433,
+      "max_channel_difference": 255,
+      "difference_bbox": [
+        430,
+        26,
+        1639,
+        575
+      ]
+    },
+    "ten_second_image_comparison": {
+      "a": "lunar_reach_low_t0000.png",
+      "b": "lunar_reach_low_t0600.png",
+      "rgb_mean_absolute_difference": 1.8239512602880659,
+      "changed_pixels": 111793,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.05391251929012346,
+      "max_channel_difference": 255,
+      "difference_bbox": [
+        64,
+        26,
+        1639,
+        575
+      ]
+    }
+  },
+  {
+    "arena": "verdant_shrine",
+    "quality": "High",
+    "pause_image_comparison": {
+      "a": "verdant_shrine_high_paused_a.png",
+      "b": "verdant_shrine_high_paused_b.png",
+      "rgb_mean_absolute_difference": 0.0,
+      "changed_pixels": 0,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.0,
+      "max_channel_difference": 0,
+      "difference_bbox": null
+    },
+    "reset_image_comparison": {
+      "a": "verdant_shrine_high_t0000.png",
+      "b": "verdant_shrine_high_reset.png",
+      "rgb_mean_absolute_difference": 0.8133777006172839,
+      "changed_pixels": 50842,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.024518711419753085,
+      "max_channel_difference": 213,
+      "difference_bbox": [
+        50,
+        26,
+        1870,
+        893
+      ]
+    },
+    "ten_second_image_comparison": {
+      "a": "verdant_shrine_high_t0000.png",
+      "b": "verdant_shrine_high_t0600.png",
+      "rgb_mean_absolute_difference": 2.2212755594135802,
+      "changed_pixels": 597597,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.2881929976851852,
+      "max_channel_difference": 213,
+      "difference_bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    }
+  },
+  {
+    "arena": "verdant_shrine",
+    "quality": "Low",
+    "pause_image_comparison": {
+      "a": "verdant_shrine_low_paused_a.png",
+      "b": "verdant_shrine_low_paused_b.png",
+      "rgb_mean_absolute_difference": 0.0,
+      "changed_pixels": 0,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.0,
+      "max_channel_difference": 0,
+      "difference_bbox": null
+    },
+    "reset_image_comparison": {
+      "a": "verdant_shrine_low_t0000.png",
+      "b": "verdant_shrine_low_reset.png",
+      "rgb_mean_absolute_difference": 0.8187172067901235,
+      "changed_pixels": 42467,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.020479841820987655,
+      "max_channel_difference": 213,
+      "difference_bbox": [
+        430,
+        26,
+        1580,
+        781
+      ]
+    },
+    "ten_second_image_comparison": {
+      "a": "verdant_shrine_low_t0000.png",
+      "b": "verdant_shrine_low_t0600.png",
+      "rgb_mean_absolute_difference": 1.945084715792181,
+      "changed_pixels": 572181,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.2759360532407407,
+      "max_channel_difference": 213,
+      "difference_bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    }
+  },
+  {
+    "arena": "abyssal_observatory",
+    "quality": "High",
+    "pause_image_comparison": {
+      "a": "abyssal_observatory_high_paused_a.png",
+      "b": "abyssal_observatory_high_paused_b.png",
+      "rgb_mean_absolute_difference": 0.0,
+      "changed_pixels": 0,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.0,
+      "max_channel_difference": 0,
+      "difference_bbox": null
+    },
+    "reset_image_comparison": {
+      "a": "abyssal_observatory_high_t0000.png",
+      "b": "abyssal_observatory_high_reset.png",
+      "rgb_mean_absolute_difference": 0.8249255722736626,
+      "changed_pixels": 54269,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.02617139274691358,
+      "max_channel_difference": 250,
+      "difference_bbox": [
+        78,
+        26,
+        1841,
+        729
+      ]
+    },
+    "ten_second_image_comparison": {
+      "a": "abyssal_observatory_high_t0000.png",
+      "b": "abyssal_observatory_high_t0600.png",
+      "rgb_mean_absolute_difference": 3.2791840277777777,
+      "changed_pixels": 897724,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.4329301697530864,
+      "max_channel_difference": 250,
+      "difference_bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    }
+  },
+  {
+    "arena": "abyssal_observatory",
+    "quality": "Low",
+    "pause_image_comparison": {
+      "a": "abyssal_observatory_low_paused_a.png",
+      "b": "abyssal_observatory_low_paused_b.png",
+      "rgb_mean_absolute_difference": 0.0,
+      "changed_pixels": 0,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.0,
+      "max_channel_difference": 0,
+      "difference_bbox": null
+    },
+    "reset_image_comparison": {
+      "a": "abyssal_observatory_low_t0000.png",
+      "b": "abyssal_observatory_low_reset.png",
+      "rgb_mean_absolute_difference": 0.803578800154321,
+      "changed_pixels": 32283,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.015568576388888889,
+      "max_channel_difference": 250,
+      "difference_bbox": [
+        430,
+        26,
+        1492,
+        575
+      ]
+    },
+    "ten_second_image_comparison": {
+      "a": "abyssal_observatory_low_t0000.png",
+      "b": "abyssal_observatory_low_t0600.png",
+      "rgb_mean_absolute_difference": 2.1513890496399175,
+      "changed_pixels": 729281,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.35169801311728394,
+      "max_channel_difference": 250,
+      "difference_bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    }
+  },
+  {
+    "arena": "ember_foundry",
+    "quality": "High",
+    "pause_image_comparison": {
+      "a": "ember_foundry_high_paused_a.png",
+      "b": "ember_foundry_high_paused_b.png",
+      "rgb_mean_absolute_difference": 0.0,
+      "changed_pixels": 0,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.0,
+      "max_channel_difference": 0,
+      "difference_bbox": null
+    },
+    "reset_image_comparison": {
+      "a": "ember_foundry_high_t0000.png",
+      "b": "ember_foundry_high_reset.png",
+      "rgb_mean_absolute_difference": 0.6820264274691358,
+      "changed_pixels": 47713,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.02300974151234568,
+      "max_channel_difference": 248,
+      "difference_bbox": [
+        94,
+        26,
+        1836,
+        960
+      ]
+    },
+    "ten_second_image_comparison": {
+      "a": "ember_foundry_high_t0000.png",
+      "b": "ember_foundry_high_t0600.png",
+      "rgb_mean_absolute_difference": 1.9862123842592592,
+      "changed_pixels": 437040,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.2107638888888889,
+      "max_channel_difference": 248,
+      "difference_bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    }
+  },
+  {
+    "arena": "ember_foundry",
+    "quality": "Low",
+    "pause_image_comparison": {
+      "a": "ember_foundry_low_paused_a.png",
+      "b": "ember_foundry_low_paused_b.png",
+      "rgb_mean_absolute_difference": 0.0,
+      "changed_pixels": 0,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.0,
+      "max_channel_difference": 0,
+      "difference_bbox": null
+    },
+    "reset_image_comparison": {
+      "a": "ember_foundry_low_t0000.png",
+      "b": "ember_foundry_low_reset.png",
+      "rgb_mean_absolute_difference": 0.6864646026234568,
+      "changed_pixels": 40064,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.019320987654320988,
+      "max_channel_difference": 251,
+      "difference_bbox": [
+        430,
+        26,
+        1565,
+        790
+      ]
+    },
+    "ten_second_image_comparison": {
+      "a": "ember_foundry_low_t0000.png",
+      "b": "ember_foundry_low_t0600.png",
+      "rgb_mean_absolute_difference": 2.0205912422839507,
+      "changed_pixels": 341633,
+      "total_pixels": 2073600,
+      "changed_fraction": 0.1647535686728395,
+      "max_channel_difference": 251,
+      "difference_bbox": [
+        0,
+        0,
+        1920,
+        1080
+      ]
+    }
+  }
+]

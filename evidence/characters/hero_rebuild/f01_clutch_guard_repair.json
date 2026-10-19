@@ -1,0 +1,14 @@
+{
+  "fighter": "f01_clutch",
+  "changed_clips": [
+    "shield_hold"
+  ],
+  "changed_bones": [
+    "spine",
+    "chest"
+  ],
+  "all_other_clips_unchanged": true,
+  "clip_seconds_preserved": 1.0,
+  "previous_curated_sha256": "e1db7b7ea6d4f3b657c8253ebc6330e785e15156fc28f5f741db9543d0f445e4",
+  "new_curated_sha256": "52e5aaa92005c5cc439cbd3eb4a57df52fcfb4c74813efb05e9c23063067659f"
+}

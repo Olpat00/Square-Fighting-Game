@@ -1,0 +1,224 @@
+{
+  "generated_at_utc": "2026-10-04T18:03:28.645083+00:00",
+  "passed": true,
+  "checks": [
+    "Dedicated platform archive and unchanged prior five-arena ZIP",
+    "Current 525-file source, canonical SHA-256 and all twelve source suites",
+    "Twenty-five exact reviewed PNG hashes, 1080p headers and current review harness",
+    "Current exported build, 108 UI checks, actual EXE smokes and five full matches",
+    "Ten current 60-second CPU/GPU profiles, runtime/art/harness and delivery hash bindings",
+    "Separate optional repeat reports, unchanged runtime/art/harness and output hashes; frame outliers retained",
+    "All 22 ZIP entries decoded; package, receipt, build copies and current documentation match",
+    "All audited files remained unchanged through the audit"
+  ],
+  "problems": [],
+  "scope": "Independent hashes, archive decoding and existing receipt checks; no engine execution or human playtesting.",
+  "archive": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\RooftopRiot-Platform-Upgrade-Windows.zip",
+  "archive_sha256": "7D3B36F762AC219ABACDBC02D277326A4EB98B8CBB2EE37B0F8B2387BEEABB70",
+  "runtime_source_sha256": "5D87C1AAB5E7C45183D0AFD7AD941C8BC2456A96F0A1326730F16A60C202B7B0",
+  "runtime_files": 525,
+  "reviewed_captures": 25,
+  "zip_entries": 22,
+  "profiles": [
+    {
+      "case": "rooftop_riot_high_4p",
+      "sha256": "CDA6AB2ADE03EADA0C18D6EE071D9E82D0DD96B10F2B9E8B348A48490CBFB5AD",
+      "frame_p99_ms": 2.81,
+      "over_16_667": 0
+    },
+    {
+      "case": "rooftop_riot_low_4p",
+      "sha256": "3DAB7A805C9C5EBDB8F41B002A45D61248D46BA8A19D13B60EB758FBF017B5C0",
+      "frame_p99_ms": 1.917,
+      "over_16_667": 0
+    },
+    {
+      "case": "lunar_reach_high_4p",
+      "sha256": "C86D5D1CF1EC11DE63CB66C46A8DC3BF10F695533BEAA03C23AD0288EEE746D2",
+      "frame_p99_ms": 2.605,
+      "over_16_667": 0
+    },
+    {
+      "case": "lunar_reach_low_4p",
+      "sha256": "E25B7CDF2159437245B2C25030232B0A0830DEE8A3F96F7ABCC05A8042EFF619",
+      "frame_p99_ms": 1.759,
+      "over_16_667": 0
+    },
+    {
+      "case": "verdant_shrine_high_4p",
+      "sha256": "FA84A4D4BE3F9BDE90674A9F0FCC1BA82CE3A8FCA967DB312CFB1B51DA00496B",
+      "frame_p99_ms": 2.2,
+      "over_16_667": 0
+    },
+    {
+      "case": "verdant_shrine_low_4p",
+      "sha256": "DF0DE349F37BAB2073DD90AD6930AC433F58E8FE372DAF549AFD1F2A2DD9B3EF",
+      "frame_p99_ms": 1.668,
+      "over_16_667": 0
+    },
+    {
+      "case": "abyssal_observatory_high_4p",
+      "sha256": "FDD70F1B31AEDD050DDE07CB090B8FD389CD9650768F3512C8E112B9320DF005",
+      "frame_p99_ms": 8.456,
+      "over_16_667": 305
+    },
+    {
+      "case": "abyssal_observatory_low_4p",
+      "sha256": "DDC9111D335C08857A8428481B39CCAF8B3F3ED66EE1E3813AEB574A947786B4",
+      "frame_p99_ms": 1.906,
+      "over_16_667": 0
+    },
+    {
+      "case": "ember_foundry_high_4p",
+      "sha256": "3B5F6A06B2116F7705BEEA662E14B284941C8B716B50BB2DD90E48BE15178634",
+      "frame_p99_ms": 2.463,
+      "over_16_667": 0
+    },
+    {
+      "case": "ember_foundry_low_4p",
+      "sha256": "3F3D0656C63164B6F480B2CCD30AEA5AC7BECEA67F662CDFA83E21327C0B9B57",
+      "frame_p99_ms": 58.801,
+      "over_16_667": 1345
+    }
+  ],
+  "repeat_profiles": [
+    {
+      "directory": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\repeat_observatory",
+      "case": "abyssal_observatory_high_4p",
+      "runtime_source_sha256": "5D87C1AAB5E7C45183D0AFD7AD941C8BC2456A96F0A1326730F16A60C202B7B0",
+      "provenance_sha256": "B71250041D960F9FF12A6A7DDB6971FD20EA6832454555644840E5F0BD7AE85D",
+      "report_sha256": "1EF25AF7E03A42AD152E76CDA1013A41A806164462A299B726523014331DD078",
+      "duration_seconds": 60.000158,
+      "simulation_ticks": 3600,
+      "frame_intervals": {
+        "available": true,
+        "count": 45807,
+        "max_ms": 48.151,
+        "mean_ms": 1.30984692295937,
+        "over_16_667": 1,
+        "p95_ms": 2.258,
+        "p99_ms": 3.263
+      },
+      "viewport_render_cpu": {
+        "available": true,
+        "count": 45807,
+        "max_ms": 3.31599998474121,
+        "mean_ms": 0.455937105655243,
+        "over_16_667": 0,
+        "p95_ms": 0.711000025272369,
+        "p99_ms": 1.05400002002716
+      },
+      "viewport_render_gpu": {
+        "available": true,
+        "count": 45807,
+        "max_ms": 0.874000012874603,
+        "mean_ms": 0.776853734237531,
+        "over_16_667": 0,
+        "p95_ms": 0.814999997615814,
+        "p99_ms": 0.825999975204468
+      },
+      "outputs": [
+        {
+          "file": "abyssal_observatory_high_4p.json",
+          "bytes": 1960,
+          "sha256": "1EF25AF7E03A42AD152E76CDA1013A41A806164462A299B726523014331DD078"
+        },
+        {
+          "file": "abyssal_observatory_high_4p.log",
+          "bytes": 1861,
+          "sha256": "23645AC6A35D11372590988FDF51A15F88A42FFC081B16B4457BDD94A6100201"
+        },
+        {
+          "file": "abyssal_observatory_high_4p.native.log",
+          "bytes": 1883,
+          "sha256": "DE35CEC51336CFB4A3C65F8F741985973EFBC4D124D2978101770BD2109AF58D"
+        },
+        {
+          "file": "abyssal_observatory_high_4p.png",
+          "bytes": 2286977,
+          "sha256": "B8372E826615D7DE9C07B54923EFF702DE6005A82B0B54CFE7406E8C7BF452DB"
+        },
+        {
+          "file": "profile_provenance.json",
+          "bytes": 101338,
+          "sha256": "B71250041D960F9FF12A6A7DDB6971FD20EA6832454555644840E5F0BD7AE85D"
+        },
+        {
+          "file": "summary.json",
+          "bytes": 370,
+          "sha256": "46C21E26AFED1C1F979ECD209DC6D71313A8B4E8D1FFAB6B89CD6976E384DEAF"
+        }
+      ]
+    },
+    {
+      "directory": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\repeat_foundry",
+      "case": "ember_foundry_low_4p",
+      "runtime_source_sha256": "5D87C1AAB5E7C45183D0AFD7AD941C8BC2456A96F0A1326730F16A60C202B7B0",
+      "provenance_sha256": "59050DA427960C363B99D5A53CEF75B814A94433E81BE4116B8A7A558467480D",
+      "report_sha256": "7A38515C3C60DB172F441D666B5FB5168842C467E99271BE10D8F01AA633D980",
+      "duration_seconds": 60.000455,
+      "simulation_ticks": 3600,
+      "frame_intervals": {
+        "available": true,
+        "count": 72848,
+        "max_ms": 6.922,
+        "mean_ms": 0.823639015484291,
+        "over_16_667": 0,
+        "p95_ms": 1.848,
+        "p99_ms": 2.863
+      },
+      "viewport_render_cpu": {
+        "available": true,
+        "count": 72848,
+        "max_ms": 1.25600004196167,
+        "mean_ms": 0.229125782265865,
+        "over_16_667": 0,
+        "p95_ms": 0.337000012397766,
+        "p99_ms": 0.435000002384186
+      },
+      "viewport_render_gpu": {
+        "available": true,
+        "count": 72848,
+        "max_ms": 0.395000010728836,
+        "mean_ms": 0.342359941032593,
+        "over_16_667": 0,
+        "p95_ms": 0.363999992609024,
+        "p99_ms": 0.372999995946884
+      },
+      "outputs": [
+        {
+          "file": "ember_foundry_low_4p.json",
+          "bytes": 1948,
+          "sha256": "7A38515C3C60DB172F441D666B5FB5168842C467E99271BE10D8F01AA633D980"
+        },
+        {
+          "file": "ember_foundry_low_4p.log",
+          "bytes": 1849,
+          "sha256": "1953E99393A3D6D514FFB464534B8DD587657C8D49196685328915FCA8DEA367"
+        },
+        {
+          "file": "ember_foundry_low_4p.native.log",
+          "bytes": 1871,
+          "sha256": "804B0AACF0B77D0CB4C75DBC6F3C6379A1CF83E4EABD920AF942D63C33D149C0"
+        },
+        {
+          "file": "ember_foundry_low_4p.png",
+          "bytes": 2542963,
+          "sha256": "F02FE73E7FA00F3C8655AF5BCAB6D72C4D8D58F1D6CC55DA2FD999EBC30E3E57"
+        },
+        {
+          "file": "profile_provenance.json",
+          "bytes": 101317,
+          "sha256": "59050DA427960C363B99D5A53CEF75B814A94433E81BE4116B8A7A558467480D"
+        },
+        {
+          "file": "summary.json",
+          "bytes": 351,
+          "sha256": "AD8EFB0E7ED7E6CBD825C82963DF5506ECE681ADCC39E1135C86276522600704"
+        }
+      ]
+    }
+  ],
+  "old_five_arenas_zip_sha256": "7DF9A8AA9BCF41CA60A8A4C6244BF31AE07297FAD68E9D6ADACC8D0B0D60C9B3",
+  "audit_script_sha256": "840CC9C50631250ADB60A747E4BD4F8866EAB2163EBBBDF9522F0F95A6CCCAC7"
+}

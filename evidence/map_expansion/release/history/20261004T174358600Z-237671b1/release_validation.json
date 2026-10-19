@@ -1,0 +1,424 @@
+{
+  "run_id": "20261004T015535614Z-119cc75a",
+  "started_utc": "2026-10-04T01:55:35.6149466Z",
+  "passed": true,
+  "harness": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\tools\\validation\\validate_map_release.ps1",
+  "harness_sha256": "20B925AD0217F20F57FE391DE51FCF8E7A1D9B1D1157BD7DFE82572D8536B471",
+  "executable": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe",
+  "pck": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.pck",
+  "build_manifest": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\build_manifest.json",
+  "requested_arenas": [
+    "verdant_shrine",
+    "abyssal_observatory",
+    "ember_foundry"
+  ],
+  "expected_ticks_per_arena": 600,
+  "expected_fighters": [
+    "f06_rugged_explorer",
+    "f07_urban_sentinel",
+    "f08_midnight_gentleman",
+    "f01_clutch"
+  ],
+  "runtime_source_hashes_verified_before": 515,
+  "runtime_source_hashes_verified_after": 515,
+  "build_unchanged_during_validation": true,
+  "scope": "Actual Windows release EXE default-main-scene smoke on all three new arenas, using the adjacent PCK and in-memory High/1080p profile. Each case requires 600 fixed ticks, the four expected CPU-smoke fighters, actual combat contacts, fresh native output and PNG, and clean native exit.",
+  "limitations": [
+    "This is automated CPU gameplay, not physical-controller or human playtesting.",
+    "PNG captures require visual inspection; metadata checks cannot establish visual quality.",
+    "Screenshot readback, short duration and validation overhead make these runs unsuitable for performance acceptance."
+  ],
+  "preserved_previous_outputs": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\history\\20261004T015535614Z-119cc75a",
+  "build_hashes_before": {
+    "executable": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe",
+      "bytes": 109268480,
+      "sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562"
+    },
+    "pck": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.pck",
+      "bytes": 201285588,
+      "sha256": "09D04D03EEC9847C952BA956D1DD907ECE7A7A94694A3DDF1EE7DB9B41091073"
+    },
+    "manifest": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\build_manifest.json",
+      "bytes": 93582,
+      "sha256": "210BC229327F7AF4F04EFDA00C6A80EE9278DD2A21C860297FBDEA789B7F88A2"
+    }
+  },
+  "source_build_timestamp_utc": "2026-10-03T22:40:09.3475549Z",
+  "manifest_engine_version": "4.7.2.stable.official.ed1daf0bf",
+  "runtime_inventory_before": {
+    "files": 515,
+    "sha256": "6790E9229EF67703A2C07575C2B37F8DFFCAE88AD97533CAC3BA9DB488B118AC",
+    "manifest_inventory_sha256": "6790E9229EF67703A2C07575C2B37F8DFFCAE88AD97533CAC3BA9DB488B118AC"
+  },
+  "runtime_inventory_after": {
+    "files": 515,
+    "sha256": "6790E9229EF67703A2C07575C2B37F8DFFCAE88AD97533CAC3BA9DB488B118AC",
+    "manifest_inventory_sha256": "6790E9229EF67703A2C07575C2B37F8DFFCAE88AD97533CAC3BA9DB488B118AC"
+  },
+  "build_hashes_after": {
+    "executable": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe",
+      "bytes": 109268480,
+      "sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562"
+    },
+    "pck": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.pck",
+      "bytes": 201285588,
+      "sha256": "09D04D03EEC9847C952BA956D1DD907ECE7A7A94694A3DDF1EE7DB9B41091073"
+    },
+    "manifest": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\build_manifest.json",
+      "bytes": 93582,
+      "sha256": "210BC229327F7AF4F04EFDA00C6A80EE9278DD2A21C860297FBDEA789B7F88A2"
+    }
+  },
+  "finished_utc": "2026-10-04T01:56:17.4185762Z",
+  "cases": [
+    {
+      "requested_arena": "verdant_shrine",
+      "started_utc": "2026-10-04T01:55:36.9660858Z",
+      "passed": true,
+      "command": "\"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe\" --rendering-method forward_plus --log-file \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\verdant_shrine\\engine.log\" -- --smoke --profile --frames=600 \"--arena=verdant_shrine\" \"--evidence-root=C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/map_expansion/release/verdant_shrine\" --capture-tick=300 --screenshot=release_gameplay.png",
+      "working_directory": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows",
+      "exit_code": 0,
+      "timed_out": false,
+      "timeout_seconds": 180,
+      "smoke_report": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\verdant_shrine\\smoke_runtime.json",
+      "engine_log": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\verdant_shrine\\engine.log",
+      "native_log": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\verdant_shrine\\release_smoke.log",
+      "build_hashes_before": {
+        "executable": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe",
+          "bytes": 109268480,
+          "sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562"
+        },
+        "pck": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.pck",
+          "bytes": 201285588,
+          "sha256": "09D04D03EEC9847C952BA956D1DD907ECE7A7A94694A3DDF1EE7DB9B41091073"
+        },
+        "manifest": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\build_manifest.json",
+          "bytes": 93582,
+          "sha256": "210BC229327F7AF4F04EFDA00C6A80EE9278DD2A21C860297FBDEA789B7F88A2"
+        }
+      },
+      "process_id": 15204,
+      "errors": [],
+      "warnings": [],
+      "reported_input_providers": [
+        "res://input/cpu_input_provider.gd",
+        "res://input/cpu_input_provider.gd",
+        "res://input/cpu_input_provider.gd",
+        "res://input/cpu_input_provider.gd"
+      ],
+      "reported_pixel_sizes": {
+        "window": "(1920, 1080)",
+        "texture_metadata": "(2304.0, 1296.0)",
+        "image_readback": "(1920, 1080)"
+      },
+      "capture": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\verdant_shrine\\release_gameplay.png",
+        "bytes": 2734959,
+        "sha256": "C3842A63672053FAA09C612AE6A5ABA0C7A73779C77C28019AD248070735FC41",
+        "width": 1920,
+        "height": 1080
+      },
+      "runtime_report_file": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\verdant_shrine\\smoke_runtime.json",
+        "bytes": 14140,
+        "sha256": "B5360139477C7FD85CB3D0F11939FB764B0107444C49515BE87E0DE4E9428F16"
+      },
+      "reported_arena": "verdant_shrine",
+      "ticks": 600,
+      "fighter_ids": [
+        "f06_rugged_explorer",
+        "f07_urban_sentinel",
+        "f08_midnight_gentleman",
+        "f01_clutch"
+      ],
+      "contacts": 19,
+      "renderer": "forward_plus",
+      "engine": "4.7.2-stable (official)",
+      "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+      "settings": {
+        "blood": true,
+        "effects": 0.85,
+        "flashes": 0.45,
+        "fullscreen": false,
+        "graphics": "High",
+        "master": 0.8,
+        "music": 0.36,
+        "profanity": false,
+        "resolution": "1920x1080",
+        "rumble": 0.5,
+        "shake": 0.5,
+        "ui_scale": 1.0
+      },
+      "build_hashes_after": {
+        "executable": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe",
+          "bytes": 109268480,
+          "sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562"
+        },
+        "pck": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.pck",
+          "bytes": 201285588,
+          "sha256": "09D04D03EEC9847C952BA956D1DD907ECE7A7A94694A3DDF1EE7DB9B41091073"
+        },
+        "manifest": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\build_manifest.json",
+          "bytes": 93582,
+          "sha256": "210BC229327F7AF4F04EFDA00C6A80EE9278DD2A21C860297FBDEA789B7F88A2"
+        }
+      },
+      "log_files": {
+        "engine": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\verdant_shrine\\engine.log",
+          "bytes": 9870,
+          "sha256": "28BF0A2B4DA1E21E29681529D4474E4CB76FD5F97B459DE947E68E8287E8D0C2"
+        },
+        "native": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\verdant_shrine\\release_smoke.log",
+          "bytes": 9878,
+          "sha256": "08309CF7BA6AE6D20FD10235015AC3009788A219F86A42CD148ED5A290259229"
+        }
+      },
+      "finished_utc": "2026-10-04T01:55:50.1491095Z",
+      "wall_seconds": 13.1848949,
+      "problems": []
+    },
+    {
+      "requested_arena": "abyssal_observatory",
+      "started_utc": "2026-10-04T01:55:50.1651475Z",
+      "passed": true,
+      "command": "\"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe\" --rendering-method forward_plus --log-file \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\abyssal_observatory\\engine.log\" -- --smoke --profile --frames=600 \"--arena=abyssal_observatory\" \"--evidence-root=C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/map_expansion/release/abyssal_observatory\" --capture-tick=300 --screenshot=release_gameplay.png",
+      "working_directory": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows",
+      "exit_code": 0,
+      "timed_out": false,
+      "timeout_seconds": 180,
+      "smoke_report": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\abyssal_observatory\\smoke_runtime.json",
+      "engine_log": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\abyssal_observatory\\engine.log",
+      "native_log": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\abyssal_observatory\\release_smoke.log",
+      "build_hashes_before": {
+        "executable": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe",
+          "bytes": 109268480,
+          "sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562"
+        },
+        "pck": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.pck",
+          "bytes": 201285588,
+          "sha256": "09D04D03EEC9847C952BA956D1DD907ECE7A7A94694A3DDF1EE7DB9B41091073"
+        },
+        "manifest": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\build_manifest.json",
+          "bytes": 93582,
+          "sha256": "210BC229327F7AF4F04EFDA00C6A80EE9278DD2A21C860297FBDEA789B7F88A2"
+        }
+      },
+      "process_id": 16096,
+      "errors": [],
+      "warnings": [],
+      "reported_input_providers": [
+        "res://input/cpu_input_provider.gd",
+        "res://input/cpu_input_provider.gd",
+        "res://input/cpu_input_provider.gd",
+        "res://input/cpu_input_provider.gd"
+      ],
+      "reported_pixel_sizes": {
+        "window": "(1920, 1080)",
+        "texture_metadata": "(2304.0, 1296.0)",
+        "image_readback": "(1920, 1080)"
+      },
+      "capture": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\abyssal_observatory\\release_gameplay.png",
+        "bytes": 2288705,
+        "sha256": "34508A2A859B48E3AC3834BA2DEE4EC84820F7FDB84468B884C97093AC977D6F",
+        "width": 1920,
+        "height": 1080
+      },
+      "runtime_report_file": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\abyssal_observatory\\smoke_runtime.json",
+        "bytes": 14147,
+        "sha256": "391F130F5A34343A3CF901DB51768DD864AF2E8DDD468C3A5BC4EEFEC6ABC86B"
+      },
+      "reported_arena": "abyssal_observatory",
+      "ticks": 600,
+      "fighter_ids": [
+        "f06_rugged_explorer",
+        "f07_urban_sentinel",
+        "f08_midnight_gentleman",
+        "f01_clutch"
+      ],
+      "contacts": 31,
+      "renderer": "forward_plus",
+      "engine": "4.7.2-stable (official)",
+      "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+      "settings": {
+        "blood": true,
+        "effects": 0.85,
+        "flashes": 0.45,
+        "fullscreen": false,
+        "graphics": "High",
+        "master": 0.8,
+        "music": 0.36,
+        "profanity": false,
+        "resolution": "1920x1080",
+        "rumble": 0.5,
+        "shake": 0.5,
+        "ui_scale": 1.0
+      },
+      "build_hashes_after": {
+        "executable": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe",
+          "bytes": 109268480,
+          "sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562"
+        },
+        "pck": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.pck",
+          "bytes": 201285588,
+          "sha256": "09D04D03EEC9847C952BA956D1DD907ECE7A7A94694A3DDF1EE7DB9B41091073"
+        },
+        "manifest": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\build_manifest.json",
+          "bytes": 93582,
+          "sha256": "210BC229327F7AF4F04EFDA00C6A80EE9278DD2A21C860297FBDEA789B7F88A2"
+        }
+      },
+      "log_files": {
+        "engine": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\abyssal_observatory\\engine.log",
+          "bytes": 9882,
+          "sha256": "CDFC259EC0D3AC977542C1973107AA553EC58C31DD12A040623F353DD30FFDA2"
+        },
+        "native": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\abyssal_observatory\\release_smoke.log",
+          "bytes": 9890,
+          "sha256": "E42EA2908C32984B3F89DC93CD92769404A358238567EC905BC3A52827454621"
+        }
+      },
+      "finished_utc": "2026-10-04T01:56:03.2414661Z",
+      "wall_seconds": 13.0763373,
+      "problems": []
+    },
+    {
+      "requested_arena": "ember_foundry",
+      "started_utc": "2026-10-04T01:56:03.2447451Z",
+      "passed": true,
+      "command": "\"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe\" --rendering-method forward_plus --log-file \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\ember_foundry\\engine.log\" -- --smoke --profile --frames=600 \"--arena=ember_foundry\" \"--evidence-root=C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/evidence/map_expansion/release/ember_foundry\" --capture-tick=300 --screenshot=release_gameplay.png",
+      "working_directory": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows",
+      "exit_code": 0,
+      "timed_out": false,
+      "timeout_seconds": 180,
+      "smoke_report": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\ember_foundry\\smoke_runtime.json",
+      "engine_log": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\ember_foundry\\engine.log",
+      "native_log": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\ember_foundry\\release_smoke.log",
+      "build_hashes_before": {
+        "executable": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe",
+          "bytes": 109268480,
+          "sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562"
+        },
+        "pck": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.pck",
+          "bytes": 201285588,
+          "sha256": "09D04D03EEC9847C952BA956D1DD907ECE7A7A94694A3DDF1EE7DB9B41091073"
+        },
+        "manifest": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\build_manifest.json",
+          "bytes": 93582,
+          "sha256": "210BC229327F7AF4F04EFDA00C6A80EE9278DD2A21C860297FBDEA789B7F88A2"
+        }
+      },
+      "process_id": 29588,
+      "errors": [],
+      "warnings": [],
+      "reported_input_providers": [
+        "res://input/cpu_input_provider.gd",
+        "res://input/cpu_input_provider.gd",
+        "res://input/cpu_input_provider.gd",
+        "res://input/cpu_input_provider.gd"
+      ],
+      "reported_pixel_sizes": {
+        "window": "(1920, 1080)",
+        "texture_metadata": "(2304.0, 1296.0)",
+        "image_readback": "(1920, 1080)"
+      },
+      "capture": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\ember_foundry\\release_gameplay.png",
+        "bytes": 2488193,
+        "sha256": "71154C77F25DD9F327984416B973106AAA8BD636A99C28242ECB04CDD86C4427",
+        "width": 1920,
+        "height": 1080
+      },
+      "runtime_report_file": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\ember_foundry\\smoke_runtime.json",
+        "bytes": 14264,
+        "sha256": "089C3D67CB9C5BAFD9C9452D6BAD60ABFDD299FF9F3BF3BF24A54151DC6A36AE"
+      },
+      "reported_arena": "ember_foundry",
+      "ticks": 600,
+      "fighter_ids": [
+        "f06_rugged_explorer",
+        "f07_urban_sentinel",
+        "f08_midnight_gentleman",
+        "f01_clutch"
+      ],
+      "contacts": 31,
+      "renderer": "forward_plus",
+      "engine": "4.7.2-stable (official)",
+      "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+      "settings": {
+        "blood": true,
+        "effects": 0.85,
+        "flashes": 0.45,
+        "fullscreen": false,
+        "graphics": "High",
+        "master": 0.8,
+        "music": 0.36,
+        "profanity": false,
+        "resolution": "1920x1080",
+        "rumble": 0.5,
+        "shake": 0.5,
+        "ui_scale": 1.0
+      },
+      "build_hashes_after": {
+        "executable": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.exe",
+          "bytes": 109268480,
+          "sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562"
+        },
+        "pck": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\RooftopRiot.pck",
+          "bytes": 201285588,
+          "sha256": "09D04D03EEC9847C952BA956D1DD907ECE7A7A94694A3DDF1EE7DB9B41091073"
+        },
+        "manifest": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\windows\\build_manifest.json",
+          "bytes": 93582,
+          "sha256": "210BC229327F7AF4F04EFDA00C6A80EE9278DD2A21C860297FBDEA789B7F88A2"
+        }
+      },
+      "log_files": {
+        "engine": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\ember_foundry\\engine.log",
+          "bytes": 9932,
+          "sha256": "3261ED5BA03298C8A47A9BD7B540794A727E921CB281EA5BD96F6E73CCD082B7"
+        },
+        "native": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\ember_foundry\\release_smoke.log",
+          "bytes": 9940,
+          "sha256": "ED5834A494A46AB1E07715227FDEFFF9FF7FA124A576E8C00CD6C157613DDA06"
+        }
+      },
+      "finished_utc": "2026-10-04T01:56:16.6117982Z",
+      "wall_seconds": 13.3670727,
+      "problems": []
+    }
+  ],
+  "problems": []
+}

@@ -1,0 +1,16 @@
+{
+  "fighter_id": "f04_deadfall",
+  "source_scene": "source_art\\characters\\f04_deadfall\\curated.blend",
+  "editable_studio": "source_art\\characters\\f04_deadfall\\portrait_studio.blend",
+  "image": "evidence\\characters\\portraits\\f04_deadfall.png",
+  "resolution": [
+    768,
+    768
+  ],
+  "render_device": "OPTIX: NVIDIA GeForce RTX 4080 SUPER",
+  "curated_source_sha256": "8befac08525a926547fdd095f0f0e3b047353b70eec4edfb4cdd7317bd672171",
+  "curated_source_unchanged": true,
+  "albedo_repainted": false,
+  "style": "Actual source-derived chest portrait; warm side key, cool rim and physical midnight backdrop",
+  "camera_ortho_size": 0.95
+}

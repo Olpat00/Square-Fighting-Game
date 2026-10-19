@@ -1,0 +1,211 @@
+{
+  "revision": 3,
+  "authored_date": "2026-09-28",
+  "authoring_engine": "Blender5.2.0",
+  "origin": "Original local procedural geometry and original numerically generated PBR maps; no external stage models or texture library",
+  "geometry_seed": 80223,
+  "texture_seed": "sum of material key Unicode codepoints",
+  "coordinate_system": "BlenderX/Y/Z to GodotX/Z/-Y",
+  "generation_scripts": [
+    "tools/blender/stage_build.py",
+    "tools/blender/stage_party_chair.py"
+  ],
+  "inspection_refinements": [
+    "tools/blender/stage_refine_surfaces.py",
+    "tools/blender/stage_open_pool.py",
+    "tools/blender/stage_refine_crowd.py",
+    "tools/blender/stage_refine_skyline.py",
+    "tools/blender/stage_clear_balustrade.py"
+  ],
+  "distant_sky_matte": "Separate root-owned asset; see source_art/environment/dusk_city_generation.json",
+  "files": [
+    {
+      "path": "Game File/assets/stage/center_platform.glb",
+      "bytes": 6172148,
+      "sha256": "e8085401a949b83c9f98b719d521dddff67032caab9cc262524c4846ea1b0c9f"
+    },
+    {
+      "path": "Game File/assets/stage/party_chair.glb",
+      "bytes": 1829096,
+      "sha256": "c37368c8d41fb848312010cf2245a886f342a56e7d56e629f38d45a4b3baa39e"
+    },
+    {
+      "path": "Game File/assets/stage/stage.glb",
+      "bytes": 36105472,
+      "sha256": "c9a05e733b0a45ec2cf77b561e97ab455721c6bcc4d267387e7b0798e1077f1d"
+    },
+    {
+      "path": "Game File/characters/fighter_visual.gd",
+      "bytes": 5755,
+      "sha256": "09d5196aeb13488e97c8066b3b19657f1ac0e224ee036e37ca640f9d1d93cadc"
+    },
+    {
+      "path": "Game File/stages/rooftop_riot/hotel_windows.gdshader",
+      "bytes": 1151,
+      "sha256": "31718c82389fef5786f90a62ed5220892ba04d09ab59fb5f4dc6f1f0cb49011f"
+    },
+    {
+      "path": "Game File/stages/rooftop_riot/pool_water.gdshader",
+      "bytes": 2294,
+      "sha256": "4621cc8398691e284114949621070afb02ffb9c7379b27c9d09edb3305a64f43"
+    },
+    {
+      "path": "Game File/stages/rooftop_riot/pyro_flame.gdshader",
+      "bytes": 1215,
+      "sha256": "3f2117e0f46ec31bf7fc99c95a147ff000aa2f93fadc0337fb094a63f2eb6eaa"
+    },
+    {
+      "path": "Game File/stages/rooftop_riot/pyro_warning.gdshader",
+      "bytes": 487,
+      "sha256": "cbd4dc3b89aa521bc16e7b01c2121ec4677db277827fd65da7aae941b689e6ad"
+    },
+    {
+      "path": "Game File/stages/rooftop_riot/stage_controller.gd",
+      "bytes": 16156,
+      "sha256": "187e24f005a04d90517b426b4c4409198c598b01e625bbf37a47bfef2cb576b2"
+    },
+    {
+      "path": "Game File/stages/rooftop_riot/sunset.gdshader",
+      "bytes": 522,
+      "sha256": "f4d48e5012d40227b1b0bdf52f6b2e8dfd2bc3d65fafdec4342a4bc04b1b0063"
+    },
+    {
+      "path": "Game File/stages/rooftop_riot/terrace_foliage.gdshader",
+      "bytes": 820,
+      "sha256": "bf6dd3ef4b40688cf78fd62536a196a6dd6faada5cedd10379fbf1ec1abd63db"
+    },
+    {
+      "path": "source_art/stage/party_chair.blend",
+      "bytes": 1622635,
+      "sha256": "66dce5d1765bf94477810854c845fe96eae1883304fa660c94d154ff5e11eb48"
+    },
+    {
+      "path": "source_art/stage/textures/bark_color.png",
+      "bytes": 736189,
+      "sha256": "cf252460e5aaec188c36ef9f942f28595fc5db99f99c75fe65d76d89d74b0dc1"
+    },
+    {
+      "path": "source_art/stage/textures/bark_normal.png",
+      "bytes": 330677,
+      "sha256": "a73012088636741195233cd025fec1ecae3c2a6c98939439587826aca570f677"
+    },
+    {
+      "path": "source_art/stage/textures/bark_roughness.png",
+      "bytes": 183277,
+      "sha256": "ab1068ce843fb9ef52cae960f634258f4f3c355b69990a97c18439c5f0e37d20"
+    },
+    {
+      "path": "source_art/stage/textures/brass_color.png",
+      "bytes": 616320,
+      "sha256": "6500c34031d358d3814fab40b50211ab9e4174745447afcf09f6832403276ecf"
+    },
+    {
+      "path": "source_art/stage/textures/brass_normal.png",
+      "bytes": 992141,
+      "sha256": "b9df6714307d502fc4ac3ef10196ce6a7bcf11c06221458fa4fd73bdd75d0007"
+    },
+    {
+      "path": "source_art/stage/textures/brass_roughness.png",
+      "bytes": 487043,
+      "sha256": "b38b7de8f6549a2c251c61f58d2968387270b5e4297cbf00036d04567ed86132"
+    },
+    {
+      "path": "source_art/stage/textures/linen_color.png",
+      "bytes": 812632,
+      "sha256": "843602a9435c44afd8662580aad8d3b8f255639d16e7cb151323758fab550313"
+    },
+    {
+      "path": "source_art/stage/textures/linen_normal.png",
+      "bytes": 486781,
+      "sha256": "4449560bcc38413ec4e0a03821310abd2d6a6df6c26ef8efc998d3d6a3427250"
+    },
+    {
+      "path": "source_art/stage/textures/linen_roughness.png",
+      "bytes": 15961,
+      "sha256": "8614022ff30cc8391021ed1cc2215aed58fee480ba73a0d199a103d620b1f730"
+    },
+    {
+      "path": "source_art/stage/textures/slate_color.png",
+      "bytes": 552264,
+      "sha256": "80296e3fed12c93f6fc3373392ca0a5eca01f8d73f8747906213cf75e75a4b7a"
+    },
+    {
+      "path": "source_art/stage/textures/slate_normal.png",
+      "bytes": 1581328,
+      "sha256": "540e0a1e2cacf749ad008eb1e7e974472abd53521a8e971f1c4564f8933d2090"
+    },
+    {
+      "path": "source_art/stage/textures/slate_roughness.png",
+      "bytes": 490366,
+      "sha256": "995f5279fd358eb541b010ce0aff31e98daeaadfcd04a6181be6be4fcfbd801f"
+    },
+    {
+      "path": "source_art/stage/textures/stone_color.png",
+      "bytes": 988007,
+      "sha256": "29d3cdb08ce5997d5c7052f5bd6acc320b7d8f20e34c0f134ba4636d2c17f641"
+    },
+    {
+      "path": "source_art/stage/textures/stone_normal.png",
+      "bytes": 1582829,
+      "sha256": "2317f1ce32bc9c5f35e0d0785b416bb31e6401289a148d78b57a3f881cece8c8"
+    },
+    {
+      "path": "source_art/stage/textures/stone_roughness.png",
+      "bytes": 488216,
+      "sha256": "070ed32f5e5c860fc07f4741750682aba94c79b66710127cd7ec41639a9ff5ac"
+    },
+    {
+      "path": "source_art/stage/textures/wood_color.png",
+      "bytes": 591702,
+      "sha256": "8ea39f7f8d1c4e090e5f86916ebb1bebcb885dc9d2a0ef5ae54d76c7e3e968cd"
+    },
+    {
+      "path": "source_art/stage/textures/wood_normal.png",
+      "bytes": 431326,
+      "sha256": "5f9806a4e280e8ef8104b7f1963e4a19d0082d46a23eff6a0383f2fa0f0de41f"
+    },
+    {
+      "path": "source_art/stage/textures/wood_roughness.png",
+      "bytes": 299087,
+      "sha256": "b4b6226a904c5baa881e2be573f701ef2bba6642ea681c9f614d8b3906b35661"
+    },
+    {
+      "path": "source_art/stage/textures/wood2_color.png",
+      "bytes": 709911,
+      "sha256": "a1e5400f2f9ae8f813ba668748f820f1ffaf896b754a7e4c406d0eea90776727"
+    },
+    {
+      "path": "source_art/stage/textures/wood2_normal.png",
+      "bytes": 389659,
+      "sha256": "4fd8c670187434ed0c18b89124891169109fe3153a86eadd85afd4b13de96761"
+    },
+    {
+      "path": "source_art/stage/textures/wood2_roughness.png",
+      "bytes": 251111,
+      "sha256": "a5dc55b0fb5cce4f7ab97fb7ef2d0930f3e8237dbb272facd7bc1079e113ea59"
+    },
+    {
+      "path": "source_art/stage/the_last_resort_modeling.blend",
+      "bytes": 16116143,
+      "sha256": "6affa08b9da1c4de34e096255b0cbef11e45d90547765245338e49f4727b6751"
+    },
+    {
+      "path": "source_art/stage/the_last_resort.blend",
+      "bytes": 18596865,
+      "sha256": "800558313a6b1ec5ecf80431c380c9b1123dd3601e423a55e5e868d517064ece"
+    },
+    {
+      "path": "tools/blender/stage_build.py",
+      "bytes": 33210,
+      "sha256": "d6adc8b57bcbff1f08bceaad87c770048a0a0b51af24bafa05c21bc295baea1c"
+    },
+    {
+      "path": "tools/blender/stage_party_chair.py",
+      "bytes": 5292,
+      "sha256": "116dbfd24553d7c20943f875fcfe787cec7226aa13d33a0ffd5312f167fdfcc3"
+    }
+  ],
+  "excluded_runtime_groups": [
+    "skyline"
+  ]
+}

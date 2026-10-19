@@ -1,0 +1,1265 @@
+{
+  "checked_utc": "2026-09-28T21:27:16.187163+00:00",
+  "baseline_commit": "0ffe149",
+  "scene_revision": 3,
+  "scope": "Static preservation and artifact integrity; no match simulated; visual judgement recorded separately",
+  "passed": true,
+  "check_count": 234,
+  "runtime_changed_paths": [
+    "Game File/assets/stage/center_platform.glb",
+    "Game File/assets/stage/center_platform_brass_color.png",
+    "Game File/assets/stage/center_platform_brass_color.png.import",
+    "Game File/assets/stage/center_platform_brass_normal.png",
+    "Game File/assets/stage/center_platform_brass_normal.png.import",
+    "Game File/assets/stage/center_platform_brass_roughness.png",
+    "Game File/assets/stage/center_platform_brass_roughness.png.import",
+    "Game File/assets/stage/center_platform_slate_color.png",
+    "Game File/assets/stage/center_platform_slate_color.png.import",
+    "Game File/assets/stage/center_platform_slate_normal.png",
+    "Game File/assets/stage/center_platform_slate_normal.png.import",
+    "Game File/assets/stage/center_platform_slate_roughness.png",
+    "Game File/assets/stage/center_platform_slate_roughness.png.import",
+    "Game File/assets/stage/center_platform_wood_color.png",
+    "Game File/assets/stage/center_platform_wood_color.png.import",
+    "Game File/assets/stage/center_platform_wood_normal.png",
+    "Game File/assets/stage/center_platform_wood_normal.png.import",
+    "Game File/assets/stage/center_platform_wood_roughness.png",
+    "Game File/assets/stage/center_platform_wood_roughness.png.import",
+    "Game File/assets/stage/stage.glb",
+    "Game File/assets/stage/stage_bark_color.png",
+    "Game File/assets/stage/stage_bark_color.png.import",
+    "Game File/assets/stage/stage_bark_normal.png",
+    "Game File/assets/stage/stage_bark_normal.png.import",
+    "Game File/assets/stage/stage_bark_roughness.png",
+    "Game File/assets/stage/stage_bark_roughness.png.import",
+    "Game File/assets/stage/stage_brass_color.png",
+    "Game File/assets/stage/stage_brass_color.png.import",
+    "Game File/assets/stage/stage_brass_normal.png",
+    "Game File/assets/stage/stage_brass_normal.png.import",
+    "Game File/assets/stage/stage_brass_roughness.png",
+    "Game File/assets/stage/stage_brass_roughness.png.import",
+    "Game File/assets/stage/stage_linen_color.png",
+    "Game File/assets/stage/stage_linen_color.png.import",
+    "Game File/assets/stage/stage_linen_normal.png",
+    "Game File/assets/stage/stage_linen_normal.png.import",
+    "Game File/assets/stage/stage_linen_roughness.png",
+    "Game File/assets/stage/stage_linen_roughness.png.import",
+    "Game File/assets/stage/stage_slate_color.png",
+    "Game File/assets/stage/stage_slate_color.png.import",
+    "Game File/assets/stage/stage_slate_normal.png",
+    "Game File/assets/stage/stage_slate_normal.png.import",
+    "Game File/assets/stage/stage_slate_roughness.png",
+    "Game File/assets/stage/stage_slate_roughness.png.import",
+    "Game File/assets/stage/stage_stone_color.png",
+    "Game File/assets/stage/stage_stone_color.png.import",
+    "Game File/assets/stage/stage_stone_normal.png",
+    "Game File/assets/stage/stage_stone_normal.png.import",
+    "Game File/assets/stage/stage_stone_roughness.png",
+    "Game File/assets/stage/stage_stone_roughness.png.import",
+    "Game File/assets/stage/stage_wood2_color.png",
+    "Game File/assets/stage/stage_wood2_color.png.import",
+    "Game File/assets/stage/stage_wood2_normal.png",
+    "Game File/assets/stage/stage_wood2_normal.png.import",
+    "Game File/assets/stage/stage_wood2_roughness.png",
+    "Game File/assets/stage/stage_wood2_roughness.png.import",
+    "Game File/assets/stage/stage_wood_color.png",
+    "Game File/assets/stage/stage_wood_color.png.import",
+    "Game File/assets/stage/stage_wood_normal.png",
+    "Game File/assets/stage/stage_wood_normal.png.import",
+    "Game File/assets/stage/stage_wood_roughness.png",
+    "Game File/assets/stage/stage_wood_roughness.png.import",
+    "Game File/characters/fighter_visual.gd",
+    "Game File/stages/rooftop_riot/hotel_windows.gdshader",
+    "Game File/stages/rooftop_riot/hotel_windows.gdshader.uid",
+    "Game File/stages/rooftop_riot/pool_water.gdshader",
+    "Game File/stages/rooftop_riot/pyro_flame.gdshader",
+    "Game File/stages/rooftop_riot/pyro_flame.gdshader.uid",
+    "Game File/stages/rooftop_riot/pyro_warning.gdshader",
+    "Game File/stages/rooftop_riot/pyro_warning.gdshader.uid",
+    "Game File/stages/rooftop_riot/stage_controller.gd",
+    "Game File/stages/rooftop_riot/terrace_foliage.gdshader",
+    "Game File/stages/rooftop_riot/terrace_foliage.gdshader.uid"
+  ],
+  "package_timestamp_utc": "2026-09-28T21:26:55.2453657Z",
+  "checks": [
+    {
+      "name": "Runtime changes confined to scene graphics and fighter lighting",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Stage function unchanged: blockout",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Stage function unchanged: box",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Stage function unchanged: support",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Stage function unchanged: solve_motion",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Stage function unchanged: hazard_contacts",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Stage function unchanged: is_hazard_warning_at",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Stage function unchanged: react",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Stage function unchanged: reset_cosmetics",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Stage function unchanged: break_nearby_decoration",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Stage function unchanged: break_nearby_sign",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Stage function unchanged: _build_sunset",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Stage function unchanged: frame_horizon",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Authoritative platforms and seed unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Lift, hazard clock, random schedule and phase unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Stage state defaults unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Fighter presentation function preserved: configure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Fighter presentation function preserved: _ground_marker",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Fighter presentation function preserved: _shield",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Fighter presentation function preserved: _find_player",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Fighter presentation function preserved: play",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Fighter presentation function preserved: present_result",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Fighter presentation function preserved: step_result",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Fighter presentation function preserved: step",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Exported platform coordinate contract unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Supplied original preserved: Damion",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Supplied original preserved: Jaydon",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Supplied original preserved: Josh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Supplied original preserved: Wes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Supplied original preserved: Will",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Stage provenance is revision 3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: Game File/assets/stage/center_platform.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: Game File/assets/stage/party_chair.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: Game File/assets/stage/stage.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: Game File/characters/fighter_visual.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: Game File/stages/rooftop_riot/hotel_windows.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: Game File/stages/rooftop_riot/pool_water.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: Game File/stages/rooftop_riot/pyro_flame.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: Game File/stages/rooftop_riot/pyro_warning.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: Game File/stages/rooftop_riot/stage_controller.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: Game File/stages/rooftop_riot/sunset.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: Game File/stages/rooftop_riot/terrace_foliage.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/party_chair.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/bark_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/bark_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/bark_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/brass_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/brass_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/brass_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/linen_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/linen_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/linen_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/slate_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/slate_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/slate_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/stone_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/stone_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/stone_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/wood_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/wood_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/wood_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/wood2_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/wood2_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/textures/wood2_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/the_last_resort_modeling.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: source_art/stage/the_last_resort.blend",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: tools/blender/stage_build.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Art provenance: tools/blender/stage_party_chair.py",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Source preview dimensions: gameplay_angle",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "Source preview dimensions: pyro_detail",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "Source preview dimensions: architecture_detail",
+      "passed": true,
+      "detail": [
+        1920,
+        1080
+      ]
+    },
+    {
+      "name": "Clean engine log: revision3_final_import.log",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Clean engine log: revision3_final_preview.log",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Release EXE hash",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Release PCK hash",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Export manifest covers current runtime source inventory",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "Packaged source: assets/audio/audio_manifest.json",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/break_prop.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/hazard_fire.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/hazard_warning.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/hit_heavy_1.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/hit_heavy_2.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/hit_light_1.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/hit_light_2.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/hit_light_3.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/jump.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/ko.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/land.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/last_resort_music.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/launch.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/menu_back.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/menu_confirm.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/menu_move.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/meter_ready.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/parry.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/rooftop_ambience.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/shield.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/swing.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/ultimate.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/audio/victory.wav",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f01_clutch_low_base_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f01_clutch_low_metallic_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f01_clutch_low_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f01_clutch_low.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f01_clutch_metallic_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f01_clutch.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f02_sunstruck_Image_1.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f02_sunstruck_low_Image_0.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f02_sunstruck_low_Image_1.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f02_sunstruck_low_Image_2.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f02_sunstruck_low.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f02_sunstruck.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f03_heavy_duty_low_base_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f03_heavy_duty_low_metallic_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f03_heavy_duty_low_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f03_heavy_duty_low.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f03_heavy_duty_metallic_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f03_heavy_duty.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f04_deadfall_low_base_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f04_deadfall_low_metallic_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f04_deadfall_low_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f04_deadfall_low.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f04_deadfall_metallic_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f04_deadfall.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f05_fine_print_low_base_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f05_fine_print_low_metallic_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f05_fine_print_low_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f05_fine_print_low.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f05_fine_print_metallic_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/characters/f05_fine_print.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/environment/dusk_city.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/portraits/f01_clutch.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/portraits/f02_sunstruck.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/portraits/f03_heavy_duty.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/portraits/f04_deadfall.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/portraits/f05_fine_print.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/props/branch.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/props/chair.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/props/clipboard.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/props/log.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/props/plank.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/props/reflector.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/props/solar_disc.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/props/tree.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/center_platform_brass_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/center_platform_brass_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/center_platform_brass_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/center_platform_slate_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/center_platform_slate_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/center_platform_slate_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/center_platform_wood_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/center_platform_wood_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/center_platform_wood_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/center_platform.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/party_chair_brass_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/party_chair_brass_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/party_chair_brass_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/party_chair_linen_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/party_chair_linen_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/party_chair_linen_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/party_chair_wood_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/party_chair_wood_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/party_chair_wood_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/party_chair.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_bark_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_bark_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_bark_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_brass_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_brass_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_brass_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_linen_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_linen_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_linen_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_slate_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_slate_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_slate_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_stone_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_stone_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_stone_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_wood_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_wood_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_wood_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_wood2_color.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_wood2_normal.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage_wood2_roughness.png",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: assets/stage/stage.glb",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: characters/definitions/_builder.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: characters/definitions/f01_clutch.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: characters/definitions/f02_sunstruck.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: characters/definitions/f03_heavy_duty.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: characters/definitions/f04_deadfall.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: characters/definitions/f05_fine_print.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: characters/fighter_definition.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: characters/fighter_visual.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: characters/fighter.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: characters/roster.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: combat/abilities/citations.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: combat/abilities/commitment.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: combat/abilities/encore.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: combat/abilities/fieldcraft.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: combat/abilities/momentum.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: combat/ability_controller.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: combat/ability_kit.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: combat/combat_resolver.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: combat/fighter_mechanics.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: combat/match_world.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: combat/move_definition.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: combat/tuning.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: input/cpu_input_provider.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: input/human_input_provider.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: input/input_provider.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: input/input_snapshot.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: input/scripted_input_provider.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: main.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: main.tscn",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: presentation/audio_director.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: presentation/debug_overlay.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: presentation/effects_director.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: presentation/settings_store.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: presentation/shaders/ability_contour.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: presentation/shaders/ability_filament.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: presentation/shaders/fighter_marker.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: presentation/shaders/fighter_shield.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: presentation/shaders/impact_energy.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: presentation/shaders/impact_soft.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: project.godot",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: stages/rooftop_riot/hotel_windows.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: stages/rooftop_riot/pool_water.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: stages/rooftop_riot/pyro_flame.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: stages/rooftop_riot/pyro_warning.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: stages/rooftop_riot/stage_controller.gd",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: stages/rooftop_riot/sunset.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: stages/rooftop_riot/terrace_foliage.gdshader",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "Packaged source: ui/game_ui.gd",
+      "passed": true,
+      "detail": null
+    }
+  ]
+}

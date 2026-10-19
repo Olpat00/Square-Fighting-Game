@@ -1,0 +1,31 @@
+{
+  "started_utc": "2026-10-03T22:25:10.5398855Z",
+  "finished_utc": "2026-10-03T22:26:05.6800029Z",
+  "requested_arena": "verdant_shrine",
+  "ticks": 900,
+  "contacts": 29,
+  "passed": true,
+  "files": [
+    {
+      "file": "brawl.mp4",
+      "bytes": 9625508,
+      "sha256": "4EE4D0E93918F46345C55A607BE3A95E148B26EB55E4B3D0FD585C79952C53BA"
+    },
+    {
+      "file": "brawl_half_speed.mp4",
+      "bytes": 10464148,
+      "sha256": "A9E34B63E553C2CEC12D56F8617B1080E7D56891DE675CF77A4FE7971C24F86C"
+    },
+    {
+      "file": "brawl.png",
+      "bytes": 2728034,
+      "sha256": "4C250CBFF4469BE6C45265FF1079DA59AFDA35E1CBF3C61368D14AF21D7F756E"
+    },
+    {
+      "file": "smoke_runtime.json",
+      "bytes": 14165,
+      "sha256": "49D117994136A1D060724A7C53AF0244DADC819B7DEDEC978E98EFAB493EF24E"
+    }
+  ],
+  "scope": "Continuous four-CPU movie; screenshot arena requires visual inspection. Movie recording costs are not performance evidence."
+}

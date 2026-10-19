@@ -1,0 +1,914 @@
+{
+  "checks": 181,
+  "engine": "4.7.2-stable (official)",
+  "failures": 0,
+  "headless": true,
+  "limitation": "Actual main, effects, stage, providers, and UI state run headlessly. Connection signals and input events are synthetic; they do not prove physical controller operation, connected-device enumeration changes, rendered visuals, audio quality, or performance. User settings are not saved.",
+  "results": [
+    {
+      "detail": "",
+      "name": "Actual main and current UI initialize headlessly",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Oversized High burst respects the 144 active-node cap",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Additional bursts at capacity allocate no nodes",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Same-color bursts reuse a mesh/material resource",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Pooled lifetime and shader age advance; pressure ring retains its expanding shader while sparks shrink",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Smoke expands as its lifetime decays",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Expired effects become hidden reusable nodes",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Reused particles restore position, scale, visibility, and lifetime",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "A new color adds one shared resource without new particle nodes",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Twenty pool reuse cycles preserve the original node set",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Oversized Low burst caps active particles at 64 and reuses existing High-tier nodes",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Additional Low bursts at capacity allocate no nodes",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Real presentation event populates the pool and camera impulse",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Repeated effect reset clears impulse and does not duplicate spare nodes",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Party starts with exactly three intact cosmetic signs",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Light hit event does not break a sign",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Heavy hit presentation event breaks its nearby Party sign",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "A broken sign cannot trigger a second break",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "All three signs break independently",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Cosmetic break events leave authoritative surfaces and damage unchanged",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Real rematch restores all cosmetic signs",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Real rematch clears active effects and camera impulse",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Distant and high hits cannot break signs",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Fair Fight disables all three cosmetic break triggers",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Party installs exactly two intact authored cosmetic chairs",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Ordinary light impact leaves decorative furniture intact",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Nearby heavy hit breaks its selected chair without breaking a distant sign",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Chair breakup adds exactly eight debris fragments, separately from the signature impact, through the existing pool",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "A broken chair cannot create a second breakup",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Second curated chair breaks independently",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Furniture breakup adds no collision surface or combat damage",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Rematch restores both chairs and clears their pooled fragments without allocations",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Distant overhead impact cannot break floor furniture",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Fair Fight disables furniture breakup",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Actual low-percent light hit has an impact cue without launch spam",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Actual high-knockback impact emits one launch event with resolved speed and target",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Hitstop and hit registry do not repeat a launch cue",
+      "passed": true
+    },
+    {
+      "detail": "[{ \"event\": \"shield\", \"actor\": 1, \"at\": (0.85, 0.0, 0.0), \"details\": {  } }]",
+      "name": "Shielded high-percent heavy contact does not emit a launch cue",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Audio event route layers the authored launch asset at reduced gain",
+      "passed": true
+    },
+    {
+      "detail": "[(0.88, 0.29, 0.0), (0.43, 1.6, 0.0)]",
+      "name": "Actual ankle and overhead contacts place their impact events at distinct visible body heights",
+      "passed": true
+    },
+    {
+      "detail": "(-0.42, 1.45, 0.0)",
+      "name": "A travelled projectile places its effect on the remote victim using its sweep, not its owner's stale move offset",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Actual final KO stages results without changing committed stocks or fighter positions",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Eliminated loser is visible in defeat while winner begins final-KO flourish",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Results clear temporary ability props and captures",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Winner's final-KO flourish remains active through tick 69",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Actual main results update transitions final-KO flourish to looping victory",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Rematch replaces staged result visuals with clean gameplay fighters",
+      "passed": true
+    },
+    {
+      "detail": "[(0.718973, 0.596057), (0.787277, 0.5), (0.767187, 0.596057), (0.835491, 0.5), (0.815402, 0.596057), (0.883705, 0.5), (0.208705, 0.596057), (0.277009, 0.5)]",
+      "name": "rooftop_riot final KO at (-8.7, 10.0, 0.0) immediately frames every staged result actor",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "rooftop_riot final KO at (-8.7, 10.0, 0.0) keeps result actors beside the central results panel",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "rooftop_riot final KO at (-8.7, 10.0, 0.0) result framing preserves committed combat roots",
+      "passed": true
+    },
+    {
+      "detail": "[(0.718973, 0.596057), (0.787277, 0.5), (0.767187, 0.596057), (0.835491, 0.5), (0.815402, 0.596057), (0.883705, 0.5), (0.208705, 0.596057), (0.277009, 0.5)]",
+      "name": "rooftop_riot final KO at (8.7, -1.7, 0.0) immediately frames every staged result actor",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "rooftop_riot final KO at (8.7, -1.7, 0.0) keeps result actors beside the central results panel",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "rooftop_riot final KO at (8.7, -1.7, 0.0) result framing preserves committed combat roots",
+      "passed": true
+    },
+    {
+      "detail": "[(0.718973, 0.596057), (0.787277, 0.5), (0.767187, 0.596057), (0.835491, 0.5), (0.815402, 0.596057), (0.883705, 0.5), (0.208705, 0.596057), (0.277009, 0.5)]",
+      "name": "lunar_reach final KO at (-8.7, 10.0, 0.0) immediately frames every staged result actor",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "lunar_reach final KO at (-8.7, 10.0, 0.0) keeps result actors beside the central results panel",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "lunar_reach final KO at (-8.7, 10.0, 0.0) result framing preserves committed combat roots",
+      "passed": true
+    },
+    {
+      "detail": "[(0.718973, 0.596057), (0.787277, 0.5), (0.767187, 0.596057), (0.835491, 0.5), (0.815402, 0.596057), (0.883705, 0.5), (0.208705, 0.596057), (0.277009, 0.5)]",
+      "name": "lunar_reach final KO at (8.7, -1.7, 0.0) immediately frames every staged result actor",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "lunar_reach final KO at (8.7, -1.7, 0.0) keeps result actors beside the central results panel",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "lunar_reach final KO at (8.7, -1.7, 0.0) result framing preserves committed combat roots",
+      "passed": true
+    },
+    {
+      "detail": "[(0.718973, 0.596057), (0.787277, 0.5), (0.767187, 0.596057), (0.835491, 0.5), (0.815402, 0.596057), (0.883705, 0.5), (0.208705, 0.596057), (0.277009, 0.5)]",
+      "name": "verdant_shrine final KO at (-8.7, 10.0, 0.0) immediately frames every staged result actor",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "verdant_shrine final KO at (-8.7, 10.0, 0.0) keeps result actors beside the central results panel",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "verdant_shrine final KO at (-8.7, 10.0, 0.0) result framing preserves committed combat roots",
+      "passed": true
+    },
+    {
+      "detail": "[(0.718973, 0.596057), (0.787277, 0.5), (0.767187, 0.596057), (0.835491, 0.5), (0.815402, 0.596057), (0.883705, 0.5), (0.208705, 0.596057), (0.277009, 0.5)]",
+      "name": "verdant_shrine final KO at (8.7, -1.7, 0.0) immediately frames every staged result actor",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "verdant_shrine final KO at (8.7, -1.7, 0.0) keeps result actors beside the central results panel",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "verdant_shrine final KO at (8.7, -1.7, 0.0) result framing preserves committed combat roots",
+      "passed": true
+    },
+    {
+      "detail": "[(0.718973, 0.596057), (0.787277, 0.5), (0.767187, 0.596057), (0.835491, 0.5), (0.815402, 0.596057), (0.883705, 0.5), (0.208705, 0.596057), (0.277009, 0.5)]",
+      "name": "abyssal_observatory final KO at (-8.7, 10.0, 0.0) immediately frames every staged result actor",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "abyssal_observatory final KO at (-8.7, 10.0, 0.0) keeps result actors beside the central results panel",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "abyssal_observatory final KO at (-8.7, 10.0, 0.0) result framing preserves committed combat roots",
+      "passed": true
+    },
+    {
+      "detail": "[(0.718973, 0.596057), (0.787277, 0.5), (0.767187, 0.596057), (0.835491, 0.5), (0.815402, 0.596057), (0.883705, 0.5), (0.208705, 0.596057), (0.277009, 0.5)]",
+      "name": "abyssal_observatory final KO at (8.7, -1.7, 0.0) immediately frames every staged result actor",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "abyssal_observatory final KO at (8.7, -1.7, 0.0) keeps result actors beside the central results panel",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "abyssal_observatory final KO at (8.7, -1.7, 0.0) result framing preserves committed combat roots",
+      "passed": true
+    },
+    {
+      "detail": "[(0.718973, 0.596057), (0.787277, 0.5), (0.767187, 0.596057), (0.835491, 0.5), (0.815402, 0.596057), (0.883705, 0.5), (0.208705, 0.596057), (0.277009, 0.5)]",
+      "name": "ember_foundry final KO at (-8.7, 10.0, 0.0) immediately frames every staged result actor",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ember_foundry final KO at (-8.7, 10.0, 0.0) keeps result actors beside the central results panel",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ember_foundry final KO at (-8.7, 10.0, 0.0) result framing preserves committed combat roots",
+      "passed": true
+    },
+    {
+      "detail": "[(0.718973, 0.596057), (0.787277, 0.5), (0.767187, 0.596057), (0.835491, 0.5), (0.815402, 0.596057), (0.883705, 0.5), (0.208705, 0.596057), (0.277009, 0.5)]",
+      "name": "ember_foundry final KO at (8.7, -1.7, 0.0) immediately frames every staged result actor",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ember_foundry final KO at (8.7, -1.7, 0.0) keeps result actors beside the central results panel",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ember_foundry final KO at (8.7, -1.7, 0.0) result framing preserves committed combat roots",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Actual main input route seeds independent pad and keyboard held/buffered state",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Unassigned controller disconnect does not pause or reset active players",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Assigned controller disconnect signal pauses actual main and opens pause UI",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Disconnect clears every player's held, edge, and buffered inputs",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Paused controller-loss match does not advance simulation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Reconnect signal keeps a paused match paused until explicit resume",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Explicit resume continues simulation through the actual main handler",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Inputs held before disconnect cannot become attacks after resume",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "F3 is ignored in a normal match with a human second slot",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Training starts with a stationary CPU fixture",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "F3 positive control changes the live training dummy behavior",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "F3 after leaving Training safely ignores an empty roster",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Synthetic reconnect rebuilds the active selection UI",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Selection refresh preserves the assigned pad slot",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Synthetic signal does not falsely display a physically absent pad as connected",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Old pause key does not pause a CPU demo after remapping",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Remapped host pause freezes a CPU-only demo",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Keyboard repeat cannot resume a paused CPU demo",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Remapped host key resumes a CPU demo without a second pause edge",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Keyboard repeat cannot pause a running CPU demo",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Keyboard-owned pause reaches the normal provider before simulation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Keyboard-owned pause toggles exactly once in the world step",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Keyboard-owned pause also ignores repeat while paused",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Keyboard-owned resume clears the queued pause edge",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Host can pause an all-gamepad match",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Unassigned controller Start cannot resume another match",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Assigned controller Start resumes and clears pending pause state",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Actual main installs its normal HUD citation overlay",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Normal HUD exposes independent mirror-owned citation counts and colors with debug disabled",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Consumption removes only the consuming owner's HUD citation row",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Citation expiry removes the displayed row on the next simulation tick",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Source KO clears only that source's displayed citation row",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Target KO clears every source's displayed citation row",
+      "passed": true
+    },
+    {
+      "detail": "[(1024, 1024), (1024, 1024), (1024, 1024), (1024, 1024)]",
+      "name": "f01_clutch Low match loads the real 1K albedo/normal/packed material textures",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f01_clutch Low preserves every runtime animation",
+      "passed": true
+    },
+    {
+      "detail": "[(1024, 1024), (1024, 1024), (1024, 1024), (1024, 1024)]",
+      "name": "f02_sunstruck Low match loads the real 1K albedo/normal/packed material textures",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f02_sunstruck Low preserves every runtime animation",
+      "passed": true
+    },
+    {
+      "detail": "[(1024, 1024), (1024, 1024), (1024, 1024), (1024, 1024)]",
+      "name": "f03_heavy_duty Low match loads the real 1K albedo/normal/packed material textures",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f03_heavy_duty Low preserves every runtime animation",
+      "passed": true
+    },
+    {
+      "detail": "[(1024, 1024), (1024, 1024), (1024, 1024), (1024, 1024)]",
+      "name": "f04_deadfall Low match loads the real 1K albedo/normal/packed material textures",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f04_deadfall Low preserves every runtime animation",
+      "passed": true
+    },
+    {
+      "detail": "[(1024, 1024), (1024, 1024), (1024, 1024), (1024, 1024)]",
+      "name": "f05_fine_print Low match loads the real 1K albedo/normal/packed material textures",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f05_fine_print Low preserves every runtime animation",
+      "passed": true
+    },
+    {
+      "detail": "[(1024, 1024), (1024, 1024), (1024, 1024), (1024, 1024)]",
+      "name": "f06_rugged_explorer Low match loads the real 1K albedo/normal/packed material textures",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f06_rugged_explorer Low preserves every runtime animation",
+      "passed": true
+    },
+    {
+      "detail": "[(1024, 1024), (1024, 1024), (1024, 1024), (1024, 1024)]",
+      "name": "f07_urban_sentinel Low match loads the real 1K albedo/normal/packed material textures",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f07_urban_sentinel Low preserves every runtime animation",
+      "passed": true
+    },
+    {
+      "detail": "[(1024, 1024), (1024, 1024), (1024, 1024), (1024, 1024)]",
+      "name": "f08_midnight_gentleman Low match loads the real 1K albedo/normal/packed material textures",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f08_midnight_gentleman Low preserves every runtime animation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "High restores original-resolution fighters on the next match",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Pause freezes camera focus, zoom and shake at 30 FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Fast launch and low recovery remain in the safe frame at 30 FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Pause freezes camera focus, zoom and shake at 60 FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Fast launch and low recovery remain in the safe frame at 60 FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Pause freezes camera focus, zoom and shake at 144 FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Fast launch and low recovery remain in the safe frame at 144 FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Shake phase depends on elapsed time rather than render-frame count",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Close exchanges frame larger fighters and zoom out faster than they zoom in",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Four overlapping player labels separate inside safe bounds at (12.0, 50.0)",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Four overlapping player labels separate inside safe bounds at (972.0, 650.0)",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Four overlapping player labels separate inside safe bounds at (972.0, 50.0)",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Four overlapping player labels separate inside safe bounds at (12.0, 650.0)",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Four overlapping player labels separate inside safe bounds at (492.0, 350.0)",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Paused effects preserve even the first burst frame and impulse envelope",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Shield contact gets a compact smoke-free cue without camera impact",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Node3D Low reduces scenery, shaders, shadow and postprocess costs",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Node3D High restores presentation without changing collision planes",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Node3D Low reduces scenery, shaders, shadow and postprocess costs",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Lunar Low terrain draws one ninth of High triangles",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Lunar foreground terrain stays below the recovery/blast plane",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Node3D High restores presentation without changing collision planes",
+      "passed": true
+    },
+    {
+      "detail": "20 attached shader clocks at tick 450",
+      "name": "verdant_shrine live shader clocks advance with actual match simulation",
+      "passed": true
+    },
+    {
+      "detail": "High 289, Low 116 drawable instances",
+      "name": "verdant_shrine Low reduces actual visible scenery and batch instances",
+      "passed": true
+    },
+    {
+      "detail": "Lights 5→3; casters 56→52",
+      "name": "verdant_shrine Low reduces actual scene lights and shadow casters",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "verdant_shrine Low selects reduced attached shaders and disables expensive postprocess",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "verdant_shrine Low retains collision and the live Party warning",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "verdant_shrine High restores exact scene visibility, materials, shadows and instance counts without moving collision",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "verdant_shrine paused shader clocks, scenery transforms, lift and warning remain fixed at 30 render FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "verdant_shrine paused shader clocks, scenery transforms, lift and warning remain fixed at 60 render FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "verdant_shrine paused shader clocks, scenery transforms, lift and warning remain fixed at 144 render FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "verdant_shrine resuming advances every attached shader clock with the next combat tick",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "verdant_shrine rematch resets live shader clocks during countdown",
+      "passed": true
+    },
+    {
+      "detail": "23 attached shader clocks at tick 450",
+      "name": "abyssal_observatory live shader clocks advance with actual match simulation",
+      "passed": true
+    },
+    {
+      "detail": "High 385, Low 193 drawable instances",
+      "name": "abyssal_observatory Low reduces actual visible scenery and batch instances",
+      "passed": true
+    },
+    {
+      "detail": "Lights 5→3; casters 275→76",
+      "name": "abyssal_observatory Low reduces actual scene lights and shadow casters",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "abyssal_observatory Low selects reduced attached shaders and disables expensive postprocess",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "abyssal_observatory Low retains collision and the live Party warning",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "abyssal_observatory High restores exact scene visibility, materials, shadows and instance counts without moving collision",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "abyssal_observatory paused shader clocks, scenery transforms, lift and warning remain fixed at 30 render FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "abyssal_observatory paused shader clocks, scenery transforms, lift and warning remain fixed at 60 render FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "abyssal_observatory paused shader clocks, scenery transforms, lift and warning remain fixed at 144 render FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "abyssal_observatory resuming advances every attached shader clock with the next combat tick",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "abyssal_observatory rematch resets live shader clocks during countdown",
+      "passed": true
+    },
+    {
+      "detail": "11 attached shader clocks at tick 450",
+      "name": "ember_foundry live shader clocks advance with actual match simulation",
+      "passed": true
+    },
+    {
+      "detail": "High 886, Low 518 drawable instances",
+      "name": "ember_foundry Low reduces actual visible scenery and batch instances",
+      "passed": true
+    },
+    {
+      "detail": "Lights 5→3; casters 264→134",
+      "name": "ember_foundry Low reduces actual scene lights and shadow casters",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ember_foundry Low selects reduced attached shaders and disables expensive postprocess",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ember_foundry Low retains collision and the live Party warning",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ember_foundry High restores exact scene visibility, materials, shadows and instance counts without moving collision",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ember_foundry paused shader clocks, scenery transforms, lift and warning remain fixed at 30 render FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ember_foundry paused shader clocks, scenery transforms, lift and warning remain fixed at 60 render FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ember_foundry paused shader clocks, scenery transforms, lift and warning remain fixed at 144 render FPS",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ember_foundry resuming advances every attached shader clock with the next combat tick",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ember_foundry rematch resets live shader clocks during countdown",
+      "passed": true
+    }
+  ]
+}

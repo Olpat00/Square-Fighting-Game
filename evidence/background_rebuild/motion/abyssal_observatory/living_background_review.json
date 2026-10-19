@@ -1,0 +1,304 @@
+{
+  "arenas": [
+    "abyssal_observatory"
+  ],
+  "captures": [],
+  "cases": [
+    {
+      "arena": "abyssal_observatory",
+      "bootstrap_draw_frames": 0,
+      "draw_frames_at_completion": 720,
+      "frame_readbacks_during_movie": 0,
+      "motion": {
+        "changed_clock_paths": [
+          "DistantArenaArtwork/surface0/scenery_time",
+          "DescendingSunshaft0/surface0/scene_time",
+          "DescendingSunshaft1/surface0/scene_time",
+          "DescendingSunshaft2/surface0/scene_time",
+          "DescendingSunshaft3/surface0/scene_time",
+          "DescendingSunshaft4/surface0/scene_time",
+          "DescendingSunshaft5/surface0/scene_time",
+          "DescendingSunshaft6/surface0/scene_time",
+          "IvoryFightingGallery/JointedMarbleSlabs/surface0/scene_time",
+          "CantileverBalcony1/JointedMarbleSlabs/surface0/scene_time",
+          "CantileverBalcony2/JointedMarbleSlabs/surface0/scene_time",
+          "PressureBalancedLift/JointedMarbleSlabs/surface0/scene_time",
+          "DriftingMoonJelly/TrailingFilaments/surface0/scene_time",
+          "@Node3D@848/TrailingFilaments/surface0/scene_time",
+          "@Node3D@853/TrailingFilaments/surface0/scene_time",
+          "@Node3D@858/TrailingFilaments/surface0/scene_time",
+          "@Node3D@863/TrailingFilaments/surface0/scene_time",
+          "@Node3D@868/TrailingFilaments/surface0/scene_time",
+          "@Node3D@873/TrailingFilaments/surface0/scene_time",
+          "WindowSilverfish/material/scene_time",
+          "HighPelagicShoal/material/scene_time",
+          "UndercroftReefFish/material/scene_time",
+          "WarmReefVisitors/material/scene_time"
+        ],
+        "changed_pose_paths": [
+          "DescendingSunshaft0",
+          "DescendingSunshaft1",
+          "DescendingSunshaft2",
+          "DescendingSunshaft3",
+          "DescendingSunshaft4",
+          "DescendingSunshaft5",
+          "DescendingSunshaft6",
+          "GlidingManta",
+          "GlidingManta/@MeshInstance3D@836",
+          "GlidingManta/@MeshInstance3D@837",
+          "@Node3D@839",
+          "@Node3D@839/@MeshInstance3D@841",
+          "@Node3D@839/@MeshInstance3D@842",
+          "DriftingMoonJelly",
+          "DriftingMoonJelly/PulsingBell",
+          "DriftingMoonJelly/TrailingFilaments",
+          "@Node3D@848",
+          "@Node3D@848/PulsingBell",
+          "@Node3D@848/TrailingFilaments",
+          "@Node3D@853",
+          "@Node3D@853/PulsingBell",
+          "@Node3D@853/TrailingFilaments",
+          "@Node3D@858",
+          "@Node3D@858/PulsingBell",
+          "@Node3D@858/TrailingFilaments",
+          "@Node3D@863",
+          "@Node3D@863/PulsingBell",
+          "@Node3D@863/TrailingFilaments",
+          "@Node3D@868",
+          "@Node3D@868/PulsingBell",
+          "@Node3D@868/TrailingFilaments",
+          "@Node3D@873",
+          "@Node3D@873/PulsingBell",
+          "@Node3D@873/TrailingFilaments",
+          "WindowSilverfish",
+          "HighPelagicShoal",
+          "UndercroftReefFish",
+          "WarmReefVisitors",
+          "WindowCurrentParticles"
+        ],
+        "from_tick": 0,
+        "to_tick": 720,
+        "visible_clock_changes": 23,
+        "visible_pose_changes": 39,
+        "visual_judgement": "Not inferred from state or image hashes; inspect captured motion."
+      },
+      "movie_path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\ambient.avi",
+      "movie_writer_fps": 60,
+      "quality": "High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "samples": [
+        {
+          "seconds": 0.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory/abyssal_observatory_high_movie_t0000_state.json",
+            "saved": true,
+            "sha256": "a84b88dbe9b0c0768dbecf23e67bde2c5824ba940b78885c8aae51674fc4c065"
+          },
+          "tick": 0
+        },
+        {
+          "seconds": 2.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory/abyssal_observatory_high_movie_t0120_state.json",
+            "saved": true,
+            "sha256": "790ec4415d9754d921825781c6e68d869909c31fdff2a6b2c28eeaf9825dacd7"
+          },
+          "tick": 120
+        },
+        {
+          "seconds": 5.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory/abyssal_observatory_high_movie_t0300_state.json",
+            "saved": true,
+            "sha256": "7fb60e4d487b82fdef547432ac607f9fed5eab63162f21543be17601998fdbaf"
+          },
+          "tick": 300
+        },
+        {
+          "seconds": 10.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory/abyssal_observatory_high_movie_t0600_state.json",
+            "saved": true,
+            "sha256": "b0a5f4342f55936c5dbfa96090ec4deec6ecca0a2a1a9d10b83fd34d70def554"
+          },
+          "tick": 600
+        },
+        {
+          "seconds": 12.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory/abyssal_observatory_high_movie_t0720_state.json",
+            "saved": true,
+            "sha256": "ad193d7c905b8413f944f7b72d8f27150453c8cc2c792804f32f762db9e0503e"
+          },
+          "tick": 720
+        }
+      ],
+      "scenery_draw_frames": 720,
+      "simulation_seconds": 12.0,
+      "simulation_ticks": 720
+    }
+  ],
+  "checks": 13,
+  "failures": 0,
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "harness_sha256": "5357d265b380f710f05f7875c85cb4136317f9514fcbe754a79095d27f6adb69",
+  "limitations": [
+    "Deterministic stationary-player presentation fixtures, not performance measurements or human gameplay/controller testing.",
+    "State checks prove scene clock ownership, pause/reset and graphics restoration, not aesthetic quality or visibility at gameplay distance.",
+    "Pause image equality is reviewed separately; image hashes are identities, not a visual-motion verdict.",
+    "Movie writer may include setup/shutdown frames; bootstrap and captured draw-frame counts are recorded for editorial trimming."
+  ],
+  "movie": true,
+  "passed": true,
+  "qualities": [
+    "High"
+  ],
+  "renderer": "forward_plus",
+  "results": [
+    {
+      "details": {},
+      "name": "A graphical renderer is required",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Known arena abyssal_observatory",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Known graphics tier High",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Movie selects exactly one arena and tier",
+      "passed": true
+    },
+    {
+      "details": {
+        "fixed_fps": 60,
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\ambient.avi"
+      },
+      "name": "Movie uses engine AVI writer at fixed 60 FPS",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "abyssal_observatory_high movie starts from reset scenery clock",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "abyssal_observatory_high movie clocks follow tick 120",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "abyssal_observatory_high movie clocks follow tick 300",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "abyssal_observatory_high movie clocks follow tick 600",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "abyssal_observatory_high movie clocks follow tick 720",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "abyssal_observatory_high movie advances exactly 720 combat ticks",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "abyssal_observatory_high movie preserves Fair Fight geometry and clock-owned background",
+      "passed": true
+    },
+    {
+      "details": {
+        "changed_clock_paths": [
+          "DistantArenaArtwork/surface0/scenery_time",
+          "DescendingSunshaft0/surface0/scene_time",
+          "DescendingSunshaft1/surface0/scene_time",
+          "DescendingSunshaft2/surface0/scene_time",
+          "DescendingSunshaft3/surface0/scene_time",
+          "DescendingSunshaft4/surface0/scene_time",
+          "DescendingSunshaft5/surface0/scene_time",
+          "DescendingSunshaft6/surface0/scene_time",
+          "IvoryFightingGallery/JointedMarbleSlabs/surface0/scene_time",
+          "CantileverBalcony1/JointedMarbleSlabs/surface0/scene_time",
+          "CantileverBalcony2/JointedMarbleSlabs/surface0/scene_time",
+          "PressureBalancedLift/JointedMarbleSlabs/surface0/scene_time",
+          "DriftingMoonJelly/TrailingFilaments/surface0/scene_time",
+          "@Node3D@848/TrailingFilaments/surface0/scene_time",
+          "@Node3D@853/TrailingFilaments/surface0/scene_time",
+          "@Node3D@858/TrailingFilaments/surface0/scene_time",
+          "@Node3D@863/TrailingFilaments/surface0/scene_time",
+          "@Node3D@868/TrailingFilaments/surface0/scene_time",
+          "@Node3D@873/TrailingFilaments/surface0/scene_time",
+          "WindowSilverfish/material/scene_time",
+          "HighPelagicShoal/material/scene_time",
+          "UndercroftReefFish/material/scene_time",
+          "WarmReefVisitors/material/scene_time"
+        ],
+        "changed_pose_paths": [
+          "DescendingSunshaft0",
+          "DescendingSunshaft1",
+          "DescendingSunshaft2",
+          "DescendingSunshaft3",
+          "DescendingSunshaft4",
+          "DescendingSunshaft5",
+          "DescendingSunshaft6",
+          "GlidingManta",
+          "GlidingManta/@MeshInstance3D@836",
+          "GlidingManta/@MeshInstance3D@837",
+          "@Node3D@839",
+          "@Node3D@839/@MeshInstance3D@841",
+          "@Node3D@839/@MeshInstance3D@842",
+          "DriftingMoonJelly",
+          "DriftingMoonJelly/PulsingBell",
+          "DriftingMoonJelly/TrailingFilaments",
+          "@Node3D@848",
+          "@Node3D@848/PulsingBell",
+          "@Node3D@848/TrailingFilaments",
+          "@Node3D@853",
+          "@Node3D@853/PulsingBell",
+          "@Node3D@853/TrailingFilaments",
+          "@Node3D@858",
+          "@Node3D@858/PulsingBell",
+          "@Node3D@858/TrailingFilaments",
+          "@Node3D@863",
+          "@Node3D@863/PulsingBell",
+          "@Node3D@863/TrailingFilaments",
+          "@Node3D@868",
+          "@Node3D@868/PulsingBell",
+          "@Node3D@868/TrailingFilaments",
+          "@Node3D@873",
+          "@Node3D@873/PulsingBell",
+          "@Node3D@873/TrailingFilaments",
+          "WindowSilverfish",
+          "HighPelagicShoal",
+          "UndercroftReefFish",
+          "WarmReefVisitors",
+          "WindowCurrentParticles"
+        ],
+        "from_tick": 0,
+        "to_tick": 720,
+        "visible_clock_changes": 23,
+        "visible_pose_changes": 39,
+        "visual_judgement": "Not inferred from state or image hashes; inspect captured motion."
+      },
+      "name": "abyssal_observatory_high movie has visible motion sources",
+      "passed": true
+    }
+  ],
+  "settings_saved": false,
+  "visual_review": "pending_human_or_image_inspection"
+}

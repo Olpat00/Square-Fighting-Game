@@ -1,0 +1,45 @@
+{
+  "reviewed_utc": "2026-10-04T01:59:56.2782590Z",
+  "passed": true,
+  "scope": "Assistant inspection of seven fresh exported-PCK and actual Windows EXE captures at 1920x1080.",
+  "images": [
+    {
+      "path": "evidence/windows_release_flow/integration/arena_abyssal_observatory_selection.png",
+      "sha256": "B54ACC714F483771694ED245163C0865D0F046C942DD68F60840348EF737465D"
+    },
+    {
+      "path": "evidence/windows_release_flow/integration/arena_verdant_shrine_match.png",
+      "sha256": "21E614E609B508FF14188A7A1B49D6BDA6DC50764A7EE2A44955E5CDDB6A706D"
+    },
+    {
+      "path": "evidence/map_expansion/release/verdant_shrine/release_gameplay.png",
+      "sha256": "C3842A63672053FAA09C612AE6A5ABA0C7A73779C77C28019AD248070735FC41"
+    },
+    {
+      "path": "evidence/windows_release_flow/integration/arena_abyssal_observatory_match.png",
+      "sha256": "0E82FF269B3E39F981E5702FEB07B1E6201D927C82D91C622B4FA64CDB355E16"
+    },
+    {
+      "path": "evidence/map_expansion/release/abyssal_observatory/release_gameplay.png",
+      "sha256": "34508A2A859B48E3AC3834BA2DEE4EC84820F7FDB84468B884C97093AC977D6F"
+    },
+    {
+      "path": "evidence/windows_release_flow/integration/arena_ember_foundry_match.png",
+      "sha256": "154E2ED0DBC424BEA13C9DF7B9C3D11C5C4A31C930C3695344B352864875569E"
+    },
+    {
+      "path": "evidence/map_expansion/release/ember_foundry/release_gameplay.png",
+      "sha256": "71154C77F25DD9F327984416B973106AAA8BD636A99C28242ECB04CDD86C4427"
+    }
+  ],
+  "observations": [
+    "All three arena scenes match the reviewed art, with distinct palettes, visible fighting surfaces and intact HUDs.",
+    "Abyssal arena selection preview, title and Party description are consistent.",
+    "Ember four-fighter close overlap reduces individual pose separation at the sampled instant; four labels remain separated. No blocking still-image issue."
+  ],
+  "limitations": [
+    "Still-image review does not establish continuous motion or human playtesting."
+  ],
+  "release_receipt_sha256": "815E275AF95CF190AEA48E8D869AA58E70E31479135055AAFFFE4FD8CF1188D8",
+  "ui_receipt_sha256": "2D0853C4A3BE57FD00DD656EAD2E1C99B1A88A2070571F8F2D6A8436F3AE713A"
+}

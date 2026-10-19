@@ -1,0 +1,80 @@
+[
+  {
+    "source": "Assets\\Rugged Explorer\\Meshy_AI_Rugged_Explorer_0928211551_texture.glb",
+    "sha256": "85f57a04762e492d5d15b72abdac5511b1864f57f116c2dc06bf1e03085f3ccb",
+    "bounds_blender": [
+      [
+        -0.34120801091194153,
+        -0.2409610003232956,
+        -0.9522290229797363
+      ],
+      [
+        0.33632001280784607,
+        0.2306089997291565,
+        0.9513490200042725
+      ]
+    ],
+    "source_height": 1.9035780429840088,
+    "mesh_count": 1,
+    "vertices": 822979,
+    "polygons": 1544080,
+    "arms_and_skin": [
+      {
+        "vertex_groups": [],
+        "modifiers": []
+      }
+    ]
+  },
+  {
+    "source": "Assets\\Urban Sentinel\\Meshy_AI_Urban_Sentinel_0928211602_texture.glb",
+    "sha256": "48c7a46e2176bd8452147f43e76215b4b091f0a13cb82cf524e5e770a7d0e4e6",
+    "bounds_blender": [
+      [
+        -0.3607339859008789,
+        -0.2002909928560257,
+        -0.9520050287246704
+      ],
+      [
+        0.35620999336242676,
+        0.1900079995393753,
+        0.9499800205230713
+      ]
+    ],
+    "source_height": 1.9019850492477417,
+    "mesh_count": 1,
+    "vertices": 699449,
+    "polygons": 1321298,
+    "arms_and_skin": [
+      {
+        "vertex_groups": [],
+        "modifiers": []
+      }
+    ]
+  },
+  {
+    "source": "Assets\\Midnight Gentleman\\Meshy_AI_Midnight_Gentleman_0928211534_texture.glb",
+    "sha256": "fabdabfceaec509885b3724af79756cd9964a182333bfd052c9eef3cf0e6e563",
+    "bounds_blender": [
+      [
+        -0.3584420084953308,
+        -0.1880210041999817,
+        -0.9520630240440369
+      ],
+      [
+        0.35776200890541077,
+        0.19388599693775177,
+        0.9509419798851013
+      ]
+    ],
+    "source_height": 1.9030050039291382,
+    "mesh_count": 1,
+    "vertices": 503474,
+    "polygons": 942910,
+    "arms_and_skin": [
+      {
+        "vertex_groups": [],
+        "modifiers": []
+      }
+    ]
+  }
+]

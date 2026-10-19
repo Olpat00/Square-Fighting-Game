@@ -1,0 +1,13 @@
+{
+  "fighter": "f02_sunstruck",
+  "changed_clips": [
+    "win"
+  ],
+  "changed_bones": [
+    "mouth.L",
+    "mouth.R"
+  ],
+  "all_other_clips_unchanged": true,
+  "previous_curated_sha256": "2b718b16767d1da13b561cecdf3c8e991bdea2655ccab46aa2061c6430290b9b",
+  "new_curated_sha256": "26d1807504c42b668c1e081826a8fdfd318570a3be51b530164a3851e91ddd1f"
+}

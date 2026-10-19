@@ -1,0 +1,27 @@
+{
+  "captured_utc": "2026-10-02T15:27:32.0486044Z",
+  "cpu": {
+    "Name": "AMD Ryzen 7 7700X 8-Core Processor             ",
+    "NumberOfCores": 8,
+    "NumberOfLogicalProcessors": 16
+  },
+  "gpu": [
+    {
+      "Name": "AMD Radeon(TM) Graphics",
+      "DriverVersion": "32.0.21043.5001",
+      "VideoProcessor": "AMD Radeon Graphics Processor (0x164E)"
+    },
+    {
+      "Name": "NVIDIA GeForce RTX 4080 SUPER",
+      "DriverVersion": "32.0.16.1088",
+      "VideoProcessor": "NVIDIA GeForce RTX 4080 SUPER"
+    }
+  ],
+  "system": {
+    "TotalPhysicalMemory": 16305913856
+  },
+  "os": {
+    "Caption": "Microsoft Windows 11 Home",
+    "Version": "10.0.26200"
+  }
+}

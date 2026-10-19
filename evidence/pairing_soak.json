@@ -1,0 +1,525 @@
+{
+  "failures": [],
+  "limitation": "Headless combat and cleanup coverage for the full roster; graphical quality, audio, physical controller operation, and rendered performance require separate review.",
+  "node_baseline": 137,
+  "node_final": 137,
+  "pairings": [
+    {
+      "contacts": 35,
+      "end_damage_sum": 247.6483,
+      "kos": 0,
+      "pair": [
+        "f01_clutch",
+        "f01_clutch"
+      ],
+      "seed": 92841,
+      "ticks": 3600
+    },
+    {
+      "contacts": 44,
+      "end_damage_sum": 278.97865,
+      "kos": 0,
+      "pair": [
+        "f01_clutch",
+        "f02_sunstruck"
+      ],
+      "seed": 92842,
+      "ticks": 3600
+    },
+    {
+      "contacts": 42,
+      "end_damage_sum": 46.0,
+      "kos": 3,
+      "pair": [
+        "f01_clutch",
+        "f03_heavy_duty"
+      ],
+      "seed": 92843,
+      "ticks": 3600
+    },
+    {
+      "contacts": 38,
+      "end_damage_sum": 154.4526,
+      "kos": 1,
+      "pair": [
+        "f01_clutch",
+        "f04_deadfall"
+      ],
+      "seed": 92844,
+      "ticks": 3600
+    },
+    {
+      "contacts": 44,
+      "end_damage_sum": 153.7344,
+      "kos": 1,
+      "pair": [
+        "f01_clutch",
+        "f05_fine_print"
+      ],
+      "seed": 92845,
+      "ticks": 3600
+    },
+    {
+      "contacts": 37,
+      "end_damage_sum": 254.011,
+      "kos": 0,
+      "pair": [
+        "f01_clutch",
+        "f06_rugged_explorer"
+      ],
+      "seed": 92846,
+      "ticks": 3600
+    },
+    {
+      "contacts": 53,
+      "end_damage_sum": 202.4688,
+      "kos": 1,
+      "pair": [
+        "f01_clutch",
+        "f07_urban_sentinel"
+      ],
+      "seed": 92847,
+      "ticks": 3600
+    },
+    {
+      "contacts": 41,
+      "end_damage_sum": 270.62,
+      "kos": 0,
+      "pair": [
+        "f01_clutch",
+        "f08_midnight_gentleman"
+      ],
+      "seed": 92848,
+      "ticks": 3600
+    },
+    {
+      "contacts": 41,
+      "end_damage_sum": 222.358,
+      "kos": 0,
+      "pair": [
+        "f02_sunstruck",
+        "f02_sunstruck"
+      ],
+      "seed": 92861,
+      "ticks": 3600
+    },
+    {
+      "contacts": 44,
+      "end_damage_sum": 103.76,
+      "kos": 2,
+      "pair": [
+        "f02_sunstruck",
+        "f03_heavy_duty"
+      ],
+      "seed": 92862,
+      "ticks": 3600
+    },
+    {
+      "contacts": 44,
+      "end_damage_sum": 66.408,
+      "kos": 2,
+      "pair": [
+        "f02_sunstruck",
+        "f04_deadfall"
+      ],
+      "seed": 92863,
+      "ticks": 3600
+    },
+    {
+      "contacts": 35,
+      "end_damage_sum": 153.92,
+      "kos": 1,
+      "pair": [
+        "f02_sunstruck",
+        "f05_fine_print"
+      ],
+      "seed": 92864,
+      "ticks": 3600
+    },
+    {
+      "contacts": 37,
+      "end_damage_sum": 206.868,
+      "kos": 0,
+      "pair": [
+        "f02_sunstruck",
+        "f06_rugged_explorer"
+      ],
+      "seed": 92865,
+      "ticks": 3600
+    },
+    {
+      "contacts": 39,
+      "end_damage_sum": 238.432,
+      "kos": 1,
+      "pair": [
+        "f02_sunstruck",
+        "f07_urban_sentinel"
+      ],
+      "seed": 92866,
+      "ticks": 3600
+    },
+    {
+      "contacts": 56,
+      "end_damage_sum": 320.852,
+      "kos": 0,
+      "pair": [
+        "f02_sunstruck",
+        "f08_midnight_gentleman"
+      ],
+      "seed": 92867,
+      "ticks": 3600
+    },
+    {
+      "contacts": 26,
+      "end_damage_sum": 90.56,
+      "kos": 2,
+      "pair": [
+        "f03_heavy_duty",
+        "f03_heavy_duty"
+      ],
+      "seed": 92881,
+      "ticks": 3600
+    },
+    {
+      "contacts": 48,
+      "end_damage_sum": 226.78,
+      "kos": 2,
+      "pair": [
+        "f03_heavy_duty",
+        "f04_deadfall"
+      ],
+      "seed": 92882,
+      "ticks": 3600
+    },
+    {
+      "contacts": 42,
+      "end_damage_sum": 284.62,
+      "kos": 1,
+      "pair": [
+        "f03_heavy_duty",
+        "f05_fine_print"
+      ],
+      "seed": 92883,
+      "ticks": 3600
+    },
+    {
+      "contacts": 27,
+      "end_damage_sum": 226.32,
+      "kos": 0,
+      "pair": [
+        "f03_heavy_duty",
+        "f06_rugged_explorer"
+      ],
+      "seed": 92884,
+      "ticks": 3600
+    },
+    {
+      "contacts": 42,
+      "end_damage_sum": 266.36,
+      "kos": 2,
+      "pair": [
+        "f03_heavy_duty",
+        "f07_urban_sentinel"
+      ],
+      "seed": 92885,
+      "ticks": 3600
+    },
+    {
+      "contacts": 36,
+      "end_damage_sum": 149.78,
+      "kos": 1,
+      "pair": [
+        "f03_heavy_duty",
+        "f08_midnight_gentleman"
+      ],
+      "seed": 92886,
+      "ticks": 3600
+    },
+    {
+      "contacts": 36,
+      "end_damage_sum": 226.0,
+      "kos": 2,
+      "pair": [
+        "f04_deadfall",
+        "f04_deadfall"
+      ],
+      "seed": 92901,
+      "ticks": 3600
+    },
+    {
+      "contacts": 30,
+      "end_damage_sum": 139.16,
+      "kos": 1,
+      "pair": [
+        "f04_deadfall",
+        "f05_fine_print"
+      ],
+      "seed": 92902,
+      "ticks": 3600
+    },
+    {
+      "contacts": 21,
+      "end_damage_sum": 161.96,
+      "kos": 0,
+      "pair": [
+        "f04_deadfall",
+        "f06_rugged_explorer"
+      ],
+      "seed": 92903,
+      "ticks": 3600
+    },
+    {
+      "contacts": 34,
+      "end_damage_sum": 288.23,
+      "kos": 0,
+      "pair": [
+        "f04_deadfall",
+        "f07_urban_sentinel"
+      ],
+      "seed": 92904,
+      "ticks": 3600
+    },
+    {
+      "contacts": 32,
+      "end_damage_sum": 191.7,
+      "kos": 1,
+      "pair": [
+        "f04_deadfall",
+        "f08_midnight_gentleman"
+      ],
+      "seed": 92905,
+      "ticks": 3600
+    },
+    {
+      "contacts": 33,
+      "end_damage_sum": 127.74,
+      "kos": 1,
+      "pair": [
+        "f05_fine_print",
+        "f05_fine_print"
+      ],
+      "seed": 92921,
+      "ticks": 3600
+    },
+    {
+      "contacts": 31,
+      "end_damage_sum": 168.94,
+      "kos": 0,
+      "pair": [
+        "f05_fine_print",
+        "f06_rugged_explorer"
+      ],
+      "seed": 92922,
+      "ticks": 3600
+    },
+    {
+      "contacts": 33,
+      "end_damage_sum": 225.948,
+      "kos": 0,
+      "pair": [
+        "f05_fine_print",
+        "f07_urban_sentinel"
+      ],
+      "seed": 92923,
+      "ticks": 3600
+    },
+    {
+      "contacts": 41,
+      "end_damage_sum": 157.86,
+      "kos": 2,
+      "pair": [
+        "f05_fine_print",
+        "f08_midnight_gentleman"
+      ],
+      "seed": 92924,
+      "ticks": 3600
+    },
+    {
+      "contacts": 43,
+      "end_damage_sum": 263.265,
+      "kos": 0,
+      "pair": [
+        "f06_rugged_explorer",
+        "f06_rugged_explorer"
+      ],
+      "seed": 92941,
+      "ticks": 3600
+    },
+    {
+      "contacts": 30,
+      "end_damage_sum": 189.409,
+      "kos": 0,
+      "pair": [
+        "f06_rugged_explorer",
+        "f07_urban_sentinel"
+      ],
+      "seed": 92942,
+      "ticks": 3600
+    },
+    {
+      "contacts": 36,
+      "end_damage_sum": 197.34,
+      "kos": 0,
+      "pair": [
+        "f06_rugged_explorer",
+        "f08_midnight_gentleman"
+      ],
+      "seed": 92943,
+      "ticks": 3600
+    },
+    {
+      "contacts": 42,
+      "end_damage_sum": 312.16,
+      "kos": 0,
+      "pair": [
+        "f07_urban_sentinel",
+        "f07_urban_sentinel"
+      ],
+      "seed": 92961,
+      "ticks": 3600
+    },
+    {
+      "contacts": 34,
+      "end_damage_sum": 171.47,
+      "kos": 1,
+      "pair": [
+        "f07_urban_sentinel",
+        "f08_midnight_gentleman"
+      ],
+      "seed": 92962,
+      "ticks": 3600
+    },
+    {
+      "contacts": 31,
+      "end_damage_sum": 213.42,
+      "kos": 0,
+      "pair": [
+        "f08_midnight_gentleman",
+        "f08_midnight_gentleman"
+      ],
+      "seed": 92981,
+      "ticks": 3600
+    },
+    {
+      "four_cpu": true,
+      "kos": 11,
+      "result": {
+        "ko_log": [
+          {
+            "assists": [
+              0,
+              3,
+              1
+            ],
+            "credited": 1,
+            "tick": 2471,
+            "victim": 2
+          },
+          {
+            "assists": [
+              1,
+              0,
+              2
+            ],
+            "credited": 1,
+            "tick": 2479,
+            "victim": 3
+          },
+          {
+            "assists": [
+              3,
+              0,
+              2
+            ],
+            "credited": 3,
+            "tick": 3987,
+            "victim": 1
+          },
+          {
+            "assists": [
+              3,
+              1,
+              0
+            ],
+            "credited": 1,
+            "tick": 4243,
+            "victim": 2
+          },
+          {
+            "assists": [
+              3,
+              2,
+              1
+            ],
+            "credited": 2,
+            "tick": 6111,
+            "victim": 0
+          },
+          {
+            "assists": [
+              3,
+              2,
+              0
+            ],
+            "credited": 0,
+            "tick": 6869,
+            "victim": 1
+          },
+          {
+            "assists": [
+              0,
+              3,
+              1
+            ],
+            "credited": 3,
+            "tick": 7039,
+            "victim": 2
+          },
+          {
+            "assists": [
+              0,
+              1,
+              2
+            ],
+            "credited": 0,
+            "tick": 7274,
+            "victim": 3
+          },
+          {
+            "assists": [
+              1,
+              3
+            ],
+            "credited": 1,
+            "tick": 12127,
+            "victim": 0
+          },
+          {
+            "assists": [
+              3,
+              0
+            ],
+            "credited": 0,
+            "tick": 12509,
+            "victim": 1
+          },
+          {
+            "assists": [
+              1,
+              0
+            ],
+            "credited": 0,
+            "tick": 12512,
+            "victim": 3
+          }
+        ],
+        "reason": "LAST ONE STANDING",
+        "ticks": 12512,
+        "winner": 0
+      },
+      "seed": 51307,
+      "ticks": 12512
+    }
+  ],
+  "rematches": 20
+}

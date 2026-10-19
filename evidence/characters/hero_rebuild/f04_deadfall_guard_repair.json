@@ -1,0 +1,14 @@
+{
+  "fighter": "f04_deadfall",
+  "changed_clips": [
+    "shield_hold"
+  ],
+  "changed_bones": [
+    "spine",
+    "chest"
+  ],
+  "all_other_clips_unchanged": true,
+  "clip_seconds_preserved": 1.0,
+  "previous_curated_sha256": "32ca49d37cc9c13af7ece65aa2bb132b2f73ba7c747e2813040e12d27a71b73a",
+  "new_curated_sha256": "8befac08525a926547fdd095f0f0e3b047353b70eec4edfb4cdd7317bd672171"
+}

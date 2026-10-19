@@ -1,0 +1,13 @@
+{
+  "fighter": "f08_midnight_gentleman",
+  "changed_clips": [
+    "win"
+  ],
+  "changed_bones": [
+    "mouth.L",
+    "mouth.R"
+  ],
+  "all_other_clips_unchanged": true,
+  "previous_curated_sha256": "8441218cbc6242084fab8e97fef2b07c6cf0dddf0f75591aba004e49a3e390ba",
+  "new_curated_sha256": "41b1549d17f2fc9aa9b15dcbaa3f1e30bdfb5dd8ef40b39b611fd51748a83139"
+}

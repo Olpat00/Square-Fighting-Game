@@ -1,0 +1,55 @@
+{
+  "revision": 3,
+  "source": "tools/blender/stage_build.py",
+  "stage_objects": 49,
+  "center_objects": 5,
+  "mesh_vertices": 207030,
+  "triangles": 379996,
+  "material_count": 36,
+  "original_texture_pngs": 21,
+  "coordinate_contract": {
+    "main_top_y": 0,
+    "main_x": [
+      -9,
+      9
+    ],
+    "fixed_platforms": [
+      {
+        "x": -5,
+        "y": 3.6,
+        "width": 4.5
+      },
+      {
+        "x": 5,
+        "y": 3.6,
+        "width": 4.5
+      }
+    ],
+    "center_local_top_y": 0,
+    "center_default_y": 5.5,
+    "center_width": 3.5,
+    "platform_depth": 1.45,
+    "visual_only": true,
+    "pyro_positions": [
+      [
+        -8,
+        0,
+        -0.46
+      ],
+      [
+        8,
+        0,
+        -0.46
+      ]
+    ],
+    "pool_center": [
+      -1.35,
+      -0.386,
+      -6.35
+    ]
+  },
+  "excluded_runtime_groups": [
+    "skyline"
+  ],
+  "runtime_material_count": 30
+}

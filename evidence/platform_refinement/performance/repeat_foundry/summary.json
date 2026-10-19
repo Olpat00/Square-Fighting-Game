@@ -1,0 +1,9 @@
+{
+  "case": "ember_foundry_low_4p",
+  "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\performance\\repeat_foundry\\ember_foundry_low_4p.json",
+  "frame_p95_ms": 1.848,
+  "frame_p99_ms": 2.863,
+  "gpu_p95_ms": 0.363999992609024,
+  "cpu_p95_ms": 0.337000012397766,
+  "peak_draws": 427.0
+}

@@ -1,0 +1,31 @@
+{
+  "started_utc": "2026-10-03T20:41:47.0002088Z",
+  "finished_utc": "2026-10-03T20:45:47.7233704Z",
+  "requested_arena": "rooftop_riot",
+  "ticks": 900,
+  "contacts": 43,
+  "passed": true,
+  "files": [
+    {
+      "file": "brawl.mp4",
+      "bytes": 18245903,
+      "sha256": "56EB0654BA82BD0CA38166EF4E8FB8F89367ACBB18D525895E399DD2337C03E9"
+    },
+    {
+      "file": "brawl_half_speed.mp4",
+      "bytes": 20430711,
+      "sha256": "C0499E2EDF78A33CDEAC1545B2561339D4A2507B70EEF4A8689F322851D95479"
+    },
+    {
+      "file": "brawl.png",
+      "bytes": 1768862,
+      "sha256": "EFDF808750FFE946E3EED2ADD87B67C19D5F891D6139DDEAEE21675773399CC0"
+    },
+    {
+      "file": "smoke_runtime.json",
+      "bytes": 13807,
+      "sha256": "29DD71934F19AEF6BCE4CC1CF6D48987A3028C3785E6BA10F71FB4A43788CA95"
+    }
+  ],
+  "scope": "Continuous four-CPU movie; screenshot arena requires visual inspection. Movie recording costs are not performance evidence."
+}

@@ -1,0 +1,17 @@
+{
+  "verified_at_utc": "2026-09-28T18:07:50.4438622Z",
+  "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\integration\\gameplay.mp4",
+  "sha256": "C9C8F3B493790AA71D94E5A4AD09AA940F9C13BB107D80171B8BE6AF479284D1",
+  "bytes": 7770372,
+  "simulation_ticks": 600,
+  "encoded_width": 1600,
+  "encoded_height": 900,
+  "capture_fps": 60.0,
+  "renderer": "Forward+",
+  "audio_mean_dbfs": -29.5,
+  "audio_peak_dbfs": -11.3,
+  "passed": true,
+  "conditions": "Actual seeded four-CPU Party gameplay, High, original mixed game audio. Movie writer initializes at the logical 1600x900 viewport before the game window becomes 1920x1080. Encoded dimensions are measured above. Offline movie capture is not a performance benchmark.",
+  "scope": "Decoded complete video/audio; non-silent and below full scale in this capture. No subjective listening-quality claim.",
+  "media_probe": "gameplay_media.log"
+}

@@ -1,0 +1,21 @@
+{
+  "engine": "Godot 4.7.2-stable official ed1daf0bf win64",
+  "observed_exit_code": -1073741819,
+  "exception": "0xC0000005",
+  "dump": "C:/Users/dayw9/AppData/Local/CrashDumps/Godot_v4.7.2-stable_win64.exe.18788.dmp",
+  "instruction_rva": "0x547f2c",
+  "function_start_rva": "0x547ee0",
+  "identified_function": "GDScriptLanguage::finish",
+  "identification": "Parsed Windows minidump exception context and disassembled the matching official executable. Faulting mov r12,[r13+8] traverses the freed GDScript script_list node; surrounding cache clear, script member-reference loops and self_list cleanup match the pinned 4.7.2 source.",
+  "upstream_issue": "https://github.com/godotengine/godot/issues/117975",
+  "upstream_fix": "https://github.com/godotengine/godot/pull/117991",
+  "pinned_source": "https://raw.githubusercontent.com/godotengine/godot/4.7.2-stable/modules/gdscript/gdscript.cpp",
+  "project_trigger": "HumanInputProvider extends InputProvider and owned static keyboard bindings and a loaded flag, matching the inherited-script static-state lifetime trigger reported upstream.",
+  "fix": "Move the two static values to explicitly preloaded keyboard_bindings_store.gd, which extends native RefCounted. Preserve HumanInputProvider methods, input snapshots, default controls and controls.cfg.",
+  "teardown": "Removed ineffective additional physics/process waits. Main retains its original three process frames; the animation harness retains its original one process frame.",
+  "fixed_count_exit_matrix": "native_exit_fixed.json: all 15 scheduled runs passed 76 assertions and exited 0, without retry-until-pass.",
+  "controls_validation": "2442 checks, zero failures, exit 0; includes existing/new provider remap sharing and defensive returned binding copies.",
+  "presentation_validation": "130 checks, zero failures, exit 0.",
+  "scope": "Observed faults happened after animation assertions completed, in engine cleanup rather than live Skeleton3D/Jolt execution. The workaround belongs in runtime code because inherited script cleanup also applies to ordinary application exit.",
+  "tooling": "Minidump, pefile and capstone are isolated under evidence/rebuild/diagnostic_dependencies. Automatic approval review rejected cleanup with 'blocked by policy'; the directory remains outside the game export. No global engine, debugger, registry or user setting was changed."
+}

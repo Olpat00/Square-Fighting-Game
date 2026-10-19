@@ -1,0 +1,60 @@
+{
+  "status": "complete",
+  "completed_utc": "2026-10-04T18:04:22.4267745Z",
+  "scope": "Visual construction and materials of main and raised platforms on all five arenas",
+  "runtime_sha256": "5D87C1AAB5E7C45183D0AFD7AD941C8BC2456A96F0A1326730F16A60C202B7B0",
+  "runtime_files": 525,
+  "source_assertions": 5097,
+  "visual_captures": 25,
+  "full_matches": 5,
+  "lifecycle_checks": 35,
+  "exported_ui_checks": 108,
+  "exported_ui_captures": 40,
+  "package": {
+    "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\RooftopRiot-Platform-Upgrade-Windows.zip",
+    "bytes": 204874113,
+    "sha256": "7D3B36F762AC219ABACDBC02D277326A4EB98B8CBB2EE37B0F8B2387BEEABB70",
+    "verified_entries": 22
+  },
+  "evidence": [
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\delivery.json",
+      "sha256": "C4EE7CDB66F76101B916A93C14FB11478514F2EF9CF68639C4CFA9258475EEB6",
+      "bytes": 10940
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\final_audit.json",
+      "sha256": "4374958A3E787BC608744DA4E6408E15963C6BFF5BD0E8C7D2C6CD35F130FCA6",
+      "bytes": 8501
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\visualreview.json",
+      "sha256": "2A58DE5C52F63EB35AFE738FAF4115941A3280DA6976C22660EDAC452193015D",
+      "bytes": 114791
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\platform_refinement\\release_visual_review.json",
+      "sha256": "8593F5FA61C8E36217061CFC1339DFDD2D14656A78FE8CD3B6D065BBB9186DEE",
+      "bytes": 2287
+    }
+  ],
+  "performance": {
+    "matrix": "evidence/platform_refinement/performance/final",
+    "cases": 10,
+    "sample_count": 564786,
+    "over_budget": 1650,
+    "repeats": [
+      "evidence/platform_refinement/performance/repeat_observatory",
+      "evidence/platform_refinement/performance/repeat_foundry"
+    ],
+    "repeat_sample_count": 118655,
+    "repeat_over_budget": 1,
+    "notes": "Original outliers retained; unchanged-source repeats improved. A globally stable 60 FPS result is not certified; outlier cause remains unestablished."
+  },
+  "limits": [
+    "Human gameplay and physical multi-controller acceptance remain unverified.",
+    "Weaker PCs, current Mobile renderer and actual packaged-build performance remain unverified.",
+    "Current platform still review does not certify continuous motion/audio or every pose."
+  ],
+  "previous_archive_preserved": true
+}

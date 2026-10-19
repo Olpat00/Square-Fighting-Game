@@ -1,0 +1,14 @@
+{
+  "fighter": "f05_fine_print",
+  "changed_clips": [
+    "shield_hold"
+  ],
+  "changed_bones": [
+    "spine",
+    "chest"
+  ],
+  "all_other_clips_unchanged": true,
+  "clip_seconds_preserved": 1.0,
+  "previous_curated_sha256": "8553b6f676dc9a2ae4fdf71c2128a7759c6b1175861ebc7472962e38358ed43b",
+  "new_curated_sha256": "49272b446affdd9c124da577ce289018fd6d448afc946e14328c6b7a4a7d46e2"
+}

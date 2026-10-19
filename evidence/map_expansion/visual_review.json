@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "reviewed_at_utc": "2026-10-03T22:27:17.031655+00:00",
+  "reviewer": "Codex assistant agent /root/ember_foundry",
+  "method": "Direct visual inspection of the 15 saved Godot PNGs through view_image. This is a subjective assistant still-image review, not human playtesting or continuous-motion acceptance.",
+  "capture_report": "evidence/map_expansion/accepted_review/stage_review.json",
+  "capture_report_sha256": "F954B7BD7888D72117B33FC902D7A76267FF4849CCC30F6085C2792B30E73CCF",
+  "passed": true,
+  "reviewed_count": 15,
+  "criteria": [
+    "Distinct and cohesive visual identities for all three new arenas",
+    "Readable platform tops and four fighters in normal High/Low fixtures",
+    "No obvious missing textures, intrusive opaque blockout scenery or prior Ember coplanar-face pattern in the inspected stills",
+    "High and low recovery identities remain within the visible game area",
+    "Intentionally overlapping player labels remain separated and readable"
+  ],
+  "blocking_findings": [],
+  "observations": [
+    "Low deliberately simplifies scenery; Ember retains mounting hardware and chains after ornamental gears and vessels are hidden.",
+    "Extreme recovery fixtures produce small character images; labels preserve identity, while actual continuous tracking remains a separate validation scope."
+  ],
+  "limitations": [
+    "No continuous animation, temporal flicker, attack effects, hazard timing, audio, gameplay balance or frame pacing is established by this still review.",
+    "No human or physical-controller playtest was performed.",
+    "This review covers these exact image hashes, not later runtime changes or an exported build."
+  ],
+  "views": [
+    {
+      "arena": "verdant_shrine",
+      "view": "high",
+      "file": "evidence/map_expansion/accepted_review/verdant_shrine_high.png",
+      "sha256": "53B3409D37CBD5B8B7D59C45078C737E5FFF05969DEC8858B7850970FDB6EFD2",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "High",
+      "camera_height": 11.8000001907349,
+      "passed": true,
+      "findings": "Jungle vista, stone top planes and all four fighter silhouettes read clearly. The center platform fits below the timer; no opaque scenery blocks the central fighting area."
+    },
+    {
+      "arena": "verdant_shrine",
+      "view": "low",
+      "file": "evidence/map_expansion/accepted_review/verdant_shrine_low.png",
+      "sha256": "2A75B4E538F192D1699724A056365B8AF3A8C082E4E5DA3A6B763BB5BD1C0B24",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "Low",
+      "camera_height": 11.8000001907349,
+      "passed": true,
+      "findings": "Reduced foliage/detail and simpler surfaces preserve the same recognizable setting, top edges, fighter visibility and HUD layout."
+    },
+    {
+      "arena": "verdant_shrine",
+      "view": "recovery",
+      "file": "evidence/map_expansion/accepted_review/verdant_shrine_recovery.png",
+      "sha256": "A529C2EE5212F851275D342558A73EE8AB529EE6AA13C21EE0D94A01885B6F07",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "High",
+      "camera_height": 36.1819648742676,
+      "passed": true,
+      "findings": "The forced distant launch and low recovery both remain visible with player labels; margin foliage does not obscure the low fighter."
+    },
+    {
+      "arena": "verdant_shrine",
+      "view": "near_ledge",
+      "file": "evidence/map_expansion/accepted_review/verdant_shrine_near_ledge.png",
+      "sha256": "40188629F5E2D883B4944181283D983343D3A596A0F93535C2DFD914ECD26C9A",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "High",
+      "camera_height": 17.1278457641602,
+      "passed": true,
+      "findings": "Both low recovering fighters are visible outside the deck sides. Roots and leaves leave the recovery lanes readable."
+    },
+    {
+      "arena": "verdant_shrine",
+      "view": "overlap",
+      "file": "evidence/map_expansion/accepted_review/verdant_shrine_overlap.png",
+      "sha256": "6750D93CF6D65D1E325AFDF93EBDBEAF41925823549466C6E9E66445F3A14478",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "High",
+      "camera_height": 11.8000001907349,
+      "passed": true,
+      "findings": "All four intentionally overlapping identities have separated readable labels; the models intentionally share the same fixture position."
+    },
+    {
+      "arena": "abyssal_observatory",
+      "view": "high",
+      "file": "evidence/map_expansion/accepted_review/abyssal_observatory_high.png",
+      "sha256": "CB1CF6309E422B6DE56F096A33E8AD8997CC3708063CF91047658A31DC807BB2",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "High",
+      "camera_height": 11.8000001907349,
+      "passed": true,
+      "findings": "Pale gallery and brass frame separate from the deep blue ocean. Four fighters and all top planes remain legible; restrained marine detail does not cover the fighting lane."
+    },
+    {
+      "arena": "abyssal_observatory",
+      "view": "low",
+      "file": "evidence/map_expansion/accepted_review/abyssal_observatory_low.png",
+      "sha256": "E09F2F75DCBD14F4B7004F30FCCD87A642C8DEA8DADBD54A7A68CC539A2BD0EE",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "Low",
+      "camera_height": 11.8000001907349,
+      "passed": true,
+      "findings": "Removed caustics/detail visibly reduce fidelity but preserve the clean gallery silhouette, scene identity, labels and playable ledges."
+    },
+    {
+      "arena": "abyssal_observatory",
+      "view": "recovery",
+      "file": "evidence/map_expansion/accepted_review/abyssal_observatory_recovery.png",
+      "sha256": "05ABE240678756C8C88565478FC0C29AD56D819F2A3C5319E0BFE33EF7480729",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "High",
+      "camera_height": 34.6217994689941,
+      "passed": true,
+      "findings": "Wide camera includes both the high launch and low recovering fighter. The arch remains background framing without hiding the tested fighters."
+    },
+    {
+      "arena": "abyssal_observatory",
+      "view": "near_ledge",
+      "file": "evidence/map_expansion/accepted_review/abyssal_observatory_near_ledge.png",
+      "sha256": "5380DEAAE17FB2CCA92F58144AFE315EC2FB7805AAFAC87EDCD7EC95C6666384",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "High",
+      "camera_height": 15.5577926635742,
+      "passed": true,
+      "findings": "Both low fighters remain visible in front of or beside the outer columns, with labels and deck side boundaries readable."
+    },
+    {
+      "arena": "abyssal_observatory",
+      "view": "overlap",
+      "file": "evidence/map_expansion/accepted_review/abyssal_observatory_overlap.png",
+      "sha256": "B893D0837ACC4277D52B57D3742900ED5DCC36FCD39A4590D56B2D05DAF94513",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "High",
+      "camera_height": 11.8000001907349,
+      "passed": true,
+      "findings": "Four separated identity labels remain readable over the decorative arch, while the deliberately overlapping bodies remain centered in frame."
+    },
+    {
+      "arena": "ember_foundry",
+      "view": "high",
+      "file": "evidence/map_expansion/accepted_review/ember_foundry_high.png",
+      "sha256": "4987E197BF9DF450660E06A2037F261133E1F23F03E8B67ADFC1C5C1C5E187CC",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "High",
+      "camera_height": 11.8000001907349,
+      "passed": true,
+      "findings": "The forge backdrop remains unobstructed; small gears and banded vessels fit the margins. Four fighters, glowing deck ends and inset platform tops are readable. Previous competing bronze/top-face patterns are absent in this still."
+    },
+    {
+      "arena": "ember_foundry",
+      "view": "low",
+      "file": "evidence/map_expansion/accepted_review/ember_foundry_low.png",
+      "sha256": "37FFAF1163E7B9F8C812BA89544D2A932F218B298FFBB7605AF97A68623790C8",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "Low",
+      "camera_height": 11.8000001907349,
+      "passed": true,
+      "findings": "The forge setting and top-plane silhouettes remain clear after decorative gears, vessels and rivets are removed. Structural mounting posts and chains remain as lower-detail scenery."
+    },
+    {
+      "arena": "ember_foundry",
+      "view": "recovery",
+      "file": "evidence/map_expansion/accepted_review/ember_foundry_recovery.png",
+      "sha256": "58322656036AC3BFE25D8939270FC04D27E1470ACD3F6AB3E28E903CF8149C6A",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "High",
+      "camera_height": 36.4656295776367,
+      "passed": true,
+      "findings": "Both extreme fighters and their labels remain visible in the expanded view. No flat foreground lava plane obscures the forge depths or the recovery area."
+    },
+    {
+      "arena": "ember_foundry",
+      "view": "near_ledge",
+      "file": "evidence/map_expansion/accepted_review/ember_foundry_near_ledge.png",
+      "sha256": "B50EACC7803B984A5306906F95121F09976BA5891F52677643516BCDC52C625C",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "High",
+      "camera_height": 17.4133110046387,
+      "passed": true,
+      "findings": "Both low recoveries remain visible beneath the deck edges; chains and crucibles do not hide the tested fighters or their labels."
+    },
+    {
+      "arena": "ember_foundry",
+      "view": "overlap",
+      "file": "evidence/map_expansion/accepted_review/ember_foundry_overlap.png",
+      "sha256": "334882098F510242A033355F7B397DB198105302B210DD3CA928AD174D4D0790",
+      "dimensions": {
+        "width": 1920,
+        "height": 1080
+      },
+      "quality": "High",
+      "camera_height": 11.8000001907349,
+      "passed": true,
+      "findings": "All four intentionally overlapping identities have separate readable labels near the crown; the inset bronze surround appears clean in the captured view."
+    }
+  ]
+}

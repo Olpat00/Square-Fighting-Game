@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "measured_at": "2026-10-03T16:31:31.5884067-04:00",
+  "render_rates": [
+    30,
+    144
+  ],
+  "ticks": 1200,
+  "compared": [
+    "fighters damage/stocks/positions/states",
+    "contact count",
+    "KO log"
+  ],
+  "scope": "Single machine, seeded four-CPU Party match. Headless fixed render deltas; no cross-platform determinism claim."
+}

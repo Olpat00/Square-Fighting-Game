@@ -1,0 +1,482 @@
+{
+  "checks": 95,
+  "engine": "4.7.2-stable (official)",
+  "failures": 0,
+  "results": [
+    {
+      "detail": "",
+      "name": "60 Hz simulation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Fixed horizontal blast boundary",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Damage raises knockback",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Weight lowers knockback",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "One-way platform descending crossing",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "One-way platform upward pass",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Drop-through ignores selected platform only",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Swept dash cannot tunnel deck wall",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Moving support carries fighter",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Fair Fight disables damaging hazards and lift motion",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "No hit during startup",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "First active frame collects contact",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "One hit per attack instance and target",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Legitimate hit awards capped meter and momentum",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Simultaneous active attacks trade",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Shield absorbs damage without meter/passive farming",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Parry window interrupts striker",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Dodge active invulnerability",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Dodge recovery is vulnerable",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Grab beats shield and creates paired capture",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Interruption releases captured target",
+      "passed": true
+    },
+    {
+      "detail": "3.61666488647461",
+      "name": "Full jump reaches intended apex",
+      "passed": true
+    },
+    {
+      "detail": "1.52899992465973",
+      "name": "Jump release produces short hop",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Recovery spends airborne resource and ends helpless",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Second recovery rejected without landing",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Grounded recovery startup cannot reset air resource",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Whiffed ultimate costs meter and can miss",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Idle/whiff actions cannot farm passive or meter",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "High damage never removes a stock by itself",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Blast crossing loses exactly one stock",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Respawn resets damage and grants temporary protection",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Simultaneous last-stock KO enters announced sudden death",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Timeout ranks equal stocks by lower damage",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Exact timeout tie creates tied-only sudden death",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Mirror fighters have independent state",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Pause freezes authoritative simulation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Resume advances simulation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Ground-only grab cannot start in the air",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Strike defeats simultaneous grab regardless of contact order",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Independent projectile cannot confirm or suppress current melee",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Held shield resumes after shield stun",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Recovery ending after platform landing does not lock actions",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Move-start animation begins with immediate authoritative movement",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Move-start presentation yields to normal locomotion",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Turnaround changes facing and acceleration immediately",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Attack input interrupts turnaround presentation without extra delay",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Deceleration selects the authored move-stop presentation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Jump input starts immediately during move-stop presentation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Descending hitstun creates a grounded knockdown",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ground_impact ends in vulnerable authored getup",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ground_impact getup does not end before twelve ticks",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ground_impact getup ends at twelve ticks",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "ground_impact permits normal attacks after getup",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "shield_break ends in vulnerable authored getup",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "shield_break getup does not end before twelve ticks",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "shield_break getup ends at twelve ticks",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "shield_break permits normal attacks after getup",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "A real melee contact can punish getup recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "land_soft chooses its authored landing duration",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "land_soft remains committed until its final recovery tick",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "land_soft ends at the declared recovery boundary",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "land_hard chooses its authored landing duration",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "land_hard remains committed until its final recovery tick",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "land_hard ends at the declared recovery boundary",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Ledge -1 catches a descending fighter with the inward-facing authored pose",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Ledge -1 holds a stable position without edge jitter",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Ledge -1 jump input releases upward with recatch lockout",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Ledge -1 release returns to the main deck through ordinary movement",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Ledge 1 catches a descending fighter with the inward-facing authored pose",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Ledge 1 holds a stable position without edge jitter",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Ledge 1 jump input releases upward with recatch lockout",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Ledge 1 release returns to the main deck through ordinary movement",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Ground jump preserves the one aerial jump",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Second distinct jump input performs and spends the aerial jump",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Third jump input cannot refresh or repeat the aerial jump",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Aerial defend starts and spends the one aerial dodge",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Aerial dodge returns to vulnerable airborne movement",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Second aerial dodge input is rejected before landing",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Legitimate platform landing refreshes aerial dodge",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "A new airtime can use its refreshed aerial dodge through input",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Directional-influence fixture -1.0 receives a real resolved hit",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Directional-influence fixture 0.0 receives a real resolved hit",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Directional-influence fixture 1.0 receives a real resolved hit",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Full directional influence changes launch angle in the expected direction by less than seven degrees",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Directional influence preserves the bounded launch magnitude",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Actual first attacker is recorded for KO attribution",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "A later actual hit transfers last-hit KO credit",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Boundary KO credits the most recent legitimate attacker",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "KO history retains each actual stock contributor once",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Respawn clears previous-stock KO and assist attribution",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Expired-credit fixture preserves an earlier real hit",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "A ring-out over ten seconds after the last hit has no credited attacker",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Party emits its audible warning event when the actual vent marker first appears",
+      "passed": true
+    },
+    {
+      "detail": "72 simulation ticks",
+      "name": "Party warns the same vent for at least one second before its fire event",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Party vent cannot damage during warning and begins damage only at announced fire",
+      "passed": true
+    }
+  ]
+}

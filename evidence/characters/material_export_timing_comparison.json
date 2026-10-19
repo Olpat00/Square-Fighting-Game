@@ -1,0 +1,40 @@
+{
+  "all_pass": true,
+  "fighters": [
+    {
+      "fighter_id": "f01_clutch",
+      "duration_maps_unchanged": true,
+      "source_hash_unchanged": true,
+      "structural_pass": true,
+      "clip_count": 78
+    },
+    {
+      "fighter_id": "f02_sunstruck",
+      "duration_maps_unchanged": true,
+      "source_hash_unchanged": true,
+      "structural_pass": true,
+      "clip_count": 77
+    },
+    {
+      "fighter_id": "f03_heavy_duty",
+      "duration_maps_unchanged": true,
+      "source_hash_unchanged": true,
+      "structural_pass": true,
+      "clip_count": 78
+    },
+    {
+      "fighter_id": "f04_deadfall",
+      "duration_maps_unchanged": true,
+      "source_hash_unchanged": true,
+      "structural_pass": true,
+      "clip_count": 77
+    },
+    {
+      "fighter_id": "f05_fine_print",
+      "duration_maps_unchanged": true,
+      "source_hash_unchanged": true,
+      "structural_pass": true,
+      "clip_count": 78
+    }
+  ]
+}

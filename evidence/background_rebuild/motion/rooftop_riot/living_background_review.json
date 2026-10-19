@@ -1,0 +1,228 @@
+{
+  "arenas": [
+    "rooftop_riot"
+  ],
+  "captures": [],
+  "cases": [
+    {
+      "arena": "rooftop_riot",
+      "bootstrap_draw_frames": 0,
+      "draw_frames_at_completion": 720,
+      "frame_readbacks_during_movie": 0,
+      "motion": {
+        "changed_clock_paths": [
+          "@MeshInstance3D@12/surface0/blue_hour",
+          "@MeshInstance3D@12/surface0/scenery_time",
+          "stage/architecture__Hotel_001/surface0/scenery_time",
+          "stage/planting__Foliage/surface0/scenery_time",
+          "stage/planting__Foliage_001/surface0/scenery_time",
+          "stage/Water__Water/surface0/scenery_time"
+        ],
+        "changed_pose_paths": [
+          "stage/Crowd__Graphite",
+          "stage/Crowd__Guests",
+          "stage/Crowd__Guests_001",
+          "stage/Crowd__Guests_002",
+          "stage/Crowd__Guests_003",
+          "stage/Crowd__Guests_004",
+          "stage/Crowd__Linen",
+          "SkylineGulls/DistantGull0",
+          "SkylineGulls/DistantGull1",
+          "SkylineGulls/DistantGull1/@Node3D@20",
+          "SkylineGulls/DistantGull1/@Node3D@22",
+          "SkylineGulls/DistantGull2",
+          "SkylineGulls/DistantGull2/@Node3D@25",
+          "SkylineGulls/DistantGull2/@Node3D@27",
+          "SkylineGulls/DistantGull3",
+          "SkylineGulls/DistantGull3/@Node3D@30",
+          "SkylineGulls/DistantGull3/@Node3D@32",
+          "SkylineGulls/DistantGull4"
+        ],
+        "from_tick": 0,
+        "to_tick": 720,
+        "visible_clock_changes": 6,
+        "visible_pose_changes": 18,
+        "visual_judgement": "Not inferred from state or image hashes; inspect captured motion."
+      },
+      "movie_path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\ambient.avi",
+      "movie_writer_fps": 60,
+      "quality": "High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "samples": [
+        {
+          "seconds": 0.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot/rooftop_riot_high_movie_t0000_state.json",
+            "saved": true,
+            "sha256": "3c2a386d54142762000e7381b114b23ea63066ba4e9e3cde700fafbd6b72bfdb"
+          },
+          "tick": 0
+        },
+        {
+          "seconds": 2.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot/rooftop_riot_high_movie_t0120_state.json",
+            "saved": true,
+            "sha256": "841989ad19d54eec63af33e238693372917eae6865948fb2588127a9a1172941"
+          },
+          "tick": 120
+        },
+        {
+          "seconds": 5.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot/rooftop_riot_high_movie_t0300_state.json",
+            "saved": true,
+            "sha256": "fbfd255eb45aa740cad36fe98efd440d3f207b00ccc0e7f4cdd9da2a2b0c20fe"
+          },
+          "tick": 300
+        },
+        {
+          "seconds": 10.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot/rooftop_riot_high_movie_t0600_state.json",
+            "saved": true,
+            "sha256": "f5a6fbdb2a34616606815d5cf7677ef3206f22d8522aec824f404ff9e632200f"
+          },
+          "tick": 600
+        },
+        {
+          "seconds": 12.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot/rooftop_riot_high_movie_t0720_state.json",
+            "saved": true,
+            "sha256": "192466322c4fa3239973677e9c682636c10bc784e7359ca8930c017f038b1e89"
+          },
+          "tick": 720
+        }
+      ],
+      "scenery_draw_frames": 720,
+      "simulation_seconds": 12.0,
+      "simulation_ticks": 720
+    }
+  ],
+  "checks": 13,
+  "failures": 0,
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "harness_sha256": "5357d265b380f710f05f7875c85cb4136317f9514fcbe754a79095d27f6adb69",
+  "limitations": [
+    "Deterministic stationary-player presentation fixtures, not performance measurements or human gameplay/controller testing.",
+    "State checks prove scene clock ownership, pause/reset and graphics restoration, not aesthetic quality or visibility at gameplay distance.",
+    "Pause image equality is reviewed separately; image hashes are identities, not a visual-motion verdict.",
+    "Movie writer may include setup/shutdown frames; bootstrap and captured draw-frame counts are recorded for editorial trimming."
+  ],
+  "movie": true,
+  "passed": true,
+  "qualities": [
+    "High"
+  ],
+  "renderer": "forward_plus",
+  "results": [
+    {
+      "details": {},
+      "name": "A graphical renderer is required",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Known arena rooftop_riot",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Known graphics tier High",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Movie selects exactly one arena and tier",
+      "passed": true
+    },
+    {
+      "details": {
+        "fixed_fps": 60,
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\ambient.avi"
+      },
+      "name": "Movie uses engine AVI writer at fixed 60 FPS",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "rooftop_riot_high movie starts from reset scenery clock",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "rooftop_riot_high movie clocks follow tick 120",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "rooftop_riot_high movie clocks follow tick 300",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "rooftop_riot_high movie clocks follow tick 600",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "rooftop_riot_high movie clocks follow tick 720",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "rooftop_riot_high movie advances exactly 720 combat ticks",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "rooftop_riot_high movie preserves Fair Fight geometry and clock-owned background",
+      "passed": true
+    },
+    {
+      "details": {
+        "changed_clock_paths": [
+          "@MeshInstance3D@12/surface0/blue_hour",
+          "@MeshInstance3D@12/surface0/scenery_time",
+          "stage/architecture__Hotel_001/surface0/scenery_time",
+          "stage/planting__Foliage/surface0/scenery_time",
+          "stage/planting__Foliage_001/surface0/scenery_time",
+          "stage/Water__Water/surface0/scenery_time"
+        ],
+        "changed_pose_paths": [
+          "stage/Crowd__Graphite",
+          "stage/Crowd__Guests",
+          "stage/Crowd__Guests_001",
+          "stage/Crowd__Guests_002",
+          "stage/Crowd__Guests_003",
+          "stage/Crowd__Guests_004",
+          "stage/Crowd__Linen",
+          "SkylineGulls/DistantGull0",
+          "SkylineGulls/DistantGull1",
+          "SkylineGulls/DistantGull1/@Node3D@20",
+          "SkylineGulls/DistantGull1/@Node3D@22",
+          "SkylineGulls/DistantGull2",
+          "SkylineGulls/DistantGull2/@Node3D@25",
+          "SkylineGulls/DistantGull2/@Node3D@27",
+          "SkylineGulls/DistantGull3",
+          "SkylineGulls/DistantGull3/@Node3D@30",
+          "SkylineGulls/DistantGull3/@Node3D@32",
+          "SkylineGulls/DistantGull4"
+        ],
+        "from_tick": 0,
+        "to_tick": 720,
+        "visible_clock_changes": 6,
+        "visible_pose_changes": 18,
+        "visual_judgement": "Not inferred from state or image hashes; inspect captured motion."
+      },
+      "name": "rooftop_riot_high movie has visible motion sources",
+      "passed": true
+    }
+  ],
+  "settings_saved": false,
+  "visual_review": "pending_human_or_image_inspection"
+}

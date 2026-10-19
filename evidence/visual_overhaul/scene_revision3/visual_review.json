@@ -1,0 +1,41 @@
+{
+  "reviewed_utc": "2026-09-28T21:33:30.6411567Z",
+  "scene_revision": 3,
+  "engine": "4.7.2.stable.official.ed1daf0bf",
+  "renderer": "Forward+",
+  "graphics_card": "NVIDIA GeForce RTX 4080 SUPER",
+  "source_import_exit": 0,
+  "source_preview_exit": 0,
+  "export_exit": 0,
+  "packaged_preview_exit": 0,
+  "package_hashes_stable_after_preview": true,
+  "package_runtime_source_count": 158,
+  "source_stills_inspected": [
+    "final/gameplay_angle.png",
+    "final/pyro_detail.png",
+    "final/architecture_detail.png"
+  ],
+  "packaged_stills_inspected": [
+    "release/gameplay_angle.png",
+    "release/architecture_detail.png"
+  ],
+  "capture_dimensions": [
+    1920,
+    1080
+  ],
+  "simulation": "Frozen; no match simulated",
+  "scope": "Actual scene inspection. Architectural perspective is a QA view. External script used matching editor engine with explicit release PCK, not release-template script override.",
+  "result": "PASS",
+  "findings": [
+    "Revised architecture, lighting, water and flames are visible in actual scene captures.",
+    "Gameplay view keeps fighters readable; HUD hidden only by preview script.",
+    "Prior regular water pattern and flat orange hazard blocks corrected."
+  ],
+  "limits": [
+    "No new four-fighter performance profile.",
+    "Background guests remain simple stylized models.",
+    "Full native match/menu loop not rerun per user direction."
+  ],
+  "exe_sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562",
+  "pck_sha256": "9657C5422E42175752A6743BB95E44AFF90BC66431B50204DDE086E75142CAA6"
+}

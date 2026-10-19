@@ -1,0 +1,118 @@
+{
+  "generated_at_utc": "2026-10-03T21:05:38.5185613Z",
+  "passed": true,
+  "archive": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\RooftopRiot-Rebuild-Windows.zip",
+  "archive_sha256": "0B5202CA49ACDA1C9D74E911C9BCB39EEAE6E4F62C9CC19CB557B7D132F03309",
+  "archive_bytes": 198540698,
+  "files": [
+    {
+      "file": "RooftopRiot.exe",
+      "bytes": 109268480,
+      "sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562"
+    },
+    {
+      "file": "RooftopRiot.pck",
+      "bytes": 194986792,
+      "sha256": "4A6AC77347738F0A9162BDE474AADD0C51E06B73972035832A11FE4469E0F4D8"
+    },
+    {
+      "file": "README.md",
+      "bytes": 5767,
+      "sha256": "E00CDF1CCE9A8E26D0967691945A747AFCC5C5F73B4AA533FDB463F04926E589"
+    },
+    {
+      "file": "Launch-Mobile.cmd",
+      "bytes": 50,
+      "sha256": "C0DD93BFD15F67DC9A6F02E29418B2E112E6C8EEA400B7D44088F6C53BAD883F"
+    },
+    {
+      "file": "Launch-ForwardPlus.cmd",
+      "bytes": 56,
+      "sha256": "9B8286E460221FE4384611C3510A60AC37B00718379C5D27E1E34C6DA6438103"
+    },
+    {
+      "file": "build_manifest.json",
+      "bytes": 84799,
+      "sha256": "57FD596636233C067B315D175F1061433682E0679107E4A9F697987C32877AEB"
+    },
+    {
+      "file": "PROVENANCE.md",
+      "bytes": 13780,
+      "sha256": "63D88309139D452177B0FFD725A4AC0B8ECA606BA61BCAE90C9708CC93986034"
+    },
+    {
+      "file": "VALIDATION.md",
+      "bytes": 13540,
+      "sha256": "9590D614156DF8A86F6AF58E9017C3E2FDB9E27EBE5D94F279E8CA038539B084"
+    },
+    {
+      "file": "PERFORMANCE.md",
+      "bytes": 10667,
+      "sha256": "0EF7CD0E353BB8FE76C857DDEA95EB33A2A2F7DC586AF7228CFB25ACB58EA0DA"
+    },
+    {
+      "file": "animation_pipeline.md",
+      "bytes": 11662,
+      "sha256": "86DD36D7FDB65577A971342AF5E8F3288BFE715DEAC81E5D04C5EE650A47C989"
+    },
+    {
+      "file": "animation_validation.md",
+      "bytes": 6574,
+      "sha256": "642EEE729DE992E4E7C7DBCEE3A7E70DDA63C4BAFBED60E96C072A98399AC791"
+    },
+    {
+      "file": "MOTION_CREDITS.md",
+      "bytes": 857,
+      "sha256": "C2F0A66C1D71B935FD74A0704915FA6BA3785446E3DA3F778B525C5E43634D12"
+    },
+    {
+      "file": "LUNAR_ASSET_CREDITS.md",
+      "bytes": 1177,
+      "sha256": "11FC6618AE0CE925B4D7D336D6F536278AB865D77211876B325F38B09D566FAA"
+    }
+  ],
+  "performance": [
+    {
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\performance\\final_20261003\\rooftop_riot_high_2p.json",
+      "sha256": "98E548B1D63303C0CFB86F61CF7AF60EBBB60A6286BCE119E0415CB87142539C"
+    },
+    {
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\performance\\final_20261003\\rooftop_riot_high_4p.json",
+      "sha256": "A732F80B6B1028A41DB4D86F8C98D5ADEB7B05268D2F46C34FA0BDD96C41564A"
+    },
+    {
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\performance\\final_20261003\\rooftop_riot_low_2p.json",
+      "sha256": "167550C9DAB03C3641BD1B0EAF6CD58FD6FEC41A4BD9A522D74B946CB87F9A9C"
+    },
+    {
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\performance\\final_20261003\\rooftop_riot_low_4p.json",
+      "sha256": "6129010AF4C1FCBFE7CEAFBCEE7E9586C42F528516477A3A1E8114D0D7A664C0"
+    },
+    {
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\performance\\final_20261003\\lunar_reach_high_2p.json",
+      "sha256": "5D4AC5796380168305AC6E0A452EA02D2244887AA56B6F3D8BDD2F0A7385C9D0"
+    },
+    {
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\performance\\final_20261003\\lunar_reach_high_4p.json",
+      "sha256": "C45DA76AD11355432E9EAACFD696F36D2CF7084C60CB8F4F0B21D7A5845599CC"
+    },
+    {
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\performance\\final_20261003\\lunar_reach_low_2p.json",
+      "sha256": "EDADCCBE0D4DA49AE2CBFB09BC05703E94D6741F667351514CA9D0AD17BD999A"
+    },
+    {
+      "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\rebuild\\performance\\final_20261003\\lunar_reach_low_4p.json",
+      "sha256": "AE2F76BDE11B3F187D0E2112DC3DBC78A5EAE248A6049175B7C70C40D93ECF1B"
+    }
+  ],
+  "source_gate_sha256": "89379704E7AB969855A4A97AA1747182BDA2C791E8F7265F14A9870ECABD5546",
+  "package_validation_sha256": "CE4CE1CB19BD8CF2B596533655BC2550ABB74AC0AD16057F158452D9C9A45B25",
+  "asset_validation_sha256": "7FB1CB6E17D6D439C9C042D1174CEE56D3545AA798707CF1C8A7935087DFC6CD",
+  "profile_provenance_sha256": "0FE08D317D03358897039A457141AB5AAE0CD0ADF9280CE42C51B3E2424D1B54",
+  "editable_art": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\source_art\\characters",
+  "tools": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\tools\\blender",
+  "limitations": [
+    "Human gameplay/continuous-motion/audio acceptance pending.",
+    "Physical multiple-controller operation and weaker-PC performance unverified."
+  ]
+}

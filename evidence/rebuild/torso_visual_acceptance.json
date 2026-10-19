@@ -1,0 +1,61 @@
+{
+  "reviewed_at_utc": "2026-10-03T20:15:51.7888024Z",
+  "passed": true,
+  "review": "Root and independent assistant visual inspection of rendered stills, not human continuous-motion acceptance.",
+  "cases": [
+    {
+      "fighter": "f05_fine_print",
+      "view": "-1",
+      "path": "evidence/characters/hero_rebuild/f05_fine_print/repaired_heavy_-1.png",
+      "sha256": "A1B90701DA44032FD06F6537D9BF56B4007717559E46F908C1C67B466695F81C",
+      "accepted": true
+    },
+    {
+      "fighter": "f05_fine_print",
+      "view": "1",
+      "path": "evidence/characters/hero_rebuild/f05_fine_print/repaired_heavy_1.png",
+      "sha256": "E85663DF8E050A8AB4E7B1C573B2C9573375965CC0F1E1211BF7A5DCD66AFF28",
+      "accepted": true
+    },
+    {
+      "fighter": "f06_rugged_explorer",
+      "view": "-1",
+      "path": "evidence/characters/hero_rebuild/f06_rugged_explorer/repaired_heavy_-1.png",
+      "sha256": "D38C0BF7065A9D03A54D3C18E04690E0C188FB809A939652A931177E216BFCB1",
+      "accepted": true
+    },
+    {
+      "fighter": "f06_rugged_explorer",
+      "view": "1",
+      "path": "evidence/characters/hero_rebuild/f06_rugged_explorer/repaired_heavy_1.png",
+      "sha256": "B8801E716751B5CB059D072B80F2631F2E2F9D5C671544104FCE3A5752990A47",
+      "accepted": true
+    },
+    {
+      "fighter": "f08_midnight_gentleman",
+      "view": "-1",
+      "path": "evidence/characters/hero_rebuild/f08_midnight_gentleman/repaired_heavy_-1.png",
+      "sha256": "076E44FA2566DE729E3EB8A9DCBC14B3E165EA3D31733134CAE3DD233B9AA3F5",
+      "accepted": true
+    },
+    {
+      "fighter": "f08_midnight_gentleman",
+      "view": "1",
+      "path": "evidence/characters/hero_rebuild/f08_midnight_gentleman/repaired_heavy_1.png",
+      "sha256": "29E55A8FC65BD033221590FD61B73A4C2E064350571C198B022E293F6AFB0DCC",
+      "accepted": true
+    }
+  ],
+  "resolved": [
+    "Waist/coat vertices incorrectly following hand bones",
+    "Fused scan sleeve bridges",
+    "Fine Print torn vest edge",
+    "Obsolete original Explorer forearm/cuff remnant",
+    "Broad deletion of original upper trousers"
+  ],
+  "limits": [
+    "Small underarm seam darkness/opening",
+    "Bounded angular source cloth folds and lining",
+    "Final in-game contacts and motion are a separate review"
+  ]
+}

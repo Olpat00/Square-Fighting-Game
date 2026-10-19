@@ -1,0 +1,9 @@
+{
+  "case": "rooftop_riot_low_4p",
+  "file": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\repeat_rooftop_low120\\rooftop_riot_low_4p.json",
+  "frame_p95_ms": 10.332,
+  "frame_p99_ms": 11.863,
+  "gpu_p95_ms": 2.92899990081787,
+  "cpu_p95_ms": 0.671000003814697,
+  "peak_draws": 249.0
+}

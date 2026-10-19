@@ -1,0 +1,9 @@
+{
+  "checked_utc": "2026-10-03T22:58:12.5020633Z",
+  "consecutive_blocked_goal_turn": 3,
+  "gpu_lost": true,
+  "restart_required_by_nvidia": true,
+  "no_running_graphical_job": true,
+  "outstanding": "Full 10-case performance matrix, exported-PCK and release-EXE validation, final certified archive",
+  "saved_resume": "evidence/map_expansion/RESUME.md"
+}

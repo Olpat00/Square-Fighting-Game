@@ -1,0 +1,13 @@
+{
+  "fighter": "f06_rugged_explorer",
+  "changed_clips": [
+    "win"
+  ],
+  "changed_bones": [
+    "mouth.L",
+    "mouth.R"
+  ],
+  "all_other_clips_unchanged": true,
+  "previous_curated_sha256": "fe5dc48f405408d0d8f9617744481a4cdd1823e28f6b2121618b1a35466d6bc4",
+  "new_curated_sha256": "92432a0aef050c53fd051b2c7cbc78a62ce89407b5d9a65fc2efe4feee27a148"
+}

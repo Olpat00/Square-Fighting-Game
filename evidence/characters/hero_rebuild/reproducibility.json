@@ -1,0 +1,54 @@
+{
+  "generated_at_utc": "2026-10-03T20:30:07.503146+00:00",
+  "fighters": [
+    {
+      "fighter": "f01_clutch",
+      "identical_runtime_glb_bytes": true,
+      "curated_source_unchanged": true,
+      "pass": true
+    },
+    {
+      "fighter": "f02_sunstruck",
+      "identical_runtime_glb_bytes": true,
+      "curated_source_unchanged": true,
+      "pass": true
+    },
+    {
+      "fighter": "f03_heavy_duty",
+      "identical_runtime_glb_bytes": true,
+      "curated_source_unchanged": true,
+      "pass": true
+    },
+    {
+      "fighter": "f04_deadfall",
+      "identical_runtime_glb_bytes": true,
+      "curated_source_unchanged": true,
+      "pass": true
+    },
+    {
+      "fighter": "f05_fine_print",
+      "identical_runtime_glb_bytes": true,
+      "curated_source_unchanged": true,
+      "pass": true
+    },
+    {
+      "fighter": "f06_rugged_explorer",
+      "identical_runtime_glb_bytes": true,
+      "curated_source_unchanged": true,
+      "pass": true
+    },
+    {
+      "fighter": "f07_urban_sentinel",
+      "identical_runtime_glb_bytes": true,
+      "curated_source_unchanged": true,
+      "pass": true
+    },
+    {
+      "fighter": "f08_midnight_gentleman",
+      "identical_runtime_glb_bytes": true,
+      "curated_source_unchanged": true,
+      "pass": true
+    }
+  ],
+  "pass": true
+}

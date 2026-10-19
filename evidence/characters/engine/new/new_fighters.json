@@ -1,0 +1,87 @@
+{
+	"captures": [
+		{
+			"error": 0,
+			"label": "idle",
+			"path": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/characters/engine/new/idle.png"
+		},
+		{
+			"error": 0,
+			"label": "special_neutral",
+			"path": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/characters/engine/new/special_neutral.png"
+		},
+		{
+			"error": 0,
+			"label": "special_side",
+			"path": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/characters/engine/new/special_side.png"
+		},
+		{
+			"error": 0,
+			"label": "special_up",
+			"path": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/characters/engine/new/special_up.png"
+		},
+		{
+			"error": 0,
+			"label": "special_down",
+			"path": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/characters/engine/new/special_down.png"
+		},
+		{
+			"error": 0,
+			"label": "ultimate",
+			"path": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/characters/engine/new/ultimate.png"
+		},
+		{
+			"error": 0,
+			"label": "qa_shoulder_raise",
+			"path": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/characters/engine/new/qa_shoulder_raise.png"
+		},
+		{
+			"error": 0,
+			"label": "qa_knee_bend",
+			"path": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/characters/engine/new/qa_knee_bend.png"
+		},
+		{
+			"error": 0,
+			"label": "gameplay_facing",
+			"path": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/characters/engine/new/gameplay_facing.png"
+		}
+	],
+	"engine": {
+		"build": "official",
+		"hash": "ed1daf0bf001b61586d9930840f2f1394092c079",
+		"hex": 263938,
+		"major": 4,
+		"minor": 7,
+		"patch": 2,
+		"status": "stable",
+		"string": "4.7.2-stable (official)",
+		"timestamp": 0
+	},
+	"fighters": [
+		{
+			"clip_count": 77,
+			"id": "f06_rugged_explorer",
+			"local_forward_after_gameplay_yaw": "(1.0, 0.0, -0.0)",
+			"rest_feet_y": 0.000678015640005469,
+			"rest_top_y": 1.85015845298767,
+			"skin_count": 1
+		},
+		{
+			"clip_count": 77,
+			"id": "f07_urban_sentinel",
+			"local_forward_after_gameplay_yaw": "(1.0, 0.0, -0.0)",
+			"rest_feet_y": 0.0000299888997687958,
+			"rest_top_y": 1.86035859584808,
+			"skin_count": 1
+		},
+		{
+			"clip_count": 77,
+			"id": "f08_midnight_gentleman",
+			"local_forward_after_gameplay_yaw": "(1.0, 0.0, -0.0)",
+			"rest_feet_y": 0.000022439848180511,
+			"rest_top_y": 1.87018740177155,
+			"skin_count": 1
+		}
+	],
+	"rendering_method": "forward_plus"
+}

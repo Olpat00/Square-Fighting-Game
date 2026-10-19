@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "changes": [
+    {
+      "property": "fighters.f05_fine_print.moves.heavy_side.hit_offset",
+      "before": [
+        1.45000004768372,
+        1.08000004291534
+      ],
+      "after": [
+        1.04999995231628,
+        1.25
+      ]
+    },
+    {
+      "property": "fighters.f05_fine_print.moves.heavy_side.purpose",
+      "before": "Precise strong heel consumes up to three target citations for capped damage and launch.",
+      "after": "Precise strong straight consumes up to three target citations for capped damage and launch."
+    }
+  ],
+  "scope": "Exact comparison of all 200 exported moves before and after the Final Ruling authored contact correction."
+}

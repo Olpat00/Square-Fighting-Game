@@ -1,0 +1,13 @@
+**/.godot/
+**/__pycache__/
+*.blend1
+*.blend2
+builds/
+evidence/**/*.log
+evidence/**/*.avi
+evidence/**/*.mp4
+tools/runtime/
+*.lnk
+
+# Immutable supplied originals remain on disk and are verified by SHA-256.
+/Assets/

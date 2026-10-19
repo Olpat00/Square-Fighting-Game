@@ -1,0 +1,16 @@
+{
+  "fighter_id": "f01_clutch",
+  "source_scene": "source_art\\characters\\f01_clutch\\curated.blend",
+  "editable_studio": "source_art\\characters\\f01_clutch\\portrait_studio.blend",
+  "image": "evidence\\characters\\portraits\\f01_clutch.png",
+  "resolution": [
+    768,
+    768
+  ],
+  "render_device": "OPTIX: NVIDIA GeForce RTX 4080 SUPER",
+  "curated_source_sha256": "52e5aaa92005c5cc439cbd3eb4a57df52fcfb4c74813efb05e9c23063067659f",
+  "curated_source_unchanged": true,
+  "albedo_repainted": false,
+  "style": "Actual source-derived chest portrait; warm side key, cool rim and physical midnight backdrop",
+  "camera_ortho_size": 0.95
+}

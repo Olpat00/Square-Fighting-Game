@@ -1,0 +1,12 @@
+{
+  "passed": false,
+  "scope": "Aborted uncapped profile matrix; not release acceptance.",
+  "completed_cases": [
+    "rooftop_riot_high_4p",
+    "rooftop_riot_low_4p"
+  ],
+  "failed_case": "lunar_reach_high_4p",
+  "reason": "Vulkan lost-device breadcrumbs followed by signal11 native crash; driver stack includes nvoglv64.dll. Root cause not established.",
+  "log": "evidence/map_expansion/profile_stdout.log",
+  "source_gate": "evidence/validation_all.json"
+}

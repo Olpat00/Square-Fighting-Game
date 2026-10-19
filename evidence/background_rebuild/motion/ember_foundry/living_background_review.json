@@ -1,0 +1,210 @@
+{
+  "arenas": [
+    "ember_foundry"
+  ],
+  "captures": [],
+  "cases": [
+    {
+      "arena": "ember_foundry",
+      "bootstrap_draw_frames": 0,
+      "draw_frames_at_completion": 720,
+      "frame_readbacks_during_movie": 0,
+      "motion": {
+        "changed_clock_paths": [
+          "DistantArenaArtwork/surface0/scenery_time",
+          "LeftMoltenSpillway/surface0/simulation_time",
+          "MoltenOutletChannel/surface0/simulation_time",
+          "SpillwayMoltenCatch/surface0/simulation_time",
+          "RightMoltenSpillway/surface0/simulation_time",
+          "MoltenOutletChannel2/surface0/simulation_time",
+          "SpillwayMoltenCatch2/surface0/simulation_time",
+          "DriftingCalderaSmoke/material/simulation_time",
+          "BandedCrucible/@MeshInstance3D@435/surface0/simulation_time",
+          "@Node3D@485/@MeshInstance3D@487/surface0/simulation_time",
+          "RisingForgeSparks/material/simulation_time"
+        ],
+        "changed_pose_paths": [
+          "MoltenBounce",
+          "@OmniLight3D@262",
+          "BronzeFlywheel",
+          "@Node3D@453"
+        ],
+        "from_tick": 0,
+        "to_tick": 720,
+        "visible_clock_changes": 11,
+        "visible_pose_changes": 4,
+        "visual_judgement": "Not inferred from state or image hashes; inspect captured motion."
+      },
+      "movie_path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\ambient.avi",
+      "movie_writer_fps": 60,
+      "quality": "High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "samples": [
+        {
+          "seconds": 0.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry/ember_foundry_high_movie_t0000_state.json",
+            "saved": true,
+            "sha256": "79d753c1b08a096dbd471b3abbb4b9404dea9f8c5d81b1ae53468b81b6ede7ae"
+          },
+          "tick": 0
+        },
+        {
+          "seconds": 2.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry/ember_foundry_high_movie_t0120_state.json",
+            "saved": true,
+            "sha256": "647cad8c5058615e0203595aed1c7b0faa2d2016b8415e6ac72288970b0bcbef"
+          },
+          "tick": 120
+        },
+        {
+          "seconds": 5.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry/ember_foundry_high_movie_t0300_state.json",
+            "saved": true,
+            "sha256": "e99f27cc44f4dc5d85f218d9ea2f491c01d93dc1e73829e2bd1c57c5e67d4300"
+          },
+          "tick": 300
+        },
+        {
+          "seconds": 10.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry/ember_foundry_high_movie_t0600_state.json",
+            "saved": true,
+            "sha256": "3b62c0cc2220a92b3c6ffe61cdf11829ffe5628120dcbc4454ad963d58db01af"
+          },
+          "tick": 600
+        },
+        {
+          "seconds": 12.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry/ember_foundry_high_movie_t0720_state.json",
+            "saved": true,
+            "sha256": "08b2054ece1afa12ab0e554cc5a5f0f00c5d6b2a4b9c52b6441a58d81fdac31c"
+          },
+          "tick": 720
+        }
+      ],
+      "scenery_draw_frames": 720,
+      "simulation_seconds": 12.0,
+      "simulation_ticks": 720
+    }
+  ],
+  "checks": 13,
+  "failures": 0,
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "harness_sha256": "5357d265b380f710f05f7875c85cb4136317f9514fcbe754a79095d27f6adb69",
+  "limitations": [
+    "Deterministic stationary-player presentation fixtures, not performance measurements or human gameplay/controller testing.",
+    "State checks prove scene clock ownership, pause/reset and graphics restoration, not aesthetic quality or visibility at gameplay distance.",
+    "Pause image equality is reviewed separately; image hashes are identities, not a visual-motion verdict.",
+    "Movie writer may include setup/shutdown frames; bootstrap and captured draw-frame counts are recorded for editorial trimming."
+  ],
+  "movie": true,
+  "passed": true,
+  "qualities": [
+    "High"
+  ],
+  "renderer": "forward_plus",
+  "results": [
+    {
+      "details": {},
+      "name": "A graphical renderer is required",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Known arena ember_foundry",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Known graphics tier High",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Movie selects exactly one arena and tier",
+      "passed": true
+    },
+    {
+      "details": {
+        "fixed_fps": 60,
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\ambient.avi"
+      },
+      "name": "Movie uses engine AVI writer at fixed 60 FPS",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "ember_foundry_high movie starts from reset scenery clock",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "ember_foundry_high movie clocks follow tick 120",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "ember_foundry_high movie clocks follow tick 300",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "ember_foundry_high movie clocks follow tick 600",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "ember_foundry_high movie clocks follow tick 720",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "ember_foundry_high movie advances exactly 720 combat ticks",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "ember_foundry_high movie preserves Fair Fight geometry and clock-owned background",
+      "passed": true
+    },
+    {
+      "details": {
+        "changed_clock_paths": [
+          "DistantArenaArtwork/surface0/scenery_time",
+          "LeftMoltenSpillway/surface0/simulation_time",
+          "MoltenOutletChannel/surface0/simulation_time",
+          "SpillwayMoltenCatch/surface0/simulation_time",
+          "RightMoltenSpillway/surface0/simulation_time",
+          "MoltenOutletChannel2/surface0/simulation_time",
+          "SpillwayMoltenCatch2/surface0/simulation_time",
+          "DriftingCalderaSmoke/material/simulation_time",
+          "BandedCrucible/@MeshInstance3D@435/surface0/simulation_time",
+          "@Node3D@485/@MeshInstance3D@487/surface0/simulation_time",
+          "RisingForgeSparks/material/simulation_time"
+        ],
+        "changed_pose_paths": [
+          "MoltenBounce",
+          "@OmniLight3D@262",
+          "BronzeFlywheel",
+          "@Node3D@453"
+        ],
+        "from_tick": 0,
+        "to_tick": 720,
+        "visible_clock_changes": 11,
+        "visible_pose_changes": 4,
+        "visual_judgement": "Not inferred from state or image hashes; inspect captured motion."
+      },
+      "name": "ember_foundry_high movie has visible motion sources",
+      "passed": true
+    }
+  ],
+  "settings_saved": false,
+  "visual_review": "pending_human_or_image_inspection"
+}

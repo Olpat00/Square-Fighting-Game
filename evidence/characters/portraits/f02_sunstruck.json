@@ -1,0 +1,16 @@
+{
+  "fighter_id": "f02_sunstruck",
+  "source_scene": "source_art\\characters\\f02_sunstruck\\curated.blend",
+  "editable_studio": "source_art\\characters\\f02_sunstruck\\portrait_studio.blend",
+  "image": "evidence\\characters\\portraits\\f02_sunstruck.png",
+  "resolution": [
+    768,
+    768
+  ],
+  "render_device": "OPTIX: NVIDIA GeForce RTX 4080 SUPER",
+  "curated_source_sha256": "bf80abb4a7f063358809d42f9f1429699d8951d2780fa32c00822cada70fc9b1",
+  "curated_source_unchanged": true,
+  "albedo_repainted": false,
+  "style": "Actual source-derived chest portrait; warm side key, cool rim and physical midnight backdrop",
+  "camera_ortho_size": 0.95
+}

@@ -1,0 +1,4 @@
+No devices were found
+Unable to determine the device handle for GPU0: 0000:01:00.0: GPU is lost.  Reboot the system to recover this GPU
+
+

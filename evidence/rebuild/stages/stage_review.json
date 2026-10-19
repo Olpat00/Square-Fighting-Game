@@ -1,0 +1,85 @@
+{
+  "captures": [
+    {
+      "arena": "rooftop_riot",
+      "camera_height": 11.8000001907349,
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/rebuild/stages/rooftop_riot_high.png",
+      "purpose": "Four-player neutral exchange, current shared camera and live HUD",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "rooftop_riot",
+      "camera_height": 11.8000001907349,
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/rebuild/stages/rooftop_riot_overlap.png",
+      "purpose": "Four simultaneous nearby identities; labels separate deterministically",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "rooftop_riot",
+      "camera_height": 34.6217994689941,
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/rebuild/stages/rooftop_riot_recovery.png",
+      "purpose": "Low recovery and high launch share the camera without HUD clipping",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "rooftop_riot",
+      "camera_height": 15.5577926635742,
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/rebuild/stages/rooftop_riot_near_ledge.png",
+      "purpose": "Both low recoveries remain readable adjacent to the stage side walls",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "rooftop_riot",
+      "camera_height": 11.8000001907349,
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/rebuild/stages/rooftop_riot_low.png",
+      "purpose": "Four-player neutral exchange, current shared camera and live HUD",
+      "quality": "Low",
+      "saved": true
+    },
+    {
+      "arena": "lunar_reach",
+      "camera_height": 11.8000001907349,
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/rebuild/stages/lunar_reach_high.png",
+      "purpose": "Four-player neutral exchange, current shared camera and live HUD",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "lunar_reach",
+      "camera_height": 11.8000001907349,
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/rebuild/stages/lunar_reach_overlap.png",
+      "purpose": "Four simultaneous nearby identities; labels separate deterministically",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "lunar_reach",
+      "camera_height": 34.6217994689941,
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/rebuild/stages/lunar_reach_recovery.png",
+      "purpose": "Low recovery and high launch share the camera without HUD clipping",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "lunar_reach",
+      "camera_height": 15.5577926635742,
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/rebuild/stages/lunar_reach_near_ledge.png",
+      "purpose": "Both low recoveries remain readable adjacent to the stage side walls",
+      "quality": "High",
+      "saved": true
+    },
+    {
+      "arena": "lunar_reach",
+      "camera_height": 11.8000001907349,
+      "file": "C:/Users/dayw9/Desktop/Codex/Games/Godot/Fighting Game/Game File/../evidence/rebuild/stages/lunar_reach_low.png",
+      "purpose": "Four-player neutral exchange, current shared camera and live HUD",
+      "quality": "Low",
+      "saved": true
+    }
+  ],
+  "limitations": "Deterministic presentation fixtures, not frame-time measurements or human playtesting."
+}

@@ -1,0 +1,478 @@
+{
+  "checks": 67,
+  "engine": "4.7.2-stable (official)",
+  "failures": 0,
+  "limitation": "Headless imported-asset and authoritative combat checks. This does not judge rendered likeness, animation quality, audio, or physical controllers.",
+  "results": [
+    {
+      "detail": "",
+      "name": "Fighter definition registers through the roster",
+      "passed": true,
+      "scenario": "f06_rugged_explorer registration",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Fighter definition registers through the roster",
+      "passed": true,
+      "scenario": "f07_urban_sentinel registration",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Fighter definition registers through the roster",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman registration",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Imported resource exists: res://assets/characters/f06_rugged_explorer.glb",
+      "passed": true,
+      "scenario": "f06_rugged_explorer imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Imported resource exists: res://assets/characters/f06_rugged_explorer_low.glb",
+      "passed": true,
+      "scenario": "f06_rugged_explorer imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Imported resource exists: res://assets/portraits/f06_rugged_explorer.png",
+      "passed": true,
+      "scenario": "f06_rugged_explorer imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Canonical model instantiates with an AnimationPlayer",
+      "passed": true,
+      "scenario": "f06_rugged_explorer imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Portrait loads as a nonempty texture",
+      "passed": true,
+      "scenario": "f06_rugged_explorer imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Required state and move animations resolve in the canonical model",
+      "passed": true,
+      "scenario": "f06_rugged_explorer imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Low quality mode instantiates its own animated model",
+      "passed": true,
+      "scenario": "f06_rugged_explorer imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Required state and move animations resolve in the low quality model",
+      "passed": true,
+      "scenario": "f06_rugged_explorer imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Imported resource exists: res://assets/characters/f07_urban_sentinel.glb",
+      "passed": true,
+      "scenario": "f07_urban_sentinel imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Imported resource exists: res://assets/characters/f07_urban_sentinel_low.glb",
+      "passed": true,
+      "scenario": "f07_urban_sentinel imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Imported resource exists: res://assets/portraits/f07_urban_sentinel.png",
+      "passed": true,
+      "scenario": "f07_urban_sentinel imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Canonical model instantiates with an AnimationPlayer",
+      "passed": true,
+      "scenario": "f07_urban_sentinel imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Portrait loads as a nonempty texture",
+      "passed": true,
+      "scenario": "f07_urban_sentinel imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Required state and move animations resolve in the canonical model",
+      "passed": true,
+      "scenario": "f07_urban_sentinel imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Low quality mode instantiates its own animated model",
+      "passed": true,
+      "scenario": "f07_urban_sentinel imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Required state and move animations resolve in the low quality model",
+      "passed": true,
+      "scenario": "f07_urban_sentinel imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Imported resource exists: res://assets/characters/f08_midnight_gentleman.glb",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Imported resource exists: res://assets/characters/f08_midnight_gentleman_low.glb",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Imported resource exists: res://assets/portraits/f08_midnight_gentleman.png",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Canonical model instantiates with an AnimationPlayer",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Portrait loads as a nonempty texture",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Required state and move animations resolve in the canonical model",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Low quality mode instantiates its own animated model",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman imported media",
+      "tick": 0
+    },
+    {
+      "detail": "",
+      "name": "Required state and move animations resolve in the low quality model",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman imported media",
+      "tick": 0
+    },
+    {
+      "detail": "damage=6.5 hits=1 route=1",
+      "name": "A real hook hit deals once and grants one Route charge",
+      "passed": true,
+      "scenario": "Explorer hook contact and Route travel",
+      "tick": 18
+    },
+    {
+      "detail": "velocity=-12.0 stun=28",
+      "name": "Hook draws the damaged rival toward its owner",
+      "passed": true,
+      "scenario": "Explorer hook contact and Route travel",
+      "tick": 18
+    },
+    {
+      "detail": "",
+      "name": "The next side special spends Route",
+      "passed": true,
+      "scenario": "Explorer hook contact and Route travel",
+      "tick": 19
+    },
+    {
+      "detail": "charged=1.732266664505 ordinary=1.54666686058044",
+      "name": "Earned Route extends actual side-special travel",
+      "passed": true,
+      "scenario": "Explorer hook contact and Route travel",
+      "tick": 18
+    },
+    {
+      "detail": "damage=0.0 route=0 shield_events=1",
+      "name": "A held shield stops hook damage, pull, and Route charge",
+      "passed": true,
+      "scenario": "Explorer hook shielding, lifetime, and resource expiry",
+      "tick": 57
+    },
+    {
+      "detail": "",
+      "name": "Neutral special owns one visible hook after startup",
+      "passed": true,
+      "scenario": "Explorer hook shielding, lifetime, and resource expiry",
+      "tick": 16
+    },
+    {
+      "detail": "",
+      "name": "Missed hook expires after finite lifetime",
+      "passed": true,
+      "scenario": "Explorer hook shielding, lifetime, and resource expiry",
+      "tick": 61
+    },
+    {
+      "detail": "",
+      "name": "Unused Route expires through match ticks",
+      "passed": true,
+      "scenario": "Explorer hook shielding, lifetime, and resource expiry",
+      "tick": 263
+    },
+    {
+      "detail": "parries=1 guard=1 damage=0.0",
+      "name": "Timed parry earns one Guard charge",
+      "passed": true,
+      "scenario": "Sentinel parry powers a close pulse",
+      "tick": 8
+    },
+    {
+      "detail": "",
+      "name": "Fortify Pulse consumes the earned Guard charge",
+      "passed": true,
+      "scenario": "Sentinel parry powers a close pulse",
+      "tick": 9
+    },
+    {
+      "detail": "",
+      "name": "Guard visibly enlarges and strengthens its authored pulse",
+      "passed": true,
+      "scenario": "Sentinel parry powers a close pulse",
+      "tick": 27
+    },
+    {
+      "detail": "damage=11.05 hits=1",
+      "name": "Empowered close pulse reaches and damages the rival once",
+      "passed": true,
+      "scenario": "Sentinel parry powers a close pulse",
+      "tick": 35
+    },
+    {
+      "detail": "damage=0.0",
+      "name": "Opponent can back outside an uncharged pulse",
+      "passed": true,
+      "scenario": "Sentinel parry powers a close pulse",
+      "tick": 30
+    },
+    {
+      "detail": "damage=3.5 state=attack",
+      "name": "One light strike damages but does not interrupt Fortify windup",
+      "passed": true,
+      "scenario": "Sentinel armor and grab counterplay",
+      "tick": 13
+    },
+    {
+      "detail": "",
+      "name": "A grab beats the armored Fortify windup",
+      "passed": true,
+      "scenario": "Sentinel armor and grab counterplay",
+      "tick": 12
+    },
+    {
+      "detail": "",
+      "name": "Lockdown places its warning zone at move start",
+      "passed": true,
+      "scenario": "Sentinel Lockdown warning and interruption",
+      "tick": 1
+    },
+    {
+      "detail": "",
+      "name": "Lockdown warning cannot deal early damage",
+      "passed": true,
+      "scenario": "Sentinel Lockdown warning and interruption",
+      "tick": 40
+    },
+    {
+      "detail": "damage=29.0",
+      "name": "Lockdown damages a rival who stays in the telegraphed area",
+      "passed": true,
+      "scenario": "Sentinel Lockdown warning and interruption",
+      "tick": 52
+    },
+    {
+      "detail": "",
+      "name": "Interrupt fixture owns a live Lockdown warning",
+      "passed": true,
+      "scenario": "Sentinel Lockdown warning and interruption",
+      "tick": 5
+    },
+    {
+      "detail": "",
+      "name": "Interruption clears the zone and frees its warning visual",
+      "passed": true,
+      "scenario": "Sentinel Lockdown warning and interruption",
+      "tick": 6
+    },
+    {
+      "detail": "damage=9.5 veil=1",
+      "name": "A damaging aerial move earns one Veil charge",
+      "passed": true,
+      "scenario": "Gentleman aerial confirmation extends Shadow Step",
+      "tick": 11
+    },
+    {
+      "detail": "",
+      "name": "Shadow Step spends Veil when the move begins",
+      "passed": true,
+      "scenario": "Gentleman aerial confirmation extends Shadow Step",
+      "tick": 12
+    },
+    {
+      "detail": "0.0",
+      "name": "Shadow Step remains in place through visible startup",
+      "passed": true,
+      "scenario": "Gentleman aerial confirmation extends Shadow Step",
+      "tick": 27
+    },
+    {
+      "detail": "3.5",
+      "name": "Empowered step covers its authored extended distance",
+      "passed": true,
+      "scenario": "Gentleman aerial confirmation extends Shadow Step",
+      "tick": 28
+    },
+    {
+      "detail": "ordinary=2.70000004768372 extended=3.5",
+      "name": "Uncharged step covers a shorter real distance",
+      "passed": true,
+      "scenario": "Gentleman aerial confirmation extends Shadow Step",
+      "tick": 17
+    },
+    {
+      "detail": "",
+      "name": "Distant rival is outside the pre-step hit arc during startup",
+      "passed": true,
+      "scenario": "Gentleman aerial confirmation extends Shadow Step",
+      "tick": 16
+    },
+    {
+      "detail": "damage=10.5 hits=1 x=2.70000004768372",
+      "name": "Shadow Step strikes from its post-step destination",
+      "passed": true,
+      "scenario": "Gentleman aerial confirmation extends Shadow Step",
+      "tick": 21
+    },
+    {
+      "detail": "8.25",
+      "name": "Ground Shadow Step clamps safely at the arena edge",
+      "passed": true,
+      "scenario": "Gentleman aerial confirmation extends Shadow Step",
+      "tick": 17
+    },
+    {
+      "detail": "damage=3.5 x=-0.48032307624817 state=hitstun",
+      "name": "Opponent can punish Shadow Step before relocation",
+      "passed": true,
+      "scenario": "Gentleman step startup and retreat counterplay",
+      "tick": 20
+    },
+    {
+      "detail": "",
+      "name": "Retreat has a visible startup before repositioning",
+      "passed": true,
+      "scenario": "Gentleman step startup and retreat counterplay",
+      "tick": 10
+    },
+    {
+      "detail": "x=-2.0 damage=0.0",
+      "name": "Retreat shifts backward with a brief protected transition and no damage",
+      "passed": true,
+      "scenario": "Gentleman step startup and retreat counterplay",
+      "tick": 11
+    },
+    {
+      "detail": "",
+      "name": "Retreat becomes punishable after its authored protection ends",
+      "passed": true,
+      "scenario": "Gentleman step startup and retreat counterplay",
+      "tick": 17
+    },
+    {
+      "detail": "",
+      "name": "Whiffed opener spends meter and starts no capture sequence",
+      "passed": true,
+      "scenario": "f06_rugged_explorer ultimate confirm and miss",
+      "tick": 150
+    },
+    {
+      "detail": "sequence=true damage=31.64",
+      "name": "Connected opener resolves its real follow-up sequence",
+      "passed": true,
+      "scenario": "f06_rugged_explorer ultimate confirm and miss",
+      "tick": 155
+    },
+    {
+      "detail": "",
+      "name": "Completed sequence releases both fighters",
+      "passed": true,
+      "scenario": "f06_rugged_explorer ultimate confirm and miss",
+      "tick": 155
+    },
+    {
+      "detail": "",
+      "name": "Whiffed opener spends meter and starts no capture sequence",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman ultimate confirm and miss",
+      "tick": 150
+    },
+    {
+      "detail": "sequence=true damage=29.96",
+      "name": "Connected opener resolves its real follow-up sequence",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman ultimate confirm and miss",
+      "tick": 155
+    },
+    {
+      "detail": "",
+      "name": "Completed sequence releases both fighters",
+      "passed": true,
+      "scenario": "f08_midnight_gentleman ultimate confirm and miss",
+      "tick": 155
+    },
+    {
+      "detail": "",
+      "name": "Reset fixture creates a live owned hook",
+      "passed": true,
+      "scenario": "new fighter resource and object reset",
+      "tick": 16
+    },
+    {
+      "detail": "",
+      "name": "Training reset removes new fighter objects and resources",
+      "passed": true,
+      "scenario": "new fighter resource and object reset",
+      "tick": 17
+    }
+  ],
+  "tick_hz": 60
+}

@@ -1,0 +1,133 @@
+{
+  "captured_pixel_size": "(1920, 1080)",
+  "connected_controllers": [],
+  "contacts": 99,
+  "engine": "4.7.2-stable (official)",
+  "fighters": [
+    {
+      "damage": 25.0,
+      "id": "f01_clutch",
+      "position": "(7.351215, 0.0, 0.0)",
+      "state": "attack",
+      "stocks": 2
+    },
+    {
+      "damage": 38.72,
+      "id": "f02_sunstruck",
+      "position": "(5.794788, 0.217428, 0.0)",
+      "state": "attack",
+      "stocks": 1
+    },
+    {
+      "damage": 144.664,
+      "id": "f03_heavy_duty",
+      "position": "(-8.283459, 0.0, 0.0)",
+      "state": "idle",
+      "stocks": 2
+    },
+    {
+      "damage": 18.4,
+      "id": "f04_deadfall",
+      "position": "(4.881889, 0.0, 0.0)",
+      "state": "idle",
+      "stocks": 1
+    }
+  ],
+  "frame_spikes": [],
+  "frames_over_16_667ms": 0,
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "kos": [
+    {
+      "assists": [
+        3
+      ],
+      "credited": 3,
+      "tick": 299,
+      "victim": 1
+    },
+    {
+      "assists": [
+        0,
+        1
+      ],
+      "credited": 0,
+      "tick": 720,
+      "victim": 2
+    },
+    {
+      "assists": [
+        0,
+        1,
+        2
+      ],
+      "credited": 2,
+      "tick": 2324,
+      "victim": 3
+    },
+    {
+      "assists": [],
+      "credited": -1,
+      "tick": 2795,
+      "victim": 3
+    },
+    {
+      "assists": [
+        2,
+        1,
+        3
+      ],
+      "credited": 2,
+      "tick": 2974,
+      "victim": 0
+    },
+    {
+      "assists": [
+        0,
+        3,
+        2
+      ],
+      "credited": 0,
+      "tick": 2997,
+      "victim": 1
+    }
+  ],
+  "logical_viewport": "(1600.0, 900.0)",
+  "mean_frame_ms": 1.22270418178819,
+  "memory_static": 135239970.0,
+  "nodes": 274.0,
+  "objects": 0,
+  "p95_frame_ms": 1.663,
+  "p99_frame_ms": 2.012,
+  "peak_draw_calls": 233.0,
+  "peak_primitives": 398076.0,
+  "peak_video_memory_bytes": 879944976.0,
+  "profile_mode": true,
+  "render_frames": 48688,
+  "render_texture_pixels": "(2304.0, 1296.0)",
+  "renderer": "forward_plus",
+  "sample_clock": "Time.get_ticks_usec between process callbacks; unsmoothed wall time",
+  "sample_count": 48496,
+  "sample_sum_ms": 59296.2619999999,
+  "sample_window_ms": 59296.262,
+  "settings": {
+    "blood": true,
+    "effects": 0.85,
+    "flashes": 0.45,
+    "fullscreen": false,
+    "graphics": "High",
+    "master": 0.8,
+    "music": 0.36,
+    "profanity": false,
+    "resolution": "1920x1080",
+    "rumble": 0.5,
+    "shake": 0.5,
+    "ui_scale": 1.0
+  },
+  "ticks": 3600,
+  "wall_seconds": 61.308,
+  "warmup_seconds": 2,
+  "window_pixels": "(1920, 1080)",
+  "worst_frame_ms": 13.729,
+  "measured_started_utc": "2026-09-28T18:00:55.9210230Z",
+  "measured_finished_utc": "2026-09-28T18:01:58.6791738Z"
+}

@@ -1,0 +1,20 @@
+{
+  "source_file_sha256": "52e5aaa92005c5cc439cbd3eb4a57df52fcfb4c74813efb05e9c23063067659f",
+  "source_file_unchanged": true,
+  "active_ik_hand_displacement_m": 0.18867937847088845,
+  "source_hand": [
+    0.32170119881629944,
+    -0.5271922945976257,
+    1.367932915687561
+  ],
+  "reimported_hand": [
+    0.3217010200023651,
+    -0.5271920561790466,
+    1.367932915687561
+  ],
+  "roundtrip_error_m": 2.980232238769531e-07,
+  "runtime_bone_count": 60,
+  "semantic_root_retained": true,
+  "control_bones_excluded": true,
+  "pass": true
+}

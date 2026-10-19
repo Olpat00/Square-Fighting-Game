@@ -1,0 +1,5153 @@
+{
+  "clocks": {
+    "CanopyShaft/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "CanopyShaft2/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "DistantArenaArtwork/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/shrine_backdrop.gdshader",
+      "value": 2.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1333/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1334/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1335/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1336/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1337/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1338/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1339/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1340/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1341/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1342/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1343/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1344/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1345/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1346/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1347/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1348/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1349/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1350/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1351/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1352/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1353/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1354/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1355/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1356/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1357/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1358/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1359/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1360/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1361/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1362/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "RiverMist/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": true
+    },
+    "RiverMist2/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": true
+    },
+    "RiverMist3/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": true
+    },
+    "ShrineMarginFoliage0/material/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": true
+    },
+    "ShrineMarginFoliage1/material/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": true
+    },
+    "ShrineMarginFoliage2/material/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": true
+    },
+    "ShrineMarginFoliage3/material/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": true
+    },
+    "SpiritGeyser/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "SpiritGeyser2/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "SpiritWellWarning/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "SpiritWellWarning2/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "ValleySwallow0/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 2.0,
+      "visible": true
+    },
+    "ValleySwallow1/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 2.0,
+      "visible": true
+    },
+    "ValleySwallow2/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 2.0,
+      "visible": true
+    },
+    "ValleySwallow3/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "ValleySwallow4/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "ValleySwallow5/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/1/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/10/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/11/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/12/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/13/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/14/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/15/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/16/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/17/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/18/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/19/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/2/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/3/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/4/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/shrine_backdrop.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/5/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/6/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/7/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/8/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/animated_materials/9/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/quality_materials/0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/shrine_backdrop.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/quality_materials/10/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/quality_materials/11/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/quality_materials/12/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/quality_materials/14/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/quality_materials/15/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/quality_materials/16/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/quality_materials/17/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/quality_materials/18/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/quality_materials/19/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/quality_materials/20/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/quality_materials/21/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/quality_materials/22/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/quality_materials/9/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/shrine_materials/leaf0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/shrine_materials/leaf1/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/shrine_materials/leaf2/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    },
+    "owned/shrine_materials/leaf3/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 2.0,
+      "visible": false
+    }
+  },
+  "collision_probes": [
+    {
+      "landed": true,
+      "name": "fall_0",
+      "platform": 0,
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "support_0",
+      "platform": 0,
+      "position": [
+        0.100000001490116,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "ignore_0",
+      "platform": -1,
+      "position": [
+        0.0,
+        -0.349999994039536,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "fall_1",
+      "platform": 1,
+      "position": [
+        -5.80000019073486,
+        3.25,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "support_1",
+      "platform": 1,
+      "position": [
+        -5.70000028610229,
+        3.25,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "ignore_1",
+      "platform": -1,
+      "position": [
+        -5.80000019073486,
+        2.90000009536743,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "fall_2",
+      "platform": 2,
+      "position": [
+        5.80000019073486,
+        3.25,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "support_2",
+      "platform": 2,
+      "position": [
+        5.90000009536743,
+        3.25,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "ignore_2",
+      "platform": -1,
+      "position": [
+        5.80000019073486,
+        2.90000009536743,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "fall_3",
+      "platform": 3,
+      "position": [
+        0.0,
+        6.19999980926514,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "support_3",
+      "platform": 3,
+      "position": [
+        0.100000001490116,
+        6.19999980926514,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "ignore_3",
+      "platform": -1,
+      "position": [
+        0.0,
+        5.84999990463257,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "swept_side_-1",
+      "platform": -1,
+      "position": [
+        -10.25,
+        -0.400000005960464,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "swept_side_1",
+      "platform": -1,
+      "position": [
+        10.25,
+        -0.400000005960464,
+        0.0
+      ]
+    }
+  ],
+  "engine_time_shaders": [],
+  "environment": {
+    "fog": true,
+    "fog_density": 0.000349999987520278,
+    "glow": false,
+    "ssao": false,
+    "ssil": false,
+    "ssr": false
+  },
+  "materials": {
+    "@MeshInstance3D@1397/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/ancient_bark.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "@MeshInstance3D@1398/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/ancient_bark.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "@MeshInstance3D@1399/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/ancient_bark.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "@MeshInstance3D@1400/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/ancient_bark.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "@MeshInstance3D@1401/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/ancient_bark.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "@MeshInstance3D@1413/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@MeshInstance3D@1414/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@MeshInstance3D@1417/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@MeshInstance3D@1418/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@Node3D@1373/Masonry_course_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "@Node3D@1373/Masonry_course_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "@Node3D@1373/Masonry_dais/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "@Node3D@1373/Masonry_edge/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "@Node3D@1373/Masonry_mortar/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@Node3D@1373/Masonry_paving_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "@Node3D@1373/Masonry_paving_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "@Node3D@1373/Masonry_paving_3/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "@Node3D@1373/Masonry_rune/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.3882, 0.5608, 0.4745, 1.0)",
+      "emission_energy": 0.0350000001490116,
+      "visible": true
+    },
+    "@Node3D@1373/Masonry_temple/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "CanopyShaft/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "CanopyShaft2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "DistantArenaArtwork/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_backdrop.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/HeartstonePendant/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/HeartstonePendant2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/HeartstonePendant3/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_course_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_course_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_dais/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_edge/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_mortar/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_paving_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_paving_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_paving_3/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_rune/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.3882, 0.5608, 0.4745, 1.0)",
+      "emission_energy": 0.0350000001490116,
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_temple/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1333/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1334/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1335/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1336/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1337/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1338/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1339/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1340/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1341/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1342/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1343/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1344/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1345/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1346/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1347/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1348/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1349/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1350/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1351/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1352/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1353/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1354/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1355/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1356/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1357/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1358/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1359/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1360/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1361/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1362/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "MossStoneFightingDais/Masonry_course_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_course_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_dais/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_edge/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_mortar/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_paving_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_paving_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_paving_3/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_rune/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.3882, 0.5608, 0.4745, 1.0)",
+      "emission_energy": 0.0350000001490116,
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_temple/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "RiverMist/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": true
+    },
+    "RiverMist2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": true
+    },
+    "RiverMist3/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_course_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_course_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_dais/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_edge/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_mortar/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "RootTerrace/Masonry_paving_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_paving_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_paving_3/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_rune/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.3882, 0.5608, 0.4745, 1.0)",
+      "emission_energy": 0.0350000001490116,
+      "visible": true
+    },
+    "RootTerrace/Masonry_temple/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": true
+    },
+    "ShrineMarginFoliage0/material": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": true
+    },
+    "ShrineMarginFoliage1/material": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": true
+    },
+    "ShrineMarginFoliage2/material": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": true
+    },
+    "ShrineMarginFoliage3/material": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": true
+    },
+    "SpiritGeyser/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "SpiritGeyser2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "SpiritWellWarning/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "SpiritWellWarning2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "ValleySwallow0/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 2.0
+      },
+      "visible": true
+    },
+    "ValleySwallow1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 2.0
+      },
+      "visible": true
+    },
+    "ValleySwallow2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 2.0
+      },
+      "visible": true
+    },
+    "ValleySwallow3/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "ValleySwallow4/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "ValleySwallow5/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "WaterDetailPollen/material": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.7725, 0.8353, 0.5804, 1.0)",
+      "emission_energy": 0.449999988079071,
+      "visible": false
+    },
+    "owned/animated_materials/0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/1": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/10": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/11": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/12": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/13": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/14": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/15": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/16": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/17": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/18": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/19": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/2": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/3": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/4": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_backdrop.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/5": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/6": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/7": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/8": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/9": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_backdrop.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/1": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/quality_materials/10": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/11": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/12": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/13": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/ancient_bark.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/quality_materials/14": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/15": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/16": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/17": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/18": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/19": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/2": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/quality_materials/20": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/21": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/22": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/3": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/quality_materials/4": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/quality_materials/5": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/quality_materials/6": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/quality_materials/7": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/quality_materials/8": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/quality_materials/9": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/bark": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/ancient_bark.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/bronze": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/shrine_materials/cliff": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/course_1": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/course_2": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/dais": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/edge": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/far": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/leaf0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/leaf1": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/leaf2": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/leaf3": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": true,
+        "scene_time": 2.0
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/mortar": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/shrine_materials/paving_1": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/paving_2": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/paving_3": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/pollen": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.7725, 0.8353, 0.5804, 1.0)",
+      "emission_energy": 0.449999988079071,
+      "visible": false
+    },
+    "owned/shrine_materials/recess": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/shrine_materials/rune": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.3882, 0.5608, 0.4745, 1.0)",
+      "emission_energy": 0.0350000001490116,
+      "visible": false
+    },
+    "owned/shrine_materials/temple": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": true
+      },
+      "visible": false
+    }
+  },
+  "nodes": {
+    ".": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@1397": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@1398": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@1399": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@1400": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@1401": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@1413": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -8.0,
+        0.0120000001043081,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@1414": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -8.0,
+        0.0120000001043081,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@1417": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        8.0,
+        0.0120000001043081,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@1418": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        8.0,
+        0.0120000001043081,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@1373": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        5.80000019073486,
+        3.25,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@1373/Masonry_course_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@1373/Masonry_course_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@1373/Masonry_dais": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@1373/Masonry_edge": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@1373/Masonry_mortar": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@1373/Masonry_paving_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@1373/Masonry_paving_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@1373/Masonry_paving_3": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@1373/Masonry_rune": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@1373/Masonry_temple": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@OmniLight3D@1322": {
+      "light": {
+        "color": "(0.3843, 0.7137, 0.6118, 1.0)",
+        "energy": 0.75,
+        "shadow": false
+      },
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        8.0,
+        -1.0,
+        -5.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "CanopyShaft": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.935896813869476,
+        -0.352274239063263,
+        0.0,
+        0.352274239063263,
+        0.935896813869476,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -11.5,
+        0.0,
+        -8.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "CanopyShaft2": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.935896813869476,
+        -0.352274239063263,
+        0.0,
+        0.352274239063263,
+        0.935896813869476,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        12.0,
+        1.0,
+        -10.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "CanopySun": {
+      "light": {
+        "color": "(1.0, 0.9137, 0.7647, 1.0)",
+        "energy": 1.95000004768372,
+        "shadow": true
+      },
+      "transform": [
+        0.848048090934753,
+        0.0,
+        0.529919266700745,
+        0.354585200548172,
+        0.743144810199738,
+        -0.567454934120178,
+        -0.393806755542755,
+        0.669130623340607,
+        0.63022255897522,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "DistantArenaArtwork": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.956304788589478,
+        -0.292371690273285,
+        0.0,
+        0.292371690273285,
+        0.956304788589478,
+        0.0,
+        -165.915390014648,
+        -551.345947265625
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "FighterCanopyRim": {
+      "light": {
+        "color": "(0.7333, 0.851, 0.7804, 1.0)",
+        "energy": 0.479999989271164,
+        "shadow": false
+      },
+      "transform": [
+        -0.819152057170868,
+        0.0,
+        -0.5735764503479,
+        -0.28678822517395,
+        0.866025388240814,
+        0.409576028585434,
+        0.496731758117676,
+        0.5,
+        -0.709406495094299,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "FighterLagoonBounce": {
+      "light": {
+        "color": "(0.8863, 0.9098, 0.9294, 1.0)",
+        "energy": 1.20000004768372,
+        "shadow": false
+      },
+      "transform": [
+        0.939692616462708,
+        0.0,
+        -0.342020124197006,
+        -0.139112114906311,
+        0.913545429706573,
+        -0.382207423448563,
+        0.312450915575027,
+        0.406736642122269,
+        0.858451902866364,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        6.19999980926514,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/HeartstonePendant": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.340000003576279,
+        0.0,
+        0.0,
+        0.0,
+        0.300000011920929,
+        -1.10000002384186,
+        -0.529999971389771,
+        -0.100000001490116
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/HeartstonePendant2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.340000003576279,
+        0.0,
+        0.0,
+        0.0,
+        0.300000011920929,
+        0.0,
+        -0.529999971389771,
+        -0.100000001490116
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/HeartstonePendant3": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.340000003576279,
+        0.0,
+        0.0,
+        0.0,
+        0.300000011920929,
+        1.10000002384186,
+        -0.529999971389771,
+        -0.100000001490116
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_course_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_course_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_dais": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_edge": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_mortar": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_paving_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_paving_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_paving_3": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_rune": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_temple": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1333": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0624118410050869,
+        -0.00853424053639174,
+        -0.000963836559094489,
+        0.00527918664738536,
+        0.0277742631733418,
+        0.0959203913807869,
+        -0.0125688528642058,
+        -0.0951056554913521,
+        0.0282301045954227,
+        -8.73999977111816,
+        -0.140000000596046,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1334": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0848423615098,
+        -0.00591213954612613,
+        -0.000568397343158722,
+        0.00369461299851537,
+        0.0406480804085732,
+        0.128682121634483,
+        -0.00867351330816746,
+        -0.12839263677597,
+        0.040805671364069,
+        -8.61999988555908,
+        -0.165999993681908,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1335": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.107100002467632,
+        0.0,
+        0.0,
+        0.0,
+        0.0525328852236271,
+        0.161679610610008,
+        0.0,
+        -0.161679610610008,
+        0.0525328852236271,
+        -8.5,
+        -0.19200000166893,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1336": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0628461912274361,
+        0.00437936279922724,
+        0.000421035074396059,
+        -0.00273675029166043,
+        0.0301096886396408,
+        0.0953200832009315,
+        0.00642482424154878,
+        -0.0951056554913521,
+        0.0302264224737883,
+        -8.38000011444092,
+        -0.217999994754791,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1337": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0842559859156609,
+        0.0115212248638272,
+        0.00130117929074913,
+        -0.00712690176442266,
+        0.0374952554702759,
+        0.129492536187172,
+        0.0169679503887892,
+        -0.12839263677597,
+        0.0381106398999691,
+        -8.26000022888184,
+        -0.244000002741814,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1338": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0624118410050869,
+        -0.00853424053639174,
+        -0.000963836559094489,
+        0.00527918664738536,
+        0.0277742631733418,
+        0.0959203913807869,
+        -0.0125688528642058,
+        -0.0951056554913521,
+        0.0282301045954227,
+        -6.1399998664856,
+        -0.140000000596046,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1339": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0848423615098,
+        -0.00591213954612613,
+        -0.000568397343158722,
+        0.00369461299851537,
+        0.0406480804085732,
+        0.128682121634483,
+        -0.00867351330816746,
+        -0.12839263677597,
+        0.040805671364069,
+        -6.01999998092651,
+        -0.165999993681908,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1340": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.107100002467632,
+        0.0,
+        0.0,
+        0.0,
+        0.0525328852236271,
+        0.161679610610008,
+        0.0,
+        -0.161679610610008,
+        0.0525328852236271,
+        -5.90000009536743,
+        -0.19200000166893,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1341": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0628461912274361,
+        0.00437936279922724,
+        0.000421035074396059,
+        -0.00273675029166043,
+        0.0301096886396408,
+        0.0953200832009315,
+        0.00642482424154878,
+        -0.0951056554913521,
+        0.0302264224737883,
+        -5.78000020980835,
+        -0.217999994754791,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1342": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0842559859156609,
+        0.0115212248638272,
+        0.00130117929074913,
+        -0.00712690176442266,
+        0.0374952554702759,
+        0.129492536187172,
+        0.0169679503887892,
+        -0.12839263677597,
+        0.0381106398999691,
+        -5.65999984741211,
+        -0.244000002741814,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1343": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0624118410050869,
+        -0.00853424053639174,
+        -0.000963836559094489,
+        0.00527918664738536,
+        0.0277742631733418,
+        0.0959203913807869,
+        -0.0125688528642058,
+        -0.0951056554913521,
+        0.0282301045954227,
+        -2.14000010490417,
+        -0.140000000596046,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1344": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0848423615098,
+        -0.00591213954612613,
+        -0.000568397343158722,
+        0.00369461299851537,
+        0.0406480804085732,
+        0.128682121634483,
+        -0.00867351330816746,
+        -0.12839263677597,
+        0.040805671364069,
+        -2.01999998092651,
+        -0.165999993681908,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1345": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.107100002467632,
+        0.0,
+        0.0,
+        0.0,
+        0.0525328852236271,
+        0.161679610610008,
+        0.0,
+        -0.161679610610008,
+        0.0525328852236271,
+        -1.89999997615814,
+        -0.19200000166893,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1346": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0628461912274361,
+        0.00437936279922724,
+        0.000421035074396059,
+        -0.00273675029166043,
+        0.0301096886396408,
+        0.0953200832009315,
+        0.00642482424154878,
+        -0.0951056554913521,
+        0.0302264224737883,
+        -1.77999997138977,
+        -0.217999994754791,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1347": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0842559859156609,
+        0.0115212248638272,
+        0.00130117929074913,
+        -0.00712690176442266,
+        0.0374952554702759,
+        0.129492536187172,
+        0.0169679503887892,
+        -0.12839263677597,
+        0.0381106398999691,
+        -1.6599999666214,
+        -0.244000002741814,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1348": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0624118410050869,
+        -0.00853424053639174,
+        -0.000963836559094489,
+        0.00527918664738536,
+        0.0277742631733418,
+        0.0959203913807869,
+        -0.0125688528642058,
+        -0.0951056554913521,
+        0.0282301045954227,
+        2.85999989509583,
+        -0.140000000596046,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1349": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0848423615098,
+        -0.00591213954612613,
+        -0.000568397343158722,
+        0.00369461299851537,
+        0.0406480804085732,
+        0.128682121634483,
+        -0.00867351330816746,
+        -0.12839263677597,
+        0.040805671364069,
+        2.98000001907349,
+        -0.165999993681908,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1350": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.107100002467632,
+        0.0,
+        0.0,
+        0.0,
+        0.0525328852236271,
+        0.161679610610008,
+        0.0,
+        -0.161679610610008,
+        0.0525328852236271,
+        3.09999990463257,
+        -0.19200000166893,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1351": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0628461912274361,
+        0.00437936279922724,
+        0.000421035074396059,
+        -0.00273675029166043,
+        0.0301096886396408,
+        0.0953200832009315,
+        0.00642482424154878,
+        -0.0951056554913521,
+        0.0302264224737883,
+        3.22000002861023,
+        -0.217999994754791,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1352": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0842559859156609,
+        0.0115212248638272,
+        0.00130117929074913,
+        -0.00712690176442266,
+        0.0374952554702759,
+        0.129492536187172,
+        0.0169679503887892,
+        -0.12839263677597,
+        0.0381106398999691,
+        3.33999991416931,
+        -0.244000002741814,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1353": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0624118410050869,
+        -0.00853424053639174,
+        -0.000963836559094489,
+        0.00527918664738536,
+        0.0277742631733418,
+        0.0959203913807869,
+        -0.0125688528642058,
+        -0.0951056554913521,
+        0.0282301045954227,
+        6.3600001335144,
+        -0.140000000596046,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1354": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0848423615098,
+        -0.00591213954612613,
+        -0.000568397343158722,
+        0.00369461299851537,
+        0.0406480804085732,
+        0.128682121634483,
+        -0.00867351330816746,
+        -0.12839263677597,
+        0.040805671364069,
+        6.48000001907349,
+        -0.165999993681908,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1355": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.107100002467632,
+        0.0,
+        0.0,
+        0.0,
+        0.0525328852236271,
+        0.161679610610008,
+        0.0,
+        -0.161679610610008,
+        0.0525328852236271,
+        6.59999990463257,
+        -0.19200000166893,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1356": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0628461912274361,
+        0.00437936279922724,
+        0.000421035074396059,
+        -0.00273675029166043,
+        0.0301096886396408,
+        0.0953200832009315,
+        0.00642482424154878,
+        -0.0951056554913521,
+        0.0302264224737883,
+        6.71999979019165,
+        -0.217999994754791,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1357": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0842559859156609,
+        0.0115212248638272,
+        0.00130117929074913,
+        -0.00712690176442266,
+        0.0374952554702759,
+        0.129492536187172,
+        0.0169679503887892,
+        -0.12839263677597,
+        0.0381106398999691,
+        6.84000015258789,
+        -0.244000002741814,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1358": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0624118410050869,
+        -0.00853424053639174,
+        -0.000963836559094489,
+        0.00527918664738536,
+        0.0277742631733418,
+        0.0959203913807869,
+        -0.0125688528642058,
+        -0.0951056554913521,
+        0.0282301045954227,
+        8.65999984741211,
+        -0.140000000596046,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1359": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0848423615098,
+        -0.00591213954612613,
+        -0.000568397343158722,
+        0.00369461299851537,
+        0.0406480804085732,
+        0.128682121634483,
+        -0.00867351330816746,
+        -0.12839263677597,
+        0.040805671364069,
+        8.77999973297119,
+        -0.165999993681908,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1360": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.107100002467632,
+        0.0,
+        0.0,
+        0.0,
+        0.0525328852236271,
+        0.161679610610008,
+        0.0,
+        -0.161679610610008,
+        0.0525328852236271,
+        8.89999961853027,
+        -0.19200000166893,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1361": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0628461912274361,
+        0.00437936279922724,
+        0.000421035074396059,
+        -0.00273675029166043,
+        0.0301096886396408,
+        0.0953200832009315,
+        0.00642482424154878,
+        -0.0951056554913521,
+        0.0302264224737883,
+        9.02000045776367,
+        -0.217999994754791,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/@MeshInstance3D@1362": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0842559859156609,
+        0.0115212248638272,
+        0.00130117929074913,
+        -0.00712690176442266,
+        0.0374952554702759,
+        0.129492536187172,
+        0.0169679503887892,
+        -0.12839263677597,
+        0.0381106398999691,
+        9.14000034332275,
+        -0.244000002741814,
+        1.46000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "MossStoneFightingDais/Masonry_course_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_course_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_dais": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_edge": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_mortar": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_paving_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_paving_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_paving_3": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_rune": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_temple": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RiverMist": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.40000009536743,
+        -6.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RiverMist2": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -8.5,
+        -0.699999988079071,
+        -14.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RiverMist3": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        8.30000019073486,
+        -0.200000002980232,
+        -17.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -5.80000019073486,
+        3.25,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_course_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_course_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_dais": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_edge": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_mortar": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_paving_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_paving_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_paving_3": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_rune": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_temple": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "ShrineMarginFoliage0": {
+      "instance_transforms": [
+        [
+          0.35222789645195,
+          -0.255514562129974,
+          0.0681027546525002,
+          0.105173207819462,
+          0.699985265731812,
+          0.265350788831711,
+          -0.0710596442222595,
+          -0.230505764484406,
+          0.730308830738068,
+          -11.8999996185303,
+          4.15000009536743,
+          -7.0
+        ],
+        [
+          0.0876995548605919,
+          -0.260913550853729,
+          -1.09459674358368,
+          0.426147878170013,
+          0.714775860309601,
+          -0.0221868380904198,
+          0.331865340471268,
+          -0.848893105983734,
+          0.317750841379166,
+          -12.1800003051758,
+          4.05000019073486,
+          -7.0
+        ],
+        [
+          0.372267872095108,
+          -0.276304334402084,
+          -0.602134227752686,
+          0.271999806165695,
+          0.756939053535461,
+          0.382534384727478,
+          0.164744958281517,
+          -0.625379204750061,
+          0.729041695594788,
+          -12.460000038147,
+          3.95000004768372,
+          -7.0
+        ],
+        [
+          0.409755170345306,
+          -0.273733735084534,
+          0.0796259865164757,
+          0.0949777513742447,
+          0.749896883964539,
+          0.456620097160339,
+          -0.0985085964202881,
+          -0.415601253509521,
+          0.771464645862579,
+          -12.7399997711182,
+          3.84999990463257,
+          -7.0
+        ],
+        [
+          0.232787072658539,
+          -0.255514562129974,
+          0.554899513721466,
+          -0.011513477191329,
+          0.699985265731812,
+          0.343285948038101,
+          -0.293006777763367,
+          -0.230505764484406,
+          0.427365571260452,
+          -13.0200004577637,
+          3.75,
+          -7.0
+        ],
+        [
+          0.425531566143036,
+          -0.260913550853729,
+          -0.66753214597702,
+          0.316224157810211,
+          0.714775860309601,
+          0.595548093318939,
+          0.135473385453224,
+          -0.848893105983734,
+          0.70662796497345,
+          -13.3000001907349,
+          3.65000009536743,
+          -7.0
+        ],
+        [
+          0.468948304653168,
+          -0.276304334402084,
+          0.0978499948978424,
+          0.0706579089164734,
+          0.756939053535461,
+          0.667663276195526,
+          -0.121668115258217,
+          -0.625379204750061,
+          0.764886379241943,
+          -13.5799999237061,
+          3.54999995231628,
+          -7.0
+        ],
+        [
+          0.270674407482147,
+          -0.273733735084534,
+          0.645818054676056,
+          -0.0821528807282448,
+          0.749896883964539,
+          0.46729177236557,
+          -0.326512277126312,
+          -0.415601253509521,
+          0.417800635099411,
+          -13.8599996566772,
+          3.45000004768372,
+          -7.0
+        ],
+        [
+          0.400177657604218,
+          0.419501155614853,
+          -0.177362233400345,
+          -0.218618050217628,
+          0.767891705036163,
+          -0.324659407138824,
+          0.0,
+          0.369947403669357,
+          0.875007927417755,
+          -12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.323609381914139,
+          0.419501155614853,
+          0.521528244018555,
+          0.264582961797714,
+          0.767891705036163,
+          0.094893790781498,
+          -0.182232826948166,
+          0.369947403669357,
+          -0.788354873657227,
+          -12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.296324253082275,
+          0.419501155614853,
+          0.587713599205017,
+          0.267853140830994,
+          0.767891705036163,
+          0.0380498208105564,
+          -0.21996046602726,
+          0.369947403669357,
+          -0.745415866374969,
+          -13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          -0.265934526920319,
+          0.419501155614853,
+          0.647741675376892,
+          0.268316984176636,
+          0.767891705036163,
+          -0.0191929284483194,
+          -0.255383670330048,
+          0.369947403669357,
+          -0.694667100906372,
+          -14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          0.104697413742542,
+          0.419501155614853,
+          -0.823979735374451,
+          -0.237748086452484,
+          0.767891705036163,
+          0.259830385446548,
+          0.374767005443573,
+          0.369947403669357,
+          0.395026028156281,
+          -14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          -0.232758656144142,
+          0.419501155614853,
+          0.700983166694641,
+          0.265969663858414,
+          0.767891705036163,
+          -0.07623440772295,
+          -0.28813111782074,
+          0.369947403669357,
+          -0.63664036989212,
+          -14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ]
+      ],
+      "instances": 44,
+      "shadow": 0,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true,
+      "visible_instances": 14
+    },
+    "ShrineMarginFoliage1": {
+      "instance_transforms": [
+        [
+          0.365598261356354,
+          -0.273733735084534,
+          -0.393623232841492,
+          0.198237150907516,
+          0.749896883964539,
+          0.277651757001877,
+          0.116892918944359,
+          -0.415601253509521,
+          0.760243475437164,
+          -11.8999996185303,
+          4.15000009536743,
+          -7.0
+        ],
+        [
+          0.339715570211411,
+          -0.255514562129974,
+          0.205463379621506,
+          0.0792258828878403,
+          0.699985265731812,
+          0.301956623792648,
+          -0.135985031723976,
+          -0.230505764484406,
+          0.689207494258881,
+          -12.1800003051758,
+          4.05000019073486,
+          -7.0
+        ],
+        [
+          0.185349002480507,
+          -0.260913550853729,
+          -1.04039287567139,
+          0.420490324497223,
+          0.714775860309601,
+          0.145882859826088,
+          0.297088384628296,
+          -0.848893105983734,
+          0.44260710477829,
+          -12.460000038147,
+          3.95000004768372,
+          -7.0
+        ],
+        [
+          0.420153468847275,
+          -0.276304334402084,
+          -0.444827318191528,
+          0.232427343726158,
+          0.756939053535461,
+          0.482670336961746,
+          0.0956909507513046,
+          -0.625379204750061,
+          0.780741930007935,
+          -12.7399997711182,
+          3.84999990463257,
+          -7.0
+        ],
+        [
+          0.395163029432297,
+          -0.273733735084534,
+          0.239413678646088,
+          0.0518748983740807,
+          0.749896883964539,
+          0.485772460699081,
+          -0.166670873761177,
+          -0.415601253509521,
+          0.718822777271271,
+          -13.0200004577637,
+          3.75,
+          -7.0
+        ],
+        [
+          0.178295001387596,
+          -0.255514562129974,
+          0.636505126953125,
+          -0.0424259342253208,
+          0.699985265731812,
+          0.332578241825104,
+          -0.326475560665131,
+          -0.230505764484406,
+          0.304389536380768,
+          -13.3000001907349,
+          3.65000009536743,
+          -7.0
+        ],
+        [
+          0.478387147188187,
+          -0.260913550853729,
+          -0.488091468811035,
+          0.256545633077621,
+          0.714775860309601,
+          0.709251046180725,
+          0.0689780116081238,
+          -0.848893105983734,
+          0.747214496135712,
+          -13.5799999237061,
+          3.54999995231628,
+          -7.0
+        ],
+        [
+          0.451638877391815,
+          -0.276304334402084,
+          0.280599623918533,
+          0.00886117294430733,
+          0.756939053535461,
+          0.683448970317841,
+          -0.188817277550697,
+          -0.625379204750061,
+          0.703250586986542,
+          -13.8599996566772,
+          3.45000004768372,
+          -7.0
+        ],
+        [
+          0.217609867453575,
+          0.498985588550568,
+          -0.906853795051575,
+          -0.307055473327637,
+          0.913386940956116,
+          0.182782471179962,
+          0.390590101480484,
+          0.440042704343796,
+          0.648927450180054,
+          -12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.0071945795789361,
+          0.498985588550568,
+          1.01374983787537,
+          0.238580450415611,
+          0.913386940956116,
+          -0.442236244678497,
+          -0.487057864665985,
+          0.440042704343796,
+          -0.231599614024162,
+          -12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          0.171973153948784,
+          0.498985588550568,
+          -0.948446393013,
+          -0.296478390693665,
+          0.913386940956116,
+          0.247217044234276,
+          0.420384973287582,
+          0.440042704343796,
+          0.5623459815979,
+          -13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          0.0425849780440331,
+          0.498985588550568,
+          1.00997149944305,
+          0.215631321072578,
+          0.913386940956116,
+          -0.490728944540024,
+          -0.495870321989059,
+          0.440042704343796,
+          -0.126659959554672,
+          -13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          0.0919183492660522,
+          0.498985588550568,
+          0.995611548423767,
+          0.190423041582108,
+          0.913386940956116,
+          -0.534080266952515,
+          -0.499487549066544,
+          0.440042704343796,
+          -0.0203932877629995,
+          -14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          0.140288501977921,
+          0.498985588550568,
+          0.970820784568787,
+          0.163219824433327,
+          0.913386940956116,
+          -0.571835815906525,
+          -0.497871667146683,
+          0.440042704343796,
+          0.0860865488648415,
+          -14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ]
+      ],
+      "instances": 44,
+      "shadow": 0,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true,
+      "visible_instances": 14
+    },
+    "ShrineMarginFoliage2": {
+      "instance_transforms": [
+        [
+          0.238506957888603,
+          -0.276304334402084,
+          -0.846851110458374,
+          0.320703744888306,
+          0.756939053535461,
+          0.145058065652847,
+          0.282792687416077,
+          -0.625379204750061,
+          0.549728453159332,
+          -11.8999996185303,
+          4.15000009536743,
+          -7.0
+        ],
+        [
+          0.394701898097992,
+          -0.273733735084534,
+          -0.242692857980728,
+          0.169499948620796,
+          0.749896883964539,
+          0.350652784109116,
+          0.0458715409040451,
+          -0.415601253509521,
+          0.792554557323456,
+          -12.1800003051758,
+          4.05000019073486,
+          -7.0
+        ],
+        [
+          0.314976453781128,
+          -0.255514562129974,
+          0.335429072380066,
+          0.0504271052777767,
+          0.699985265731812,
+          0.327694594860077,
+          -0.196016103029251,
+          -0.230505764484406,
+          0.623300552368164,
+          -12.460000038147,
+          3.95000004768372,
+          -7.0
+        ],
+        [
+          0.276327461004257,
+          -0.260913550853729,
+          -0.948743462562561,
+          0.399698674678802,
+          0.714775860309601,
+          0.308701992034912,
+          0.251618683338165,
+          -0.848893105983734,
+          0.551533222198486,
+          -12.7399997711182,
+          3.84999990463257,
+          -7.0
+        ],
+        [
+          0.452917069196701,
+          -0.276304334402084,
+          -0.271510392427444,
+          0.184489488601685,
+          0.756939053535461,
+          0.565434277057648,
+          0.0231928899884224,
+          -0.625379204750061,
+          0.804342031478882,
+          -13.0200004577637,
+          3.75,
+          -7.0
+        ],
+        [
+          0.366348385810852,
+          -0.273733735084534,
+          0.390584498643875,
+          0.00690499739721417,
+          0.749896883964539,
+          0.497441083192825,
+          -0.228834435343742,
+          -0.415601253509521,
+          0.640309393405914,
+          -13.3000001907349,
+          3.65000009536743,
+          -7.0
+        ],
+        [
+          0.117385797202587,
+          -0.255514562129974,
+          0.695201933383942,
+          -0.0718114376068115,
+          0.699985265731812,
+          0.309900492429733,
+          -0.348194003105164,
+          -0.230505764484406,
+          0.170457988977432,
+          -13.5799999237061,
+          3.54999995231628,
+          -7.0
+        ],
+        [
+          0.514024794101715,
+          -0.260913550853729,
+          -0.291083604097366,
+          0.187633693218231,
+          0.714775860309601,
+          0.797426998615265,
+          0.0,
+          -0.848893105983734,
+          0.760907590389252,
+          -13.8599996566772,
+          3.45000004768372,
+          -7.0
+        ],
+        [
+          -0.237244158983231,
+          0.57846999168396,
+          -1.06638669967651,
+          -0.142420813441277,
+          1.05888223648071,
+          0.711921036243439,
+          0.564642310142517,
+          0.510137975215912,
+          -0.26849153637886,
+          -12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          0.435839712619781,
+          0.57846999168396,
+          0.746330618858337,
+          -0.0199508648365736,
+          1.05888223648071,
+          -0.770156383514404,
+          -0.452808022499084,
+          0.510137975215912,
+          0.752296328544617,
+          -12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.288325905799866,
+          0.57846999168396,
+          -1.01027584075928,
+          -0.106742799282074,
+          1.05888223648071,
+          0.738522171974182,
+          0.548510313034058,
+          0.510137975215912,
+          -0.387334078550339,
+          -13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          0.470176935195923,
+          0.57846999168396,
+          0.649602234363556,
+          -0.0576357655227184,
+          1.05888223648071,
+          -0.761873006820679,
+          -0.413522928953171,
+          0.510137975215912,
+          0.844787776470184,
+          -13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          -0.336386829614639,
+          0.57846999168396,
+          -0.943580031394959,
+          -0.0699464455246925,
+          1.05888223648071,
+          0.757385969161987,
+          0.526631534099579,
+          0.510137975215912,
+          -0.502118527889252,
+          -14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          0.499588012695313,
+          0.57846999168396,
+          0.546067893505096,
+          -0.0947168096899986,
+          1.05888223648071,
+          -0.745607435703278,
+          -0.369905292987823,
+          0.510137975215912,
+          0.92842835187912,
+          -14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ]
+      ],
+      "instances": 44,
+      "shadow": 0,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true,
+      "visible_instances": 14
+    },
+    "ShrineMarginFoliage3": {
+      "instance_transforms": [
+        [
+          -0.0131064001470804,
+          -0.260913550853729,
+          -1.10940456390381,
+          0.416467756032944,
+          0.714775860309601,
+          -0.189458087086678,
+          0.354698032140732,
+          -0.848893105983734,
+          0.181458219885826,
+          -11.8999996185303,
+          4.15000009536743,
+          -7.0
+        ],
+        [
+          0.310983777046204,
+          -0.276304334402084,
+          -0.737769365310669,
+          0.301782548427582,
+          0.756939053535461,
+          0.26863044500351,
+          0.227869525551796,
+          -0.625379204750061,
+          0.651102185249329,
+          -12.1800003051758,
+          4.05000019073486,
+          -7.0
+        ],
+        [
+          0.409599602222443,
+          -0.273733735084534,
+          -0.0830275937914848,
+          0.134662196040154,
+          0.749896883964539,
+          0.411033302545547,
+          -0.0268008261919022,
+          -0.415601253509521,
+          0.79634040594101,
+          -12.460000038147,
+          3.95000004768372,
+          -7.0
+        ],
+        [
+          0.278900802135468,
+          -0.255514562129974,
+          0.453322142362595,
+          0.0198133699595928,
+          0.699985265731812,
+          0.341638326644897,
+          -0.248992249369621,
+          -0.230505764484406,
+          0.534960091114044,
+          -12.7399997711182,
+          3.84999990463257,
+          -7.0
+        ],
+        [
+          0.357360512018204,
+          -0.260913550853729,
+          -0.822947382926941,
+          0.364521265029907,
+          0.714775860309601,
+          0.460410565137863,
+          0.197092860937119,
+          -0.848893105983734,
+          0.640608906745911,
+          -13.0200004577637,
+          3.75,
+          -7.0
+        ],
+        [
+          0.469379514455795,
+          -0.276304334402084,
+          -0.0884213894605637,
+          0.129911541938782,
+          0.756939053535461,
+          0.62784731388092,
+          -0.050139918923378,
+          -0.625379204750061,
+          0.79899263381958,
+          -13.3000001907349,
+          3.65000009536743,
+          -7.0
+        ],
+        [
+          0.324348300695419,
+          -0.273733735084534,
+          0.527697622776031,
+          -0.0383134186267853,
+          0.749896883964539,
+          0.491206079721451,
+          -0.282761871814728,
+          -0.415601253509521,
+          0.538750231266022,
+          -13.5799999237061,
+          3.54999995231628,
+          -7.0
+        ],
+        [
+          0.0522517375648022,
+          -0.255514562129974,
+          0.728877365589142,
+          -0.0986122861504555,
+          0.699985265731812,
+          0.276068955659866,
+          -0.357380360364914,
+          -0.230505764484406,
+          0.0303914789110422,
+          -13.8599996566772,
+          3.45000004768372,
+          -7.0
+        ],
+        [
+          -0.623425126075745,
+          0.657954454421997,
+          -0.31671530008316,
+          0.202880159020424,
+          1.20437753200531,
+          0.768718004226685,
+          0.285817861557007,
+          0.580233335494995,
+          -1.23647248744965,
+          -12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.63569962978363,
+          0.657954454421997,
+          -0.182288318872452,
+          0.239536181092262,
+          1.20437753200531,
+          0.721484661102295,
+          0.223650351166725,
+          0.580233335494995,
+          -1.29086434841156,
+          -13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          0.610709726810455,
+          0.657954454421997,
+          -0.410388082265854,
+          -0.366074025630951,
+          1.20437753200531,
+          -0.43351274728775,
+          0.067338690161705,
+          0.580233335494995,
+          1.36519169807434,
+          -13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          -0.641313850879669,
+          0.657954454421997,
+          -0.0459517240524292,
+          0.273682534694672,
+          1.20437753200531,
+          0.66669237613678,
+          0.159139797091484,
+          0.580233335494995,
+          -1.33173179626465,
+          -14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          0.587373852729797,
+          0.657954454421997,
+          -0.538298189640045,
+          -0.385427594184875,
+          1.20437753200531,
+          -0.35328072309494,
+          0.133972063660622,
+          0.580233335494995,
+          1.34369921684265,
+          -14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          -0.640209019184113,
+          0.657954454421997,
+          0.0908665731549263,
+          0.304961562156677,
+          1.20437753200531,
+          0.604914963245392,
+          0.0929617881774902,
+          0.580233335494995,
+          -1.35864675045013,
+          -14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ]
+      ],
+      "instances": 44,
+      "shadow": 0,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true,
+      "visible_instances": 14
+    },
+    "SpiritGeyser": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -8.0,
+        1.08500003814697,
+        0.0599999986588955
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "SpiritGeyser2": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        8.0,
+        1.08500003814697,
+        0.0599999986588955
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "SpiritWellWarning": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0000000437113882867379,
+        -1.0,
+        0.0,
+        1.0,
+        -0.0000000437113882867379,
+        -8.0,
+        0.0399999991059303,
+        0.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "SpiritWellWarning2": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0000000437113882867379,
+        -1.0,
+        0.0,
+        1.0,
+        -0.0000000437113882867379,
+        8.0,
+        0.0399999991059303,
+        0.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "ValleySwallow0": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.996398389339447,
+        0.0847951844334602,
+        0.0,
+        -0.0847951844334602,
+        0.996398389339447,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -7.0,
+        1.58946752548218,
+        -19.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "ValleySwallow1": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.999626874923706,
+        0.0273144021630287,
+        0.0,
+        -0.0273144021630287,
+        0.999626874923706,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -5.55999994277954,
+        1.56140983104706,
+        -19.3999996185303
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "ValleySwallow2": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.997900247573853,
+        -0.0647692680358887,
+        0.0,
+        0.0647692680358887,
+        0.997900247573853,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -4.11999988555908,
+        1.35448896884918,
+        -19.7999992370605
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "ValleySwallow3": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.997191369533539,
+        -0.0748956277966499,
+        0.0,
+        0.0748956277966499,
+        0.997191369533539,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -2.6800000667572,
+        0.761941611766815,
+        -20.2000007629395
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "ValleySwallow4": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.999952912330627,
+        0.00970389135181904,
+        0.0,
+        -0.00970389135181904,
+        0.999952912330627,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -1.24000000953674,
+        1.47023272514343,
+        -20.6000003814697
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "ValleySwallow5": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.996631741523743,
+        0.0820074826478958,
+        0.0,
+        -0.0820074826478958,
+        0.996631741523743,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.200000002980232,
+        2.11498665809631,
+        -21.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "WaterDetailBounce": {
+      "light": {
+        "color": "(0.3843, 0.7137, 0.6118, 1.0)",
+        "energy": 0.75,
+        "shadow": false
+      },
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -8.0,
+        -1.0,
+        -5.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "WaterDetailPollen": {
+      "instance_transforms": [],
+      "instances": 18,
+      "shadow": 0,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": false,
+      "visible_in_tree": false,
+      "visible_instances": -1
+    }
+  },
+  "platforms": [
+    {
+      "id": 0,
+      "previous_y": 0.0,
+      "width": 20.0,
+      "x": 0.0,
+      "y": 0.0
+    },
+    {
+      "id": 1,
+      "previous_y": 3.25,
+      "width": 4.0,
+      "x": -5.8,
+      "y": 3.25
+    },
+    {
+      "id": 2,
+      "previous_y": 3.25,
+      "width": 4.0,
+      "x": 5.8,
+      "y": 3.25
+    },
+    {
+      "amplitude": 0.65,
+      "base_y": 6.2,
+      "id": 3,
+      "period_ticks": 180.0,
+      "previous_y": 6.2,
+      "width": 4.0,
+      "x": 0.0,
+      "y": 6.2
+    }
+  ],
+  "quality": "Low",
+  "stage_tick": 120
+}

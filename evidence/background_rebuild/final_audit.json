@@ -1,0 +1,180 @@
+{
+  "generated_at_utc": "2026-10-04T20:22:31.699433+00:00",
+  "passed": true,
+  "checks": [
+    "Dedicated living-arena archive and unchanged prior platform ZIP",
+    "Current source inventory, canonical SHA-256 and all required source suites",
+    "Twenty-five exact reviewed PNG hashes, 1080p headers and current review harness",
+    "All 72 source preservation checks, current runtime and stage hashes, eight originals, eight curated sources and prior platform archive",
+    "Seventy exact temporal PNG/state records, 378 scenery checks, pause/reset/quality restoration and explicit bound assistant motion acceptance",
+    "Five current High-tier 60 FPS twelve-second ambient MP4s at their measured resolution, all 720 frames decoded, explicit sample-frame review and exact runner/source/media/log/report/state bindings; no upscaling",
+    "Current exported build, 108 UI checks, actual EXE smokes and five full matches",
+    "Ten current 60-second CPU/GPU profiles with consistent actual render cap/VSync, runtime/art/harness and delivery hash bindings; this does not establish uncapped stability",
+    "Optional unchanged-source repeats preserve the full matrix and match its actual render cap/VSync, harness, art and 1080p four-CPU measurement scope",
+    "Preserved aborted uncapped Lunar Reach High stress failure, intact lost-device/signal-11 engine log and NUL-native-receipt limitation; no root cause or driver fix established",
+    "All 22 ZIP entries decoded; package, receipt, build copies and current documentation match",
+    "All audited files remained unchanged through the audit"
+  ],
+  "problems": [],
+  "scope": "Independent hashes, full ZIP decoding, bound still/state receipts and explicit assistant sample-frame acceptance. Video frame count, dimensions and full-decode completion are checked against bound FFmpeg logs; audit does not re-decode video. No engines, performance reruns or human playtesting.",
+  "archive": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\builds\\RooftopRiot-Living-Arenas-Windows.zip",
+  "archive_sha256": "24B1766B19A58B306BC4314BDEC14D0394E2A7F5D547B5E84D98345B087F6B76",
+  "runtime_source_sha256": "F27D1FA730C48897031F76F245F4B28D50B6DFA35BC3D4C7E249666CDF1E8825",
+  "runtime_files": 537,
+  "reviewed_captures": 25,
+  "temporal_captures": 70,
+  "temporal_checks": 378,
+  "ambient_movies": 5,
+  "ambient_movie_dimensions": [
+    [
+      1600,
+      900
+    ]
+  ],
+  "ambient_movie_review": "Assistant inspection of four extracted frames per clip; continuous human acceptance unverified",
+  "preservation_checks": 72,
+  "presentation_evidence": {
+    "visual_review": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\visualreview.json",
+      "sha256": "7A3F74A6DACDF6224EF46D4F80C57F815FE6FB683FC7BD821DA54E885AE9870E"
+    },
+    "temporal_report": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\review_motion\\living_background_review.json",
+      "sha256": "DEB41C807FA7491F222BB0C39E73A4604B94DC2F512F1A1D8CCA318678E0B2B9"
+    },
+    "movie_review": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\movie_receipt.json",
+      "sha256": "D3E777537868DACE81F2A026C2AE972C33A72073B2681BF3E8DD79A337F0CDC3"
+    },
+    "preservation": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\preservation.json",
+      "sha256": "A4B4BFEF0A246250C1FB4F600C53AA4CD6A7C9AC7E9502237F7E46C1E54D7F23"
+    },
+    "preserved_uncapped_failure": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\aborted_uncapped_20261004\\failure.json",
+      "sha256": "C6F4A576C75A63C4C46FB987B0037997F4B2DA0F830614169E539552571EA9E0"
+    }
+  },
+  "zip_entries": 22,
+  "profile_render_cap": 120,
+  "profile_vsync": "disabled",
+  "performance_scope": "Measured current source workload at the recorded render cap with VSync disabled; not ordinary synchronized presentation, uncapped stability, or a device/driver fix.",
+  "profiles": [
+    {
+      "case": "rooftop_riot_high_4p",
+      "sha256": "2D858524CDB243E7D346B39B8FB5619D6E92334D0300D395B62BE11715F232D5",
+      "render_cap": 120,
+      "vsync": "disabled",
+      "frame_p99_ms": 10.559,
+      "frame_max_ms": 28.577,
+      "over_16_667": 8
+    },
+    {
+      "case": "rooftop_riot_low_4p",
+      "sha256": "80BFFCC451F3228AD87FBE4D36FE5124EF11F6ECBA8F7FC9618688C6418E5B23",
+      "render_cap": 120,
+      "vsync": "disabled",
+      "frame_p99_ms": 11.977,
+      "frame_max_ms": 69.732,
+      "over_16_667": 8
+    },
+    {
+      "case": "lunar_reach_high_4p",
+      "sha256": "26282C1386D46F39DE6F5FDEF1B5D461FCCEC79EC29F5232C164E20DA1CB0064",
+      "render_cap": 120,
+      "vsync": "disabled",
+      "frame_p99_ms": 11.127,
+      "frame_max_ms": 21.877,
+      "over_16_667": 2
+    },
+    {
+      "case": "lunar_reach_low_4p",
+      "sha256": "09CE0FA565EF4354627B466EFBE1323E816305711B91D56F642D06FFDEF79F73",
+      "render_cap": 120,
+      "vsync": "disabled",
+      "frame_p99_ms": 11.288,
+      "frame_max_ms": 19.602,
+      "over_16_667": 1
+    },
+    {
+      "case": "verdant_shrine_high_4p",
+      "sha256": "F4D18A08A9D5125A470B376EB198085299563010855B9355C1B668187C024B00",
+      "render_cap": 120,
+      "vsync": "disabled",
+      "frame_p99_ms": 11.841,
+      "frame_max_ms": 31.749,
+      "over_16_667": 4
+    },
+    {
+      "case": "verdant_shrine_low_4p",
+      "sha256": "2D0336D244AD1F328239AC3FB9223FC8A78BC020FD78C1CC1583BBE4057815D0",
+      "render_cap": 120,
+      "vsync": "disabled",
+      "frame_p99_ms": 10.721,
+      "frame_max_ms": 27.349,
+      "over_16_667": 6
+    },
+    {
+      "case": "abyssal_observatory_high_4p",
+      "sha256": "DA009ABA9E14FD9F567C5EF0CEE47937174DCAA97D30472BB4FC7CC0BE4ADB03",
+      "render_cap": 120,
+      "vsync": "disabled",
+      "frame_p99_ms": 10.892,
+      "frame_max_ms": 23.385,
+      "over_16_667": 5
+    },
+    {
+      "case": "abyssal_observatory_low_4p",
+      "sha256": "B15782AEFD5C55824BF50300ACE7E48D3E3078F15A6C5C630D1767902FF56149",
+      "render_cap": 120,
+      "vsync": "disabled",
+      "frame_p99_ms": 11.88,
+      "frame_max_ms": 19.001,
+      "over_16_667": 4
+    },
+    {
+      "case": "ember_foundry_high_4p",
+      "sha256": "7E237ECE0611F70B081249FAA20954D8368990D80E2ADCEFABF9970B17021319",
+      "render_cap": 120,
+      "vsync": "disabled",
+      "frame_p99_ms": 11.128,
+      "frame_max_ms": 118.433,
+      "over_16_667": 3
+    },
+    {
+      "case": "ember_foundry_low_4p",
+      "sha256": "4020816085B99B33F65017695C1DFDC96EC4D95FF9A508D27EAEA826296E3AEA",
+      "render_cap": 120,
+      "vsync": "disabled",
+      "frame_p99_ms": 10.955,
+      "frame_max_ms": 14.801,
+      "over_16_667": 0
+    }
+  ],
+  "repeat_profiles": [
+    {
+      "directory": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\repeat_rooftop_low120",
+      "provenance_sha256": "A83B763FF5F7014695D88C5E6FC51A0166179B68FC4FE3C2192CA4AAE80803A6",
+      "case": "rooftop_riot_low_4p",
+      "sha256": "623F38ECEC8583849D87EF28ED5CB4FDFFDBF9EEACD21939970F4E75239A5294",
+      "render_cap": 120,
+      "vsync": "disabled",
+      "frame_p99_ms": 11.863,
+      "frame_max_ms": 20.816,
+      "over_16_667": 3
+    },
+    {
+      "directory": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\repeat_ember_high120",
+      "provenance_sha256": "2019DF576F5B2763B30EF3A5146EEB9B8B66E81A83467CA2FDBC77B9756ECAD4",
+      "case": "ember_foundry_high_4p",
+      "sha256": "F6DAC8903BA2357A9536D2EF3C01ADC05CDA5F7BC454A8F3AF4E550E0B661D4A",
+      "render_cap": 120,
+      "vsync": "disabled",
+      "frame_p99_ms": 10.799,
+      "frame_max_ms": 111.873,
+      "over_16_667": 2
+    }
+  ],
+  "previous_platform_zip_sha256": "7D3B36F762AC219ABACDBC02D277326A4EB98B8CBB2EE37B0F8B2387BEEABB70",
+  "audit_script_sha256": "0C61C55DC12B32CE670DD99C2456303930B8B4E12369D5CE3DC9F37CB18C8BED"
+}

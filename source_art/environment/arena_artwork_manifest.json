@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "recorded_at_utc": "2026-10-03T22:14:21.513864+00:00",
+  "scope": "Three new arena backdrops and the preservation evidence used for the October 3 map expansion.",
+  "assets": [
+    {
+      "arena_id": "verdant_shrine",
+      "title": "Verdant Shrine",
+      "generation_date": "2026-10-03",
+      "provider": "OpenAI",
+      "tool": "built-in image_gen.imagegen",
+      "model_version": null,
+      "model_version_note": "The tool did not supply a model version; none is inferred.",
+      "prompt_record_type": "intent_summary_not_verbatim",
+      "prompt_intent_summary": "A cinematic fictional rainforest sanctuary: monumental weathered guardian carvings and ancient stone temples embedded in lush layered cliffs, asymmetric waterfalls flowing into a turquoise lagoon, warm sunlight and atmospheric depth. Compose as distant fighting-game scenery with a quieter open center and richly framed edges, without a foreground fighting platform, characters, text or HUD.",
+      "verbatim_prompt": null,
+      "verbatim_prompt_note": "Exact original prompt text is not retained in this record. This description records the approved artistic intent, not a verbatim reconstruction.",
+      "original_generated_path": "C:/Users/dayw9/.codex/generated_images/01a0fcfb-cd3d-7ce3-900f-a8a37bc4b50a/exec-fc8e6045-08cf-4294-b632-8d4db08b46fe.png",
+      "runtime_path": "Game File/assets/arenas/verdant_shrine/backdrop.png",
+      "runtime_required": true,
+      "external_original_required_at_runtime": false,
+      "png_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "bytes": 2798345,
+      "original_sha256": "D6CA0598D1B64F6CDB29DBE75274A018DEBE72060721B3A87460DC942BDC7244",
+      "runtime_sha256": "D6CA0598D1B64F6CDB29DBE75274A018DEBE72060721B3A87460DC942BDC7244",
+      "runtime_is_byte_identical_original": true,
+      "purpose": "Distant matte scenery asset, not a screenshot or performance/validation result.",
+      "runtime_rendering": "Shared ArenaBackdrop frames the PNG at camera-relative infinity; separate authored 3D geometry supplies collision-independent foreground and moving scenery.",
+      "regeneration_note": "Preserve and reuse this original PNG for exact reproduction. A new image-generation request is nondeterministic and is not an exact rebuild."
+    },
+    {
+      "arena_id": "abyssal_observatory",
+      "title": "Abyssal Observatory",
+      "generation_date": "2026-10-03",
+      "provider": "OpenAI",
+      "tool": "built-in image_gen.imagegen",
+      "model_version": null,
+      "model_version_note": "The tool did not supply a model version; none is inferred.",
+      "prompt_record_type": "intent_summary_not_verbatim",
+      "prompt_intent_summary": "A cinematic fictional deep-ocean observatory vista: submerged ancient arches and reef towers, luminous corals at the margins, cool blue water with sun shafts, a distant humpback whale, jellyfish and schooling fish. Preserve an open deep-blue center for a separately rendered fighting gallery; no foreground fighting platform, characters, text or HUD.",
+      "verbatim_prompt": null,
+      "verbatim_prompt_note": "Exact original prompt text is not retained in this record. This description records the approved artistic intent, not a verbatim reconstruction.",
+      "original_generated_path": "C:/Users/dayw9/.codex/generated_images/01a0fcfb-cd3d-7ce3-900f-a8a37bc4b50a/exec-d5eacaea-befa-4d8f-a631-59650299ddf5.png",
+      "runtime_path": "Game File/assets/arenas/abyssal_observatory/backdrop.png",
+      "runtime_required": true,
+      "external_original_required_at_runtime": false,
+      "png_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "bytes": 2586380,
+      "original_sha256": "18A54975E0A14C9A79741C32157D6C843095C10F815EAABAF3AB0648A552B29E",
+      "runtime_sha256": "18A54975E0A14C9A79741C32157D6C843095C10F815EAABAF3AB0648A552B29E",
+      "runtime_is_byte_identical_original": true,
+      "purpose": "Distant matte scenery asset, not a screenshot or performance/validation result.",
+      "runtime_rendering": "Shared ArenaBackdrop frames the PNG at camera-relative infinity; separate authored 3D geometry supplies collision-independent foreground and moving scenery.",
+      "regeneration_note": "Preserve and reuse this original PNG for exact reproduction. A new image-generation request is nondeterministic and is not an exact rebuild."
+    },
+    {
+      "arena_id": "ember_foundry",
+      "title": "Ember Foundry",
+      "generation_date": "2026-10-03",
+      "provider": "OpenAI",
+      "tool": "built-in image_gen.imagegen",
+      "model_version": null,
+      "model_version_note": "The tool did not supply a model version; none is inferred.",
+      "prompt_record_type": "intent_summary_not_verbatim",
+      "prompt_intent_summary": "A cinematic fictional volcanic forge inside an immense basalt cavern: cathedral-scale industrial furnaces, layered bridges, bronze gears, suspended chains and crucibles, dramatic lavafalls at the edges and a molten river far below. Mix charcoal architecture and cool atmospheric fill with warm orange fire, keeping a smoky open central fighting backdrop; no foreground fighting platform, characters, text or HUD.",
+      "verbatim_prompt": null,
+      "verbatim_prompt_note": "Exact original prompt text is not retained in this record. This description records the approved artistic intent, not a verbatim reconstruction.",
+      "original_generated_path": "C:/Users/dayw9/.codex/generated_images/01a0fcfb-cd3d-7ce3-900f-a8a37bc4b50a/exec-bb110764-f98f-4d56-aeb0-bc53bd5d0fbe.png",
+      "runtime_path": "Game File/assets/arenas/ember_foundry/backdrop.png",
+      "runtime_required": true,
+      "external_original_required_at_runtime": false,
+      "png_dimensions": {
+        "width": 1672,
+        "height": 941
+      },
+      "bytes": 2563005,
+      "original_sha256": "A5E6188DFA71A98CFDD2C88404905368EA663370033BE2A9C36D4AE25A96C3CE",
+      "runtime_sha256": "A5E6188DFA71A98CFDD2C88404905368EA663370033BE2A9C36D4AE25A96C3CE",
+      "runtime_is_byte_identical_original": true,
+      "purpose": "Distant matte scenery asset, not a screenshot or performance/validation result.",
+      "runtime_rendering": "Shared ArenaBackdrop frames the PNG at camera-relative infinity; separate authored 3D geometry supplies collision-independent foreground and moving scenery.",
+      "regeneration_note": "Preserve and reuse this original PNG for exact reproduction. A new image-generation request is nondeterministic and is not an exact rebuild."
+    }
+  ],
+  "supplied_originals": [
+    {
+      "path": "Assets/Damion/Meshy_AI_Roman_Warrior_0920200819_texture.glb",
+      "expected_sha256": "25D03E6FA3471CC6EA6F1B92F48720A1B65099FDA06966331B5C9B287937CA77",
+      "current_sha256": "25D03E6FA3471CC6EA6F1B92F48720A1B65099FDA06966331B5C9B287937CA77",
+      "preserved": true
+    },
+    {
+      "path": "Assets/Jaydon/Meshy_AI_Casual_Confidence_0920200803_texture.glb",
+      "expected_sha256": "79E0611F7830DBABF076E7ED7903FFC04B440DC7FEFD0A858BB1CCCAEFD91F01",
+      "current_sha256": "79E0611F7830DBABF076E7ED7903FFC04B440DC7FEFD0A858BB1CCCAEFD91F01",
+      "preserved": true
+    },
+    {
+      "path": "Assets/Josh/Meshy_AI_Casual_Confidence_0920200745_texture.glb",
+      "expected_sha256": "BD0DC51B3D1DD0AE6F94CAF90FA1FFD5D2E47F071DE5270B7ABD5F7C7E377086",
+      "current_sha256": "BD0DC51B3D1DD0AE6F94CAF90FA1FFD5D2E47F071DE5270B7ABD5F7C7E377086",
+      "preserved": true
+    },
+    {
+      "path": "Assets/Midnight Gentleman/Meshy_AI_Midnight_Gentleman_0928211534_texture.glb",
+      "expected_sha256": "FABDABFCEAEC509885B3724AF79756CD9964A182333BFD052C9EEF3CF0E6E563",
+      "current_sha256": "FABDABFCEAEC509885B3724AF79756CD9964A182333BFD052C9EEF3CF0E6E563",
+      "preserved": true
+    },
+    {
+      "path": "Assets/Rugged Explorer/Meshy_AI_Rugged_Explorer_0928211551_texture.glb",
+      "expected_sha256": "85F57A04762E492D5D15B72ABDAC5511B1864F57F116C2DC06BF1E03085F3CCB",
+      "current_sha256": "85F57A04762E492D5D15B72ABDAC5511B1864F57F116C2DC06BF1E03085F3CCB",
+      "preserved": true
+    },
+    {
+      "path": "Assets/Urban Sentinel/Meshy_AI_Urban_Sentinel_0928211602_texture.glb",
+      "expected_sha256": "48C7A46E2176BD8452147F43E76215B4B091F0A13CB82CF524E5E770A7D0E4E6",
+      "current_sha256": "48C7A46E2176BD8452147F43E76215B4B091F0A13CB82CF524E5E770A7D0E4E6",
+      "preserved": true
+    },
+    {
+      "path": "Assets/Wes/Meshy_AI_Colts_Quarter_Zip_Stu_0920200835_texture.glb",
+      "expected_sha256": "A6B5F4A2D86D268ED54FB380AF0FA836249C48F547779A9EB1C269592A9AAC0B",
+      "current_sha256": "A6B5F4A2D86D268ED54FB380AF0FA836249C48F547779A9EB1C269592A9AAC0B",
+      "preserved": true
+    },
+    {
+      "path": "Assets/Will/Meshy_AI_Tropical_Street_Fight_0920200858_texture.glb",
+      "expected_sha256": "BDC32EC43AA35428B8199F4F874271EB99B39D6110B6CA66F699ADE66BBB2D78",
+      "current_sha256": "BDC32EC43AA35428B8199F4F874271EB99B39D6110B6CA66F699ADE66BBB2D78",
+      "preserved": true
+    }
+  ],
+  "supplied_originals_all_preserved": true,
+  "preservation_record": "evidence/map_expansion/backup.json",
+  "notes": [
+    "Generated imagery is identified separately from authored procedural geometry and actual Godot captures.",
+    "No specific image-generation model version or output license is asserted.",
+    "The runtime PNG copies are self-contained source assets; the original user-profile paths are provenance references, not build dependencies."
+  ]
+}

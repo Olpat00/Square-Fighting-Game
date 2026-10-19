@@ -1,0 +1,13 @@
+{
+  "fighter": "f01_clutch",
+  "changed_clips": [
+    "win"
+  ],
+  "changed_bones": [
+    "mouth.L",
+    "mouth.R"
+  ],
+  "all_other_clips_unchanged": true,
+  "previous_curated_sha256": "9f219275e0a000ef6fe1fb59cb84bec46853b954bde9e3519928e94ab4e3cb47",
+  "new_curated_sha256": "e1db7b7ea6d4f3b657c8253ebc6330e785e15156fc28f5f741db9543d0f445e4"
+}

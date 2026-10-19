@@ -1,0 +1,141 @@
+{
+  "recorded_utc": "2026-10-04T20:24:24.307003+00:00",
+  "passed": true,
+  "scope": "Requested living-background upgrade across all five maps.",
+  "requirements": [
+    {
+      "requirement": "All five maps have visible setting-specific background activity.",
+      "verified": true,
+      "evidence": [
+        "still_review",
+        "temporal_review",
+        "ambient_movies"
+      ],
+      "observations": {
+        "abyssal_observatory": [
+          "Schools visibly travel across the lower window and behind the middle fighters; they occupy different positions at every timed sample. High has more fish than Low.",
+          "Jellyfish drift and change relative position with trailing filaments, including a cluster behind the center of the stage at 10 seconds. The large dark manta changes its position near the right upper platform.",
+          "Fish and jellies remain behind the fighting planes and architecture. The painted whale remains stationary, so this review accepts moving layers around a retained matte rather than claiming every depicted animal is animated."
+        ],
+        "ember_foundry": [
+          "The side spillway streaks change shape and position across all four samples in High and Low. Molten highlights remain orange and align with the static lava scene.",
+          "High flywheel spokes visibly rotate, while smoke and drifting ember points change position behind the stage. Low reduces machinery/detail while retaining moving spillways and embers.",
+          "No bright central lava curtain covers the fighters; platform edge strips and four fighter silhouettes remain legible."
+        ],
+        "lunar_reach": [
+          "The six-wheel rover travels left from its initial position between the middle fighters; its roof and wheels remain assembled in High and Low.",
+          "The left tracking dish changes aim and spoke orientation between 0 and 10 seconds. Earth surface/cloud detail changes slightly while terrain and stage planes remain stable.",
+          "The muted left-edge dish does not cover central exchanges; stage edges remain identifiable against the dark terrain."
+        ],
+        "rooftop_riot": [
+          "Pool highlights and wave bands visibly change across timed samples in High and Low, while the pool perimeter remains stable.",
+          "A High gull appears above the left upper platform at 2 seconds and has a different position and wing posture at 10 seconds. Guest bodies remain coherent.",
+          "The two Low gulls were not visible in the inspected sky crops at sampled timestamps. Low still retains visible water changes and reduced foliage activity.",
+          "The sky remains coherent in these fixed normal-camera views. Wide-camera rectangle repair is reviewed separately by the standard-view reviewer."
+        ],
+        "verdant_shrine": [
+          "Valley birds appear at different positions across 0/2/5/10-second samples. Mist and localized cascade highlights change in both quality tiers; stone architecture remains anchored.",
+          "The revised near waterfall shows long irregular white ribbons, with subtle downstream detail changes. The former strong repeated chevron/V bands are absent in the inspected original-pixel crops and original PNGs.",
+          "Fighter silhouettes and pale platform boundaries remain readable. The water treatment does not displace cliff edges or bridge architecture."
+        ]
+      }
+    },
+    {
+      "requirement": "Ocean fish visibly swim and the lava arena has visible flowing molten material.",
+      "verified": true,
+      "evidence": [
+        "temporal_review",
+        "ambient_movies"
+      ],
+      "arenas": [
+        "abyssal_observatory",
+        "ember_foundry"
+      ]
+    },
+    {
+      "requirement": "Backgrounds remain coherent and fighters, platforms and recovery paths remain readable.",
+      "verified": true,
+      "evidence": [
+        "still_review"
+      ],
+      "coverage": "25 inspected 1080p High/Low, overlap, recovery and near-ledge fixtures, all five arenas."
+    },
+    {
+      "requirement": "Low retains ambient activity; scene motion pauses and resets correctly.",
+      "verified": true,
+      "evidence": [
+        "temporal_review"
+      ],
+      "coverage": "70 reviewed image/state records, 378 assertions, all ten arena/tier cases; pause pairs are pixel-identical and reset stage snapshots match."
+    },
+    {
+      "requirement": "Existing platform collision, combat behavior, original artwork and preceding release are preserved.",
+      "verified": true,
+      "evidence": [
+        "preservation",
+        "source_gate"
+      ],
+      "coverage": "72 preservation checks, 106 original bitmaps, eight supplied originals, eight curated sources and unchanged preceding platform ZIP; 5097 source assertions."
+    },
+    {
+      "requirement": "Updated Windows build and reproducible editable scene/shader tools are delivered with current validation notes and motion previews.",
+      "verified": true,
+      "evidence": [
+        "delivery",
+        "independent_final_audit",
+        "ambient_movies"
+      ],
+      "coverage": "Matching EXE/PCK and 22 fully decoded archive entries; live editable Godot sources, tools and five 12-second 1600x900/60-FPS ambient clips; Windows UI, executable smoke and full-match checks."
+    },
+    {
+      "requirement": "Performance is measured and material limitations are documented.",
+      "verified": true,
+      "evidence": [
+        "independent_final_audit"
+      ],
+      "coverage": "Ten isolated 60-second 1080p four-CPU High/Low cases at explicit 120 FPS cap, plus two retained repeats. Frame-pacing spikes and the aborted uncapped lost-device run are documented; stable frame pacing or a driver fix is not claimed."
+    }
+  ],
+  "evidence": {
+    "still_review": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\visualreview.json",
+      "bytes": 127551,
+      "sha256": "7A3F74A6DACDF6224EF46D4F80C57F815FE6FB683FC7BD821DA54E885AE9870E"
+    },
+    "temporal_review": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion_acceptance.json",
+      "bytes": 291404,
+      "sha256": "5366E4FE9C1DE4B7826497B1D05B1A5D06423C611E8FFD8DEA88584ADEA811F8"
+    },
+    "ambient_movies": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\movie_receipt.json",
+      "bytes": 153511,
+      "sha256": "D3E777537868DACE81F2A026C2AE972C33A72073B2681BF3E8DD79A337F0CDC3"
+    },
+    "preservation": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\preservation.json",
+      "bytes": 179903,
+      "sha256": "A4B4BFEF0A246250C1FB4F600C53AA4CD6A7C9AC7E9502237F7E46C1E54D7F23"
+    },
+    "source_gate": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\validation_all.json",
+      "bytes": 145168,
+      "sha256": "A98EC2E455BB93BE5CF915B6EAFBCF328685C73426C8B86F3F1B8B1019AA3E36"
+    },
+    "delivery": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\delivery.json",
+      "bytes": 11049,
+      "sha256": "BE5384357B10D6BAA4A1360C920CA1D17504EEDE95857946F55065B0A4B316FE"
+    },
+    "independent_final_audit": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\final_audit.json",
+      "bytes": 8350,
+      "sha256": "FA2C12DE85E132AFC179F5AF1C3B2FF01750A6B31ED30F3944E9A657FB38B4CE"
+    }
+  },
+  "limitations": [
+    "Sampled assistant visual review does not establish continuous human motion/audio acceptance.",
+    "Frame-pacing stalls and the uncapped GPU device-loss crash remain unresolved; this delivery does not claim clean stable 60 FPS.",
+    "Human playtesting, physical controllers, weaker-PC, exported-build performance and current Mobile-renderer performance remain unverified."
+  ]
+}

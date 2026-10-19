@@ -1,0 +1,518 @@
+{
+  "arena": "rooftop_riot",
+  "fighter": "f01_clutch",
+  "fixture_resets": [
+    215,
+    285,
+    370,
+    465,
+    540
+  ],
+  "ticks": 720,
+  "trace": [
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-4.5, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 0
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-4.5, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 10
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-4.5, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 20
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-4.5, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 30
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-4.138333, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 40
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-2.773334, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 50
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-1.407223, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 60
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-1.143334, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 70
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-2.348889, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 80
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-3.680556, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 90
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-3.925, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 100
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-2.907223, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 110
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-1.523889, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 120
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-0.243889, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 130
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(0.101111, 1.467, 0.0)",
+      "state": "air",
+      "tick": 140
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(0.381111, 1.977, 0.0)",
+      "state": "air",
+      "tick": 150
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(1.275555, 1.903666, 0.0)",
+      "state": "air",
+      "tick": 160
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(1.625555, 1.246999, 0.0)",
+      "state": "air",
+      "tick": 170
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(1.625555, 0.006999, 0.0)",
+      "state": "air",
+      "tick": 180
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(1.625555, 0.0, 0.0)",
+      "state": "landing",
+      "tick": 190
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(1.625555, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 200
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(1.625555, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 210
+    },
+    {
+      "move": "",
+      "move_tick": 0,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 220
+    },
+    {
+      "move": "jab1",
+      "move_tick": 0,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 230
+    },
+    {
+      "move": "jab2",
+      "move_tick": 0,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 240
+    },
+    {
+      "move": "jab2",
+      "move_tick": 10,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 250
+    },
+    {
+      "move": "",
+      "move_tick": 20,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 260
+    },
+    {
+      "move": "",
+      "move_tick": 20,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 270
+    },
+    {
+      "move": "",
+      "move_tick": 20,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 280
+    },
+    {
+      "move": "",
+      "move_tick": 20,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 290
+    },
+    {
+      "move": "heavy_side",
+      "move_tick": 0,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "charge",
+      "tick": 300
+    },
+    {
+      "move": "heavy_side",
+      "move_tick": 0,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "charge",
+      "tick": 310
+    },
+    {
+      "move": "heavy_side",
+      "move_tick": 7,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 320
+    },
+    {
+      "move": "heavy_side",
+      "move_tick": 17,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 330
+    },
+    {
+      "move": "heavy_side",
+      "move_tick": 20,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 340
+    },
+    {
+      "move": "heavy_side",
+      "move_tick": 30,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 350
+    },
+    {
+      "move": "heavy_side",
+      "move_tick": 40,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 360
+    },
+    {
+      "move": "",
+      "move_tick": 49,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 370
+    },
+    {
+      "move": "special_neutral",
+      "move_tick": 0,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "charge",
+      "tick": 380
+    },
+    {
+      "move": "special_neutral",
+      "move_tick": 9,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 390
+    },
+    {
+      "move": "special_neutral",
+      "move_tick": 14,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 400
+    },
+    {
+      "move": "special_neutral",
+      "move_tick": 19,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 410
+    },
+    {
+      "move": "special_neutral",
+      "move_tick": 29,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 420
+    },
+    {
+      "move": "special_neutral",
+      "move_tick": 39,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 430
+    },
+    {
+      "move": "",
+      "move_tick": 41,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 440
+    },
+    {
+      "move": "",
+      "move_tick": 41,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "shield",
+      "tick": 450
+    },
+    {
+      "move": "",
+      "move_tick": 41,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 460
+    },
+    {
+      "move": "",
+      "move_tick": 41,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 470
+    },
+    {
+      "move": "grab",
+      "move_tick": 5,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 480
+    },
+    {
+      "move": "throw_down",
+      "move_tick": 4,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 490
+    },
+    {
+      "move": "throw_down",
+      "move_tick": 11,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 500
+    },
+    {
+      "move": "throw_down",
+      "move_tick": 21,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 510
+    },
+    {
+      "move": "",
+      "move_tick": 27,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 520
+    },
+    {
+      "move": "",
+      "move_tick": 27,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 530
+    },
+    {
+      "move": "",
+      "move_tick": 27,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 540
+    },
+    {
+      "move": "ultimate",
+      "move_tick": 0,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 550
+    },
+    {
+      "move": "ultimate",
+      "move_tick": 10,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 560
+    },
+    {
+      "move": "ultimate",
+      "move_tick": 20,
+      "position": "(-0.7, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 570
+    },
+    {
+      "move": "ultimate",
+      "move_tick": 27,
+      "position": "(-0.2, 0.0, 0.0)",
+      "state": "ability_sequence",
+      "tick": 580
+    },
+    {
+      "move": "ultimate",
+      "move_tick": 27,
+      "position": "(-0.2, 0.0, 0.0)",
+      "state": "ability_sequence",
+      "tick": 590
+    },
+    {
+      "move": "ultimate",
+      "move_tick": 27,
+      "position": "(-0.2, 0.0, 0.0)",
+      "state": "ability_sequence",
+      "tick": 600
+    },
+    {
+      "move": "ultimate",
+      "move_tick": 27,
+      "position": "(-0.2, 0.0, 0.0)",
+      "state": "ability_sequence",
+      "tick": 610
+    },
+    {
+      "move": "ultimate",
+      "move_tick": 27,
+      "position": "(-0.2, 0.0, 0.0)",
+      "state": "ability_sequence",
+      "tick": 620
+    },
+    {
+      "move": "ultimate",
+      "move_tick": 67,
+      "position": "(-0.2, 0.0, 0.0)",
+      "state": "attack",
+      "tick": 630
+    },
+    {
+      "move": "",
+      "move_tick": 69,
+      "position": "(-0.2, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 640
+    },
+    {
+      "move": "",
+      "move_tick": 69,
+      "position": "(-0.2, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 650
+    },
+    {
+      "move": "",
+      "move_tick": 69,
+      "position": "(-0.2, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 660
+    },
+    {
+      "move": "",
+      "move_tick": 69,
+      "position": "(-0.2, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 670
+    },
+    {
+      "move": "",
+      "move_tick": 69,
+      "position": "(-0.2, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 680
+    },
+    {
+      "move": "",
+      "move_tick": 69,
+      "position": "(-0.2, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 690
+    },
+    {
+      "move": "",
+      "move_tick": 69,
+      "position": "(-0.2, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 700
+    },
+    {
+      "move": "",
+      "move_tick": 69,
+      "position": "(-0.2, 0.0, 0.0)",
+      "state": "idle",
+      "tick": 710
+    }
+  ]
+}

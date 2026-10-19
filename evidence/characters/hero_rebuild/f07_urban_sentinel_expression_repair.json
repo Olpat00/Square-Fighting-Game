@@ -1,0 +1,13 @@
+{
+  "fighter": "f07_urban_sentinel",
+  "changed_clips": [
+    "win"
+  ],
+  "changed_bones": [
+    "mouth.L",
+    "mouth.R"
+  ],
+  "all_other_clips_unchanged": true,
+  "previous_curated_sha256": "e466ec015456b6e6375c6f6de03e532a0055c3708cb7718d56cf0acb19ed96e9",
+  "new_curated_sha256": "2a3a32cd8e79ba2c3bc663c25d20ce30a2c1c496a7ce430d8d49565a8c866cbf"
+}

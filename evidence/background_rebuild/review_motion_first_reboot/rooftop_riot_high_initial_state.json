@@ -1,0 +1,3808 @@
+{
+  "clocks": {
+    "@MeshInstance3D@12/surface0/blue_hour": {
+      "name": "blue_hour",
+      "shader": "res://stages/rooftop_riot/sunset.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "@MeshInstance3D@12/surface0/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/sunset.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "owned/quality_materials/0/blue_hour": {
+      "name": "blue_hour",
+      "shader": "res://stages/rooftop_riot/sunset.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/0/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/sunset.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/1/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/hotel_windows.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/4/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/5/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/6/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/pool_water.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/rooftop_clock_materials/0/blue_hour": {
+      "name": "blue_hour",
+      "shader": "res://stages/rooftop_riot/sunset.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/rooftop_clock_materials/0/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/sunset.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/rooftop_clock_materials/1/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/pool_water.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/rooftop_clock_materials/2/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/hotel_windows.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/rooftop_clock_materials/3/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/rooftop_clock_materials/4/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/scene_materials/0/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/hotel_windows.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/scene_materials/12/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/scene_materials/13/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/sunset_material/blue_hour": {
+      "name": "blue_hour",
+      "shader": "res://stages/rooftop_riot/sunset.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/sunset_material/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/sunset.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/water_material/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/pool_water.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "stage/Water__Water/surface0/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/pool_water.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "stage/architecture__Hotel_001/surface0/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/hotel_windows.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "stage/planting__Foliage/surface0/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "stage/planting__Foliage_001/surface0/scenery_time": {
+      "name": "scenery_time",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "value": 0.0,
+      "visible": true
+    }
+  },
+  "collision_probes": [
+    {
+      "landed": true,
+      "name": "fall_0",
+      "platform": 0,
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "support_0",
+      "platform": 0,
+      "position": [
+        0.100000001490116,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "ignore_0",
+      "platform": -1,
+      "position": [
+        0.0,
+        -0.349999994039536,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "fall_1",
+      "platform": 1,
+      "position": [
+        -5.0,
+        3.59999990463257,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "support_1",
+      "platform": 1,
+      "position": [
+        -4.90000009536743,
+        3.59999990463257,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "ignore_1",
+      "platform": -1,
+      "position": [
+        -5.0,
+        3.25,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "fall_2",
+      "platform": 2,
+      "position": [
+        5.0,
+        3.59999990463257,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "support_2",
+      "platform": 2,
+      "position": [
+        5.09999990463257,
+        3.59999990463257,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "ignore_2",
+      "platform": -1,
+      "position": [
+        5.0,
+        3.25,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "fall_3",
+      "platform": 3,
+      "position": [
+        0.0,
+        5.5,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "support_3",
+      "platform": 3,
+      "position": [
+        0.100000001490116,
+        5.5,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "ignore_3",
+      "platform": -1,
+      "position": [
+        0.0,
+        5.15000009536743,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "swept_side_-1",
+      "platform": -1,
+      "position": [
+        -9.25,
+        -0.400000005960464,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "swept_side_1",
+      "platform": -1,
+      "position": [
+        9.25,
+        -0.400000005960464,
+        0.0
+      ]
+    }
+  ],
+  "engine_time_shaders": [],
+  "environment": {
+    "fog": true,
+    "fog_density": 0.00120000005699694,
+    "glow": true,
+    "ssao": true,
+    "ssil": true,
+    "ssr": true
+  },
+  "materials": {
+    "@MeshInstance3D@12/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/sunset.gdshader",
+      "uniforms": {
+        "blue_hour": 0.0,
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": true
+    },
+    "@MeshInstance3D@208/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/pyro_warning.gdshader",
+      "uniforms": {},
+      "visible": false
+    },
+    "@MeshInstance3D@209/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/pyro_flame.gdshader",
+      "uniforms": {},
+      "visible": false
+    },
+    "@MeshInstance3D@210/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/pyro_warning.gdshader",
+      "uniforms": {},
+      "visible": false
+    },
+    "@MeshInstance3D@211/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/pyro_flame.gdshader",
+      "uniforms": {},
+      "visible": false
+    },
+    "@Node3D@198/@MeshInstance3D@199/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@Node3D@201/@MeshInstance3D@202/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@Node3D@204/@MeshInstance3D@205/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@Node3D@207/Party chair__brass/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@Node3D@207/Party chair__linen/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@Node3D@207/Party chair__wood/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "CraftedResortLift/@MeshInstance3D@169/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "CraftedResortLift/@MeshInstance3D@170/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/platform_timber.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "CraftedResortLift/@MeshInstance3D@171/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "CraftedResortLift/@MeshInstance3D@172/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "CraftedResortLift/CraftedPlatformSurface/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "CraftedResortTerrace0/@MeshInstance3D@81/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "CraftedResortTerrace0/@MeshInstance3D@82/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/platform_timber.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "CraftedResortTerrace0/@MeshInstance3D@83/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "CraftedResortTerrace0/@MeshInstance3D@84/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "CraftedResortTerrace0/CraftedPlatformSurface/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "CraftedResortTerrace1/@MeshInstance3D@127/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "CraftedResortTerrace1/@MeshInstance3D@128/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/platform_timber.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "CraftedResortTerrace1/@MeshInstance3D@129/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "CraftedResortTerrace1/@MeshInstance3D@130/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "CraftedResortTerrace1/CraftedPlatformSurface/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "HonedResortFascia/@MeshInstance3D@197/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "HonedResortFascia/CraftedPlatformSurface/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull0/@MeshInstance3D@14/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull0/@Node3D@15/@MeshInstance3D@16/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull0/@Node3D@17/@MeshInstance3D@18/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull1/@MeshInstance3D@19/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull1/@Node3D@20/@MeshInstance3D@21/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull1/@Node3D@22/@MeshInstance3D@23/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull2/@MeshInstance3D@24/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull2/@Node3D@25/@MeshInstance3D@26/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull2/@Node3D@27/@MeshInstance3D@28/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull3/@MeshInstance3D@29/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull3/@Node3D@30/@MeshInstance3D@31/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull3/@Node3D@32/@MeshInstance3D@33/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull4/@MeshInstance3D@34/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull4/@Node3D@35/@MeshInstance3D@36/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "SkylineGulls/DistantGull4/@Node3D@37/@MeshInstance3D@38/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "owned/quality_materials/0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/sunset.gdshader",
+      "uniforms": {
+        "blue_hour": 0.0,
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/1": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/hotel_windows.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/2": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/platform_timber.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/quality_materials/3": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/platform_timber.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/quality_materials/4": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/5": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/6": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/pool_water.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/7": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/platform_timber.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/reactive_materials/0/material": {
+      "class": "StandardMaterial3D",
+      "emission": "(1.0, 0.8172, 0.5838, 1.0)",
+      "emission_energy": 2.25,
+      "visible": false
+    },
+    "owned/reactive_materials/1/material": {
+      "class": "StandardMaterial3D",
+      "emission": "(1.0, 0.9099, 0.7393, 1.0)",
+      "emission_energy": 1.0789999961853,
+      "visible": false
+    },
+    "owned/rooftop_clock_materials/0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/sunset.gdshader",
+      "uniforms": {
+        "blue_hour": 0.0,
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/rooftop_clock_materials/1": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/pool_water.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/rooftop_clock_materials/2": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/hotel_windows.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/rooftop_clock_materials/3": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/rooftop_clock_materials/4": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/scene_materials/0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/hotel_windows.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/scene_materials/1": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/platform_timber.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/scene_materials/10": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/scene_materials/11": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/scene_materials/12": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/scene_materials/13": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/scene_materials/14": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.8353, 0.6784, 0.4471, 1.0)",
+      "emission_energy": 0.649999976158142,
+      "visible": false
+    },
+    "owned/scene_materials/2": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/platform_timber.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/scene_materials/3": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/scene_materials/4": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/scene_materials/5": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/scene_materials/6": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/scene_materials/7": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/scene_materials/8": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/scene_materials/9": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/sunset_material": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/sunset.gdshader",
+      "uniforms": {
+        "blue_hour": 0.0,
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/water_material": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/pool_water.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": false
+    },
+    "party_chair/Party chair__brass/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "party_chair/Party chair__linen/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "party_chair/Party chair__wood/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/Crowd__Graphite/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/Crowd__Guests/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/Crowd__Guests_001/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/Crowd__Guests_002/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/Crowd__Guests_003/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/Crowd__Guests_004/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/Crowd__Linen/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/ReactionGlow__Lighting/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(1.0, 0.8172, 0.5838, 1.0)",
+      "emission_energy": 2.25,
+      "visible": true
+    },
+    "stage/ReactionGlow__Lighting_001/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(1.0, 0.9099, 0.7393, 1.0)",
+      "emission_energy": 1.0789999961853,
+      "visible": true
+    },
+    "stage/Vents__Brass/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/Vents__Graphite/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/WaterDetail__Pool/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/Water__Water/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/pool_water.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": true
+    },
+    "stage/architecture__Brass/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/architecture__Glass/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/architecture__Graphite/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/architecture__Hospitality/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/architecture__Hospitality_001/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/architecture__Hospitality_002/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/architecture__Hotel/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/architecture__Hotel_001/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/hotel_windows.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": true
+    },
+    "stage/architecture__Hotel_002/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/architecture__Linen/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/architecture__Pool/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/architecture__Slate/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/architecture__Teak/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/platform_timber.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "stage/architecture__Teak_001/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/platform_timber.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "stage/architecture__Travertine/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/balustrade__Glass/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/fixed_platforms__Brass/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "stage/fixed_platforms__Graphite/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "stage/fixed_platforms__Lighting/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(1.0, 0.8172, 0.5838, 1.0)",
+      "emission_energy": 2.25,
+      "visible": false
+    },
+    "stage/fixed_platforms__Slate/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "stage/fixed_platforms__Teak/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "stage/furniture__Brass/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/furniture__Glass/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/furniture__Graphite/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/furniture__Linen/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/furniture__Teak/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/furniture__Travertine/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/planting__Foliage/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": true
+    },
+    "stage/planting__Foliage_001/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/rooftop_riot/terrace_foliage.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scenery_time": 0.0
+      },
+      "visible": true
+    },
+    "stage/planting__Palm/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/planting__Planter/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/planting__Travertine/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/signage__Brass/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.8353, 0.6784, 0.4471, 1.0)",
+      "emission_energy": 0.649999976158142,
+      "visible": true
+    },
+    "stage/signage__Lighting/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.8174, 1.0, 0.9553, 1.0)",
+      "emission_energy": 1.06499993801117,
+      "visible": true
+    },
+    "stage/signage__Linen/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "stage/signage__Slate/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    }
+  },
+  "nodes": {
+    ".": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@DirectionalLight3D@5": {
+      "light": {
+        "color": "(0.749, 0.8549, 0.9294, 1.0)",
+        "energy": 1.39999997615814,
+        "shadow": false
+      },
+      "transform": [
+        0.882947564125061,
+        0.0,
+        0.469471573829651,
+        0.24878203868866,
+        0.848048090934753,
+        -0.467890918254852,
+        -0.398134469985962,
+        0.529919266700745,
+        0.748781979084015,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@DirectionalLight3D@6": {
+      "light": {
+        "color": "(1.0, 0.8157, 0.6275, 1.0)",
+        "energy": 1.10000002384186,
+        "shadow": false
+      },
+      "transform": [
+        -0.70710676908493,
+        0.0,
+        0.70710676908493,
+        0.147015765309334,
+        0.978147625923157,
+        0.147015765309334,
+        -0.691654801368713,
+        0.2079117000103,
+        -0.691654801368713,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@12": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.956304788589478,
+        -0.292371690273285,
+        0.0,
+        0.292371690273285,
+        0.956304788589478,
+        0.0,
+        -27.9269828796387,
+        -92.3196258544922
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@208": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0000000437113882867379,
+        -1.0,
+        0.0,
+        1.0,
+        -0.0000000437113882867379,
+        -8.0,
+        0.0350000001490116,
+        0.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "@MeshInstance3D@209": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -8.0,
+        1.08500003814697,
+        0.0599999986588955
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "@MeshInstance3D@210": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0000000437113882867379,
+        -1.0,
+        0.0,
+        1.0,
+        -0.0000000437113882867379,
+        8.0,
+        0.0350000001490116,
+        0.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "@MeshInstance3D@211": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        8.0,
+        1.08500003814697,
+        0.0599999986588955
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "@Node3D@198": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -7.09999990463257,
+        0.200000002980232,
+        -2.20000004768372
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@198/@Label3D@200": {
+      "shadow": 0,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0399999991059303
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@198/@MeshInstance3D@199": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@201": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.200000002980232,
+        -2.20000004768372
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@201/@Label3D@203": {
+      "shadow": 0,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0399999991059303
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@201/@MeshInstance3D@202": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@204": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        7.09999990463257,
+        0.200000002980232,
+        -2.20000004768372
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@204/@Label3D@206": {
+      "shadow": 0,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0399999991059303
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@204/@MeshInstance3D@205": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@207": {
+      "transform": [
+        0.819152057170868,
+        0.0,
+        -0.5735764503479,
+        0.0,
+        1.0,
+        0.0,
+        0.5735764503479,
+        0.0,
+        0.819152057170868,
+        3.54999995231628,
+        0.0,
+        -1.20000004768372
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@207/Party chair__brass": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@207/Party chair__linen": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@207/Party chair__wood": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@OmniLight3D@10": {
+      "light": {
+        "color": "(1.0, 0.7608, 0.4902, 1.0)",
+        "energy": 2.0,
+        "shadow": false
+      },
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        5.59999990463257,
+        1.85000002384186,
+        -8.30000019073486
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@OmniLight3D@11": {
+      "light": {
+        "color": "(1.0, 0.7608, 0.4902, 1.0)",
+        "energy": 2.0,
+        "shadow": false
+      },
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        8.80000019073486,
+        1.85000002384186,
+        -8.30000019073486
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@OmniLight3D@7": {
+      "light": {
+        "color": "(1.0, 0.7882, 0.5255, 1.0)",
+        "energy": 2.0,
+        "shadow": false
+      },
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -8.0,
+        1.20000004768372,
+        -4.5
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@OmniLight3D@8": {
+      "light": {
+        "color": "(1.0, 0.7882, 0.5255, 1.0)",
+        "energy": 2.0,
+        "shadow": false
+      },
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        8.0,
+        1.20000004768372,
+        -4.5
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@OmniLight3D@9": {
+      "light": {
+        "color": "(0.2588, 0.6824, 0.7098, 1.0)",
+        "energy": 2.0,
+        "shadow": false
+      },
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -1.70000004768372,
+        0.400000005960464,
+        -5.80000019073486
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortLift": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        5.5,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortLift/@MeshInstance3D@169": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortLift/@MeshInstance3D@170": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortLift/@MeshInstance3D@171": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortLift/@MeshInstance3D@172": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortLift/CraftedPlatformSurface": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortTerrace0": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -5.0,
+        3.59999990463257,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortTerrace0/@MeshInstance3D@81": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortTerrace0/@MeshInstance3D@82": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortTerrace0/@MeshInstance3D@83": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortTerrace0/@MeshInstance3D@84": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortTerrace0/CraftedPlatformSurface": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortTerrace1": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        5.0,
+        3.59999990463257,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortTerrace1/@MeshInstance3D@127": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortTerrace1/@MeshInstance3D@128": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortTerrace1/@MeshInstance3D@129": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortTerrace1/@MeshInstance3D@130": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CraftedResortTerrace1/CraftedPlatformSurface": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "HonedResortFascia": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "HonedResortFascia/@MeshInstance3D@197": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "HonedResortFascia/CraftedPlatformSurface": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull0": {
+      "transform": [
+        -1.0,
+        0.0,
+        0.0000000874227765734759,
+        0.0,
+        1.0,
+        0.0,
+        -0.0000000874227765734759,
+        0.0,
+        -1.0,
+        0.0,
+        -2.83804512023926,
+        -27.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull0/@MeshInstance3D@14": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull0/@Node3D@15": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull0/@Node3D@15/@MeshInstance3D@16": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull0/@Node3D@17": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull0/@Node3D@17/@MeshInstance3D@18": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull1": {
+      "transform": [
+        -0.997082352638245,
+        -0.0763337388634682,
+        0.0000000871677059421927,
+        -0.0763337388634682,
+        0.997082352638245,
+        0.00000000667330724013482,
+        -0.0000000874227765734759,
+        0.0,
+        -1.0,
+        -23.8775215148926,
+        -3.54716086387634,
+        -29.7999992370605
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull1/@MeshInstance3D@19": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull1/@Node3D@20": {
+      "transform": [
+        0.947735548019409,
+        -0.319056987762451,
+        0.0,
+        0.319056987762451,
+        0.947735548019409,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull1/@Node3D@20/@MeshInstance3D@21": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull1/@Node3D@22": {
+      "transform": [
+        0.947735548019409,
+        0.319056987762451,
+        0.0,
+        -0.319056987762451,
+        0.947735548019409,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull1/@Node3D@22/@MeshInstance3D@23": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull2": {
+      "transform": [
+        0.998975217342377,
+        -0.0452610328793526,
+        0.0,
+        0.0452610328793526,
+        0.998975217342377,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -14.1489057540894,
+        -4.39684295654297,
+        -32.5999984741211
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull2/@MeshInstance3D@24": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull2/@Node3D@25": {
+      "transform": [
+        0.981543362140656,
+        -0.191239818930626,
+        0.0,
+        0.191239818930626,
+        0.981543362140656,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull2/@Node3D@25/@MeshInstance3D@26": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull2/@Node3D@27": {
+      "transform": [
+        0.981543362140656,
+        0.191239818930626,
+        0.0,
+        -0.191239818930626,
+        0.981543362140656,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull2/@Node3D@27/@MeshInstance3D@28": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull3": {
+      "transform": [
+        0.998771190643311,
+        0.0495586358010769,
+        0.0,
+        -0.0495586358010769,
+        0.998771190643311,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        15.4934215545654,
+        -5.32981967926025,
+        -35.4000015258789
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull3/@MeshInstance3D@29": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull3/@Node3D@30": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull3/@Node3D@30/@MeshInstance3D@31": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull3/@Node3D@32": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull3/@Node3D@32/@MeshInstance3D@33": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull4": {
+      "transform": [
+        -0.997214615345001,
+        0.0745857581496239,
+        0.0000000871792735779309,
+        0.0745857581496239,
+        0.997214615345001,
+        -0.00000000652049392257936,
+        -0.0000000874227765734759,
+        0.0,
+        -1.0,
+        23.3297138214111,
+        -6.17158699035645,
+        -38.2000007629395
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull4/@MeshInstance3D@34": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull4/@Node3D@35": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull4/@Node3D@35/@MeshInstance3D@36": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull4/@Node3D@37": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SkylineGulls/DistantGull4/@Node3D@37/@MeshInstance3D@38": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "SunKey": {
+      "light": {
+        "color": "(1.0, 0.8235, 0.6392, 1.0)",
+        "energy": 2.45000004768372,
+        "shadow": true
+      },
+      "transform": [
+        -0.819152057170868,
+        0.0,
+        -0.5735764503479,
+        -0.233294561505318,
+        0.913545429706573,
+        0.333179146051407,
+        0.523988127708435,
+        0.406736642122269,
+        -0.748332619667053,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "party_chair": {
+      "transform": [
+        0.819152057170868,
+        0.0,
+        0.5735764503479,
+        0.0,
+        1.0,
+        0.0,
+        -0.5735764503479,
+        0.0,
+        0.819152057170868,
+        -3.54999995231628,
+        0.0,
+        -1.20000004768372
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "party_chair/Party chair__brass": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "party_chair/Party chair__linen": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "party_chair/Party chair__wood": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/Crowd__Graphite": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/Crowd__Guests": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/Crowd__Guests_001": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/Crowd__Guests_002": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/Crowd__Guests_003": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/Crowd__Guests_004": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/Crowd__Linen": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/ReactionGlow__Lighting": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/ReactionGlow__Lighting_001": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/Vents__Brass": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/Vents__Graphite": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/WaterDetail__Pool": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/Water__Water": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Brass": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Glass": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Graphite": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Hospitality": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Hospitality_001": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Hospitality_002": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Hotel": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Hotel_001": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Hotel_002": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Linen": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Pool": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Slate": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Teak": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Teak_001": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/architecture__Travertine": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/balustrade__Glass": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/fixed_platforms__Brass": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "stage/fixed_platforms__Graphite": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "stage/fixed_platforms__Lighting": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "stage/fixed_platforms__Slate": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "stage/fixed_platforms__Teak": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "stage/furniture__Brass": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/furniture__Glass": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/furniture__Graphite": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/furniture__Linen": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/furniture__Teak": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/furniture__Travertine": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/planting__Foliage": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/planting__Foliage_001": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/planting__Palm": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/planting__Planter": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/planting__Travertine": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/signage__Brass": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/signage__Lighting": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/signage__Linen": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "stage/signage__Slate": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    }
+  },
+  "platforms": [
+    {
+      "id": 0,
+      "previous_y": 0.0,
+      "width": 18.0,
+      "x": 0.0,
+      "y": 0.0
+    },
+    {
+      "id": 1,
+      "previous_y": 3.6,
+      "width": 4.5,
+      "x": -5.0,
+      "y": 3.6
+    },
+    {
+      "id": 2,
+      "previous_y": 3.6,
+      "width": 4.5,
+      "x": 5.0,
+      "y": 3.6
+    },
+    {
+      "id": 3,
+      "previous_y": 5.5,
+      "width": 3.5,
+      "x": 0.0,
+      "y": 5.5
+    }
+  ],
+  "quality": "High",
+  "stage_tick": 0
+}

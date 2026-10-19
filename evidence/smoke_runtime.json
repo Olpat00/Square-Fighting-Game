@@ -1,0 +1,97 @@
+{
+  "connected_controllers": [],
+  "contacts": 51,
+  "engine": "4.7.2-stable (official)",
+  "fighters": [
+    {
+      "damage": 0.0,
+      "id": "f06_rugged_explorer",
+      "position": "(1.38967, 0.0, 0.0)",
+      "state": "attack",
+      "stocks": 2
+    },
+    {
+      "damage": 68.2558,
+      "id": "f07_urban_sentinel",
+      "position": "(-0.712978, 0.55573, 0.0)",
+      "state": "hitstun",
+      "stocks": 3
+    },
+    {
+      "damage": 91.02,
+      "id": "f08_midnight_gentleman",
+      "position": "(8.455706, -8.111972, 0.0)",
+      "state": "ko",
+      "stocks": 2
+    },
+    {
+      "damage": 55.292,
+      "id": "f01_clutch",
+      "position": "(8.030837, 0.0, 0.0)",
+      "state": "dodge",
+      "stocks": 3
+    }
+  ],
+  "frame_spikes": [],
+  "frames_over_16_667ms": 0,
+  "gpu": "",
+  "kos": [
+    {
+      "assists": [
+        1,
+        2,
+        3
+      ],
+      "credited": 2,
+      "tick": 957,
+      "victim": 0
+    },
+    {
+      "assists": [
+        1,
+        0,
+        3
+      ],
+      "credited": 1,
+      "tick": 1103,
+      "victim": 2
+    }
+  ],
+  "logical_viewport": "(1600.0, 1600.0)",
+  "mean_frame_ms": 0.0,
+  "memory_static": 324930409.0,
+  "nodes": 280.0,
+  "objects": 0,
+  "p95_frame_ms": 0,
+  "p99_frame_ms": 0,
+  "peak_draw_calls": 0.0,
+  "peak_primitives": 0.0,
+  "peak_video_memory_bytes": 0.0,
+  "profile_mode": false,
+  "render_frames": 2878,
+  "render_texture_pixels": "(3.0, 3.0)",
+  "renderer": "forward_plus",
+  "sample_clock": "Time.get_ticks_usec between process callbacks; unsmoothed wall time",
+  "sample_count": 0,
+  "sample_sum_ms": 0.0,
+  "sample_window_ms": 0.0,
+  "settings": {
+    "blood": true,
+    "effects": 0.85,
+    "flashes": 0.45,
+    "fullscreen": false,
+    "graphics": "High",
+    "master": 0.8,
+    "music": 0.36,
+    "profanity": false,
+    "resolution": "1920x1080",
+    "rumble": 0.5,
+    "shake": 0.5,
+    "ui_scale": 1.0
+  },
+  "ticks": 1200,
+  "wall_seconds": 1.248,
+  "warmup_seconds": 2,
+  "window_pixels": "(0, 0)",
+  "worst_frame_ms": 0
+}

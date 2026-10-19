@@ -1,0 +1,15 @@
+{
+  "source": "https://github.com/godotengine/godot/releases/download/4.7.2-stable/Godot_v4.7.2-stable_export_templates.tpz",
+  "files": [
+    {
+      "file": "tools\\runtime\\godot-4.7.2\\windows_debug_x86_64.exe",
+      "bytes": 103176704,
+      "sha256": "51498b72b3a237f882ebd7d1787f06a4bc1eaf0572daab93837adcfd3cfdc107"
+    },
+    {
+      "file": "tools\\runtime\\godot-4.7.2\\windows_release_x86_64.exe",
+      "bytes": 109268480,
+      "sha256": "d34d36f3be1a6c49c56525ae86469b92e4f417ddf0b43cf00dd80c385c4b0562"
+    }
+  ]
+}

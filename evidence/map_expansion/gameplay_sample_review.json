@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "reviewed_at_utc": "2026-10-03T22:55:20.863221+00:00",
+  "reviewer": "Codex assistant /root/ember_foundry",
+  "review_type": "subjective visual inspection of exact sampled frames",
+  "scope": "Twelve raw decoded frames at 2, 6, 10, and 14 seconds from three saved continuous four-CPU gameplay movies. Every listed frame was visually inspected. This is sampled-frame inspection, not viewing complete motion, human playtesting, or acceptance of the full build.",
+  "result": "PASS_WITH_NONBLOCKING_OBSERVATIONS",
+  "passed": true,
+  "blocking_findings": [],
+  "limitations": [
+    "No claim of temporal animation smoothness, camera interpolation, hit timing, audio quality, or full-sequence visual correctness.",
+    "Sparse samples show movement, strike poses, overlaps, recovery, and one clear shield effect; they do not cover every attack, ultimate, launch, hazard warning, or particle burst.",
+    "All source movies and extracted frames are 1600x900 at 60 fps; this review is not 1080p performance evidence.",
+    "Human playtesting, physical-controller testing, weaker-PC performance, and final Windows package graphical validation remain unverified.",
+    "The GPU was unavailable during this review; extraction used software decoding only and no engine was launched."
+  ],
+  "extraction": {
+    "tool": "FFmpeg 7.1, imageio_ffmpeg bundled Windows executable",
+    "executable": "C:/Users/dayw9/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/Lib/site-packages/imageio_ffmpeg/binaries/ffmpeg-win-x86_64-v7.1.exe",
+    "hardware_acceleration": "none",
+    "source_frame_indices_zero_based": [
+      120,
+      360,
+      600,
+      840
+    ],
+    "filter": "select='eq(n,120)+eq(n,360)+eq(n,600)+eq(n,840)',showinfo",
+    "output": "Raw decoded PNG, no cropping, resizing, annotations, or retouching",
+    "overwrite_enabled": false,
+    "source_videos_preserved": true
+  },
+  "nonblocking_observations": [
+    {
+      "arena": "verdant_shrine",
+      "time_seconds": 14,
+      "finding": "A foreground leaf cluster meets Sentinel lower leg/foot at the far-right recovery position; the torso and player label remain visible."
+    },
+    {
+      "arena": "ember_foundry",
+      "time_seconds": 6,
+      "finding": "Four-player overlap below a side platform merges bodies; labels remain distinguishable, but this still cannot resolve every individual attack pose."
+    },
+    {
+      "arena": "ember_foundry",
+      "time_seconds": 10,
+      "finding": "The high P4 label is visible but has modest contrast against the dark tower."
+    }
+  ],
+  "arenas": [
+    {
+      "arena": "verdant_shrine",
+      "source_video": "evidence/map_expansion/brawl/verdant_shrine/brawl.mp4",
+      "source_video_sha256": "4EE4D0E93918F46345C55A607BE3A95E148B26EB55E4B3D0FD585C79952C53BA",
+      "source_video_bytes": 9625508,
+      "source_video_matches_capture_receipt": true,
+      "capture_receipt": "evidence/map_expansion/brawl/verdant_shrine/capture_validation.json",
+      "width": 1600,
+      "height": 900,
+      "fps": 60,
+      "extraction_log": "evidence/map_expansion/gameplay_samples/verdant_shrine/extraction.log",
+      "extraction_log_sha256": "CEC3F756EAFD8A4D172AF223A4338EC982B91E9C992E3A07AF3AFAB78C324B6B",
+      "passed_for_sampled_frame_scope": true,
+      "frames": [
+        {
+          "path": "evidence/map_expansion/gameplay_samples/verdant_shrine/frame_01.png",
+          "sha256": "9979C2217A4E5E8941D3A7CDEA6FE2F4F6163426CB206AE329F92FC12DFABE45",
+          "bytes": 2845705,
+          "width": 1600,
+          "height": 900,
+          "requested_time_seconds": 2,
+          "verified_pts_time_seconds": 2.0,
+          "source_frame_index_zero_based": 120,
+          "visually_inspected": true,
+          "blocking_issue_observed": false,
+          "findings": [
+            "All four player labels remain on screen; central melee bodies overlap while Clutch is visible beyond the right deck edge.",
+            "Pale platform tops and the right recovery edge remain distinct against the rainforest vista."
+          ]
+        },
+        {
+          "path": "evidence/map_expansion/gameplay_samples/verdant_shrine/frame_02.png",
+          "sha256": "FE3E0C5DCD419E84BB2822DF436BB67A30729D2868378DBC6498C98B5BD4B25A",
+          "bytes": 2864602,
+          "width": 1600,
+          "height": 900,
+          "requested_time_seconds": 6,
+          "verified_pts_time_seconds": 6.0,
+          "source_frame_index_zero_based": 360,
+          "visually_inspected": true,
+          "blocking_issue_observed": false,
+          "findings": [
+            "Four fighters are separated across the deck in movement or attack poses; labels and footing are readable.",
+            "No missing texture, broken surface, or scenery obstruction is apparent."
+          ]
+        },
+        {
+          "path": "evidence/map_expansion/gameplay_samples/verdant_shrine/frame_03.png",
+          "sha256": "C3B2697AA7FCD39421503DCBBABDD48A347B41452617C24F62B62F8A1E86D75A",
+          "bytes": 2884239,
+          "width": 1600,
+          "height": 900,
+          "requested_time_seconds": 10,
+          "verified_pts_time_seconds": 10.0,
+          "source_frame_index_zero_based": 600,
+          "visually_inspected": true,
+          "blocking_issue_observed": false,
+          "findings": [
+            "Grounded fighters on the left and airborne fighters on the right remain framed together.",
+            "The high airborne fighter and side-platform edges are visible against the distant scenery."
+          ]
+        },
+        {
+          "path": "evidence/map_expansion/gameplay_samples/verdant_shrine/frame_04.png",
+          "sha256": "476A8C7353BD417D6508C1FD9385631B6F3BD907E94B96013042D13427492A89",
+          "bytes": 2975711,
+          "width": 1600,
+          "height": 900,
+          "requested_time_seconds": 14,
+          "verified_pts_time_seconds": 14.0,
+          "source_frame_index_zero_based": 840,
+          "visually_inspected": true,
+          "blocking_issue_observed": false,
+          "findings": [
+            "Three fighters are airborne around the right platforms while Urban Sentinel is low beyond the right deck edge.",
+            "Sentinel torso and label remain readable, but the lower leg/foot area meets a foreground leaf cluster at the far-right recovery position.",
+            "A fighter passing through a one-way platform is partly occluded by that platform; the label remains visible."
+          ]
+        }
+      ]
+    },
+    {
+      "arena": "abyssal_observatory",
+      "source_video": "evidence/map_expansion/brawl/abyssal_observatory/brawl.mp4",
+      "source_video_sha256": "9FE195FBA17AAE30C6EF0625B8400B96EB0EE973FF2BD80AA6C35842AA67AFCC",
+      "source_video_bytes": 18357116,
+      "source_video_matches_capture_receipt": true,
+      "capture_receipt": "evidence/map_expansion/brawl/abyssal_observatory/capture_validation.json",
+      "width": 1600,
+      "height": 900,
+      "fps": 60,
+      "extraction_log": "evidence/map_expansion/gameplay_samples/abyssal_observatory/extraction.log",
+      "extraction_log_sha256": "70A692D94F981A548CF5FC63448CE7FCEC57D4DC493117DBD844A1E6C3C88261",
+      "passed_for_sampled_frame_scope": true,
+      "frames": [
+        {
+          "path": "evidence/map_expansion/gameplay_samples/abyssal_observatory/frame_01.png",
+          "sha256": "C47B2A6BBC5335852BECF32AB13587CB9171133245E92B95BBD1E89BE584CD78",
+          "bytes": 2263697,
+          "width": 1600,
+          "height": 900,
+          "requested_time_seconds": 2,
+          "verified_pts_time_seconds": 2.0,
+          "source_frame_index_zero_based": 120,
+          "visually_inspected": true,
+          "blocking_issue_observed": false,
+          "findings": [
+            "Clutch is visible recovering beyond the right column; the central overlapping pair retain separate labels.",
+            "The deck edge and recovery space remain readable without opaque marine scenery crossing the fighter."
+          ]
+        },
+        {
+          "path": "evidence/map_expansion/gameplay_samples/abyssal_observatory/frame_02.png",
+          "sha256": "855BA8CC520BA90A9DB5E56EDEF65BBC72710DF27C7BEB7A4D49776C46CDCF4F",
+          "bytes": 2286586,
+          "width": 1600,
+          "height": 900,
+          "requested_time_seconds": 6,
+          "verified_pts_time_seconds": 6.0,
+          "source_frame_index_zero_based": 360,
+          "visually_inspected": true,
+          "blocking_issue_observed": false,
+          "findings": [
+            "Close central combat produces some silhouette overlap, with visible separate labels and Clutch farther right.",
+            "Fish and jellyfish remain subordinate to the fighters; platform tops are clear."
+          ]
+        },
+        {
+          "path": "evidence/map_expansion/gameplay_samples/abyssal_observatory/frame_03.png",
+          "sha256": "BF59B7D443DB5DC091CD1F46DD0D133A139BBEF8121FA07755DD9DF876661015",
+          "bytes": 2186447,
+          "width": 1600,
+          "height": 900,
+          "requested_time_seconds": 10,
+          "verified_pts_time_seconds": 10.0,
+          "source_frame_index_zero_based": 600,
+          "visually_inspected": true,
+          "blocking_issue_observed": false,
+          "findings": [
+            "All four fighters are spaced across the deck in combat stances with readable labels.",
+            "The ivory deck and bronze trim remain distinct against blue water; no obvious broken surface or texture is visible."
+          ]
+        },
+        {
+          "path": "evidence/map_expansion/gameplay_samples/abyssal_observatory/frame_04.png",
+          "sha256": "A5EC4C199C57ADF417427E386A91ADC838658B599CB7FABE2658B95ADBFEE47B",
+          "bytes": 2478805,
+          "width": 1600,
+          "height": 900,
+          "requested_time_seconds": 14,
+          "verified_pts_time_seconds": 14.0,
+          "source_frame_index_zero_based": 840,
+          "visually_inspected": true,
+          "blocking_issue_observed": false,
+          "findings": [
+            "Three airborne fighters and one grounded fighter remain on screen with labels.",
+            "An architectural arch is behind airborne Clutch without concealing the body; no obvious clipping or surface corruption is visible."
+          ]
+        }
+      ]
+    },
+    {
+      "arena": "ember_foundry",
+      "source_video": "evidence/map_expansion/brawl/ember_foundry/brawl.mp4",
+      "source_video_sha256": "3B4E10A98F5C7CA379363DBB01D01380AC07B958EB910D81B8DB47BEC7B76196",
+      "source_video_bytes": 13831842,
+      "source_video_matches_capture_receipt": true,
+      "capture_receipt": "evidence/map_expansion/brawl/ember_foundry/capture_validation.json",
+      "width": 1600,
+      "height": 900,
+      "fps": 60,
+      "extraction_log": "evidence/map_expansion/gameplay_samples/ember_foundry/extraction.log",
+      "extraction_log_sha256": "56314B2F6E270CAA82197109F6EE4801402B0D6B4FE247BB012C0F335B825BD0",
+      "passed_for_sampled_frame_scope": true,
+      "frames": [
+        {
+          "path": "evidence/map_expansion/gameplay_samples/ember_foundry/frame_01.png",
+          "sha256": "7DAA4349F659BB9DA4976683E50CD7DA6C6FDC827EB98248B9076E38036904A9",
+          "bytes": 2521091,
+          "width": 1600,
+          "height": 900,
+          "requested_time_seconds": 2,
+          "verified_pts_time_seconds": 2.0,
+          "source_frame_index_zero_based": 120,
+          "visually_inspected": true,
+          "blocking_issue_observed": false,
+          "findings": [
+            "The central overlapping pair retain separate P1/P2 labels; Clutch remains visible beyond the right bridge edge.",
+            "Dark bridge tops and illuminated end caps clearly separate the playable floor from the distant lavafalls."
+          ]
+        },
+        {
+          "path": "evidence/map_expansion/gameplay_samples/ember_foundry/frame_02.png",
+          "sha256": "FE02A23FF2DDBE1FB14B6BAD2CFC450D0E5E1969611CDCF263B2035440F2DE79",
+          "bytes": 2596926,
+          "width": 1600,
+          "height": 900,
+          "requested_time_seconds": 6,
+          "verified_pts_time_seconds": 6.0,
+          "source_frame_index_zero_based": 360,
+          "visually_inspected": true,
+          "blocking_issue_observed": false,
+          "findings": [
+            "Four fighters cluster beneath the left side platform. Separate labels remain visible, but overlapping bodies and the platform prevent clean recognition of every individual strike from this still.",
+            "The camera contains the active cluster. Cropping an unused far-right gear and deck extent does not hide that exchange.",
+            "No missing material, detached triangle fragments, or obvious deck surface artifact is visible."
+          ]
+        },
+        {
+          "path": "evidence/map_expansion/gameplay_samples/ember_foundry/frame_03.png",
+          "sha256": "AA7561412742BC069AEDE366AB010440AA3EF0B2E91F01B3C07A937721BA660E",
+          "bytes": 2603827,
+          "width": 1600,
+          "height": 900,
+          "requested_time_seconds": 10,
+          "verified_pts_time_seconds": 10.0,
+          "source_frame_index_zero_based": 600,
+          "visually_inspected": true,
+          "blocking_issue_observed": false,
+          "findings": [
+            "The camera contains two fighters at the left platform, Sentinel near the left main-deck edge, and Clutch high at the right.",
+            "Clutch and the P4 label remain inside the image, although the purple label has modest contrast against the dark tower.",
+            "The bridge, side platform, and lift surfaces appear intact."
+          ]
+        },
+        {
+          "path": "evidence/map_expansion/gameplay_samples/ember_foundry/frame_04.png",
+          "sha256": "04EF3AB28E8FBDD71B383D19768561AFD990E60A925947353E3BCB0FE6701138",
+          "bytes": 2517324,
+          "width": 1600,
+          "height": 900,
+          "requested_time_seconds": 14,
+          "verified_pts_time_seconds": 14.0,
+          "source_frame_index_zero_based": 840,
+          "visually_inspected": true,
+          "blocking_issue_observed": false,
+          "findings": [
+            "All four fighters are separated along the deck and identifiable by their labels and floor rings.",
+            "Sentinel shield is clearly visible as a warm translucent shell against the quiet central background.",
+            "No broken lava plane, coplanar surface stripe, or opaque background obstruction is apparent in this sample."
+          ]
+        }
+      ]
+    }
+  ]
+}

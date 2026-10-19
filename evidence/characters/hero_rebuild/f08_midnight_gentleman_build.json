@@ -1,0 +1,832 @@
+{
+  "fighter": "f08_midnight_gentleman",
+  "weighted_detail_vertices": {
+    "index_01.L": 174,
+    "index_02.L": 50,
+    "index_03.L": 40,
+    "middle_01.L": 174,
+    "middle_02.L": 50,
+    "middle_03.L": 40,
+    "ring_01.L": 174,
+    "ring_02.L": 50,
+    "ring_03.L": 40,
+    "pinky_01.L": 174,
+    "pinky_02.L": 50,
+    "pinky_03.L": 40,
+    "thumb_01.L": 60,
+    "thumb_02.L": 50,
+    "thumb_03.L": 40,
+    "toe.L": 132,
+    "upper_arm_twist.L": 608,
+    "forearm_twist.L": 512,
+    "index_01.R": 174,
+    "index_02.R": 50,
+    "index_03.R": 40,
+    "middle_01.R": 174,
+    "middle_02.R": 50,
+    "middle_03.R": 40,
+    "ring_01.R": 174,
+    "ring_02.R": 50,
+    "ring_03.R": 40,
+    "pinky_01.R": 174,
+    "pinky_02.R": 50,
+    "pinky_03.R": 40,
+    "thumb_01.R": 60,
+    "thumb_02.R": 50,
+    "thumb_03.R": 40,
+    "toe.R": 129,
+    "upper_arm_twist.R": 609,
+    "forearm_twist.R": 512,
+    "brow.L": 23,
+    "brow.R": 27,
+    "mouth.L": 17,
+    "mouth.R": 16
+  },
+  "weighted_bones": 40,
+  "rigid_armor": [],
+  "costume_meshes": [
+    "f08_midnight_gentleman L fitted shin guard",
+    "f08_midnight_gentleman L forearm reinforcement",
+    "f08_midnight_gentleman L forearm reinforcement rolled edge 0",
+    "f08_midnight_gentleman L forearm reinforcement rolled edge 4",
+    "f08_midnight_gentleman L shoulder piping",
+    "f08_midnight_gentleman R fitted shin guard",
+    "f08_midnight_gentleman R forearm reinforcement",
+    "f08_midnight_gentleman R forearm reinforcement rolled edge 0",
+    "f08_midnight_gentleman R forearm reinforcement rolled edge 4",
+    "f08_midnight_gentleman R shoulder piping",
+    "f08_midnight_gentleman tailored chest seam -1",
+    "f08_midnight_gentleman tailored chest seam 1",
+    "f08_midnight_gentleman waist band",
+    "Gentleman waist chain"
+  ],
+  "retarget": [
+    {
+      "clip": "walk",
+      "source": "Walk_Formal_Loop",
+      "source_weight": 0.85,
+      "contact_policy": "authored planted legs retained"
+    },
+    {
+      "clip": "run",
+      "source": "Jog_Fwd_Loop",
+      "source_weight": 0.85,
+      "contact_policy": "authored planted legs retained"
+    },
+    {
+      "clip": "idle",
+      "source": "Idle_Loop",
+      "source_weight": 0.2,
+      "contact_policy": "authored planted legs retained"
+    },
+    {
+      "clip": "hit_light",
+      "source": "Hit_Chest",
+      "source_weight_max": 0.32
+    },
+    {
+      "clip": "hit_heavy",
+      "source": "Hit_Head",
+      "source_weight_max": 0.32
+    },
+    {
+      "clip": "land_soft",
+      "source": "Jump_Land",
+      "source_weight_max": 0.48,
+      "policy": "whole-body motion with original endpoints and landing timing"
+    },
+    {
+      "clip": "land_hard",
+      "source": "Jump_Land",
+      "source_weight_max": 0.48,
+      "policy": "whole-body motion with original endpoints and landing timing"
+    },
+    {
+      "clip": "jump_anticipation",
+      "source": "Jump_Start",
+      "source_weight_max": 0.48,
+      "policy": "whole-body motion with original endpoints and landing timing"
+    },
+    {
+      "clip": "jump_rise",
+      "source": "Jump_Loop",
+      "source_weight_max": 0.48,
+      "policy": "whole-body motion with original endpoints and landing timing"
+    }
+  ],
+  "combat_breakdowns": [
+    {
+      "clip": "air_back",
+      "contact_tick_preserved": 8,
+      "active_end_tick_preserved": 12,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    },
+    {
+      "clip": "air_down",
+      "contact_tick_preserved": 14,
+      "active_end_tick_preserved": 19,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    },
+    {
+      "clip": "air_forward",
+      "contact_tick_preserved": 10,
+      "active_end_tick_preserved": 14,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    },
+    {
+      "clip": "air_neutral",
+      "contact_tick_preserved": 7,
+      "active_end_tick_preserved": 15,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    },
+    {
+      "clip": "air_up",
+      "contact_tick_preserved": 6,
+      "active_end_tick_preserved": 11,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    },
+    {
+      "clip": "dash",
+      "contact_tick_preserved": 10,
+      "active_end_tick_preserved": 15,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    },
+    {
+      "clip": "heavy_down",
+      "contact_tick_preserved": 21,
+      "active_end_tick_preserved": 27,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    },
+    {
+      "clip": "heavy_side",
+      "contact_tick_preserved": 20,
+      "active_end_tick_preserved": 24,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    },
+    {
+      "clip": "heavy_up",
+      "contact_tick_preserved": 18,
+      "active_end_tick_preserved": 23,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    },
+    {
+      "clip": "jab1",
+      "contact_tick_preserved": 5,
+      "active_end_tick_preserved": 7,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    },
+    {
+      "clip": "jab2",
+      "contact_tick_preserved": 6,
+      "active_end_tick_preserved": 8,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    },
+    {
+      "clip": "jab3",
+      "contact_tick_preserved": 8,
+      "active_end_tick_preserved": 11,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    },
+    {
+      "clip": "tilt_down",
+      "contact_tick_preserved": 7,
+      "active_end_tick_preserved": 10,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    },
+    {
+      "clip": "tilt_side",
+      "contact_tick_preserved": 8,
+      "active_end_tick_preserved": 12,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    },
+    {
+      "clip": "tilt_up",
+      "contact_tick_preserved": 7,
+      "active_end_tick_preserved": 11,
+      "breakdown": "3-frame accelerating strike; delayed torso/head recovery"
+    }
+  ],
+  "grounding": [
+    {
+      "clip": "crouch",
+      "maximum_sole_correction_m": 0.0029972317740321157
+    },
+    {
+      "clip": "dash",
+      "maximum_sole_correction_m": 0.08220482069253922
+    },
+    {
+      "clip": "getup",
+      "maximum_sole_correction_m": 0.12
+    },
+    {
+      "clip": "grab",
+      "maximum_sole_correction_m": 0.04060372327268123
+    },
+    {
+      "clip": "grab_hold",
+      "maximum_sole_correction_m": 0.04060372327268123
+    },
+    {
+      "clip": "grab_release",
+      "maximum_sole_correction_m": 0.04060372327268123
+    },
+    {
+      "clip": "heavy_charge",
+      "maximum_sole_correction_m": 0.06000258576869964
+    },
+    {
+      "clip": "heavy_down",
+      "maximum_sole_correction_m": 0.12
+    },
+    {
+      "clip": "heavy_side",
+      "maximum_sole_correction_m": 0.052003318339586255
+    },
+    {
+      "clip": "heavy_up",
+      "maximum_sole_correction_m": 0.04090302427113056
+    },
+    {
+      "clip": "hit_heavy",
+      "maximum_sole_correction_m": 0.025762735038995743
+    },
+    {
+      "clip": "hit_light",
+      "maximum_sole_correction_m": 0.0006037399992346766
+    },
+    {
+      "clip": "idle",
+      "maximum_sole_correction_m": 0.0006037325486540797
+    },
+    {
+      "clip": "intro",
+      "maximum_sole_correction_m": 0.0006037698015570643
+    },
+    {
+      "clip": "jab1",
+      "maximum_sole_correction_m": 0.000603739067912102
+    },
+    {
+      "clip": "jab2",
+      "maximum_sole_correction_m": 0.0006039830744266513
+    },
+    {
+      "clip": "jab3",
+      "maximum_sole_correction_m": 0.000604102283716202
+    },
+    {
+      "clip": "land_hard",
+      "maximum_sole_correction_m": 0.07226399135589599
+    },
+    {
+      "clip": "land_soft",
+      "maximum_sole_correction_m": 0.07154715237021446
+    },
+    {
+      "clip": "lose",
+      "maximum_sole_correction_m": 0.0006037399992346766
+    },
+    {
+      "clip": "move_start",
+      "maximum_sole_correction_m": 0.07051795151829719
+    },
+    {
+      "clip": "move_stop",
+      "maximum_sole_correction_m": 0.08393673402070999
+    },
+    {
+      "clip": "parry",
+      "maximum_sole_correction_m": 0.03527361516654491
+    },
+    {
+      "clip": "run",
+      "maximum_sole_correction_m": 0.054799536347389224
+    },
+    {
+      "clip": "shield_break",
+      "maximum_sole_correction_m": 0.06391602557897567
+    },
+    {
+      "clip": "shield_enter",
+      "maximum_sole_correction_m": 0.03527361516654491
+    },
+    {
+      "clip": "shield_exit",
+      "maximum_sole_correction_m": 0.03527361516654491
+    },
+    {
+      "clip": "shield_hold",
+      "maximum_sole_correction_m": 0.0452736037671566
+    },
+    {
+      "clip": "spot_dodge",
+      "maximum_sole_correction_m": 0.08070476901531219
+    },
+    {
+      "clip": "taunt1",
+      "maximum_sole_correction_m": 0.0006037399992346766
+    },
+    {
+      "clip": "taunt2",
+      "maximum_sole_correction_m": 0.0006037399992346766
+    },
+    {
+      "clip": "tilt_down",
+      "maximum_sole_correction_m": 0.10796869349479675
+    },
+    {
+      "clip": "tilt_side",
+      "maximum_sole_correction_m": 0.0006038554832339289
+    },
+    {
+      "clip": "tilt_up",
+      "maximum_sole_correction_m": 0.07000257250666618
+    },
+    {
+      "clip": "turnaround",
+      "maximum_sole_correction_m": 0.06477441442012787
+    },
+    {
+      "clip": "walk",
+      "maximum_sole_correction_m": 1.5097856521581465e-07
+    },
+    {
+      "clip": "win",
+      "maximum_sole_correction_m": 0.0006037399992346766
+    }
+  ],
+  "actions": [
+    {
+      "clip": "air_back",
+      "seconds": 0.55,
+      "detail_keys": 8
+    },
+    {
+      "clip": "air_dodge",
+      "seconds": 0.6,
+      "detail_keys": 5
+    },
+    {
+      "clip": "air_down",
+      "seconds": 0.7666666666666667,
+      "detail_keys": 9
+    },
+    {
+      "clip": "air_forward",
+      "seconds": 0.5833333333333334,
+      "detail_keys": 9
+    },
+    {
+      "clip": "air_neutral",
+      "seconds": 0.5666666666666667,
+      "detail_keys": 8
+    },
+    {
+      "clip": "air_up",
+      "seconds": 0.48333333333333334,
+      "detail_keys": 8
+    },
+    {
+      "clip": "crouch",
+      "seconds": 0.5,
+      "detail_keys": 31
+    },
+    {
+      "clip": "dash",
+      "seconds": 0.6166666666666667,
+      "detail_keys": 38
+    },
+    {
+      "clip": "double_jump",
+      "seconds": 0.5,
+      "detail_keys": 3
+    },
+    {
+      "clip": "fall",
+      "seconds": 0.9,
+      "detail_keys": 3
+    },
+    {
+      "clip": "final_ko",
+      "seconds": 1.6,
+      "detail_keys": 4
+    },
+    {
+      "clip": "getup",
+      "seconds": 0.8,
+      "detail_keys": 49
+    },
+    {
+      "clip": "grab",
+      "seconds": 0.5833333333333334,
+      "detail_keys": 36
+    },
+    {
+      "clip": "grab_hold",
+      "seconds": 0.8,
+      "detail_keys": 49
+    },
+    {
+      "clip": "grab_release",
+      "seconds": 0.4,
+      "detail_keys": 25
+    },
+    {
+      "clip": "heavy_charge",
+      "seconds": 1.0,
+      "detail_keys": 61
+    },
+    {
+      "clip": "heavy_down",
+      "seconds": 0.95,
+      "detail_keys": 58
+    },
+    {
+      "clip": "heavy_side",
+      "seconds": 0.9,
+      "detail_keys": 55
+    },
+    {
+      "clip": "heavy_up",
+      "seconds": 0.85,
+      "detail_keys": 52
+    },
+    {
+      "clip": "helpless",
+      "seconds": 0.8,
+      "detail_keys": 3
+    },
+    {
+      "clip": "hit_heavy",
+      "seconds": 0.65,
+      "detail_keys": 40
+    },
+    {
+      "clip": "hit_light",
+      "seconds": 0.3,
+      "detail_keys": 19
+    },
+    {
+      "clip": "idle",
+      "seconds": 2.4,
+      "detail_keys": 145
+    },
+    {
+      "clip": "intro",
+      "seconds": 1.8,
+      "detail_keys": 109
+    },
+    {
+      "clip": "jab1",
+      "seconds": 0.3333333333333333,
+      "detail_keys": 21
+    },
+    {
+      "clip": "jab2",
+      "seconds": 0.35,
+      "detail_keys": 22
+    },
+    {
+      "clip": "jab3",
+      "seconds": 0.5166666666666667,
+      "detail_keys": 32
+    },
+    {
+      "clip": "jump_anticipation",
+      "seconds": 0.16666666666666666,
+      "detail_keys": 11
+    },
+    {
+      "clip": "jump_rise",
+      "seconds": 0.6,
+      "detail_keys": 37
+    },
+    {
+      "clip": "knockdown",
+      "seconds": 0.65,
+      "detail_keys": 3
+    },
+    {
+      "clip": "land_hard",
+      "seconds": 0.48333333333333334,
+      "detail_keys": 30
+    },
+    {
+      "clip": "land_soft",
+      "seconds": 0.25,
+      "detail_keys": 16
+    },
+    {
+      "clip": "launch",
+      "seconds": 0.4166666666666667,
+      "detail_keys": 3
+    },
+    {
+      "clip": "ledge_catch",
+      "seconds": 0.3,
+      "detail_keys": 2
+    },
+    {
+      "clip": "ledge_hold",
+      "seconds": 1.0,
+      "detail_keys": 3
+    },
+    {
+      "clip": "ledge_release",
+      "seconds": 0.35,
+      "detail_keys": 2
+    },
+    {
+      "clip": "lose",
+      "seconds": 2.0,
+      "detail_keys": 121
+    },
+    {
+      "clip": "move_start",
+      "seconds": 0.25,
+      "detail_keys": 16
+    },
+    {
+      "clip": "move_stop",
+      "seconds": 0.3,
+      "detail_keys": 19
+    },
+    {
+      "clip": "parry",
+      "seconds": 0.2833333333333333,
+      "detail_keys": 18
+    },
+    {
+      "clip": "qa_deep_pose",
+      "seconds": 1.0,
+      "detail_keys": 3
+    },
+    {
+      "clip": "qa_elbow_bend",
+      "seconds": 1.0,
+      "detail_keys": 3
+    },
+    {
+      "clip": "qa_knee_bend",
+      "seconds": 1.0,
+      "detail_keys": 3
+    },
+    {
+      "clip": "qa_shoulder_raise",
+      "seconds": 1.0,
+      "detail_keys": 3
+    },
+    {
+      "clip": "qa_torso_twist",
+      "seconds": 1.0,
+      "detail_keys": 3
+    },
+    {
+      "clip": "respawn",
+      "seconds": 1.2,
+      "detail_keys": 3
+    },
+    {
+      "clip": "roll_back",
+      "seconds": 0.6,
+      "detail_keys": 5
+    },
+    {
+      "clip": "roll_forward",
+      "seconds": 0.6,
+      "detail_keys": 5
+    },
+    {
+      "clip": "run",
+      "seconds": 0.6166666666666667,
+      "detail_keys": 38
+    },
+    {
+      "clip": "shield_break",
+      "seconds": 1.4,
+      "detail_keys": 85
+    },
+    {
+      "clip": "shield_enter",
+      "seconds": 0.13333333333333333,
+      "detail_keys": 9
+    },
+    {
+      "clip": "shield_exit",
+      "seconds": 0.18333333333333332,
+      "detail_keys": 12
+    },
+    {
+      "clip": "shield_hold",
+      "seconds": 1.0,
+      "detail_keys": 61
+    },
+    {
+      "clip": "special_down",
+      "seconds": 0.7166666666666667,
+      "detail_keys": 5
+    },
+    {
+      "clip": "special_neutral",
+      "seconds": 0.6666666666666666,
+      "detail_keys": 5
+    },
+    {
+      "clip": "special_side",
+      "seconds": 0.8333333333333334,
+      "detail_keys": 5
+    },
+    {
+      "clip": "special_up",
+      "seconds": 0.95,
+      "detail_keys": 5
+    },
+    {
+      "clip": "spot_dodge",
+      "seconds": 0.4166666666666667,
+      "detail_keys": 26
+    },
+    {
+      "clip": "taunt1",
+      "seconds": 1.8,
+      "detail_keys": 109
+    },
+    {
+      "clip": "taunt2",
+      "seconds": 1.8,
+      "detail_keys": 109
+    },
+    {
+      "clip": "throw_back",
+      "seconds": 0.5166666666666667,
+      "detail_keys": 4
+    },
+    {
+      "clip": "throw_down",
+      "seconds": 0.5,
+      "detail_keys": 4
+    },
+    {
+      "clip": "throw_forward",
+      "seconds": 0.45,
+      "detail_keys": 4
+    },
+    {
+      "clip": "throw_up",
+      "seconds": 0.4666666666666667,
+      "detail_keys": 4
+    },
+    {
+      "clip": "thrown_back",
+      "seconds": 0.7,
+      "detail_keys": 3
+    },
+    {
+      "clip": "thrown_down",
+      "seconds": 0.7,
+      "detail_keys": 3
+    },
+    {
+      "clip": "thrown_up",
+      "seconds": 0.7,
+      "detail_keys": 3
+    },
+    {
+      "clip": "tilt_down",
+      "seconds": 0.45,
+      "detail_keys": 28
+    },
+    {
+      "clip": "tilt_side",
+      "seconds": 0.5,
+      "detail_keys": 31
+    },
+    {
+      "clip": "tilt_up",
+      "seconds": 0.5,
+      "detail_keys": 31
+    },
+    {
+      "clip": "tumble",
+      "seconds": 0.85,
+      "detail_keys": 3
+    },
+    {
+      "clip": "turnaround",
+      "seconds": 0.23333333333333334,
+      "detail_keys": 15
+    },
+    {
+      "clip": "ultimate",
+      "seconds": 1.2666666666666666,
+      "detail_keys": 7
+    },
+    {
+      "clip": "victim_grab",
+      "seconds": 0.85,
+      "detail_keys": 3
+    },
+    {
+      "clip": "victim_throw",
+      "seconds": 0.7,
+      "detail_keys": 3
+    },
+    {
+      "clip": "walk",
+      "seconds": 1.05,
+      "detail_keys": 64
+    },
+    {
+      "clip": "win",
+      "seconds": 2.2,
+      "detail_keys": 133
+    }
+  ],
+  "gait": {
+    "strides": {
+      "walk": 0.99678,
+      "run": 2.004378
+    },
+    "contacts": {
+      "walk": {
+        "L": [
+          0.035,
+          0.565
+        ],
+        "R": [
+          0.535,
+          0.06500000000000017
+        ]
+      },
+      "run": {
+        "L": [
+          0.035,
+          0.365
+        ],
+        "R": [
+          0.535,
+          0.865
+        ]
+      }
+    },
+    "transition_ticks": {
+      "move_start": 10,
+      "turnaround": 10,
+      "move_stop": 12
+    },
+    "effect_sockets": {
+      "left_hand": "hand.L",
+      "right_hand": "hand.R",
+      "left_foot": "foot.L",
+      "right_foot": "foot.R",
+      "chest": "chest"
+    },
+    "measurement": {
+      "walk": {
+        "source": "evaluated foot.L ankle trajectory in curated.blend",
+        "sample_phases": [
+          0.05,
+          0.5499999999999999
+        ],
+        "positions": [
+          [
+            0.16292910277843475,
+            -0.2491924911737442,
+            0.11683902144432068
+          ],
+          [
+            0.16292400658130646,
+            0.24919751286506653,
+            0.11678731441497803
+          ]
+        ],
+        "cycle_seconds": 1.05,
+        "max_contact_height_delta": 5.170702934265137e-05
+      },
+      "run": {
+        "source": "evaluated foot.L ankle trajectory in curated.blend",
+        "sample_phases": [
+          0.05,
+          0.35000000000000003
+        ],
+        "positions": [
+          [
+            0.16296368837356567,
+            -0.2991945147514343,
+            0.11640956997871399
+          ],
+          [
+            0.16291269659996033,
+            0.30211877822875977,
+            0.1167345643043518
+          ]
+        ],
+        "cycle_seconds": 0.6166666666666667,
+        "max_contact_height_delta": 0.0003249943256378174
+      }
+    }
+  },
+  "original_source_sha256": "fabdabfceaec509885b3724af79756cd9964a182333bfd052c9eef3cf0e6e563",
+  "curated_source": "source_art\\characters\\f08_midnight_gentleman\\curated.blend"
+}

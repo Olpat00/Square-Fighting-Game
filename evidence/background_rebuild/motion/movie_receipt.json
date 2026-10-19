@@ -1,0 +1,3763 @@
+{
+  "passed": true,
+  "capture_passed": true,
+  "started_utc": "2026-10-04T19:27:46.430507+00:00",
+  "finished_utc": "2026-10-04T19:31:26.920661+00:00",
+  "runtime": {
+    "project": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Game File",
+    "sha256": "F27D1FA730C48897031F76F245F4B28D50B6DFA35BC3D4C7E249666CDF1E8825",
+    "files": [
+      {
+        "path": "assets/arenas/abyssal_observatory/backdrop.png",
+        "bytes": 2586380,
+        "sha256": "18A54975E0A14C9A79741C32157D6C843095C10F815EAABAF3AB0648A552B29E"
+      },
+      {
+        "path": "assets/arenas/abyssal_observatory/backdrop.png.import",
+        "bytes": 962,
+        "sha256": "F30DC1375E33406C50E2F089970AC7C77065DD250DBC7A07B9E8CC0BB93F9FCD"
+      },
+      {
+        "path": "assets/arenas/ember_foundry/backdrop.png",
+        "bytes": 2563005,
+        "sha256": "A5E6188DFA71A98CFDD2C88404905368EA663370033BE2A9C36D4AE25A96C3CE"
+      },
+      {
+        "path": "assets/arenas/ember_foundry/backdrop.png.import",
+        "bytes": 956,
+        "sha256": "5C8F3859626A4D48598CEE01055848F1816FF674647B26863CC1D37198ABD0E4"
+      },
+      {
+        "path": "assets/arenas/verdant_shrine/backdrop.png",
+        "bytes": 2798345,
+        "sha256": "D6CA0598D1B64F6CDB29DBE75274A018DEBE72060721B3A87460DC942BDC7244"
+      },
+      {
+        "path": "assets/arenas/verdant_shrine/backdrop.png.import",
+        "bytes": 957,
+        "sha256": "C33EE36003A367FE6AFD7F771599DD2B3D43DA0974E945A9797E962A40DAB52D"
+      },
+      {
+        "path": "assets/audio/audio_manifest.json",
+        "bytes": 7232,
+        "sha256": "30125B512A156EBC3F9472C8965136AF7ACBDCDCAFC76E9D5555986E3BE1CDDF"
+      },
+      {
+        "path": "assets/audio/break_prop.wav",
+        "bytes": 67076,
+        "sha256": "E421100C03CE05DC836643FF27EA6FD930FABB0A2E27D659400C3BC4F70E1B5A"
+      },
+      {
+        "path": "assets/audio/break_prop.wav.import",
+        "bytes": 501,
+        "sha256": "B5ACD1C3E6FF746A320E9F0B33CABB57FFC9C65EB1322E2690310A458451D30F"
+      },
+      {
+        "path": "assets/audio/hazard_fire.wav",
+        "bytes": 149984,
+        "sha256": "CAE613DED34A4D0B6288F4DD174277E745A49EBF22EBAFC7E2F78329D3D720F7"
+      },
+      {
+        "path": "assets/audio/hazard_fire.wav.import",
+        "bytes": 504,
+        "sha256": "68091C1AFE95473B5A6E4C41501F981B839BFFB5354AACD5D8B70BD28A431454"
+      },
+      {
+        "path": "assets/audio/hazard_warning.wav",
+        "bytes": 185264,
+        "sha256": "D8DAAB645FF488762361DF5533B2E000835ADA505509D6FC7C3DE8DF43CE33A2"
+      },
+      {
+        "path": "assets/audio/hazard_warning.wav.import",
+        "bytes": 513,
+        "sha256": "F9700BBAD881206D75A8BE8BEE4E81AECFAE82FC4755715CA5650AB12CB97A81"
+      },
+      {
+        "path": "assets/audio/hit_heavy_1.wav",
+        "bytes": 86480,
+        "sha256": "735013283F8841F75F017B58774861061C389892739133778884D4716C0C43AF"
+      },
+      {
+        "path": "assets/audio/hit_heavy_1.wav.import",
+        "bytes": 504,
+        "sha256": "C3B688394E7201CE7CA940B77569E94864C717230B1F5730FF2BE1EC6CACAEB7"
+      },
+      {
+        "path": "assets/audio/hit_heavy_2.wav",
+        "bytes": 86480,
+        "sha256": "E9729CEFA334E98272482294442E1EE2D5188C8E05B0381B0FF96B65CE560E80"
+      },
+      {
+        "path": "assets/audio/hit_heavy_2.wav.import",
+        "bytes": 504,
+        "sha256": "215AD5472DB69631E6396D345BE8013213A67352A739571AD006D1F6E4C722E6"
+      },
+      {
+        "path": "assets/audio/hit_light_1.wav",
+        "bytes": 37088,
+        "sha256": "7AD9656D90262F3E54EEADCEF4662328F01EF21A5BA6B48D33FCFD11ABC00A18"
+      },
+      {
+        "path": "assets/audio/hit_light_1.wav.import",
+        "bytes": 504,
+        "sha256": "B1A8427EDCEFFC517403744845D8AEBF474D5872EB43CF42F6F3FE715BC84528"
+      },
+      {
+        "path": "assets/audio/hit_light_2.wav",
+        "bytes": 39556,
+        "sha256": "45CE5BD7E23CCB9DFD8A9EFB6ED82DCDF332D496F50331A7FEDA7CBBD419A1EE"
+      },
+      {
+        "path": "assets/audio/hit_light_2.wav.import",
+        "bytes": 503,
+        "sha256": "C6357DA95712378C963DD6D263A0B220824AC8C0FD028854CC627C5D8D911230"
+      },
+      {
+        "path": "assets/audio/hit_light_3.wav",
+        "bytes": 42028,
+        "sha256": "47D9656FDE896D8859679EF9A1E30BE23AF1116FAFD95A80D98DC63271A75241"
+      },
+      {
+        "path": "assets/audio/hit_light_3.wav.import",
+        "bytes": 503,
+        "sha256": "32A6F74238649BF409CC389B14EC01023629725E38A4A6FABB0B21418D4549CB"
+      },
+      {
+        "path": "assets/audio/jump.wav",
+        "bytes": 37088,
+        "sha256": "AAE2B9DE07D70E86F565BAE954EB2B137ECC48E57ACBA875646DA82F79FD64FD"
+      },
+      {
+        "path": "assets/audio/jump.wav.import",
+        "bytes": 483,
+        "sha256": "6A8DA4F33118B1F08090F55287E03EE90D33AC0C108413E124355059EBBD9638"
+      },
+      {
+        "path": "assets/audio/ko.wav",
+        "bytes": 238184,
+        "sha256": "8FD0D08490F6A9722D49D547DD7BC8208BDE409D514FDD6FDAB2E3C1ED2DD68D"
+      },
+      {
+        "path": "assets/audio/ko.wav.import",
+        "bytes": 477,
+        "sha256": "F7EF94D0B84E84A025D8505353D9BBB5AE8B29929426B4780ACCE66539818F22"
+      },
+      {
+        "path": "assets/audio/land.wav",
+        "bytes": 35324,
+        "sha256": "58F313AD75005CA93E2794DC370218952D5E26607A5801F92FA556A85B80F1F6"
+      },
+      {
+        "path": "assets/audio/land.wav.import",
+        "bytes": 482,
+        "sha256": "1308B65B41D9EECE7F1637D8899AF2675501D20D9022AC3A055CB9B57D51139A"
+      },
+      {
+        "path": "assets/audio/last_resort_music.wav",
+        "bytes": 6048044,
+        "sha256": "0EC70DB5D4A156C46ACB3116AB438CED5939BB659ECF3B23B0888897B4CF4626"
+      },
+      {
+        "path": "assets/audio/last_resort_music.wav.import",
+        "bytes": 522,
+        "sha256": "26F2A4C0693B595D31D7C2F1FBEAA395A86C8B84611777A81095CCA7A7DB5715"
+      },
+      {
+        "path": "assets/audio/launch.wav",
+        "bytes": 75896,
+        "sha256": "04E91690D2CFC32CE3A543E7DA5CD73087807C5802B1B3ACA459D5B24C7DA4BA"
+      },
+      {
+        "path": "assets/audio/launch.wav.import",
+        "bytes": 489,
+        "sha256": "B3315107E718F79A68ACFD8DC93E93A5B74C52A1218C06D287DBF0F3AB05932D"
+      },
+      {
+        "path": "assets/audio/menu_back.wav",
+        "bytes": 33560,
+        "sha256": "1DA7902F18F9CA9A006228BCFF8B49E09E28A3F1ACF6F6D503E1966BDBFE10BB"
+      },
+      {
+        "path": "assets/audio/menu_back.wav.import",
+        "bytes": 498,
+        "sha256": "AD5B2F4DAF22278EA3B11FE11917B6C6B55BDED75838563E1B8DD0E025CE31CC"
+      },
+      {
+        "path": "assets/audio/menu_confirm.wav",
+        "bytes": 42380,
+        "sha256": "31E0300D7633246981D68A098C231E207708925B132437AAB76EBC3363F1A0FA"
+      },
+      {
+        "path": "assets/audio/menu_confirm.wav.import",
+        "bytes": 507,
+        "sha256": "D138C4ECC29B0A06A26722A805115E9219620AAC3243789FFD231034AA389218"
+      },
+      {
+        "path": "assets/audio/menu_move.wav",
+        "bytes": 15920,
+        "sha256": "F57E8290CBE1B1EEA347277F5A83B163428381AF6BFAAACB20D5755F12A0CD05"
+      },
+      {
+        "path": "assets/audio/menu_move.wav.import",
+        "bytes": 497,
+        "sha256": "735DB0753309E32413303E584414798C86374FF015C6507FAE01DB804C0A4AFB"
+      },
+      {
+        "path": "assets/audio/meter_ready.wav",
+        "bytes": 194084,
+        "sha256": "6BEEA59214DCE249A92D40643F2E883AE63730A092410458E5A07AE340E2F030"
+      },
+      {
+        "path": "assets/audio/meter_ready.wav.import",
+        "bytes": 504,
+        "sha256": "4AFED369359EB211A7A14221CE6FE6A8BCA970CBA546284A18EF5F8123120AD8"
+      },
+      {
+        "path": "assets/audio/parry.wav",
+        "bytes": 105884,
+        "sha256": "9AF97367A31864567D6650EEBE6FDE6C9F7172872F7832AF71528536E3A41491"
+      },
+      {
+        "path": "assets/audio/parry.wav.import",
+        "bytes": 485,
+        "sha256": "5E6828F077ED6A8ECAF5729159AD0A83C2243E359373C1BB342912908068FED3"
+      },
+      {
+        "path": "assets/audio/rooftop_ambience.wav",
+        "bytes": 2116844,
+        "sha256": "F1803FC7CBC237396F5CA5CFBF2AA8ECD1C56DBD232888410FED337999E9244D"
+      },
+      {
+        "path": "assets/audio/rooftop_ambience.wav.import",
+        "bytes": 519,
+        "sha256": "12494C0D0F94A1AF0971A6E8FA958AD4627D06D72D29C6D0EB0749FB07D04A47"
+      },
+      {
+        "path": "assets/audio/shield.wav",
+        "bytes": 58256,
+        "sha256": "33CF26F6C43CB8F5B9622077033D400D1B650225277616A7AA3684000F8864C0"
+      },
+      {
+        "path": "assets/audio/shield.wav.import",
+        "bytes": 487,
+        "sha256": "C1A8DCFF0C9F65D52D0A49F44A41FBC11655F202110ABAE6206519F23C00EE24"
+      },
+      {
+        "path": "assets/audio/swing.wav",
+        "bytes": 44144,
+        "sha256": "ED40E73AB758CD90730763DE5891C4AD2455D03F05DCAF0239413F200B6C5151"
+      },
+      {
+        "path": "assets/audio/swing.wav.import",
+        "bytes": 486,
+        "sha256": "5065FCD1D0A799EA6C2A4B6B8339192BC82D22A66ACC00A6DCE935E0D651AAFF"
+      },
+      {
+        "path": "assets/audio/ultimate.wav",
+        "bytes": 114704,
+        "sha256": "DB4D5A5A5A730254460AD00FAAD7D8CEAE70D6C30434B6BD90A3DCD772FF0A92"
+      },
+      {
+        "path": "assets/audio/ultimate.wav.import",
+        "bytes": 495,
+        "sha256": "05C0D743E25C5AC396A294C5BC48B8B69AF45D3BBC9FD1A4EEC7163D7C56CBCA"
+      },
+      {
+        "path": "assets/audio/victory.wav",
+        "bytes": 282284,
+        "sha256": "B46F45F939344831109CB4EFFE6C5CF98048E78D7AA1F885E699F8AE19E56A54"
+      },
+      {
+        "path": "assets/audio/victory.wav.import",
+        "bytes": 491,
+        "sha256": "A569454C4CD88B9082CDF506C6FD761E07FAD96D85BF1B60A821F726DD2CD609"
+      },
+      {
+        "path": "assets/characters/f01_clutch_base_color.jpg",
+        "bytes": 2904531,
+        "sha256": "B8C3706C6B40D76738174AB93B075470D90D079E5400D7FE1A41FAC25A962445"
+      },
+      {
+        "path": "assets/characters/f01_clutch_base_color.jpg.import",
+        "bytes": 1100,
+        "sha256": "73B01E25D22CC80CEAAB31FF6215E9F3E905644983E7BECD90B25A086C34FCFD"
+      },
+      {
+        "path": "assets/characters/f01_clutch_low_base_color.png",
+        "bytes": 1320552,
+        "sha256": "20CDF3184814E85484DE20B23E242ACCDC242F0A1DD45809678DA0D5F529B63D"
+      },
+      {
+        "path": "assets/characters/f01_clutch_low_base_color.png.import",
+        "bytes": 1111,
+        "sha256": "F745F319A8E45A9D3031380FF9768C6439BFAE65AB6F6A4DC86FE419EA3979BC"
+      },
+      {
+        "path": "assets/characters/f01_clutch_low_metallic_roughness.png",
+        "bytes": 527775,
+        "sha256": "C99DCCD77588B45B52CA54392245389D3813E800EC3FFBDBA7BC108014D7D052"
+      },
+      {
+        "path": "assets/characters/f01_clutch_low_metallic_roughness.png.import",
+        "bytes": 1135,
+        "sha256": "EB93D9000C5C47FF6B39E45AA568215DFCE0E72F166CE71E6758BC541481A72E"
+      },
+      {
+        "path": "assets/characters/f01_clutch_low_normal.png",
+        "bytes": 894531,
+        "sha256": "0FFB78FE726023286ADC1DDFC51B21037C4037503CD8D4D2C559A23535C416BC"
+      },
+      {
+        "path": "assets/characters/f01_clutch_low_normal.png.import",
+        "bytes": 1149,
+        "sha256": "A17EBF41D18A3A84E8C938F04B89961BD64D2C07A53B5DC7AD7AC04D28C71C3D"
+      },
+      {
+        "path": "assets/characters/f01_clutch_low.glb",
+        "bytes": 8153492,
+        "sha256": "6350FF0D6E7C7201FC4605C61FA98B7DC95B9D4E5F84404E56EB6F6E9A537EB4"
+      },
+      {
+        "path": "assets/characters/f01_clutch_low.glb.import",
+        "bytes": 1175,
+        "sha256": "62D631291F95B0D1B81E7F385A43BD2184C18D26441A6BBE572C9AF99EA43FD3"
+      },
+      {
+        "path": "assets/characters/f01_clutch_metallic_roughness.jpg",
+        "bytes": 1017535,
+        "sha256": "C5B5015AFD0187B8564F01B9FDF8F3F0FC860581F3D646FABFC41FA60788EB9F"
+      },
+      {
+        "path": "assets/characters/f01_clutch_metallic_roughness.jpg.import",
+        "bytes": 1123,
+        "sha256": "F9A7C5BB7E188D1ADD41F6D580C0AEF0479BD515EE458C71B3B4803BA327F72D"
+      },
+      {
+        "path": "assets/characters/f01_clutch_metallic_roughness.png",
+        "bytes": 1506633,
+        "sha256": "A93B871ED1ACC9E728071CCA643421182E3501A2160ADFCA07D6F6FE2B8202BE"
+      },
+      {
+        "path": "assets/characters/f01_clutch_metallic_roughness.png.import",
+        "bytes": 1075,
+        "sha256": "69A47CBE7E6CD29189AE8E24A47E800D2B50508A9259FA8EAEEC5E671724A12D"
+      },
+      {
+        "path": "assets/characters/f01_clutch_normal.jpg",
+        "bytes": 1862686,
+        "sha256": "819F53B71ABE2DEB72DAB12D94EB5C7A7115D9127FBA8B393547984F84C0F852"
+      },
+      {
+        "path": "assets/characters/f01_clutch_normal.jpg.import",
+        "bytes": 1133,
+        "sha256": "DFF435AF7775E30CE6EEE892E408D643929AD629EC4010039E79E4A540EDC115"
+      },
+      {
+        "path": "assets/characters/f01_clutch_presentation.json",
+        "bytes": 1727,
+        "sha256": "0599B7D9B74330997E95D75F6F2A194E42C13FC7AD17D8CDF1B9BA2D6B6EBDE9"
+      },
+      {
+        "path": "assets/characters/f01_clutch.glb",
+        "bytes": 11195392,
+        "sha256": "7F2DFC4F315443586C4486EDF2953D8A4EF1D7F39DB3EB843FF6362EBE47CFF9"
+      },
+      {
+        "path": "assets/characters/f01_clutch.glb.import",
+        "bytes": 1163,
+        "sha256": "2FB2B9BCAA447A8E7DA63A46BCF0B8C6A60B6A21EFBA22EA16A0400F2D0C7830"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_Image_0.jpg",
+        "bytes": 4424907,
+        "sha256": "338EB5BB680FC1C8CA18A0C27F1EAC09C8B17D297DBFE77F19D1F43D5FB357B9"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_Image_0.jpg.import",
+        "bytes": 1100,
+        "sha256": "52CBDCE36322A653CC12A63210603D1930BCE49840243A10A32AB487756908EC"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_Image_1.jpg",
+        "bytes": 1956153,
+        "sha256": "BD5F29D49C983D3FA350021BF0F0B335B7B7B068BF80F92644E657DF16D01230"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_Image_1.jpg.import",
+        "bytes": 1099,
+        "sha256": "4DA8359F30DE31BE92DDF79FC01DE8F326ADEA9B0BFA2E43D206F2C8DC103AC7"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_Image_1.png",
+        "bytes": 2555873,
+        "sha256": "94381329DEAD6B63C71F7A7DD75A665A5607316DAC8C9FDE864DC2D6BA59C5C6"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_Image_1.png.import",
+        "bytes": 1050,
+        "sha256": "D260C7291CD0BC7FC1A8FBE71C72392A5F7B6F8CA6EEE0381604456B406870F9"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_Image_2.jpg",
+        "bytes": 3148708,
+        "sha256": "E5CB91351CFF2107764ACB9FEADA72DE970D1E7E14F33C3C0FB49851BA3B141A"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_Image_2.jpg.import",
+        "bytes": 1149,
+        "sha256": "3D588E22A5D594396FE70BB33D926B0A64E4AF7A9852C5DA4D149BD44B443C76"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_low_Image_0.png",
+        "bytes": 2152520,
+        "sha256": "AEA280AC7A511BC3163933DA112AC399B0C6FC5438B3AA77CE96690A89131584"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_low_Image_0.png.import",
+        "bytes": 1112,
+        "sha256": "21FC27D052EA658F3405AD226B27CBB51E8B63EA83F4261061D944356BA1E7BD"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_low_Image_1.png",
+        "bytes": 913185,
+        "sha256": "0E75060D730A562ADB259E6B75534BD8A2C488F51A8211CCE6B7C724B8CEB6C4"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_low_Image_1.png.import",
+        "bytes": 1112,
+        "sha256": "366FA8C9193D16BDF19CFE8750365679AAC5B3FAEC717CD0AC356990F061E67D"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_low_Image_2.png",
+        "bytes": 1476585,
+        "sha256": "F9E36CBB10BEB3BF01C261AEC5F25D18777AD4094CDACD0C54E878FF2BE549EA"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_low_Image_2.png.import",
+        "bytes": 1165,
+        "sha256": "1645F998F069A313B5D01B51F0DE6A63ED9FB6021507544C012534E348003180"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_low.glb",
+        "bytes": 10376388,
+        "sha256": "F6D581E5855E1CD7410011D4F95180D32D5682ADE36D00B9BDDD650CBA8E533A"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_low.glb.import",
+        "bytes": 1184,
+        "sha256": "3CAC34A506585381F1BDA5B6E7252BFB6D9A56F7B9E5058CC6B800BA9372D348"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck_presentation.json",
+        "bytes": 1726,
+        "sha256": "7F4AD392C1CE6ECDFE2C47F20B53CD3EF75458F99AADDC5D14DD5C47A7DB453E"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck.glb",
+        "bytes": 15369424,
+        "sha256": "00991ECBFABF9726BE944A742263EBA3F970A467AB23B63D17D119D802D93D77"
+      },
+      {
+        "path": "assets/characters/f02_sunstruck.glb.import",
+        "bytes": 1171,
+        "sha256": "99403E2988AD76A0DE83E0F7B363CF68702F3CC3416980BF5BB6D9DF8D4ABF01"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_base_color.jpg",
+        "bytes": 3962520,
+        "sha256": "559E6F5FC3C6450DB9E7BCC2EEDCDAC5C318BD818D753ED019B480DBCB824387"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_base_color.jpg.import",
+        "bytes": 1111,
+        "sha256": "095BD97C21780C30EA764461A25F2DD3F493CAA82B72C347757F4B10506297DD"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_low_base_color.png",
+        "bytes": 1970352,
+        "sha256": "27BCE84B0ACE5698FF9A50985E5D2F2AB8C96D86B681631CC28FC1FA728AAD30"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_low_base_color.png.import",
+        "bytes": 1124,
+        "sha256": "9EE654F0601CD1A9E0DF879813DB3F850A0125F0382CDCC1DAE28DB79215CF7C"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_low_metallic_roughness.png",
+        "bytes": 992108,
+        "sha256": "E3B20F1B20C7527A7B493FBEBE6D34B95AE4DE6182E1B7DC16FAC5B49BC3719B"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_low_metallic_roughness.png.import",
+        "bytes": 1148,
+        "sha256": "3A1BC28C426B063CE75960EEB2BC00CBDDC8B474D902189E40945E463BE43486"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_low_normal.png",
+        "bytes": 1361856,
+        "sha256": "AFC6DB28AE14F3B69AAA34F8FC48B6E0983ED4F456048DA784F7BE25954CC2EE"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_low_normal.png.import",
+        "bytes": 1164,
+        "sha256": "08DAE240141C60D90F1FBBFE4393490E8357F353D2BAA92F29AB7CC32CF0280D"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_low.glb",
+        "bytes": 10204420,
+        "sha256": "8741BAAADC75AA3D3EA2203EEA0BDF2624B2700491A19023B4348EE4DAD5C31C"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_low.glb.import",
+        "bytes": 1187,
+        "sha256": "A64FA1235D96DF1C9931C072A47477EF548A6D6B7AB53EAB169F1A01FA66829A"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_metallic_roughness.jpg",
+        "bytes": 1763888,
+        "sha256": "E30B98D657379C09413A5DE7E364C8EDBB889317D602BB4A03580F13F8AAF050"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_metallic_roughness.jpg.import",
+        "bytes": 1136,
+        "sha256": "929BB7B8343F82E9BDB0F06F0869C5E379E467B46B9DC313B4AF6799F38FEFFF"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_metallic_roughness.png",
+        "bytes": 2358443,
+        "sha256": "D4671061B9942AC3331B74C9D06391B9D2C50DF760C168FC60650862768E80EB"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_metallic_roughness.png.import",
+        "bytes": 1087,
+        "sha256": "1E29375D72C867BAA98B6DCC087F8FA1D2A0BDCFBC7FD2235546986B37DDC970"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_normal.jpg",
+        "bytes": 2878192,
+        "sha256": "8D22FF7D06221CE2A19AEF233056A660854744932D30B813CCA3A0197FDE3662"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_normal.jpg.import",
+        "bytes": 1149,
+        "sha256": "346520A8970186B68A4CCD927FE00B61369EDFD002A49F9D063676D5FBB5B8CF"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty_presentation.json",
+        "bytes": 1722,
+        "sha256": "3B985DB306C7FB568660A6E83B5FDA7F726C5EC28A6443AEB8D633DFAF3E8D58"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty.glb",
+        "bytes": 14490168,
+        "sha256": "3B2229DF7C9786401147175EB3FA67B8744F056C0A29C2B67629035070009DF0"
+      },
+      {
+        "path": "assets/characters/f03_heavy_duty.glb.import",
+        "bytes": 1175,
+        "sha256": "34F372595E961CDCF06B01C8D65FCE9AB2BA8ECF3A4719784F2CEB29003AE0BF"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_base_color.jpg",
+        "bytes": 3655322,
+        "sha256": "393784F245254C761D07C494F62BFF775431827202B85A9307AE541D97F25BAA"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_base_color.jpg.import",
+        "bytes": 1106,
+        "sha256": "378B6F6A2F80126883248AB4602B5139FB1FC089A19E6ED53FE3E886B30F0F8B"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_low_base_color.png",
+        "bytes": 1758884,
+        "sha256": "149A126A38EB4854EEF3AB6B267272A41B27813B600448E08C6125B6FBF07C37"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_low_base_color.png.import",
+        "bytes": 1117,
+        "sha256": "832DE2A443F0B4D3BBB68B9CBEE8A8B8391FD54093B20F18078B6BA31C895754"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_low_metallic_roughness.png",
+        "bytes": 664807,
+        "sha256": "FE0508219FF5027394FDF266777953F0B9FEF90138077B6C9CFDB309563450A3"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_low_metallic_roughness.png.import",
+        "bytes": 1141,
+        "sha256": "571E637062DF6F2C561A3411DF962EBAA92456F00F3A13EAA7C463177157FDA9"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_low_normal.png",
+        "bytes": 1178996,
+        "sha256": "F869B35DD81478612E51CADC669AFA1A60C535D27B633ECD475F0B555D3AA2E9"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_low_normal.png.import",
+        "bytes": 1156,
+        "sha256": "99370B5DB5EC88242B0B1FAD3EBF96BA83A09A0033AD4137F9448C10C601579B"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_low.glb",
+        "bytes": 9212052,
+        "sha256": "81804883463F61F5C3D883038CB5692C47B9794AD2F620C95F4CEE4733E7D928"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_low.glb.import",
+        "bytes": 1181,
+        "sha256": "E77FF9783E833ADAF75F5D18EF0269E34B19F93D732D8D6042F54BCEB580A3C5"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_metallic_roughness.jpg",
+        "bytes": 1314311,
+        "sha256": "40862A683639C1C0E814E44B65C8B2F6BCD377FD8163112015C1819399035B22"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_metallic_roughness.jpg.import",
+        "bytes": 1130,
+        "sha256": "010FC1F96F59D511C30D6D312DF4755573838B390D79DCF1E67014A58B40C221"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_metallic_roughness.png",
+        "bytes": 1896186,
+        "sha256": "D76591CCF594FE26D09C6F71E723FFD1A61F99F6E8144D54A5E5D183B31DF827"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_metallic_roughness.png.import",
+        "bytes": 1081,
+        "sha256": "4C3CF383F76978FBB84A83842F2CDAAF573EB84DCFA5F7BE42BA9A34A67649AC"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_normal.jpg",
+        "bytes": 2479003,
+        "sha256": "4AF6BEA64C8E7DA4B3A8F4DB31866DD9F23F47EECF025D5B1CBC926C5D45AD3A"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_normal.jpg.import",
+        "bytes": 1141,
+        "sha256": "DA6214C15E11FB7EB1C3D83A2E024D29C08C3FEBE0902328D54633DBE9E9D3CC"
+      },
+      {
+        "path": "assets/characters/f04_deadfall_presentation.json",
+        "bytes": 1722,
+        "sha256": "D5AB449C3D0C817B32737898D4E5C8E0DB5257895825E427EB160144C2BF92E4"
+      },
+      {
+        "path": "assets/characters/f04_deadfall.glb",
+        "bytes": 13061832,
+        "sha256": "ACA25B607175A072966AEB5B07D403BF69253DB766FC3BFD93AAD52505BE1FCA"
+      },
+      {
+        "path": "assets/characters/f04_deadfall.glb.import",
+        "bytes": 1169,
+        "sha256": "0303DE13994F71D47B7C3BA2452F7EDB4ACC8E6C32995C0E1B77E3EDD82C7D30"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_base_color.jpg",
+        "bytes": 3073015,
+        "sha256": "CFA94DDA0AB91B6EC01BEF1D6C4AF6137ED14CAB2C2FABB09AA9C9A4D3246C4C"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_base_color.jpg.import",
+        "bytes": 1112,
+        "sha256": "8B987B6FD4E6A58C5272CC791F25D4AE4ADC058C567A31799BF526B760CAA9D7"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_low_base_color.png",
+        "bytes": 1449521,
+        "sha256": "CA8D34DBEA10BCFACD4F1139B4D56F6F39581F6E49AF4B2407266A95E80B12B7"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_low_base_color.png.import",
+        "bytes": 1124,
+        "sha256": "4B69B7284313B738EE999BB23CDA1458D09CCF0C6F0C3A4C933D5FDE32832B89"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_low_metallic_roughness.png",
+        "bytes": 573655,
+        "sha256": "5C83D92602D1473FCD5657DC94BB817245D03F9292D0F3AACDCF26B46BFF6A67"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_low_metallic_roughness.png.import",
+        "bytes": 1148,
+        "sha256": "EB6C9F2D14DFFDCC89D0FD9E234C4AF331837577E40FF095C1E3888DEC1FC54B"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_low_normal.png",
+        "bytes": 1026230,
+        "sha256": "041BF11630FD74FA6303FB84A203D8DFBD5143F7F6C9FC15234F0131B202C5FA"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_low_normal.png.import",
+        "bytes": 1165,
+        "sha256": "219AF45B00196F483B8B03D6AC8DB43D85800E13B57667B6F4D2B97FC93D4D8E"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_low.glb",
+        "bytes": 8690764,
+        "sha256": "A2CE9E46A1EB8EA1251E435BD76886561F98E04D3146BB2F57544BDCD166F32D"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_low.glb.import",
+        "bytes": 1186,
+        "sha256": "6F6876AC64B536D329D3C72A117BC43E966C8A5DCA800D310787F4891E074ACB"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_metallic_roughness.jpg",
+        "bytes": 1152660,
+        "sha256": "A9C081CBE039EBACDF4535ECC04BB5F32959E4A7C1C96A531E96B4EE4E6DEA3E"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_metallic_roughness.jpg.import",
+        "bytes": 1136,
+        "sha256": "7871F478EC514AB29ABB156FB1E9A1BEB3AD93ADDF70EA1778013DFEC9FDF765"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_metallic_roughness.png",
+        "bytes": 1610185,
+        "sha256": "A65A9B8B930900E723BDDA54B2F9F8473C6597041F845E67AF73629A455520F6"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_metallic_roughness.png.import",
+        "bytes": 1086,
+        "sha256": "4AA05AC16D17B2AD0D40F3AFD87B2B6A592C183A2614E284A68296FFFC19473D"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_normal.jpg",
+        "bytes": 2120038,
+        "sha256": "D1277E51B79A3F132B5651A59A6FA59F6EA15F3FA4C9969E7E904F989114E40B"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_normal.jpg.import",
+        "bytes": 1149,
+        "sha256": "761981FCDCEC1FDB7C16636FE3B631C4FA9E287948A938A08078AD7702653007"
+      },
+      {
+        "path": "assets/characters/f05_fine_print_presentation.json",
+        "bytes": 1721,
+        "sha256": "50D6542EDC85316805928622E0DAB16E0BBB27F4C6D6D5A1650F3E141955C4F5"
+      },
+      {
+        "path": "assets/characters/f05_fine_print.glb",
+        "bytes": 11987072,
+        "sha256": "159A90E7C6B7654ED92CAEDBD41635D1D827B5B57D4A9AFC5C75E78C332802EB"
+      },
+      {
+        "path": "assets/characters/f05_fine_print.glb.import",
+        "bytes": 1175,
+        "sha256": "B66454A6621961A20DE63C888B9D7327920D48987797BFEBF8EED4E73C425EA1"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_Image_0.jpg",
+        "bytes": 4055609,
+        "sha256": "0ECD184F7423706983C4EA3596D0EA0CC7643AFF38C492386247F8347016D5EA"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_Image_0.jpg.import",
+        "bytes": 1118,
+        "sha256": "A75885A50046FF422BB0CD63856795A86BC733EC7376E63F20AFAD770BF5C663"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_Image_1.jpg",
+        "bytes": 1615940,
+        "sha256": "A63BED6C5ED965FC4131D83B5A533D8116751AD3FF0C2EE6E00978A7F98E9603"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_Image_1.jpg.import",
+        "bytes": 1117,
+        "sha256": "F6541540E5CD55C0AE2A770B5F37A3C258EE764FE2E5CBB671861A4BC74B0E68"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_Image_2.jpg",
+        "bytes": 2986604,
+        "sha256": "E1B5BA8E4E41A730CE835F02B2AC5D7D83013D58AD269AF3D5E05AC4A9FD4799"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_Image_2.jpg.import",
+        "bytes": 1172,
+        "sha256": "16354938D0E8C28C7907D2CD0E6EBB8A2F1428DB378758502DEC12457CCAC460"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_low_Image_0.png",
+        "bytes": 2026887,
+        "sha256": "21D13EC3D18CFEC62E1721DBBEBE907E2E7CCCE0E88FDD1045AD12D5BCE15A9A"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_low_Image_0.png.import",
+        "bytes": 1130,
+        "sha256": "59AD4290001FAAAF09CAEF851C83CDEAFCBA67F55B68C9D5F0F3702B19AAB9AA"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_low_Image_1.png",
+        "bytes": 801177,
+        "sha256": "150C391885D066FCFDE6697E303F32E0FCF828F437B7D1CD5027D4483803CE68"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_low_Image_1.png.import",
+        "bytes": 1130,
+        "sha256": "890E6575FB9885B5E0C94190D496BC2A0B0FF6344944F89505C3A02A198BD26D"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_low_Image_2.png",
+        "bytes": 1392323,
+        "sha256": "D1FDFB81B8E3D84FFAC7C096F7A4C1A4AF4F9B220677BB1A8FA3876400AF73F1"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_low_Image_2.png.import",
+        "bytes": 1188,
+        "sha256": "4E837584B8A6C0BC06A3AFED27DF2F5AB2DC702D592CB175FD9F53A3CC6AD36D"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_low.glb",
+        "bytes": 10260444,
+        "sha256": "943F52DD78BAA9E183861D8EAFB44BD7B70FD62F8B82D033C2D9BAE089912AF4"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_low.glb.import",
+        "bytes": 1201,
+        "sha256": "B0C2D6549A9258C09DE41559CE62854ADEECDCD654BDB54A80C70856980535E7"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer_presentation.json",
+        "bytes": 1722,
+        "sha256": "69AB9AC54D6E44B10B4B53ABE0537372A10035C8D9C9A0D2340E81B9F1D6853F"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer.glb",
+        "bytes": 14703972,
+        "sha256": "D156747542C439A3F0EC051FC065348C4FB651D6626C4D9A819583559843F8B5"
+      },
+      {
+        "path": "assets/characters/f06_rugged_explorer.glb.import",
+        "bytes": 1190,
+        "sha256": "9211A60A02E46554E9584188CF1D4965A8C54DCCC807018F136950B0E4C776D8"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_Image_0.jpg",
+        "bytes": 3462334,
+        "sha256": "582C3FB757D660E5E84D70FD2BE7655AB770839A2F5D6A1CAF76F9F05F0F51BB"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_Image_0.jpg.import",
+        "bytes": 1114,
+        "sha256": "4A0ECBC73061A32A6FE355790820E6926F0B43A6423AEE7EC2BABD8DE5A71C5C"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_Image_1.jpg",
+        "bytes": 1719058,
+        "sha256": "C4906CC37BFCEE7B8304BB4524D37E00C59825ED8F5806135CB3160DF1748755"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_Image_1.jpg.import",
+        "bytes": 1114,
+        "sha256": "BBF05079C8401C82083CD877078C3CAB731DC9AFBB30BADE201AA9D3119F6774"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_Image_2.jpg",
+        "bytes": 2466615,
+        "sha256": "55A6F84B7FB3B569C42CEE3797ECDB04FD2CF17B55AC8DDDB057A8013F66F3AD"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_Image_2.jpg.import",
+        "bytes": 1169,
+        "sha256": "F457D5D33B0D36061D2060E38E584B09E90512163DBB382D979797732F8C576E"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_low_Image_0.png",
+        "bytes": 1706925,
+        "sha256": "1A2BB93BE53E967CD20FE3CF65ABE8F0157D74D0A266F0EF870C271C515391C2"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_low_Image_0.png.import",
+        "bytes": 1127,
+        "sha256": "4FC865419948F446BD79BB41277097EA877537A5704C59C4F45B21A476B28DE5"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_low_Image_1.png",
+        "bytes": 836789,
+        "sha256": "634A5E1F515C569CF85ADED83300F9D9C1CE1C697A37AAF69013B271D288B09F"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_low_Image_1.png.import",
+        "bytes": 1127,
+        "sha256": "C2893AF272893B41451E9372E983C2592DB402BE86BB9073F4EA416C63F28906"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_low_Image_2.png",
+        "bytes": 1192513,
+        "sha256": "DA2BF75C77194D1101D2A5BD0FB1A18819C49518D87D460BAC1371CC1904B062"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_low_Image_2.png.import",
+        "bytes": 1184,
+        "sha256": "05F9F38976A6D07383F23DC9B919ADAAFBD954727F765BE71D67A29ED973E4EC"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_low.glb",
+        "bytes": 9372292,
+        "sha256": "75E58BF9370425EF53135D800C02862D8126BFB6A24DCA0D929032D4E33D3FF6"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_low.glb.import",
+        "bytes": 1199,
+        "sha256": "BDA0AF83E83D3996654606CA0D92A7846E85B9C173740A3195991607352A7345"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel_presentation.json",
+        "bytes": 1725,
+        "sha256": "55C33782B431AB0D7217144978803E9C2104F4FBAFD064637A052B6067D1528D"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel.glb",
+        "bytes": 13288684,
+        "sha256": "2EA550946ADA0A8B557FAD8558D6B00D00AC28C6407E2814E1135C04E239F2E0"
+      },
+      {
+        "path": "assets/characters/f07_urban_sentinel.glb.import",
+        "bytes": 1186,
+        "sha256": "E04D6BEA8DCA66E0B008F1F9E2699F63F818A9691E845724601176DD2484D7F4"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_Image_0.jpg",
+        "bytes": 3050915,
+        "sha256": "B2CDFB139148BDE1A58E0CE96EE82A542432813C58C700690B1C04112692E5DF"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_Image_0.jpg.import",
+        "bytes": 1127,
+        "sha256": "09BF95BCBA6BBBBD362CBD226D079DE19BC46405083307A45D2357A3AEDA816A"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_Image_1.jpg",
+        "bytes": 1550421,
+        "sha256": "952ECB061EE909F1F6D158D82FE41EA5A64F8A0A471AF80219F8A7B7543A31FD"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_Image_1.jpg.import",
+        "bytes": 1127,
+        "sha256": "9B04B6CE8335D237378AFEB78F628E2B0244B46B28118564974EA165678D1ACF"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_Image_2.jpg",
+        "bytes": 2182927,
+        "sha256": "66356BCBC07ABB667BD73EA835C78617F06B75E502714241D023E6924F33C763"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_Image_2.jpg.import",
+        "bytes": 1185,
+        "sha256": "C385F28693158B3DFC6D2B70BDE77FF12801E37AF4A7F615BC41B6CD2A6D2306"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_low_Image_0.png",
+        "bytes": 1545027,
+        "sha256": "D9ACD9721BC7D0BCC7AD0766FD6CBDB246713A5966D632FD1F27D603DCF72603"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_low_Image_0.png.import",
+        "bytes": 1139,
+        "sha256": "8E8BF56A49CA435095D514709201171BDD616DA8858BE003CE85748A256B4A02"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_low_Image_1.png",
+        "bytes": 777669,
+        "sha256": "8E8FE86735FB233CB3061EF3D932AF008C5C5A307514B817E3051A28FD8469D5"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_low_Image_1.png.import",
+        "bytes": 1138,
+        "sha256": "B0D38C0F34C0213C529B26F249F31CAAC92CFC713443DEBD1306A1CA12C68A67"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_low_Image_2.png",
+        "bytes": 1092591,
+        "sha256": "1B30D46F9CF9193F188088E67CDF4FC5706A61B8517EA91FD74BBD7DEDF07F33"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_low_Image_2.png.import",
+        "bytes": 1201,
+        "sha256": "067284EC2B27552478257A3A5F4DC0E1143C1ABA4D48C13F26CCEA2CCCDF9216"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_low.glb",
+        "bytes": 9114620,
+        "sha256": "FEBA2A0676D9E098033122069A9981BE743E2960B317A0A426E0DC28F5BE7348"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_low.glb.import",
+        "bytes": 1211,
+        "sha256": "684C9E9B54B461DA50825A1F48BE066A29CC2F7F7FBAED713BEBE56DDCE6D8E4"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman_presentation.json",
+        "bytes": 1722,
+        "sha256": "4E7DCF47DA9F4C0E4E08F9609B56F0CFE074E9647A7672782CB0077D5D976AC7"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman.glb",
+        "bytes": 12484648,
+        "sha256": "1012A8D2D0E4F74E4212657FF581A58402AD2907F06DA93397F1A12975EFC6B4"
+      },
+      {
+        "path": "assets/characters/f08_midnight_gentleman.glb.import",
+        "bytes": 1199,
+        "sha256": "D37F3F5B9A6BCCE63664218E5BDCCC5FA5135C3B3790FDA62A45A754CE735DC7"
+      },
+      {
+        "path": "assets/environment/dusk_city.png",
+        "bytes": 2231154,
+        "sha256": "2E9B3CA0E1166D804E3EA28915884D9302874FDBBBD6A4C1CFDCE3EE9DD3F9A9"
+      },
+      {
+        "path": "assets/environment/dusk_city.png.import",
+        "bytes": 949,
+        "sha256": "AF0BD422694E7D49A0E684D2DDD3DA6E47B97F96F60CFE1A60C4FFAB0FD73AE9"
+      },
+      {
+        "path": "assets/lunar_reach/crater_horizon_generation.json",
+        "bytes": 2219,
+        "sha256": "0E7C8631622E0DC170ED68928C2F137988730EA525B32DF0A7BEB3F05F82BBE2"
+      },
+      {
+        "path": "assets/lunar_reach/crater_horizon.png",
+        "bytes": 2795497,
+        "sha256": "13AFE50D204517D4F692E029629A89F3F4833634CA2695A29C08D2B46A99B11F"
+      },
+      {
+        "path": "assets/lunar_reach/crater_horizon.png.import",
+        "bytes": 965,
+        "sha256": "AD93650970064F066F3C9A26B2FCB2831FFAB6B739DA46A3A645DEE30C3F2411"
+      },
+      {
+        "path": "assets/lunar_reach/earth_blue_marble.jpg",
+        "bytes": 593729,
+        "sha256": "FB67AC030214C1891994C8F976E7F6C9CD5B0F21586ABA8567250781A4FE708E"
+      },
+      {
+        "path": "assets/lunar_reach/earth_blue_marble.jpg.import",
+        "bytes": 973,
+        "sha256": "83E5C34821C8CE4836A5B958675F9E0BC05C608E398837489DC0151548DDE7C4"
+      },
+      {
+        "path": "assets/portraits/engine.png.import",
+        "bytes": 939,
+        "sha256": "E813EFBC6D00D769FDA66300A6FBED413526EF7AF07AEDDEA67C9B08D96DE574"
+      },
+      {
+        "path": "assets/portraits/f01_clutch.png",
+        "bytes": 743373,
+        "sha256": "3B212E9EA4589DE004C5935573F4AA9E9C7DA620BA4B21D0ED7A043533377396"
+      },
+      {
+        "path": "assets/portraits/f01_clutch.png.import",
+        "bytes": 950,
+        "sha256": "990718521C512EEC91EFD42A1B759C03755E5C9D28268F87AF7E97BEDC5454E6"
+      },
+      {
+        "path": "assets/portraits/f02_sunstruck.png",
+        "bytes": 910144,
+        "sha256": "6D570F868C587C06DB7CF185A87F23964ED8F82DA5D97787199E0977E8E6CCBC"
+      },
+      {
+        "path": "assets/portraits/f02_sunstruck.png.import",
+        "bytes": 960,
+        "sha256": "B741C0D1CEA9E81BB558E70094602DBF9D0067F80245B005603486F39D7D932A"
+      },
+      {
+        "path": "assets/portraits/f03_heavy_duty.png",
+        "bytes": 913531,
+        "sha256": "C8A51B9C255ADE549172EFE8A1CA61E637BCF62157057CFBCA29D2070E879104"
+      },
+      {
+        "path": "assets/portraits/f03_heavy_duty.png.import",
+        "bytes": 963,
+        "sha256": "76B8A86D1D5D3837CDB46CD9088EEEF2AB06CC3BF77CD7739EA3E59529E8FA6F"
+      },
+      {
+        "path": "assets/portraits/f04_deadfall.png",
+        "bytes": 844069,
+        "sha256": "1BEBB7DF44E30180A0A5601B0C425CDD70CA4F7ADC6A74B1CBAEC8CE8BD9D37A"
+      },
+      {
+        "path": "assets/portraits/f04_deadfall.png.import",
+        "bytes": 957,
+        "sha256": "3289EF991D02435D63520149F98B9C226168FAA8CCF2E73ED46CF32D86C0FDB5"
+      },
+      {
+        "path": "assets/portraits/f05_fine_print.png",
+        "bytes": 753676,
+        "sha256": "50D212A4E1A9A2D878A1E14770D06E6448AB9DAB5C0DEEFD5C6701E6106706A1"
+      },
+      {
+        "path": "assets/portraits/f05_fine_print.png.import",
+        "bytes": 962,
+        "sha256": "4F9F79C526794EED208029898463A1B5E736AB6DB7B771EF9DFEBA3410F57ABB"
+      },
+      {
+        "path": "assets/portraits/f06_rugged_explorer.png",
+        "bytes": 845910,
+        "sha256": "31AA0C6F99B58C9DED5AEB784BDD31AEA6570CAF43E438140505FBBE278E2C55"
+      },
+      {
+        "path": "assets/portraits/f06_rugged_explorer.png.import",
+        "bytes": 977,
+        "sha256": "B8C54267E7F6D9A42FA69B77C575AAE5EE6FFA1289ECF449BA27A846AC5037CD"
+      },
+      {
+        "path": "assets/portraits/f07_urban_sentinel.png",
+        "bytes": 790127,
+        "sha256": "DBC1C16D651599F719C773FD72687F7A25C845DBC00ABBDE691B479274478872"
+      },
+      {
+        "path": "assets/portraits/f07_urban_sentinel.png.import",
+        "bytes": 974,
+        "sha256": "499F3E158D67DF4A2CF9A899E29C04AFDBC250C71F16780DED49BB9A10A147CE"
+      },
+      {
+        "path": "assets/portraits/f08_midnight_gentleman.png",
+        "bytes": 791799,
+        "sha256": "970B83EAFCC416A54258F39E0E08BD5083C05338F93789DA708E0DAE12863EC4"
+      },
+      {
+        "path": "assets/portraits/f08_midnight_gentleman.png.import",
+        "bytes": 986,
+        "sha256": "7955FB38767B68D8A61BFF814AE4463DD70E302934BB3C3FA1AF53EEB3AEE3DF"
+      },
+      {
+        "path": "assets/props/branch.glb",
+        "bytes": 265320,
+        "sha256": "9153370C1B78AC4F44C6D05CA279AE2A996695CFEDE5522961EA9E60404500E5"
+      },
+      {
+        "path": "assets/props/branch.glb.import",
+        "bytes": 1146,
+        "sha256": "453693E865A86EEAFC6B6ED18B935DA95FBF959B6AC621EE5186D874C3E69CF2"
+      },
+      {
+        "path": "assets/props/chair.glb",
+        "bytes": 124540,
+        "sha256": "86F95528F114AC1CD09EBCA6B941A8396C96E472D90B5255EDC450C5CB44FC75"
+      },
+      {
+        "path": "assets/props/chair.glb.import",
+        "bytes": 1142,
+        "sha256": "18D4E9C7ED0890C27A90DC22F7E5BD3F0B50A9C70054FDF790B36775FA409610"
+      },
+      {
+        "path": "assets/props/clipboard.glb",
+        "bytes": 53940,
+        "sha256": "289332060D983B3AEB002B0F1947B031AA449DC9BDDDF2F34D94487D8F963B5F"
+      },
+      {
+        "path": "assets/props/clipboard.glb.import",
+        "bytes": 1154,
+        "sha256": "D178FDD1BA296F23741B94D8CD2D06C9F26EDD2B3AC44073BCE45C48461A9CC4"
+      },
+      {
+        "path": "assets/props/log.glb",
+        "bytes": 229544,
+        "sha256": "6ADFE67A657887EA5B07D0C6220C77AC2B7CBA61B2422DCD04A4EBFA9D93434A"
+      },
+      {
+        "path": "assets/props/log.glb.import",
+        "bytes": 1137,
+        "sha256": "6114DCECAD28DAD15EA25E30F496D7E12A66E8F393BBF34CC615F06852BDA335"
+      },
+      {
+        "path": "assets/props/plank.glb",
+        "bytes": 89144,
+        "sha256": "2D22341722D21B8BD3F82316F438FADFC28AAC3055E80160FED8D258ED55AF28"
+      },
+      {
+        "path": "assets/props/plank.glb.import",
+        "bytes": 1143,
+        "sha256": "374551352B9BE8DAF2A4931228CBF9C471350829B8572CA7161028D003812E07"
+      },
+      {
+        "path": "assets/props/reflector.glb",
+        "bytes": 95652,
+        "sha256": "0738AD4B1485F608A1A5069FF8207C49F768FC8544E2F0D5793381E5F58C4FCA"
+      },
+      {
+        "path": "assets/props/reflector.glb.import",
+        "bytes": 1155,
+        "sha256": "A0662AAAD3D11822B9850E53EB43834A5579F37137D338589AB321B8C73E5EB2"
+      },
+      {
+        "path": "assets/props/solar_disc.glb",
+        "bytes": 157012,
+        "sha256": "FC9599B2E74FE4CBADB7F56C6693F11C6BEEA1616C082DF27940864C86017DBA"
+      },
+      {
+        "path": "assets/props/solar_disc.glb.import",
+        "bytes": 1158,
+        "sha256": "CFB55C0ADE659B15FCD69C5AF9743487F8AFA8B80BE9A7F07C0E1FAB23E6478B"
+      },
+      {
+        "path": "assets/props/tree.glb",
+        "bytes": 273444,
+        "sha256": "30DC21077C7EA06D1DE08B8403E21CF546C243DB85AE709D51A8F1892AA17D1A"
+      },
+      {
+        "path": "assets/props/tree.glb.import",
+        "bytes": 1139,
+        "sha256": "30134408056A7E7CCFA685CFE8D1E517A2462B94CC881193E88B732FB606378F"
+      },
+      {
+        "path": "assets/stage/center_platform_brass_color.png",
+        "bytes": 616320,
+        "sha256": "6500C34031D358D3814FAB40B50211AB9E4174745447AFCF09F6832403276ECF"
+      },
+      {
+        "path": "assets/stage/center_platform_brass_color.png.import",
+        "bytes": 1064,
+        "sha256": "21D459ADCAACAE3667EEFC963886195BCD195662EEC6DBEF74771301C1C6E555"
+      },
+      {
+        "path": "assets/stage/center_platform_brass_normal.png",
+        "bytes": 992141,
+        "sha256": "B9DF6714307D502FC4AC3EF10196CE6A7BCF11C06221458FA4FD73BDD75D0007"
+      },
+      {
+        "path": "assets/stage/center_platform_brass_normal.png.import",
+        "bytes": 1067,
+        "sha256": "2916B7851BF8756A442695BA022A3F25CC8ED828B767DA141F8DF6E9637E0F47"
+      },
+      {
+        "path": "assets/stage/center_platform_brass_roughness.png",
+        "bytes": 494211,
+        "sha256": "51DE98DCD28418F7D4103D3C0EC95CB14443E8BBDA2FBB7B659B4E31EFC54D36"
+      },
+      {
+        "path": "assets/stage/center_platform_brass_roughness.png.import",
+        "bytes": 1075,
+        "sha256": "04DF8BC99F853EDBAF6BE85F1CF72592A2F7198112A67A4D9068EF1331F27A6E"
+      },
+      {
+        "path": "assets/stage/center_platform_slate_color.png",
+        "bytes": 552264,
+        "sha256": "80296E3FED12C93F6FC3373392CA0A5ECA01F8D73F8747906213CF75E75A4B7A"
+      },
+      {
+        "path": "assets/stage/center_platform_slate_color.png.import",
+        "bytes": 1064,
+        "sha256": "2C2A275F30434D7083CA5FDE8438D050F410182BE2008559E6E6900A75D047D0"
+      },
+      {
+        "path": "assets/stage/center_platform_slate_normal.png",
+        "bytes": 1581328,
+        "sha256": "540E0A1E2CACF749AD008EB1E7E974472ABD53521A8E971F1C4564F8933D2090"
+      },
+      {
+        "path": "assets/stage/center_platform_slate_normal.png.import",
+        "bytes": 1067,
+        "sha256": "F588DA2F4015836FC092F266A5960B72DEF01F345112CA2BEE99588EA5678A6F"
+      },
+      {
+        "path": "assets/stage/center_platform_slate_roughness.png",
+        "bytes": 478603,
+        "sha256": "52D5C7D181A7AE203FB4BF37E657AC15B9B7D37C14D997A41857109291ED42FB"
+      },
+      {
+        "path": "assets/stage/center_platform_slate_roughness.png.import",
+        "bytes": 1076,
+        "sha256": "185FE1EC9B38DB13A945604C20F9C630DEE220E27ECD3462EC1D0EB1FBECBB73"
+      },
+      {
+        "path": "assets/stage/center_platform_wood_color.png",
+        "bytes": 591702,
+        "sha256": "8EA39F7F8D1C4E090E5F86916EBB1BEBCB885DC9D2A0EF5AE54D76C7E3E968CD"
+      },
+      {
+        "path": "assets/stage/center_platform_wood_color.png.import",
+        "bytes": 1061,
+        "sha256": "FDAFF3BF6D30F9C904B1F8311249E2F9AC8528D6A68861A3E65C216AFCA73721"
+      },
+      {
+        "path": "assets/stage/center_platform_wood_normal.png",
+        "bytes": 431326,
+        "sha256": "5F9806A4E280E8EF8104B7F1963E4A19D0082D46A23EFF6A0383F2FA0F0DE41F"
+      },
+      {
+        "path": "assets/stage/center_platform_wood_normal.png.import",
+        "bytes": 1064,
+        "sha256": "0B659914BD1376E096B1878BF3679603FAAEB49064077D66CA40A82344835E07"
+      },
+      {
+        "path": "assets/stage/center_platform_wood_roughness.png",
+        "bytes": 300739,
+        "sha256": "2BCEF3B75449B014368082E96985131BE55403EC91844A0C64904F7FF0D5D6B7"
+      },
+      {
+        "path": "assets/stage/center_platform_wood_roughness.png.import",
+        "bytes": 1073,
+        "sha256": "7F63D4F3124CF07D4F644B10E18EA1CA1B46BC381272608F74DF877BE269CC91"
+      },
+      {
+        "path": "assets/stage/center_platform.glb",
+        "bytes": 6172148,
+        "sha256": "E8085401A949B83C9F98B719D521DDDFF67032CAAB9CC262524C4846EA1B0C9F"
+      },
+      {
+        "path": "assets/stage/center_platform.glb.import",
+        "bytes": 1173,
+        "sha256": "3E8A758B470FA4399D3F5619A8CE43FBEB4EEE6ECDCC46F71957952A2E6766CB"
+      },
+      {
+        "path": "assets/stage/party_chair_brass_color.png",
+        "bytes": 162382,
+        "sha256": "34317566C7F628D2AF34925E516A80D9CE6DC4BD9B7F1DCB5749CDBD9264482C"
+      },
+      {
+        "path": "assets/stage/party_chair_brass_color.png.import",
+        "bytes": 1052,
+        "sha256": "7D8096AD661066123549363EFFC02B2B8C1071FDE1DFB199F48EC60C9588D29C"
+      },
+      {
+        "path": "assets/stage/party_chair_brass_normal.png",
+        "bytes": 243755,
+        "sha256": "600DF0A0B2A5A3A1739F6195EDC1EB938E45B071B61EB3CB4120A90595B20177"
+      },
+      {
+        "path": "assets/stage/party_chair_brass_normal.png.import",
+        "bytes": 1055,
+        "sha256": "3B11E687517607E7059B92E4F2C365019F9CF0F9EC1973AF56EE4C37F88499AC"
+      },
+      {
+        "path": "assets/stage/party_chair_brass_roughness.png",
+        "bytes": 126416,
+        "sha256": "EF04293B0F890A23A398C6D1D2D81102FDE4791966214C0004DCEFC8E29D8D68"
+      },
+      {
+        "path": "assets/stage/party_chair_brass_roughness.png.import",
+        "bytes": 1064,
+        "sha256": "4FF3D85D54A7C9BBAD84BA585629291EAA7374C38DFFA20CD090795F7E04B83F"
+      },
+      {
+        "path": "assets/stage/party_chair_linen_color.png",
+        "bytes": 250993,
+        "sha256": "7FFA66E03F963F2F0B877688AB966FE8D2AE79F1BC27C37B76DB773730335D4F"
+      },
+      {
+        "path": "assets/stage/party_chair_linen_color.png.import",
+        "bytes": 1052,
+        "sha256": "8CEB73031CD11D7DC7563B50F6ACE8A9621BC2340C8555A5EFA742691AFBDE98"
+      },
+      {
+        "path": "assets/stage/party_chair_linen_normal.png",
+        "bytes": 159330,
+        "sha256": "1DFD1418213053551C06D06E8396A61B540757929BD8ACFD492D3646B0E70C94"
+      },
+      {
+        "path": "assets/stage/party_chair_linen_normal.png.import",
+        "bytes": 1054,
+        "sha256": "BC7C00B258FD6741AD7F722326B06531D9F59B80766403195C774D54AF12D06D"
+      },
+      {
+        "path": "assets/stage/party_chair_linen_roughness.png",
+        "bytes": 4589,
+        "sha256": "3E754CEE074B0424F40EC6F39D4360657E407D2A56CA56EA0937FDE083A12272"
+      },
+      {
+        "path": "assets/stage/party_chair_linen_roughness.png.import",
+        "bytes": 1064,
+        "sha256": "341B3ADB790F270DCAAF64DA419C388FDC618DF4AA75546F00346C81696A0EFD"
+      },
+      {
+        "path": "assets/stage/party_chair_wood_color.png",
+        "bytes": 225319,
+        "sha256": "C4C756A4E168906B1587281BE63AE0E141794FDD95AC76F4DC3377BE52496E00"
+      },
+      {
+        "path": "assets/stage/party_chair_wood_color.png.import",
+        "bytes": 1049,
+        "sha256": "1564659C1BC2DD252E1CA9250969A92A44DFE89614C3998465BCA96554A3AD2B"
+      },
+      {
+        "path": "assets/stage/party_chair_wood_normal.png",
+        "bytes": 226842,
+        "sha256": "CDAC36A924360A4ECEA6C7766B57969830AA9A2A77C2DD5CE04EB1E7F04F7E6E"
+      },
+      {
+        "path": "assets/stage/party_chair_wood_normal.png.import",
+        "bytes": 1052,
+        "sha256": "3A30030FA7E9A77CE742A3D6150DE6619167C006BF910A7769244444A01A712D"
+      },
+      {
+        "path": "assets/stage/party_chair_wood_roughness.png",
+        "bytes": 94283,
+        "sha256": "21CE63388DE9DBBC544D3CA6711B32D7D71E51BF17252ADA279F918CF8D8D0A7"
+      },
+      {
+        "path": "assets/stage/party_chair_wood_roughness.png.import",
+        "bytes": 1060,
+        "sha256": "7273FAB8FA86DC2C900972A3E388F242B31D0837E80D7214714DE1B8D07D153F"
+      },
+      {
+        "path": "assets/stage/party_chair.glb",
+        "bytes": 1829096,
+        "sha256": "C37368C8D41FB848312010CF2245A886F342A56E7D56E629F38D45A4B3BAA39E"
+      },
+      {
+        "path": "assets/stage/party_chair.glb.import",
+        "bytes": 1161,
+        "sha256": "C4BB708F14EAE088C1DEE496927578045253AC6F6F6E422CC711E012ABB11BF8"
+      },
+      {
+        "path": "assets/stage/stage_bark_color.png",
+        "bytes": 736189,
+        "sha256": "CF252460E5AAEC188C36EF9F942F28595FC5DB99F99C75FE65D76D89D74B0DC1"
+      },
+      {
+        "path": "assets/stage/stage_bark_color.png.import",
+        "bytes": 1031,
+        "sha256": "CF2F09F70BD117122CBFF4CDA2066D33AF65EB2E2429814FB6A333A481CA8312"
+      },
+      {
+        "path": "assets/stage/stage_bark_normal.png",
+        "bytes": 330677,
+        "sha256": "A73012088636741195233CD025FEC1ECAE3C2A6C98939439587826ACA570F677"
+      },
+      {
+        "path": "assets/stage/stage_bark_normal.png.import",
+        "bytes": 1033,
+        "sha256": "B0E02C031D28947AF99E284EF45314FF52F69E31FA378624D30064B5D55AAA4D"
+      },
+      {
+        "path": "assets/stage/stage_bark_roughness.png",
+        "bytes": 181649,
+        "sha256": "E6464C0C11EC4DD67050452008D6E7F58168139B5CD2AFA917139BBBF3C0D4C0"
+      },
+      {
+        "path": "assets/stage/stage_bark_roughness.png.import",
+        "bytes": 1043,
+        "sha256": "6A28B5B9736D257DAB79CE0A28483FB98431C168965E3D64571439E9AAFF7C9C"
+      },
+      {
+        "path": "assets/stage/stage_brass_color.png",
+        "bytes": 616320,
+        "sha256": "6500C34031D358D3814FAB40B50211AB9E4174745447AFCF09F6832403276ECF"
+      },
+      {
+        "path": "assets/stage/stage_brass_color.png.import",
+        "bytes": 1034,
+        "sha256": "48A32A64180E30ED7AAEDFDA1F6C6C1219E7155FCC8AEB2E8412F913E8EEA1E7"
+      },
+      {
+        "path": "assets/stage/stage_brass_normal.png",
+        "bytes": 992141,
+        "sha256": "B9DF6714307D502FC4AC3EF10196CE6A7BCF11C06221458FA4FD73BDD75D0007"
+      },
+      {
+        "path": "assets/stage/stage_brass_normal.png.import",
+        "bytes": 1037,
+        "sha256": "05573957E60464D2A9B7753A832C9CFF0174F6F50E8DB190314836BC2E0AFF83"
+      },
+      {
+        "path": "assets/stage/stage_brass_roughness.png",
+        "bytes": 494211,
+        "sha256": "51DE98DCD28418F7D4103D3C0EC95CB14443E8BBDA2FBB7B659B4E31EFC54D36"
+      },
+      {
+        "path": "assets/stage/stage_brass_roughness.png.import",
+        "bytes": 1045,
+        "sha256": "D3034330F789CC7E0D6EA7798DF5F4CE260FD3C55DC457F1E823AAC0524F8AB4"
+      },
+      {
+        "path": "assets/stage/stage_linen_color.png",
+        "bytes": 812632,
+        "sha256": "843602A9435C44AFD8662580AAD8D3B8F255639D16E7CB151323758FAB550313"
+      },
+      {
+        "path": "assets/stage/stage_linen_color.png.import",
+        "bytes": 1034,
+        "sha256": "C055D8412FB654E79E2A31F302098B3A7DB5E0894252213A2EB29331D6D351A0"
+      },
+      {
+        "path": "assets/stage/stage_linen_normal.png",
+        "bytes": 486781,
+        "sha256": "4449560BCC38413EC4E0A03821310ABD2D6A6DF6C26EF8EFC998D3D6A3427250"
+      },
+      {
+        "path": "assets/stage/stage_linen_normal.png.import",
+        "bytes": 1037,
+        "sha256": "CF21D6515967F7684A9C7D58D12A55B4636664A087451F60A7B069036DA2C779"
+      },
+      {
+        "path": "assets/stage/stage_linen_roughness.png",
+        "bytes": 15961,
+        "sha256": "F5D7BAA947D838E774CBCD277FD82C41279CAB6C561B96C7A8A6D5F1AFDF4D5E"
+      },
+      {
+        "path": "assets/stage/stage_linen_roughness.png.import",
+        "bytes": 1046,
+        "sha256": "0F83574DEBB5B6BF51E8F3F9CBE54C9D1AEBE0B816AA523B5C75C9F01B8AD82C"
+      },
+      {
+        "path": "assets/stage/stage_slate_color.png",
+        "bytes": 552264,
+        "sha256": "80296E3FED12C93F6FC3373392CA0A5ECA01F8D73F8747906213CF75E75A4B7A"
+      },
+      {
+        "path": "assets/stage/stage_slate_color.png.import",
+        "bytes": 1034,
+        "sha256": "F7C05775554B46D6AF559903BF9C402F19A100487EB6566D56D588E89E7B894D"
+      },
+      {
+        "path": "assets/stage/stage_slate_normal.png",
+        "bytes": 1581328,
+        "sha256": "540E0A1E2CACF749AD008EB1E7E974472ABD53521A8E971F1C4564F8933D2090"
+      },
+      {
+        "path": "assets/stage/stage_slate_normal.png.import",
+        "bytes": 1037,
+        "sha256": "E5028CD862AA836EACA2D92DA888447405FC37604C103837CA403BFC22FE9DD6"
+      },
+      {
+        "path": "assets/stage/stage_slate_roughness.png",
+        "bytes": 478603,
+        "sha256": "52D5C7D181A7AE203FB4BF37E657AC15B9B7D37C14D997A41857109291ED42FB"
+      },
+      {
+        "path": "assets/stage/stage_slate_roughness.png.import",
+        "bytes": 1046,
+        "sha256": "9D700C2B7DA9C986033D0AC6EFF7665E1E969A2766C20A41162B36F2941ACEFC"
+      },
+      {
+        "path": "assets/stage/stage_stone_color.png",
+        "bytes": 988007,
+        "sha256": "29D3CDB08CE5997D5C7052F5BD6ACC320B7D8F20E34C0F134BA4636D2C17F641"
+      },
+      {
+        "path": "assets/stage/stage_stone_color.png.import",
+        "bytes": 1034,
+        "sha256": "28563E85974F46FF83B1EC6C7C1DAD046B1E8539E0438586768709F0451E1F3D"
+      },
+      {
+        "path": "assets/stage/stage_stone_normal.png",
+        "bytes": 1582829,
+        "sha256": "2317F1CE32BC9C5F35E0D0785B416BB31E6401289A148D78B57A3F881CECE8C8"
+      },
+      {
+        "path": "assets/stage/stage_stone_normal.png.import",
+        "bytes": 1036,
+        "sha256": "92D62A3E5F11660FEC99901856C4A25E34A55EC18508D7C7BB901FD971AFA233"
+      },
+      {
+        "path": "assets/stage/stage_stone_roughness.png",
+        "bytes": 477530,
+        "sha256": "9DCCED0772B8118D4E0B10CEE07A29A37545F497E02B6A14AB3C1BD9A7F278AC"
+      },
+      {
+        "path": "assets/stage/stage_stone_roughness.png.import",
+        "bytes": 1045,
+        "sha256": "021209166B790D2CC45222FA298FFC0D3349709522621940FBECB7B877CEC847"
+      },
+      {
+        "path": "assets/stage/stage_wood_color.png",
+        "bytes": 591702,
+        "sha256": "8EA39F7F8D1C4E090E5F86916EBB1BEBCB885DC9D2A0EF5AE54D76C7E3E968CD"
+      },
+      {
+        "path": "assets/stage/stage_wood_color.png.import",
+        "bytes": 1031,
+        "sha256": "DC5079C3B9CA709974BD5BD517A0029100C01F5C1EB93048E542BD1151CD15FC"
+      },
+      {
+        "path": "assets/stage/stage_wood_normal.png",
+        "bytes": 431326,
+        "sha256": "5F9806A4E280E8EF8104B7F1963E4A19D0082D46A23EFF6A0383F2FA0F0DE41F"
+      },
+      {
+        "path": "assets/stage/stage_wood_normal.png.import",
+        "bytes": 1034,
+        "sha256": "A25E8994EF99F888DB1C03F585642526A5C6BAF60E8E37D662F75328C500DE12"
+      },
+      {
+        "path": "assets/stage/stage_wood_roughness.png",
+        "bytes": 300739,
+        "sha256": "2BCEF3B75449B014368082E96985131BE55403EC91844A0C64904F7FF0D5D6B7"
+      },
+      {
+        "path": "assets/stage/stage_wood_roughness.png.import",
+        "bytes": 1043,
+        "sha256": "FF3D565B40315EA4D5D50AD5DFAE281AC9940F091143ACAF50A4B08199242D21"
+      },
+      {
+        "path": "assets/stage/stage_wood2_color.png",
+        "bytes": 709911,
+        "sha256": "A1E5400F2F9AE8F813BA668748F820F1FFAF896B754A7E4C406D0EEA90776727"
+      },
+      {
+        "path": "assets/stage/stage_wood2_color.png.import",
+        "bytes": 1034,
+        "sha256": "38BAF9F0ED500C3F9F82643FA4E8FBF64B0D1D69E2BBDE8E4C26ADB037133CD6"
+      },
+      {
+        "path": "assets/stage/stage_wood2_normal.png",
+        "bytes": 389659,
+        "sha256": "4FD8C670187434ED0C18B89124891169109FE3153A86EADD85AFD4B13DE96761"
+      },
+      {
+        "path": "assets/stage/stage_wood2_normal.png.import",
+        "bytes": 1036,
+        "sha256": "4FCE310C640E37AA13B44CD3DD29870443F0C77731027F21E02DCBA0BD1F7EDD"
+      },
+      {
+        "path": "assets/stage/stage_wood2_roughness.png",
+        "bytes": 252638,
+        "sha256": "A9582C3E603C13404BF57E8A141C4EBF7C0BB925DF35E252CA7E3CF085CF2D68"
+      },
+      {
+        "path": "assets/stage/stage_wood2_roughness.png.import",
+        "bytes": 1046,
+        "sha256": "28FFF1EED224395E349AFF04B932C3CD2C01FF1DAC07B46D8CD74968820ED6A0"
+      },
+      {
+        "path": "assets/stage/stage.glb",
+        "bytes": 36105472,
+        "sha256": "C9A05E733B0A45EC2CF77B561E97AB455721C6BCC4D267387E7B0798E1077F1D"
+      },
+      {
+        "path": "assets/stage/stage.glb.import",
+        "bytes": 1143,
+        "sha256": "FD3927B7420A7A40315B1B1E29FA999CC663D22D5BB0C9754A9320540C33C3D8"
+      },
+      {
+        "path": "characters/definitions/_builder.gd",
+        "bytes": 5055,
+        "sha256": "738363DF978FB0656A65E385964F8F5F53DAABB1284010CF86D4A496E6F642E2"
+      },
+      {
+        "path": "characters/definitions/_builder.gd.uid",
+        "bytes": 20,
+        "sha256": "2E4875B6FEC7269EF4083C7EC85FD3BDD90DE893FB0D2751BD9CD7B597E25E50"
+      },
+      {
+        "path": "characters/definitions/f01_clutch.gd",
+        "bytes": 5149,
+        "sha256": "ACB22B79988C312B1580575DFE97E443CB1D13EAF0672924030DD84D8B186F9A"
+      },
+      {
+        "path": "characters/definitions/f01_clutch.gd.uid",
+        "bytes": 20,
+        "sha256": "C3F82C1E8283875ED2F654388DC393EA5142154FFFB2FCA6A68C36C0510C53FB"
+      },
+      {
+        "path": "characters/definitions/f02_sunstruck.gd",
+        "bytes": 5030,
+        "sha256": "5E0A1AF58DEAF44B7712E9A3B95D9F151656745438EE6B7346CB66D4D194FE6E"
+      },
+      {
+        "path": "characters/definitions/f02_sunstruck.gd.uid",
+        "bytes": 19,
+        "sha256": "398D8BDBD2DA813C18E18E96CF22E951703AC2CA49FA08602E415B8909B84A53"
+      },
+      {
+        "path": "characters/definitions/f03_heavy_duty.gd",
+        "bytes": 5458,
+        "sha256": "AE4E28CF55563CA8B3DC96BD629ECA732F09B85286D40F34F1616ADA36264AA4"
+      },
+      {
+        "path": "characters/definitions/f03_heavy_duty.gd.uid",
+        "bytes": 20,
+        "sha256": "12CD4DEC1638BD8377638E1837764BAB60310C3FCDCDB8FE3EAC0DF0C2ECE8B9"
+      },
+      {
+        "path": "characters/definitions/f04_deadfall.gd",
+        "bytes": 5196,
+        "sha256": "C7A33DD8DD16C68FEF9B92E291C2801A4920B2C6A60800F7FBB13B99A7A7C21B"
+      },
+      {
+        "path": "characters/definitions/f04_deadfall.gd.uid",
+        "bytes": 20,
+        "sha256": "228741983F476E15773F194C28146CC48AE8D9286DEF982E83BD3FFA9DC4BFB5"
+      },
+      {
+        "path": "characters/definitions/f05_fine_print.gd",
+        "bytes": 5918,
+        "sha256": "A42EAC1D24F4CEE3AF3C27BD80DFA39E137DFFC946462F8EA74AAAC1E4EF1398"
+      },
+      {
+        "path": "characters/definitions/f05_fine_print.gd.uid",
+        "bytes": 19,
+        "sha256": "8DDA6C7E02DF60C2005B2811C416B0DB0942DBACF14FB2ACAF38084AEBA7C267"
+      },
+      {
+        "path": "characters/definitions/f06_rugged_explorer.gd",
+        "bytes": 5024,
+        "sha256": "5ADCC5C5B8CCD0DF55CDF164F032778742F6FC07ECD648D47604B7E570B2C5E7"
+      },
+      {
+        "path": "characters/definitions/f06_rugged_explorer.gd.uid",
+        "bytes": 20,
+        "sha256": "DEC3355AD196D2B520A6C357C8A3979A6B3E8393843EFC4FFBE1CCDB730C8916"
+      },
+      {
+        "path": "characters/definitions/f07_urban_sentinel.gd",
+        "bytes": 4818,
+        "sha256": "C8D6168D5EEFBF305C94C2C1573A4447FCFAAA395A77B132881A6513D0FB0769"
+      },
+      {
+        "path": "characters/definitions/f07_urban_sentinel.gd.uid",
+        "bytes": 20,
+        "sha256": "B3CBE0A8BA68504B55911F0D88864B760FEE77866877B42A4BDA96DD0858C756"
+      },
+      {
+        "path": "characters/definitions/f08_midnight_gentleman.gd",
+        "bytes": 4998,
+        "sha256": "4F9A969F7810470AD9B8C52CEED03BB28B27B1119B07147555286745D923DC31"
+      },
+      {
+        "path": "characters/definitions/f08_midnight_gentleman.gd.uid",
+        "bytes": 20,
+        "sha256": "E908A766A7F508392AD95638D1DA080AEDDEB8F375EB458DD7BA83D00FED6CFD"
+      },
+      {
+        "path": "characters/fighter_definition.gd",
+        "bytes": 2998,
+        "sha256": "BD74AEEC58C255439D652E63ADF2FEBA862641E277255AFD35DE7887214F8340"
+      },
+      {
+        "path": "characters/fighter_definition.gd.uid",
+        "bytes": 19,
+        "sha256": "117BC96DCBF4C2509ECE965253C41DE7C443F0F3423B732D51470F278408B0DD"
+      },
+      {
+        "path": "characters/fighter_foot_plant.gd",
+        "bytes": 5428,
+        "sha256": "9158CBF2431800C8BE715FF79BE4FCC2DEDA84EA25F840C3968328399FFDEA0C"
+      },
+      {
+        "path": "characters/fighter_foot_plant.gd.uid",
+        "bytes": 20,
+        "sha256": "B21B6464D20F9DB885B2D8D211140596C6F7761329238A2BF73D773416ECE0C3"
+      },
+      {
+        "path": "characters/fighter_presentation_profile.gd",
+        "bytes": 3001,
+        "sha256": "74CACBD9B6291CCB3D26305F790CF1600D08FFEDC6EEE50A6D5155C7EC0BD467"
+      },
+      {
+        "path": "characters/fighter_presentation_profile.gd.uid",
+        "bytes": 19,
+        "sha256": "D30972DEAA0C932B37C0931F33FAC0E20BFAA917124A1F8103F0B2A601359ED4"
+      },
+      {
+        "path": "characters/fighter_visual.gd",
+        "bytes": 8111,
+        "sha256": "2C9A6811C60F0FAE4BF0FF83EFCD0459DA2388B59D99B8EE873873161D27FB18"
+      },
+      {
+        "path": "characters/fighter_visual.gd.uid",
+        "bytes": 20,
+        "sha256": "1EAEFB699668F39BF449455A1E12F94F9F88E6EE0B28875971D595FD2483B9F7"
+      },
+      {
+        "path": "characters/fighter.gd",
+        "bytes": 19149,
+        "sha256": "67634297385BB8A242F8E793BE0EB62BA0D95858FC0B5FCF55A6931CCB6B74E4"
+      },
+      {
+        "path": "characters/fighter.gd.uid",
+        "bytes": 20,
+        "sha256": "9C6677E452C1F08451E71F54FD4D7AB98F52B2A2BCAD78CF7FC74947F9E649BF"
+      },
+      {
+        "path": "characters/roster.gd",
+        "bytes": 1941,
+        "sha256": "F01A2B66EF5A07EA4F3627FF417FAA6AF9CC843D4194076AE688216A4F8B7692"
+      },
+      {
+        "path": "characters/roster.gd.uid",
+        "bytes": 20,
+        "sha256": "8F79649F077CC944808C33BB8458FF35AA37CAC4FA4CF434A122E8E4BE634885"
+      },
+      {
+        "path": "combat/abilities/citations.gd",
+        "bytes": 1334,
+        "sha256": "A70A56F257D8757B2E0B72E7D43DCBF7EF0AA7CF2880DD0A985CF47ED36C8B80"
+      },
+      {
+        "path": "combat/abilities/citations.gd.uid",
+        "bytes": 20,
+        "sha256": "B120CE00F793F57BD32312B513A85A3943BD1721151C6225F5CBF7F58670EF9C"
+      },
+      {
+        "path": "combat/abilities/commitment.gd",
+        "bytes": 1763,
+        "sha256": "23E06A4E0C093C498B0CC5842DD8C8A697AC3D1C39B6A38276407B449FA5C7AA"
+      },
+      {
+        "path": "combat/abilities/commitment.gd.uid",
+        "bytes": 20,
+        "sha256": "7674E2FCAC7CE4482E003C1F17E0125C3D32577F34F05AC96B1A3407350A5393"
+      },
+      {
+        "path": "combat/abilities/encore.gd",
+        "bytes": 1324,
+        "sha256": "3AD2413E833DAACC5D4177405414319A4492A0905FE2A78525C65990C1224815"
+      },
+      {
+        "path": "combat/abilities/encore.gd.uid",
+        "bytes": 20,
+        "sha256": "892616E1595372BE8A481E6B8FE85FE6FD7706D56967217CD08A6CE70A969C5D"
+      },
+      {
+        "path": "combat/abilities/fieldcraft.gd",
+        "bytes": 1113,
+        "sha256": "57A9A36EB2B46CFE2B7AA1111781B42D2E273AC64B2943373443508409DF0EAD"
+      },
+      {
+        "path": "combat/abilities/fieldcraft.gd.uid",
+        "bytes": 20,
+        "sha256": "2B4C96D1FE4C51C52F1CF9933C14A8CEFF41B9EA5B280B450B2F3F00A232401D"
+      },
+      {
+        "path": "combat/abilities/momentum.gd",
+        "bytes": 1432,
+        "sha256": "4CE6DC20CA9BCAFD5C33794092D158E5D4E6A983421A0C6DAA440CABF69F7266"
+      },
+      {
+        "path": "combat/abilities/momentum.gd.uid",
+        "bytes": 19,
+        "sha256": "466F2086BCEC040C8E78CAB47279B1548A564F9B01082B58BD285291EFCF2113"
+      },
+      {
+        "path": "combat/abilities/sentinel.gd",
+        "bytes": 1336,
+        "sha256": "14F9CFA46A56059DBCD3F0B17C6EE2CFC24536FFFCE3BF25E75B0E3690476DA4"
+      },
+      {
+        "path": "combat/abilities/sentinel.gd.uid",
+        "bytes": 20,
+        "sha256": "628886F9CCF1AFAC28CCEFB983BB8223C2B05B163CCB0A441C5B6902E1C6A3B8"
+      },
+      {
+        "path": "combat/abilities/shadowstep.gd",
+        "bytes": 2095,
+        "sha256": "09DAA61572C477570612D60CD486721843A27F5538EFFB5825C27477E58971AE"
+      },
+      {
+        "path": "combat/abilities/shadowstep.gd.uid",
+        "bytes": 20,
+        "sha256": "1957B00E93A2BF6945708FCDFD1EC2E377ED2A87451918804ED5FCFA52BEB36C"
+      },
+      {
+        "path": "combat/abilities/trailblazer.gd",
+        "bytes": 1686,
+        "sha256": "721CF07C30B3495950A0879FED5827357000F19D77F31EAF2A0E5D5F5DD115AF"
+      },
+      {
+        "path": "combat/abilities/trailblazer.gd.uid",
+        "bytes": 20,
+        "sha256": "BF7FB771142D9548FB35714A9B6F3CA0414FFBC26EB57FA0D91DD8C9222F74AE"
+      },
+      {
+        "path": "combat/ability_controller.gd",
+        "bytes": 39649,
+        "sha256": "06CA22CF8F8700FD0A4717A89D0FADC3BF0E12A72C31A5DBA7AA9EA5D681FD72"
+      },
+      {
+        "path": "combat/ability_controller.gd.uid",
+        "bytes": 19,
+        "sha256": "065EF2B3C77D1FD2E5E5E46A901D60E594B422AC28F81392CE0328126165B033"
+      },
+      {
+        "path": "combat/ability_kit.gd",
+        "bytes": 899,
+        "sha256": "5F5A5F3CC55A93EF78CC62C8FABFC24788D9BD3BFBEA2D78ABF3A11CDF794422"
+      },
+      {
+        "path": "combat/ability_kit.gd.uid",
+        "bytes": 18,
+        "sha256": "BBEF7D5FF6EAF1C9060AC51B53C82F6EB6178D9DEA00B828EBC0FD146419ECE4"
+      },
+      {
+        "path": "combat/combat_resolver.gd",
+        "bytes": 11454,
+        "sha256": "6DD400CCCA7B85C419798FEAFCDA82FD10807666E02D925E0185243FCB74213B"
+      },
+      {
+        "path": "combat/combat_resolver.gd.uid",
+        "bytes": 19,
+        "sha256": "E5FB0398F1186C4163BF09056458FF8562F9838E88D382915A42B35F83B030D4"
+      },
+      {
+        "path": "combat/fighter_mechanics.gd",
+        "bytes": 4159,
+        "sha256": "D41770F468108C388080727072971E4060A3796C05DC16E7329F39BE8719E38A"
+      },
+      {
+        "path": "combat/fighter_mechanics.gd.uid",
+        "bytes": 20,
+        "sha256": "226C08A563F66B527B7709E7D6533E66240E6B78799140DB5984DAB4715D41B1"
+      },
+      {
+        "path": "combat/match_world.gd",
+        "bytes": 12229,
+        "sha256": "8F68F039E6EF4CB95EFC6B2D5A25890A9E8868A3944FDD09D2E267A62352688C"
+      },
+      {
+        "path": "combat/match_world.gd.uid",
+        "bytes": 20,
+        "sha256": "941AA3845F63C95FEC4439904B5F1825887ADAD48638D4BC5890E4F9CBFD17FE"
+      },
+      {
+        "path": "combat/move_definition.gd",
+        "bytes": 4227,
+        "sha256": "20C98B9789609C35157F635FCF4430D8309EE80B3A2EB70F2BDF72204310756F"
+      },
+      {
+        "path": "combat/move_definition.gd.uid",
+        "bytes": 18,
+        "sha256": "5FB8BF66280C38C3FDE50EC5E623B05672F70CCE1541DFD631E72A30FF08892E"
+      },
+      {
+        "path": "combat/tuning.gd",
+        "bytes": 936,
+        "sha256": "F14B2362437576C435ADA5303C67B6C38F0B8C7FC170A5EFD3947B939FEDBFED"
+      },
+      {
+        "path": "combat/tuning.gd.uid",
+        "bytes": 20,
+        "sha256": "C72011945CF90CC832B295F6CE61E8F7851C52451460FAE864152B8992E134E2"
+      },
+      {
+        "path": "export_presets.cfg",
+        "bytes": 1097,
+        "sha256": "45FE0449BA25326486A82A4DCB278CDA19620FDBA9F131D0FC8AE4FBB71C9918"
+      },
+      {
+        "path": "icon.svg",
+        "bytes": 995,
+        "sha256": "6C80384360A5B269D1054BFB27241258154E2CC8167C522016FDC1820E84E0F8"
+      },
+      {
+        "path": "icon.svg.import",
+        "bytes": 1013,
+        "sha256": "81EECD497E61E39CF9E8E6220601596BAC0475AB32F1A552963116288ED4B1E6"
+      },
+      {
+        "path": "input/cpu_input_provider.gd",
+        "bytes": 10060,
+        "sha256": "48CD7ACBB83666287848979B702174189FF96E7BE3973CDD711DDF31B711A0F9"
+      },
+      {
+        "path": "input/cpu_input_provider.gd.uid",
+        "bytes": 20,
+        "sha256": "BD639A780D426E6E70F58F3C3697C8EE2FB27DA433198D2A7C8DB3BE06C589F5"
+      },
+      {
+        "path": "input/human_input_provider.gd",
+        "bytes": 5589,
+        "sha256": "C813584FAEDF2891CEA77BB88079099E069BC5D1F7633AD245A7EB6658249E78"
+      },
+      {
+        "path": "input/human_input_provider.gd.uid",
+        "bytes": 20,
+        "sha256": "ACBE18E25791C891868082C5D94A12F9404D66B2F295CF5427548357833D3C35"
+      },
+      {
+        "path": "input/input_provider.gd",
+        "bytes": 334,
+        "sha256": "C747A6A556E0E2F87BC62CA9A78874F301227C6BAB19D591754332D47A09FB90"
+      },
+      {
+        "path": "input/input_provider.gd.uid",
+        "bytes": 20,
+        "sha256": "BBF201B6E3038BAD3FAF9EA79ABBA8C88963400261713A2E6116A0F8373915D6"
+      },
+      {
+        "path": "input/input_snapshot.gd",
+        "bytes": 487,
+        "sha256": "D36DD461C0E85B176C3F71185F02330092A1A53F9B121AF70C4EFB4DC56A0364"
+      },
+      {
+        "path": "input/input_snapshot.gd.uid",
+        "bytes": 20,
+        "sha256": "F3EA94BEEC5D4D15414220417D01331D7D786BA7BC16CC16D36365C26F77C3B7"
+      },
+      {
+        "path": "input/keyboard_bindings_store.gd",
+        "bytes": 597,
+        "sha256": "8061711F8B0A6DE070358428E2D2DF4D282AA07E0CCC36B9FD7510DB4A63F3E4"
+      },
+      {
+        "path": "input/keyboard_bindings_store.gd.uid",
+        "bytes": 20,
+        "sha256": "889D76796B249138A031CBD8FF8A09AB0151D66736A99C8C4D40DD10E94FB14E"
+      },
+      {
+        "path": "input/scripted_input_provider.gd",
+        "bytes": 1224,
+        "sha256": "9DBE94BD3E63E37CB0754FD0FC9187A505487A00A52E5818497306F517C00182"
+      },
+      {
+        "path": "input/scripted_input_provider.gd.uid",
+        "bytes": 20,
+        "sha256": "ED22D9CA36CD486B2F7FC3C1D723311EFF0B8CADB02F3DABEB97F2E01145BDE8"
+      },
+      {
+        "path": "input/training_input_provider.gd",
+        "bytes": 2818,
+        "sha256": "9C3202286400C89A5BCCDAAF502A639FB8749371694F4257F3B1761315C96448"
+      },
+      {
+        "path": "input/training_input_provider.gd.uid",
+        "bytes": 19,
+        "sha256": "D3B1DFF2E9CA99B6C0FD5FDB650AC7E0EC73ACC385C3C53C4FC4B4BB95F53EBA"
+      },
+      {
+        "path": "input/validate_input.gd.uid",
+        "bytes": 19,
+        "sha256": "6F83ED6E40E0A216D5FCDF37BB3939EF8A9F9375572591FD978B13624B7AAF97"
+      },
+      {
+        "path": "main.gd",
+        "bytes": 16498,
+        "sha256": "40F3DBA6D56DC23E74C8652F48B97590FFA7777A615DA5384F51F2D0F11490B5"
+      },
+      {
+        "path": "main.gd.uid",
+        "bytes": 20,
+        "sha256": "D35AC03C8E4FC6D12EF063C89A9C54B34E46774E8E486012706FDDC120CA591C"
+      },
+      {
+        "path": "main.tscn",
+        "bytes": 158,
+        "sha256": "25B4F194480A8C74319DA0AD18C8B311253F6ACCF0452BFA4668245A56A2CA21"
+      },
+      {
+        "path": "presentation/ability_art.gd",
+        "bytes": 31470,
+        "sha256": "C3D252264513F250BE421D5DFACEF4AF14D83770BF4FAF75929512FD70CFA5BA"
+      },
+      {
+        "path": "presentation/ability_art.gd.uid",
+        "bytes": 19,
+        "sha256": "D3E48C5DD69D0FCDF347D1002C038C64EB4A57FDFB62E76C0484E78E6E8EDA8D"
+      },
+      {
+        "path": "presentation/audio_director.gd",
+        "bytes": 3843,
+        "sha256": "57639F0DBFB8027237A56B7C26794020864AD311C05BFCFC2E560289EA7CA0BE"
+      },
+      {
+        "path": "presentation/audio_director.gd.uid",
+        "bytes": 20,
+        "sha256": "5A9B902C8C1168F96429778132D63C3B2C61B3FCA558FC1F51791722B3429DEB"
+      },
+      {
+        "path": "presentation/debug_overlay.gd",
+        "bytes": 2680,
+        "sha256": "42777958BD5484D75796E458D5F8AE8425A9C753B7AE09240131C56D2CB334CE"
+      },
+      {
+        "path": "presentation/debug_overlay.gd.uid",
+        "bytes": 20,
+        "sha256": "8BAF6BDCDA255FAADC5189B2A68D6FA751BE29561F5EA51861BB762F453CA53E"
+      },
+      {
+        "path": "presentation/effects_director.gd",
+        "bytes": 16690,
+        "sha256": "7C728FE1B44067007F25AC2E4270451DEFAAEBE54B5CC07F7D8CB83D3A2CEFAC"
+      },
+      {
+        "path": "presentation/effects_director.gd.uid",
+        "bytes": 20,
+        "sha256": "455ED7253F6605A84AC9D79644970E1AE5650CD184ED6FD8022C9F30DB3241B7"
+      },
+      {
+        "path": "presentation/fighter_attack_presentation.gd",
+        "bytes": 14975,
+        "sha256": "DA7EB6D010193CD684E5832682BC4911027F964AA433FC5C9725DAB5408201F3"
+      },
+      {
+        "path": "presentation/fighter_attack_presentation.gd.uid",
+        "bytes": 20,
+        "sha256": "0A5CD98DF001EFA38839DD1E36E3596BA54361ECB63C93AC9234AAB46B6901F4"
+      },
+      {
+        "path": "presentation/match_camera.gd",
+        "bytes": 4692,
+        "sha256": "74BA01D224F8F4469BF28C66CA588ADC953F89D7693D80E43DB8EAD09A4A53AC"
+      },
+      {
+        "path": "presentation/match_camera.gd.uid",
+        "bytes": 20,
+        "sha256": "FE4B3635B89D2889101F3EBC6EE4ECE75BE4A579951BF69DC62716029B583C50"
+      },
+      {
+        "path": "presentation/player_labels.gd",
+        "bytes": 3055,
+        "sha256": "CC63B9468FA9D0A5FCCCE9C8EEA623E4A211E12B61C6EBAE1060701EDA9F402E"
+      },
+      {
+        "path": "presentation/player_labels.gd.uid",
+        "bytes": 19,
+        "sha256": "FCAA5FF4B045086C0A6FF048CAFD04E4061A98D19AC0FA6B7635F76078BE7AD4"
+      },
+      {
+        "path": "presentation/settings_store.gd",
+        "bytes": 1530,
+        "sha256": "5A076F2250E99A671962CEBF9894BEE5B18532EA7D4EF8CAC9FBBACC0D487E11"
+      },
+      {
+        "path": "presentation/settings_store.gd.uid",
+        "bytes": 20,
+        "sha256": "9A01CC6C34FF2A06F1B00CDFF63F053599378BF4FA57235F55E1648AB5DC9DF8"
+      },
+      {
+        "path": "presentation/shaders/ability_contour.gdshader",
+        "bytes": 3551,
+        "sha256": "78C0D3EEA7632D6D6B3E9939275FB96852C658DB0FEF3F9A666D15413797B927"
+      },
+      {
+        "path": "presentation/shaders/ability_contour.gdshader.uid",
+        "bytes": 20,
+        "sha256": "AE4AF33594B5C3F17FCB3F90B8EAAD586F91FA1EEC5C7F264C51791322864E7F"
+      },
+      {
+        "path": "presentation/shaders/ability_filament.gdshader",
+        "bytes": 793,
+        "sha256": "C9247C92582347FB75331EEA2403469A5946906EBA8A8A3CAE7788DA4E185F7C"
+      },
+      {
+        "path": "presentation/shaders/ability_filament.gdshader.uid",
+        "bytes": 19,
+        "sha256": "3F1102D15299AB9039A5BBCBFDA7891DECBE50EC4A657302877FEAD7AB68CCFF"
+      },
+      {
+        "path": "presentation/shaders/ability_surface.gdshader",
+        "bytes": 1931,
+        "sha256": "435D8578A8004F4733CBA4A3311C45F4B91B4D5B7972F6C9110E69C5636C6238"
+      },
+      {
+        "path": "presentation/shaders/ability_surface.gdshader.uid",
+        "bytes": 20,
+        "sha256": "E7CCA1D41593401F3B3744A22F4D8EF984FA2FB14C3813FEE8824775C250B3E0"
+      },
+      {
+        "path": "presentation/shaders/attack_charge.gdshader",
+        "bytes": 1073,
+        "sha256": "4F2D743BAB5CE1D11A6E4D10B20EEA2E7E51A9BE731522897EDCE6487C8EA491"
+      },
+      {
+        "path": "presentation/shaders/attack_charge.gdshader.uid",
+        "bytes": 20,
+        "sha256": "4C2061919BFBE358294BFCA3EA90C74FA23464D6BFC912514AB7E7D1E10CABA2"
+      },
+      {
+        "path": "presentation/shaders/attack_ribbon.gdshader",
+        "bytes": 2845,
+        "sha256": "4B3DBEC5EA487DA9A82967DE8D66ACF2AAC6B627DE49DB89F71983441A52806F"
+      },
+      {
+        "path": "presentation/shaders/attack_ribbon.gdshader.uid",
+        "bytes": 20,
+        "sha256": "8DFA011E1E63EEE21F76797D52564622AF450FF2BEB4E4990F0080FEF7639597"
+      },
+      {
+        "path": "presentation/shaders/fighter_marker.gdshader",
+        "bytes": 673,
+        "sha256": "C54EB2DBB97B7F4FC6BC308254601F2AA8EDCA8B4731040322E73DAD97D19185"
+      },
+      {
+        "path": "presentation/shaders/fighter_marker.gdshader.uid",
+        "bytes": 20,
+        "sha256": "A19864D84501E5871D0E4D4B408869AF536C57DA7577286B21533556FEE902AA"
+      },
+      {
+        "path": "presentation/shaders/fighter_shield.gdshader",
+        "bytes": 613,
+        "sha256": "7B92DC6FBEB9DBC0A483D5D7A2F505DB9052819CAADD88222B103BFA942EC21D"
+      },
+      {
+        "path": "presentation/shaders/fighter_shield.gdshader.uid",
+        "bytes": 20,
+        "sha256": "452CE10AF451288465C30985F47868C872B35910B423534E1D892DA309F2DC53"
+      },
+      {
+        "path": "presentation/shaders/impact_energy.gdshader",
+        "bytes": 1218,
+        "sha256": "E55529E15D7AA0B34863033BB1011951DAC85CBB7FFC0B3BD80FA8D44F869A1B"
+      },
+      {
+        "path": "presentation/shaders/impact_energy.gdshader.uid",
+        "bytes": 20,
+        "sha256": "86AAA04C17F50A4E00BC604BE70949985EDD9E4E856BCD465E9285956DFBCD8F"
+      },
+      {
+        "path": "presentation/shaders/impact_soft.gdshader",
+        "bytes": 1839,
+        "sha256": "26053002E388762BE57D6C22D4AEDC17F6350793646CE0223E80FE40B6B96FD8"
+      },
+      {
+        "path": "presentation/shaders/impact_soft.gdshader.uid",
+        "bytes": 20,
+        "sha256": "11CB55C6F9BFA5493CBF260FC3F8EAF16CB91115FA725793CE09DAEB609F2130"
+      },
+      {
+        "path": "presentation/shaders/signature_impact.gdshader",
+        "bytes": 3638,
+        "sha256": "4E86D48A68B3D53FA57B7AB54A078BD5B4ADB83B5AD058440DC386EB802AB48B"
+      },
+      {
+        "path": "presentation/shaders/signature_impact.gdshader.uid",
+        "bytes": 20,
+        "sha256": "697F23017912FF960285185E04360C32FC86A2752C1AC905903BBE232C7CCA23"
+      },
+      {
+        "path": "project.godot",
+        "bytes": 754,
+        "sha256": "C8F0352F903B7315789AFFE9ED5D289332F60958501A06F6880186C76F07F581"
+      },
+      {
+        "path": "rooftop_icon.svg",
+        "bytes": 499,
+        "sha256": "413E846431A37BB074E773B15C07CBB7939D2CAC8377C0CDFB32BEB929C88904"
+      },
+      {
+        "path": "rooftop_icon.svg.import",
+        "bytes": 1037,
+        "sha256": "86BF98B7D14F9D335A9600722ABAC9F18288B94B118353DAE85E3BCAF232D469"
+      },
+      {
+        "path": "stages/abyssal_observatory/abyssal_stage.gd",
+        "bytes": 34892,
+        "sha256": "464EBAB9CDA332F1EA0C21C0B207A8CC7F3505E715A4F7FFB6D0755B7455DC0D"
+      },
+      {
+        "path": "stages/abyssal_observatory/abyssal_stage.gd.uid",
+        "bytes": 19,
+        "sha256": "311F0F462FA25D345E13446FFA68BAAA92EE5897C8DA0F074D0FE24A632C3EEE"
+      },
+      {
+        "path": "stages/abyssal_observatory/caustic_marble.gdshader",
+        "bytes": 1645,
+        "sha256": "DF5BC2232FEA963D2BE34B4EBB19D4953BEBAEC66411C792789099EBA9A7607D"
+      },
+      {
+        "path": "stages/abyssal_observatory/caustic_marble.gdshader.uid",
+        "bytes": 20,
+        "sha256": "169EFE740742A7FD8588CF9AF8FFA99F0268C3D892AEF100E9B964F22ADC9269"
+      },
+      {
+        "path": "stages/abyssal_observatory/jelly_filament.gdshader",
+        "bytes": 751,
+        "sha256": "764004CDCDAE12C041B4D7907D3C4662207EE9841411771691EF49A7F0AA3A0D"
+      },
+      {
+        "path": "stages/abyssal_observatory/jelly_filament.gdshader.uid",
+        "bytes": 20,
+        "sha256": "3EE8C41CA55051476CB2B533257130EB2514FCAF39621D5945581B6D97214D82"
+      },
+      {
+        "path": "stages/abyssal_observatory/ocean_beam.gdshader",
+        "bytes": 553,
+        "sha256": "17D55AF4C3AB2CDAB02CCD7AD6783A9D1C832FDE9F5A49734F1D196286CFD580"
+      },
+      {
+        "path": "stages/abyssal_observatory/ocean_beam.gdshader.uid",
+        "bytes": 20,
+        "sha256": "39B36666BF5AF73D3B9D4A1DD746468D35D4F9E6B372CD37447296AB24DEB4B8"
+      },
+      {
+        "path": "stages/abyssal_observatory/ocean_depth.gdshader",
+        "bytes": 1233,
+        "sha256": "7D3F717FA9E7FE5A691749A967D6F2D9C2052BE049F75D83E8656F50B10CE362"
+      },
+      {
+        "path": "stages/abyssal_observatory/ocean_depth.gdshader.uid",
+        "bytes": 20,
+        "sha256": "1626B70CD9DA839539E991A3B2E9B8770C39504FD11193AAAE11F4FED99E2C3A"
+      },
+      {
+        "path": "stages/abyssal_observatory/pressure_jet.gdshader",
+        "bytes": 920,
+        "sha256": "641C1A4C2C47CADFD2918CC92DDF9229C571F351912727247B35CE17A45CE620"
+      },
+      {
+        "path": "stages/abyssal_observatory/pressure_jet.gdshader.uid",
+        "bytes": 19,
+        "sha256": "6ABADF893A4468B41A273B9931DAFD4B957F52D4F5E9B98602E2CD367A6CB7EB"
+      },
+      {
+        "path": "stages/abyssal_observatory/swimming_fish.gdshader",
+        "bytes": 1347,
+        "sha256": "9081ADA7849DCC7E8DB9682C4111D094F4058CA9C8C2E722DAC37FC4F3ED1C65"
+      },
+      {
+        "path": "stages/abyssal_observatory/swimming_fish.gdshader.uid",
+        "bytes": 19,
+        "sha256": "A82DF6DC3C65930166DA29633DC9E1017006BE23477D21EB06DA58649A149A9D"
+      },
+      {
+        "path": "stages/arena_backdrop.gd",
+        "bytes": 2209,
+        "sha256": "C625FA2A7F046CF8C0FBF734B0D2E3E4B5028B8C2F3CBC67AD6C748834F2379B"
+      },
+      {
+        "path": "stages/arena_backdrop.gd.uid",
+        "bytes": 20,
+        "sha256": "B1BD3B321401AD6EC22F0B38F65D3B0745681219EBAC504BB4041E13D1586520"
+      },
+      {
+        "path": "stages/arena_backdrop.gdshader",
+        "bytes": 2542,
+        "sha256": "362B1A0C29073490280DD5E0F6F5D482F157D7D83BCCAB026A29D0C4057263B5"
+      },
+      {
+        "path": "stages/arena_backdrop.gdshader.uid",
+        "bytes": 20,
+        "sha256": "F9F6A947F865051A0A9B8B63091C4D72460339711F9FEB0FBE57C88AA2E472BD"
+      },
+      {
+        "path": "stages/ember_foundry/caldera_smoke.gdshader",
+        "bytes": 1331,
+        "sha256": "A64F7E2765A994B00E73F55EEDAE10A860233AFD8C35C906CCBC3BBDE9137380"
+      },
+      {
+        "path": "stages/ember_foundry/caldera_smoke.gdshader.uid",
+        "bytes": 20,
+        "sha256": "2C89FD89D85E6691983A7365A74409208C9DDEC6FB34336F20A7282E26405C07"
+      },
+      {
+        "path": "stages/ember_foundry/caldera_spillway.gdshader",
+        "bytes": 1700,
+        "sha256": "CEACD7285FC0F5006C738C79ADE55D1C20582AE335D806A960314483FC2724BB"
+      },
+      {
+        "path": "stages/ember_foundry/caldera_spillway.gdshader.uid",
+        "bytes": 20,
+        "sha256": "E98D9FA1AAC5488A654F8B689D4BB2A777FCDFF0C54B268366E2FAF3AB4CA2EC"
+      },
+      {
+        "path": "stages/ember_foundry/ember_stage.gd",
+        "bytes": 30844,
+        "sha256": "32F16F8F7F40FBFA63B6E51ED8A76AD2567EF83B870410645330942221E88634"
+      },
+      {
+        "path": "stages/ember_foundry/ember_stage.gd.uid",
+        "bytes": 19,
+        "sha256": "E042B8BE12B9DB415B3EEAD79DCF017095D1905BA46136CB41ABC960892AC360"
+      },
+      {
+        "path": "stages/ember_foundry/forge_embers.gdshader",
+        "bytes": 678,
+        "sha256": "9AA0277A7FF57512F1FDF46369B4839D4357326782362012B53AF1E47BB47689"
+      },
+      {
+        "path": "stages/ember_foundry/forge_embers.gdshader.uid",
+        "bytes": 20,
+        "sha256": "39CB4028C7A98ADB0FB93517792745AAFC9434A5B41FC6F573F8A47BC7858AE7"
+      },
+      {
+        "path": "stages/ember_foundry/forge_surface.gdshader",
+        "bytes": 777,
+        "sha256": "1328CDE2EB5E6684415DF1588671CA48CA02729C8C2BBF143319C98510A1EFF2"
+      },
+      {
+        "path": "stages/ember_foundry/forge_surface.gdshader.uid",
+        "bytes": 20,
+        "sha256": "A1A8690937E59C0AA48E1C7397DDE27E6054BD9451C97A18BEA136BF0531AEEB"
+      },
+      {
+        "path": "stages/ember_foundry/forge_vent.gdshader",
+        "bytes": 1097,
+        "sha256": "6C78CFDD2090545DB0ED0F63D250742575B2EC7E1BBCCB18BC02D2CAF32DC1F4"
+      },
+      {
+        "path": "stages/ember_foundry/forge_vent.gdshader.uid",
+        "bytes": 18,
+        "sha256": "93DE327DB20E4F6B6723D8483C8A4776AC4A467C18AFF85444378647049966B9"
+      },
+      {
+        "path": "stages/ember_foundry/molten_flow.gdshader",
+        "bytes": 1302,
+        "sha256": "CF3CABF5CD1EB122ECCBD0255DE8E78199275C7C04C420AB73E54C5E698C826E"
+      },
+      {
+        "path": "stages/ember_foundry/molten_flow.gdshader.uid",
+        "bytes": 20,
+        "sha256": "15B903067BC8643E970E8E758216D5F3A78E0A5E3C96D93E9CD56B97A9BE8364"
+      },
+      {
+        "path": "stages/ember_foundry/platform_steel.gdshader",
+        "bytes": 3115,
+        "sha256": "BB6232AEE7A56DADB9A832AABA7D20DD388BAD563317D0FA563971597514AB92"
+      },
+      {
+        "path": "stages/ember_foundry/platform_steel.gdshader.uid",
+        "bytes": 20,
+        "sha256": "7C3FEC77FACA06581BF53539DB5D6240FCB30D21A7CCD568938D1EF1485E4C6C"
+      },
+      {
+        "path": "stages/lunar_reach/aerospace_metal.gdshader",
+        "bytes": 1076,
+        "sha256": "10B3AFFB6D9F46E19EA7CAC1BF2763BDBC2DD46A6F2D09B879A1C026D0D0AB52"
+      },
+      {
+        "path": "stages/lunar_reach/aerospace_metal.gdshader.uid",
+        "bytes": 20,
+        "sha256": "B537E90F81DBDBBF5F2AA3989AB8689619B15EB24C3D50EA63DFE3C76046052C"
+      },
+      {
+        "path": "stages/lunar_reach/deck_panel.gdshader",
+        "bytes": 713,
+        "sha256": "CC183FFF5749659B3D245256F0000E9E9CBD4DC154245148BDAFD757CF3CA2CB"
+      },
+      {
+        "path": "stages/lunar_reach/deck_panel.gdshader.uid",
+        "bytes": 20,
+        "sha256": "F47EACCC223D3C6857694D3001A1E8D7B9B80BA1AFB2F97DD90419ABA61361F0"
+      },
+      {
+        "path": "stages/lunar_reach/earth.gdshader",
+        "bytes": 1956,
+        "sha256": "BD39851352480CED262AFCB94FF6A0A4E6CF2BC994E574496E6A06BE200DE17B"
+      },
+      {
+        "path": "stages/lunar_reach/earth.gdshader.uid",
+        "bytes": 20,
+        "sha256": "662B9D232239910EB65F557F8B6BED5268AA29899BD90D0426AF872B2940E540"
+      },
+      {
+        "path": "stages/lunar_reach/lunar_horizon.gdshader",
+        "bytes": 817,
+        "sha256": "DABBA787278FB7A6D7E9370DF972979DE2328186B138E9E1BFED90F3B78ABBBB"
+      },
+      {
+        "path": "stages/lunar_reach/lunar_horizon.gdshader.uid",
+        "bytes": 20,
+        "sha256": "7713430A64916663BEEE97CE9798E72F5447474213952C76DAFB095838BA6FFF"
+      },
+      {
+        "path": "stages/lunar_reach/lunar_stage.gd",
+        "bytes": 36396,
+        "sha256": "00BB8BD4C4A531B26B1D82234A637A8E47FB543F369F5B929D7C14CD2AE6E353"
+      },
+      {
+        "path": "stages/lunar_reach/lunar_stage.gd.uid",
+        "bytes": 20,
+        "sha256": "D8E67BCFA86DE9CFDEABCED4C02F04BA36964025490B608041FC5491B9D57A9B"
+      },
+      {
+        "path": "stages/lunar_reach/regolith.gdshader",
+        "bytes": 2697,
+        "sha256": "50B83B6764DF92AD9DB4F61826D1F00CC8DD9F0D9F0FCFA9B956082187E4C504"
+      },
+      {
+        "path": "stages/lunar_reach/regolith.gdshader.uid",
+        "bytes": 20,
+        "sha256": "70437EB10E85C21FFCE924FD29587FDCB49571E56021194D43FE91F3E7A291F7"
+      },
+      {
+        "path": "stages/lunar_reach/vent_jet.gdshader",
+        "bytes": 668,
+        "sha256": "CC5118F606325307EC855D62EB204BCC43C88FF8AE2FC4502C31970D3208C633"
+      },
+      {
+        "path": "stages/lunar_reach/vent_jet.gdshader.uid",
+        "bytes": 20,
+        "sha256": "A1BF6D4B7ACDA3A582F7D7F4932587DC7F22BA2B829DB6C1C3417407744AA702"
+      },
+      {
+        "path": "stages/platform_geometry.gd",
+        "bytes": 3401,
+        "sha256": "41CE0FD8BBEB71FBF2874A5D1F4E1D60D18DC3E8D7AD48DC5B0CEBA1DC1AA8B0"
+      },
+      {
+        "path": "stages/platform_geometry.gd.uid",
+        "bytes": 20,
+        "sha256": "B012CB7D1EAF0D0780304962BB420C39DB7DA4406EB7034DDFA8DB558431B676"
+      },
+      {
+        "path": "stages/rooftop_riot/hotel_windows.gdshader",
+        "bytes": 1603,
+        "sha256": "E11722CBF34830BD0E6AF6091ACF772CB105976D0D1E1F2741F9534BDEAB3AA7"
+      },
+      {
+        "path": "stages/rooftop_riot/hotel_windows.gdshader.uid",
+        "bytes": 20,
+        "sha256": "D74111E4AEDD7FB7953C59BB1044A3E24BFD0B5AA5574B5F75C19F4BD4EBD754"
+      },
+      {
+        "path": "stages/rooftop_riot/platform_finish.gd",
+        "bytes": 2907,
+        "sha256": "E71535464784E6DDE86085899378D8AD5109816174B64929F70315B3D17EF15B"
+      },
+      {
+        "path": "stages/rooftop_riot/platform_finish.gd.uid",
+        "bytes": 20,
+        "sha256": "EC1511CEF490E23B5AF79BBE96C89DFBB8237D2EC9ED2C2AA91FAA267A40AF1A"
+      },
+      {
+        "path": "stages/rooftop_riot/platform_timber.gdshader",
+        "bytes": 886,
+        "sha256": "8971D45192AC8AA40813FCE03A03EDFB1554E3D96E218411A3672468E8F7B396"
+      },
+      {
+        "path": "stages/rooftop_riot/platform_timber.gdshader.uid",
+        "bytes": 20,
+        "sha256": "7810BDE7C647342C84B8A08F69D30C03E832B3C2F03E7AF962CF2E14EE01D955"
+      },
+      {
+        "path": "stages/rooftop_riot/pool_water.gdshader",
+        "bytes": 2609,
+        "sha256": "328083861B5BA58EBB0DF97B3773C23C6E79F74CBA97B4B60D8F5BE75CB44720"
+      },
+      {
+        "path": "stages/rooftop_riot/pool_water.gdshader.uid",
+        "bytes": 20,
+        "sha256": "C4F36955CA06F6EB4ADF6EDBC69C479977865AEA70C84427A20B067AC3E92100"
+      },
+      {
+        "path": "stages/rooftop_riot/pyro_flame.gdshader",
+        "bytes": 1215,
+        "sha256": "3F2117E0F46EC31BF7FC99C95A147FF000AA2F93FADC0337FB094A63F2EB6EAA"
+      },
+      {
+        "path": "stages/rooftop_riot/pyro_flame.gdshader.uid",
+        "bytes": 20,
+        "sha256": "D09E863A0E86380A691E616EEB9B3A7E5D88762D290598AFCC3613A2010AAA9A"
+      },
+      {
+        "path": "stages/rooftop_riot/pyro_warning.gdshader",
+        "bytes": 487,
+        "sha256": "CBD4DC3B89AA521BC16E7B01C2121EC4677DB277827FD65DA7AAE941B689E6AD"
+      },
+      {
+        "path": "stages/rooftop_riot/pyro_warning.gdshader.uid",
+        "bytes": 19,
+        "sha256": "9C2E12F20DB5EC74679F18B4EB8A4B09989E3600A5CEB8FE57A59C86A328087A"
+      },
+      {
+        "path": "stages/rooftop_riot/rooftop_life.gd",
+        "bytes": 2909,
+        "sha256": "B57A2B9F79894389D839F865D7239CD267053C1CFC9C536E29EDC32419026030"
+      },
+      {
+        "path": "stages/rooftop_riot/rooftop_life.gd.uid",
+        "bytes": 20,
+        "sha256": "FEA980CB02CBAB46C4AE93637471A6D791E4994034A717E2EEFBD0D91F887E6E"
+      },
+      {
+        "path": "stages/rooftop_riot/stage_controller.gd",
+        "bytes": 22687,
+        "sha256": "4696D0D8B4764785A035D823148CF6E62AAA7A131C22E4D4B14D6C4E522FFC37"
+      },
+      {
+        "path": "stages/rooftop_riot/stage_controller.gd.uid",
+        "bytes": 20,
+        "sha256": "4D38BCE80556525A3DDBC4BDBE016190752714715BFA540B91DF5AA5E8893401"
+      },
+      {
+        "path": "stages/rooftop_riot/sunset.gdshader",
+        "bytes": 1535,
+        "sha256": "4320D1A714497F8203550B9B603B317C491470AB0F0B57B8E4AFFBFA095DC2E6"
+      },
+      {
+        "path": "stages/rooftop_riot/sunset.gdshader.uid",
+        "bytes": 20,
+        "sha256": "B9E968B73B4E35CA69C7C1A126CA009A60DE2C4F94567A785D3C184669BD68ED"
+      },
+      {
+        "path": "stages/rooftop_riot/terrace_foliage.gdshader",
+        "bytes": 968,
+        "sha256": "A11D66E1B621A2AB221188D01855A1B825C2682ADF970DC6B7AD8C56EA9CB616"
+      },
+      {
+        "path": "stages/rooftop_riot/terrace_foliage.gdshader.uid",
+        "bytes": 20,
+        "sha256": "07B5244E174BFF6BDDE3D96FCE3859EB02F2A8B58047BD37B69B2A887BCF69DF"
+      },
+      {
+        "path": "stages/stage_catalog.gd",
+        "bytes": 3053,
+        "sha256": "8F0C9ACF5067D0CCCE84F9F5B60E5D5B87050601D32F4A5FCC50A4A4499636C2"
+      },
+      {
+        "path": "stages/stage_catalog.gd.uid",
+        "bytes": 20,
+        "sha256": "862C71B390F2C8D7ADB1FC5359F94D7EA8375BEA5D48076CB97BF02095D78FA4"
+      },
+      {
+        "path": "stages/verdant_shrine/ancient_bark.gdshader",
+        "bytes": 566,
+        "sha256": "AA5F00FC35B8DD1CDB3F1D20DA9E11645B2B246E0552F30F7626FAB2A8BFEE7A"
+      },
+      {
+        "path": "stages/verdant_shrine/ancient_bark.gdshader.uid",
+        "bytes": 19,
+        "sha256": "CDB4B240F60F881EDDC56DF5C4DF5C5B72FB307BECF0321F17FD22F1913F9C25"
+      },
+      {
+        "path": "stages/verdant_shrine/atmosphere.gdshader",
+        "bytes": 591,
+        "sha256": "00E853F1F4C2094B39D0037F4684AF4BFB7FC8E852A943402C747F1640952E85"
+      },
+      {
+        "path": "stages/verdant_shrine/atmosphere.gdshader.uid",
+        "bytes": 20,
+        "sha256": "2E900A7B26E4257F867A005FA40E39180C8335939E092B80884A2E095B1BA804"
+      },
+      {
+        "path": "stages/verdant_shrine/cascade.gdshader",
+        "bytes": 620,
+        "sha256": "0EB6B78355FEF73CEDD4B33472BFE086B78FB23775CAA8235CBA5FF8E1EB71DC"
+      },
+      {
+        "path": "stages/verdant_shrine/cascade.gdshader.uid",
+        "bytes": 20,
+        "sha256": "B21BC1A4F3EFCF2113381713215159AACDFF70589A93BBB574D732A0E971144A"
+      },
+      {
+        "path": "stages/verdant_shrine/jungle_leaf.gdshader",
+        "bytes": 742,
+        "sha256": "3874E4F4D33F39CB24002F7D529C4085580312C71E2B6C47C22127F17AADE66E"
+      },
+      {
+        "path": "stages/verdant_shrine/jungle_leaf.gdshader.uid",
+        "bytes": 19,
+        "sha256": "43CE2089DBA8D20E77768F99C29350ED4EF6746D0B2616C40A23DC1A4C78A193"
+      },
+      {
+        "path": "stages/verdant_shrine/shrine_backdrop.gdshader",
+        "bytes": 3149,
+        "sha256": "91E7E0A7789FEACE6AC4914DBCEEF9CB67F15DD262373B2C247648F052885AF0"
+      },
+      {
+        "path": "stages/verdant_shrine/shrine_backdrop.gdshader.uid",
+        "bytes": 19,
+        "sha256": "24E2603F20BB08CDE0DFEAF731A3E1CC18568B73822F6B92906BAFC03209FDB0"
+      },
+      {
+        "path": "stages/verdant_shrine/shrine_stone.gdshader",
+        "bytes": 1938,
+        "sha256": "D3B54D82A859C44127D0B305FA608EFF65712FE51A3A29CFAC1E5D1F744ED456"
+      },
+      {
+        "path": "stages/verdant_shrine/shrine_stone.gdshader.uid",
+        "bytes": 20,
+        "sha256": "36EC738254B1068BAB3B23047311F6BDF440032739210434ADD5554A568E1776"
+      },
+      {
+        "path": "stages/verdant_shrine/shrine_water.gdshader",
+        "bytes": 746,
+        "sha256": "081FF1998E1EF1F9639C07F0DC701DD77197797F3F07B9D6642F6917AA109984"
+      },
+      {
+        "path": "stages/verdant_shrine/shrine_water.gdshader.uid",
+        "bytes": 19,
+        "sha256": "8222E83AF3B601486E52FDAD95E5954A483907FA72E3385E8A104BC872A28612"
+      },
+      {
+        "path": "stages/verdant_shrine/spirit_geyser.gdshader",
+        "bytes": 935,
+        "sha256": "198DE7890B0BFD4B67F47B55A6FBC06BC960FEEA4D78DC425F293C17B2742CFC"
+      },
+      {
+        "path": "stages/verdant_shrine/spirit_geyser.gdshader.uid",
+        "bytes": 20,
+        "sha256": "0532279659CEF819E92361577D8DBD56EC0784E4B382BE2674DCC2634A187637"
+      },
+      {
+        "path": "stages/verdant_shrine/valley_bird.gdshader",
+        "bytes": 743,
+        "sha256": "2727DC20DB0677D0D334894D97458FB98814365C74E76533A9109D45FE86388B"
+      },
+      {
+        "path": "stages/verdant_shrine/valley_bird.gdshader.uid",
+        "bytes": 20,
+        "sha256": "3C63D4346C3778BAD7CB8D4EE641393685DF0F800A5893E24E26885C3164D3C8"
+      },
+      {
+        "path": "stages/verdant_shrine/verdant_shrine_stage.gd",
+        "bytes": 23860,
+        "sha256": "4030C8AD8FA9EC9E20F30CED074DFAA2D2FC8F5C9DD53268A00F990DA5679924"
+      },
+      {
+        "path": "stages/verdant_shrine/verdant_shrine_stage.gd.uid",
+        "bytes": 20,
+        "sha256": "E6187B9DD11C383505CFE9169FB077112B706B8CDF2AB9DE12587678790B2812"
+      },
+      {
+        "path": "ui/game_ui.gd",
+        "bytes": 39656,
+        "sha256": "CD444102758CFBB673424E1C3BE127BF822C42C1D1337E5B13C6B24FAA38057A"
+      },
+      {
+        "path": "ui/game_ui.gd.uid",
+        "bytes": 20,
+        "sha256": "DEE52BD3D1D34CCA119F32E0E33ACC68F47153A048BB15D2873258480B5D139A"
+      }
+    ]
+  },
+  "source_inventory_receipt": {
+    "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\validation_all.json",
+    "bytes": 145168,
+    "sha256": "A98EC2E455BB93BE5CF915B6EAFBCF328685C73426C8B86F3F1B8B1019AA3E36"
+  },
+  "harness_sha256": "5357D265B380F710F05F7875C85CB4136317F9514FCBE754A79095D27F6ADB69",
+  "runner_path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\record_movies.py",
+  "runner_sha256": "7BE7A1F471F4327CFD89A8196C3C344A554ED8D1BFF57973F12BAE3CE0F9FDB1",
+  "resumed_cases": [],
+  "resume_candidates": [],
+  "unchanged_during_recording": true,
+  "cases": [
+    {
+      "arena": "rooftop_riot",
+      "quality": "High",
+      "started_utc": "2026-10-04T19:27:47.170933+00:00",
+      "capture_passed": true,
+      "reviewed": true,
+      "movie": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\ambient.mp4",
+        "bytes": 1423625,
+        "sha256": "B0C62C90B88A03AA26938332794EB8E216171B0EEE07F97F00ED24BD51059A95",
+        "width": 1600,
+        "height": 900,
+        "fps": 60.0,
+        "duration_seconds": 12.0,
+        "video_frames": 720,
+        "decoded": true,
+        "reviewed": true,
+        "review_method": "Assistant visual inspection of all twenty native 1600x900 PNGs extracted from five current 12-second MP4s at 0, 2, 5 and 10 seconds; native crop comparisons for waterfall, spillway and Earth details.",
+        "audio": false
+      },
+      "processes": [
+        {
+          "label": "rooftop_riot engine capture",
+          "pid": 20996,
+          "started_utc": "2026-10-04T19:27:47.173439+00:00",
+          "finished_utc": "2026-10-04T19:28:28.496232+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\native.log",
+            "bytes": 1866,
+            "sha256": "5D85948B610345918BD84F4F0F59CD0B9A1AC126B3607A9C9216816B279ED973"
+          }
+        },
+        {
+          "label": "rooftop_riot encode",
+          "pid": 10988,
+          "started_utc": "2026-10-04T19:28:28.506746+00:00",
+          "finished_utc": "2026-10-04T19:28:31.426838+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\encode.log",
+            "bytes": 5620,
+            "sha256": "F774D41682517090F28FAAF1733B43EBA4A777F4531428C3268ACF3F31CD639F"
+          }
+        },
+        {
+          "label": "rooftop_riot full decode",
+          "pid": 26048,
+          "started_utc": "2026-10-04T19:28:31.436347+00:00",
+          "finished_utc": "2026-10-04T19:28:31.714165+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\decode.log",
+            "bytes": 2248,
+            "sha256": "EF221838B7E92774B924197F3ADA08C520ABC85C7BD7037AFBA1370C080AA1CA"
+          }
+        }
+      ],
+      "problems": [],
+      "samples": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\review\\t00.png",
+          "bytes": 1490311,
+          "sha256": "3DAD3F73964EA17BEDE87C295E73D2CB22F7075598A42C318DDB02F6CB0AE201",
+          "seconds": 0,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "rooftop_riot sample 0s",
+            "pid": 9416,
+            "started_utc": "2026-10-04T19:28:31.725880+00:00",
+            "finished_utc": "2026-10-04T19:28:31.876061+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\review\\t00.log",
+              "bytes": 628,
+              "sha256": "AA5126B4FA2FF5AAAF840DAF09817920A5347FF7B82AB13F7F04B1AF0886CDA5"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\review\\t02.png",
+          "bytes": 1571269,
+          "sha256": "E5ACE03DC4E61D04C7D88824CFA2F5BFABCEE84A3DC58C8489DB3E1C2AF51F2F",
+          "seconds": 2,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "rooftop_riot sample 2s",
+            "pid": 28168,
+            "started_utc": "2026-10-04T19:28:31.883058+00:00",
+            "finished_utc": "2026-10-04T19:28:32.069617+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\review\\t02.log",
+              "bytes": 628,
+              "sha256": "149EF06434D6F5FCE110B64167288697FBBAA2221718AE81C86B2B6D14CD731C"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\review\\t05.png",
+          "bytes": 1525796,
+          "sha256": "5CCA732DA6A01D95102965CB394414F68C7DB260DBC9D3489146DCD3F97CA333",
+          "seconds": 5,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "rooftop_riot sample 5s",
+            "pid": 6820,
+            "started_utc": "2026-10-04T19:28:32.078386+00:00",
+            "finished_utc": "2026-10-04T19:28:32.232760+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\review\\t05.log",
+              "bytes": 628,
+              "sha256": "F264699EC232B3CA97E1D0725DBAD789F47B84E29B8BA55ADE7BBF37157BA367"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\review\\t10.png",
+          "bytes": 1530389,
+          "sha256": "00ED9243930C929BE1F216098A342FE46826D1A3CFC748AA3A538DC24EAF3A8A",
+          "seconds": 10,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "rooftop_riot sample 10s",
+            "pid": 10688,
+            "started_utc": "2026-10-04T19:28:32.241273+00:00",
+            "finished_utc": "2026-10-04T19:28:32.418404+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\review\\t10.log",
+              "bytes": 629,
+              "sha256": "E6A83F4316BB438C4E69AB6FAB0900646ACCB8C7EA5FFD25F4C96F6453299A5F"
+            }
+          }
+        }
+      ],
+      "report_file": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\living_background_review.json",
+        "bytes": 8040,
+        "sha256": "DFACA70818BA6865E61C3C5D56E5F13D496652EFB613AD56872AFA89B30DB2C9"
+      },
+      "source_viewport_resolution": [
+        1920,
+        1080
+      ],
+      "bootstrap_draw_frames": 0,
+      "scenery_draw_frames": 720,
+      "logs": {
+        "engine": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\engine.log",
+          "bytes": 362,
+          "sha256": "76220C11FD501ED526A48B2B67C0498CCC68A89EBDFABAB482AD34F76F02995C"
+        },
+        "native": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\native.log",
+          "bytes": 1866,
+          "sha256": "5D85948B610345918BD84F4F0F59CD0B9A1AC126B3607A9C9216816B279ED973"
+        },
+        "encode": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\encode.log",
+          "bytes": 5620,
+          "sha256": "F774D41682517090F28FAAF1733B43EBA4A777F4531428C3268ACF3F31CD639F"
+        },
+        "decode": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\decode.log",
+          "bytes": 2248,
+          "sha256": "EF221838B7E92774B924197F3ADA08C520ABC85C7BD7037AFBA1370C080AA1CA"
+        }
+      },
+      "raw_avi": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\rooftop_riot\\ambient.avi",
+        "bytes": 122762116,
+        "sha256": "E2D72525796389DE48FBE9E36CE24A49E47ABF31A4F325C0A9835DF44ABB99CF",
+        "deleted_after_verified_decode": true
+      },
+      "finished_utc": "2026-10-04T19:28:33.565533+00:00",
+      "visual_observations": [
+        "White gulls occupy different positions across the upper sky: visible left of the center platform at 2 seconds, toward the left at 5 seconds, and nearer the center again at 10 seconds.",
+        "Pool ripple highlights change across the four samples; palm fronds show small position changes. The hotel and rail architecture remain stable.",
+        "The guest bodies remain coherent. Small window-light variations and crowd motion support the rooftop ambience without covering the fighters."
+      ]
+    },
+    {
+      "arena": "lunar_reach",
+      "quality": "High",
+      "started_utc": "2026-10-04T19:28:34.260956+00:00",
+      "capture_passed": true,
+      "reviewed": true,
+      "movie": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\ambient.mp4",
+        "bytes": 939367,
+        "sha256": "2B3C5564AFB8103AE20593024CDF9D6255A22C93AA015EFBC95EF9757E909BA1",
+        "width": 1600,
+        "height": 900,
+        "fps": 60.0,
+        "duration_seconds": 12.0,
+        "video_frames": 720,
+        "decoded": true,
+        "reviewed": true,
+        "review_method": "Assistant visual inspection of all twenty native 1600x900 PNGs extracted from five current 12-second MP4s at 0, 2, 5 and 10 seconds; native crop comparisons for waterfall, spillway and Earth details.",
+        "audio": false
+      },
+      "processes": [
+        {
+          "label": "lunar_reach engine capture",
+          "pid": 9148,
+          "started_utc": "2026-10-04T19:28:34.264456+00:00",
+          "finished_utc": "2026-10-04T19:29:17.103225+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\native.log",
+            "bytes": 1861,
+            "sha256": "23D4F5B307CA5B184AFAD1B708B3DC4899C4A4934A06D838B4A0BB95E8FD8DDE"
+          }
+        },
+        {
+          "label": "lunar_reach encode",
+          "pid": 8564,
+          "started_utc": "2026-10-04T19:29:17.110737+00:00",
+          "finished_utc": "2026-10-04T19:29:19.049938+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\encode.log",
+            "bytes": 5408,
+            "sha256": "ACA45219A87AB5383441598E8206FDC7F5BB5DCCB49B8EF9E9181E0564BB4635"
+          }
+        },
+        {
+          "label": "lunar_reach full decode",
+          "pid": 6232,
+          "started_utc": "2026-10-04T19:29:19.059443+00:00",
+          "finished_utc": "2026-10-04T19:29:19.295735+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\decode.log",
+            "bytes": 2246,
+            "sha256": "D32406A78C54F9422A433B865A04F91BE260B7B5F1962859971861D69CB649D2"
+          }
+        }
+      ],
+      "problems": [],
+      "samples": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\review\\t00.png",
+          "bytes": 1365885,
+          "sha256": "81A524F0C004F11431A905ED9F60713EC9338A5BC1E0452FE3A2214BC9D22F65",
+          "seconds": 0,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "lunar_reach sample 0s",
+            "pid": 9648,
+            "started_utc": "2026-10-04T19:29:19.305240+00:00",
+            "finished_utc": "2026-10-04T19:29:19.445942+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\review\\t00.log",
+              "bytes": 626,
+              "sha256": "E00961F24B1E2D03F5677310145345182E2A3989416B6630DA6593F4B4873521"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\review\\t02.png",
+          "bytes": 1376205,
+          "sha256": "8AFBE631A847D40F17A63FD9E0F2B0234883D0DB3713115030E69D34A3F0811A",
+          "seconds": 2,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "lunar_reach sample 2s",
+            "pid": 29060,
+            "started_utc": "2026-10-04T19:29:19.451939+00:00",
+            "finished_utc": "2026-10-04T19:29:19.613400+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\review\\t02.log",
+              "bytes": 626,
+              "sha256": "E3D9B112617D2458866B3207D5399474D27FD92A5DE0391C0954CDE2C32917BB"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\review\\t05.png",
+          "bytes": 1370331,
+          "sha256": "4E95DCC641098EFB2799D675DE320DF1073F611BD2D278828A6C2E63A903D6D9",
+          "seconds": 5,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "lunar_reach sample 5s",
+            "pid": 30352,
+            "started_utc": "2026-10-04T19:29:19.620907+00:00",
+            "finished_utc": "2026-10-04T19:29:19.767655+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\review\\t05.log",
+              "bytes": 626,
+              "sha256": "93497BF3D1744BC0DA6680BB87523CFCDA425F146B3C2E1FB0A9BBDCAAC246A6"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\review\\t10.png",
+          "bytes": 1370145,
+          "sha256": "EEEE767CD85623CF84DA1EADE04EBEAEB0EBF18A3E030D0A50D1DBEFD5AC9AC3",
+          "seconds": 10,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "lunar_reach sample 10s",
+            "pid": 11760,
+            "started_utc": "2026-10-04T19:29:19.774223+00:00",
+            "finished_utc": "2026-10-04T19:29:19.931440+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\review\\t10.log",
+              "bytes": 627,
+              "sha256": "E4AB6EE984156EF40A1D47669E924BD4513894838AD5F703D98D4BFBE94D5732"
+            }
+          }
+        }
+      ],
+      "report_file": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\living_background_review.json",
+        "bytes": 7329,
+        "sha256": "33C8741D495CC4AA6172A997B7C4780AC65E6EE7AE75537BF9C81040539A4CA6"
+      },
+      "source_viewport_resolution": [
+        1920,
+        1080
+      ],
+      "bootstrap_draw_frames": 0,
+      "scenery_draw_frames": 720,
+      "logs": {
+        "engine": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\engine.log",
+          "bytes": 362,
+          "sha256": "76220C11FD501ED526A48B2B67C0498CCC68A89EBDFABAB482AD34F76F02995C"
+        },
+        "native": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\native.log",
+          "bytes": 1861,
+          "sha256": "23D4F5B307CA5B184AFAD1B708B3DC4899C4A4934A06D838B4A0BB95E8FD8DDE"
+        },
+        "encode": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\encode.log",
+          "bytes": 5408,
+          "sha256": "ACA45219A87AB5383441598E8206FDC7F5BB5DCCB49B8EF9E9181E0564BB4635"
+        },
+        "decode": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\decode.log",
+          "bytes": 2246,
+          "sha256": "D32406A78C54F9422A433B865A04F91BE260B7B5F1962859971861D69CB649D2"
+        }
+      },
+      "raw_avi": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\lunar_reach\\ambient.avi",
+        "bytes": 124287878,
+        "sha256": "4DBA997366ECBE7A4035D33D2A34B51DA084BA88037B71E0B53F6FC5C3E3CD1E",
+        "deleted_after_verified_decode": true
+      },
+      "finished_utc": "2026-10-04T19:29:20.807513+00:00",
+      "visual_observations": [
+        "The six-wheel rover advances left along the rear causeway from the middle gap toward Heavy Duty over the 0/2/5/10-second sequence.",
+        "The large dish at the upper left changes its aim; its central receiver and projected silhouette shift over the sequence.",
+        "Terrain and fighting platforms remain stable while the base activity changes behind them."
+      ]
+    },
+    {
+      "arena": "verdant_shrine",
+      "quality": "High",
+      "started_utc": "2026-10-04T19:29:21.419983+00:00",
+      "capture_passed": true,
+      "reviewed": true,
+      "movie": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\ambient.mp4",
+        "bytes": 2402020,
+        "sha256": "BD010FCFB55E9A8BE73911AA2E19AA2946EBCAAB9A64A1D0BF149CE9571C8345",
+        "width": 1600,
+        "height": 900,
+        "fps": 60.0,
+        "duration_seconds": 12.0,
+        "video_frames": 720,
+        "decoded": true,
+        "reviewed": true,
+        "review_method": "Assistant visual inspection of all twenty native 1600x900 PNGs extracted from five current 12-second MP4s at 0, 2, 5 and 10 seconds; native crop comparisons for waterfall, spillway and Earth details.",
+        "audio": false
+      },
+      "processes": [
+        {
+          "label": "verdant_shrine engine capture",
+          "pid": 23276,
+          "started_utc": "2026-10-04T19:29:21.422983+00:00",
+          "finished_utc": "2026-10-04T19:29:57.897504+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\native.log",
+            "bytes": 1876,
+            "sha256": "E8342A20E1AF2E91C63AE9F1FBB8CEDE9CE7D2C074CB99578ED7B5E08A71412D"
+          }
+        },
+        {
+          "label": "verdant_shrine encode",
+          "pid": 5568,
+          "started_utc": "2026-10-04T19:29:57.905012+00:00",
+          "finished_utc": "2026-10-04T19:30:00.173541+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\encode.log",
+            "bytes": 5635,
+            "sha256": "D6FD752DC12CC9BE378AAC0B70F8BE859D209E8A556B408B9C518DA89DCD6673"
+          }
+        },
+        {
+          "label": "verdant_shrine full decode",
+          "pid": 1968,
+          "started_utc": "2026-10-04T19:30:00.180048+00:00",
+          "finished_utc": "2026-10-04T19:30:00.429047+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\decode.log",
+            "bytes": 2254,
+            "sha256": "BF814301CE5C0A655C6D4376E381E71783E7F2C4E6B45FA515AB83992D9F8B6D"
+          }
+        }
+      ],
+      "problems": [],
+      "samples": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\review\\t00.png",
+          "bytes": 2788666,
+          "sha256": "4D5F36AFE38B94423E51C1A634B3038834BAD69E8D36A43468A55D6375D449E7",
+          "seconds": 0,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "verdant_shrine sample 0s",
+            "pid": 3800,
+            "started_utc": "2026-10-04T19:30:00.438773+00:00",
+            "finished_utc": "2026-10-04T19:30:00.587870+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\review\\t00.log",
+              "bytes": 632,
+              "sha256": "E6BD7D199A11FB4AC92D32625A7B661F49908260D88D1EB890E35C4260F0CA6C"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\review\\t02.png",
+          "bytes": 2834992,
+          "sha256": "D40DD0F65144F13F8624B21BCF02DB481B8FD8D2F8781322800DA575CB11E1CA",
+          "seconds": 2,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "verdant_shrine sample 2s",
+            "pid": 11124,
+            "started_utc": "2026-10-04T19:30:00.594363+00:00",
+            "finished_utc": "2026-10-04T19:30:00.771672+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\review\\t02.log",
+              "bytes": 632,
+              "sha256": "AA5EA1479ED2A0363977F706169E27A34EC5F2DD5949D073FFC0D43B510E47CA"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\review\\t05.png",
+          "bytes": 2825716,
+          "sha256": "FC6AB1363E0EDE83370F5E54951621ABE5045AC0B9544DC0EEF674092DAEBFB5",
+          "seconds": 5,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "verdant_shrine sample 5s",
+            "pid": 9092,
+            "started_utc": "2026-10-04T19:30:00.778187+00:00",
+            "finished_utc": "2026-10-04T19:30:00.944169+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\review\\t05.log",
+              "bytes": 632,
+              "sha256": "3495007474C9D7329636B04F5C8E3DE768D332F93911152C9E294212021AF199"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\review\\t10.png",
+          "bytes": 2831142,
+          "sha256": "9141C57E2FDACEC22DC8A958A8445D8EC44122A952A85002C5C54F959D547F95",
+          "seconds": 10,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "verdant_shrine sample 10s",
+            "pid": 30476,
+            "started_utc": "2026-10-04T19:30:00.951432+00:00",
+            "finished_utc": "2026-10-04T19:30:01.127127+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\review\\t10.log",
+              "bytes": 633,
+              "sha256": "0B4F85031901D90CB8C59BABB3281088617DC4F0F5590823581E065E71A266B4"
+            }
+          }
+        }
+      ],
+      "report_file": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\living_background_review.json",
+        "bytes": 12212,
+        "sha256": "1FBF69B4A3D4FFE3F7B9D4171ABC9FA3D67E8EE6D4C85E6C0554427B1D8E1FE1"
+      },
+      "source_viewport_resolution": [
+        1920,
+        1080
+      ],
+      "bootstrap_draw_frames": 0,
+      "scenery_draw_frames": 720,
+      "logs": {
+        "engine": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\engine.log",
+          "bytes": 362,
+          "sha256": "76220C11FD501ED526A48B2B67C0498CCC68A89EBDFABAB482AD34F76F02995C"
+        },
+        "native": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\native.log",
+          "bytes": 1876,
+          "sha256": "E8342A20E1AF2E91C63AE9F1FBB8CEDE9CE7D2C074CB99578ED7B5E08A71412D"
+        },
+        "encode": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\encode.log",
+          "bytes": 5635,
+          "sha256": "D6FD752DC12CC9BE378AAC0B70F8BE859D209E8A556B408B9C518DA89DCD6673"
+        },
+        "decode": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\decode.log",
+          "bytes": 2254,
+          "sha256": "BF814301CE5C0A655C6D4376E381E71783E7F2C4E6B45FA515AB83992D9F8B6D"
+        }
+      },
+      "raw_avi": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\ambient.avi",
+        "bytes": 163955214,
+        "sha256": "4DBDA06F29473852394B0EE58FF545F373167E00A373B0CE186B252D10E69243",
+        "deleted_after_verified_decode": true
+      },
+      "finished_utc": "2026-10-04T19:30:01.879872+00:00",
+      "visual_observations": [
+        "Bird silhouettes travel across the upper valley between the samples and clear the central platform.",
+        "Native waterfall crops show changing irregular bright/dark ribbons and small refraction offsets confined to the cascade. Stone cliff and temple edges retain their positions.",
+        "Mist and lagoon shading vary subtly around the waterfall foot; foliage changes remain restrained rather than moving the whole artwork."
+      ]
+    },
+    {
+      "arena": "abyssal_observatory",
+      "quality": "High",
+      "started_utc": "2026-10-04T19:30:02.513952+00:00",
+      "capture_passed": true,
+      "reviewed": true,
+      "movie": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\ambient.mp4",
+        "bytes": 3249447,
+        "sha256": "7139060FF441B7BED5B1C7E423FC99B546384AE1C64F22FAE19ABA3F57F1FFFE",
+        "width": 1600,
+        "height": 900,
+        "fps": 60.0,
+        "duration_seconds": 12.0,
+        "video_frames": 720,
+        "decoded": true,
+        "reviewed": true,
+        "review_method": "Assistant visual inspection of all twenty native 1600x900 PNGs extracted from five current 12-second MP4s at 0, 2, 5 and 10 seconds; native crop comparisons for waterfall, spillway and Earth details.",
+        "audio": false
+      },
+      "processes": [
+        {
+          "label": "abyssal_observatory engine capture",
+          "pid": 26048,
+          "started_utc": "2026-10-04T19:30:02.517463+00:00",
+          "finished_utc": "2026-10-04T19:30:39.362348+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\native.log",
+            "bytes": 1901,
+            "sha256": "B9993C6350977A2DE00AE0903BDF2BE6B2E3502AF9C407D287B700D242A6CCCC"
+          }
+        },
+        {
+          "label": "abyssal_observatory encode",
+          "pid": 21588,
+          "started_utc": "2026-10-04T19:30:39.368860+00:00",
+          "finished_utc": "2026-10-04T19:30:41.610066+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\encode.log",
+            "bytes": 5655,
+            "sha256": "495326295A0DBD110A75E9C9A81E045792871F0247EC9FC2809C427A5DE88773"
+          }
+        },
+        {
+          "label": "abyssal_observatory full decode",
+          "pid": 13024,
+          "started_utc": "2026-10-04T19:30:41.615068+00:00",
+          "finished_utc": "2026-10-04T19:30:41.868898+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\decode.log",
+            "bytes": 2264,
+            "sha256": "4DBBD5AF1D339C4FBDB4F430DBB5A9A1A36ED43625410A230F6728FA9EE0DDDB"
+          }
+        }
+      ],
+      "problems": [],
+      "samples": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\review\\t00.png",
+          "bytes": 2151831,
+          "sha256": "0DFFF96CB029D093E8C37B6C3A02DAE35193A4CCE7B295249A76AB25080D8B0C",
+          "seconds": 0,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "abyssal_observatory sample 0s",
+            "pid": 30660,
+            "started_utc": "2026-10-04T19:30:41.878999+00:00",
+            "finished_utc": "2026-10-04T19:30:42.013608+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\review\\t00.log",
+              "bytes": 642,
+              "sha256": "DF29164D22E0EEB75D5DD70A3F2DE373E98194E54E276DC905C1D00D7DAB05EF"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\review\\t02.png",
+          "bytes": 2228021,
+          "sha256": "133EABDB83EB58059DDCD0770E1A2601D2E4CCCEC1E4F1ED7658FB358895579F",
+          "seconds": 2,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "abyssal_observatory sample 2s",
+            "pid": 4872,
+            "started_utc": "2026-10-04T19:30:42.021632+00:00",
+            "finished_utc": "2026-10-04T19:30:42.189716+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\review\\t02.log",
+              "bytes": 642,
+              "sha256": "ED1D9345B46C7B2720905110508193C526CA96B32D3891B7E04CA91BE0829196"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\review\\t05.png",
+          "bytes": 2224919,
+          "sha256": "A7604CC5D414C53E310D207062CCAED506030C38AE2B74813FC106287ECC1AC8",
+          "seconds": 5,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "abyssal_observatory sample 5s",
+            "pid": 10816,
+            "started_utc": "2026-10-04T19:30:42.196728+00:00",
+            "finished_utc": "2026-10-04T19:30:42.346888+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\review\\t05.log",
+              "bytes": 642,
+              "sha256": "D550EF21DDAA55DC999D05149BA91EA9BAA5E8A19980CD475CA17AD5DE44F071"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\review\\t10.png",
+          "bytes": 2246484,
+          "sha256": "B195F84285B1FD75E09C324417F6589C2364F1475ABB66BA776D6AD4F8DC3C14",
+          "seconds": 10,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "abyssal_observatory sample 10s",
+            "pid": 17336,
+            "started_utc": "2026-10-04T19:30:42.353890+00:00",
+            "finished_utc": "2026-10-04T19:30:42.517010+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\review\\t10.log",
+              "bytes": 643,
+              "sha256": "14663F0F43FC78BC9A241B6F1E8EF681C993F4E4ED25044A869EDDA95B893B5A"
+            }
+          }
+        }
+      ],
+      "report_file": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\living_background_review.json",
+        "bytes": 11501,
+        "sha256": "F95ECF85489680774600374325D8B3E1FD7387075645BA88CE312BF64D0A1CE9"
+      },
+      "source_viewport_resolution": [
+        1920,
+        1080
+      ],
+      "bootstrap_draw_frames": 0,
+      "scenery_draw_frames": 720,
+      "logs": {
+        "engine": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\engine.log",
+          "bytes": 362,
+          "sha256": "76220C11FD501ED526A48B2B67C0498CCC68A89EBDFABAB482AD34F76F02995C"
+        },
+        "native": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\native.log",
+          "bytes": 1901,
+          "sha256": "B9993C6350977A2DE00AE0903BDF2BE6B2E3502AF9C407D287B700D242A6CCCC"
+        },
+        "encode": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\encode.log",
+          "bytes": 5655,
+          "sha256": "495326295A0DBD110A75E9C9A81E045792871F0247EC9FC2809C427A5DE88773"
+        },
+        "decode": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\decode.log",
+          "bytes": 2264,
+          "sha256": "4DBBD5AF1D339C4FBDB4F430DBB5A9A1A36ED43625410A230F6728FA9EE0DDDB"
+        }
+      },
+      "raw_avi": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\abyssal_observatory\\ambient.avi",
+        "bytes": 154126626,
+        "sha256": "3479DE4DD97D71CE34AE2B576AB75434D744F461A39E3C0D304CBC9669E47F68",
+        "deleted_after_verified_decode": true
+      },
+      "finished_utc": "2026-10-04T19:30:43.292618+00:00",
+      "visual_observations": [
+        "Fish schools visibly travel laterally: the near window school crosses from the left toward the middle, while the lower right school swims left across the undercroft over 0/2/5/10 seconds.",
+        "Jellyfish occupy changing positions; their bell proportions and trailing-filament shapes change. The right jellyfish rises while the left jellyfish drifts downward and left.",
+        "A manta traverses the right window and exits to the right; the second manta glides past the lower left. The painted whale and reef remain a stable distant layer."
+      ]
+    },
+    {
+      "arena": "ember_foundry",
+      "quality": "High",
+      "started_utc": "2026-10-04T19:30:43.972256+00:00",
+      "capture_passed": true,
+      "reviewed": true,
+      "movie": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\ambient.mp4",
+        "bytes": 4602101,
+        "sha256": "4B187E95EDD100E8EB6FC175C814BBA8C3BCC7BC83332B7DCB922CCC7E4559F4",
+        "width": 1600,
+        "height": 900,
+        "fps": 60.0,
+        "duration_seconds": 12.0,
+        "video_frames": 720,
+        "decoded": true,
+        "reviewed": true,
+        "review_method": "Assistant visual inspection of all twenty native 1600x900 PNGs extracted from five current 12-second MP4s at 0, 2, 5 and 10 seconds; native crop comparisons for waterfall, spillway and Earth details.",
+        "audio": false
+      },
+      "processes": [
+        {
+          "label": "ember_foundry engine capture",
+          "pid": 1136,
+          "started_utc": "2026-10-04T19:30:43.975754+00:00",
+          "finished_utc": "2026-10-04T19:31:22.141149+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\native.log",
+            "bytes": 1871,
+            "sha256": "2A3D15974BAF75005E512284E28F8DEBC6531F28755E9C977815A3C587776E04"
+          }
+        },
+        {
+          "label": "ember_foundry encode",
+          "pid": 17336,
+          "started_utc": "2026-10-04T19:31:22.148659+00:00",
+          "finished_utc": "2026-10-04T19:31:24.420234+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\encode.log",
+            "bytes": 5577,
+            "sha256": "6D1AFA0EFAA88217FD5B4835A8C1D2D8FAB98EDEC63FBD4B98E7750A80BCFBA2"
+          }
+        },
+        {
+          "label": "ember_foundry full decode",
+          "pid": 11960,
+          "started_utc": "2026-10-04T19:31:24.428653+00:00",
+          "finished_utc": "2026-10-04T19:31:24.684366+00:00",
+          "exit_code": 0,
+          "timed_out": false,
+          "timeout_seconds": 180,
+          "log": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\decode.log",
+            "bytes": 2252,
+            "sha256": "737533539F2CFE407CE40052CC6D03ABD2EFE69CC035CC631E5178B71041EC85"
+          }
+        }
+      ],
+      "problems": [],
+      "samples": [
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\review\\t00.png",
+          "bytes": 2447555,
+          "sha256": "94CBB2D5AF5086D867113B2740A33295D580402F75C08CA96B2577BC61FBF09D",
+          "seconds": 0,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "ember_foundry sample 0s",
+            "pid": 18032,
+            "started_utc": "2026-10-04T19:31:24.695642+00:00",
+            "finished_utc": "2026-10-04T19:31:24.843397+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\review\\t00.log",
+              "bytes": 630,
+              "sha256": "88145602CB336D804CBEDD870A7857D280849F4D5DDF75D06EAA3F408DA4255D"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\review\\t02.png",
+          "bytes": 2498951,
+          "sha256": "FD2209472DE816B40C158A25110FEABD86BCE02F99DAB43DC7870FC802F2561F",
+          "seconds": 2,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "ember_foundry sample 2s",
+            "pid": 6728,
+            "started_utc": "2026-10-04T19:31:24.850903+00:00",
+            "finished_utc": "2026-10-04T19:31:25.026535+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\review\\t02.log",
+              "bytes": 630,
+              "sha256": "0F172BD6F5FF346B482C1F815D5DDFA090D06E1627DA6CC95A6FEF8039C8BF2B"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\review\\t05.png",
+          "bytes": 2481475,
+          "sha256": "022CAC04A7697EFFF02F501C925E7452EB1554FCB9BFBBF6001EE8621BA7CCC5",
+          "seconds": 5,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "ember_foundry sample 5s",
+            "pid": 16756,
+            "started_utc": "2026-10-04T19:31:25.033042+00:00",
+            "finished_utc": "2026-10-04T19:31:25.189975+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\review\\t05.log",
+              "bytes": 630,
+              "sha256": "D0D0D464EA41D4015BD2C9F38DA7DD4B08AC17501157C5ACAD430028C126C426"
+            }
+          }
+        },
+        {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\review\\t10.png",
+          "bytes": 2491755,
+          "sha256": "1E14A763F224F99FA8F994E92CAD39180BF4B0ECCBBAA6E027B29D72FE2AAEF5",
+          "seconds": 10,
+          "width": 1600,
+          "height": 900,
+          "reviewed": true,
+          "extraction": {
+            "label": "ember_foundry sample 10s",
+            "pid": 30072,
+            "started_utc": "2026-10-04T19:31:25.196476+00:00",
+            "finished_utc": "2026-10-04T19:31:25.367498+00:00",
+            "exit_code": 0,
+            "timed_out": false,
+            "timeout_seconds": 180,
+            "log": {
+              "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\review\\t10.log",
+              "bytes": 631,
+              "sha256": "A393DFF08821FE6C1D539E286DF782F9A0F6E51CCF0694436E7839519EDA9468"
+            }
+          }
+        }
+      ],
+      "report_file": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\living_background_review.json",
+        "bytes": 7427,
+        "sha256": "C41D03B77B9F3676FDD4DE5B39558673DF527BC3FBEB371D894BA4F5ED612B4B"
+      },
+      "source_viewport_resolution": [
+        1920,
+        1080
+      ],
+      "bootstrap_draw_frames": 0,
+      "scenery_draw_frames": 720,
+      "logs": {
+        "engine": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\engine.log",
+          "bytes": 362,
+          "sha256": "76220C11FD501ED526A48B2B67C0498CCC68A89EBDFABAB482AD34F76F02995C"
+        },
+        "native": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\native.log",
+          "bytes": 1871,
+          "sha256": "2A3D15974BAF75005E512284E28F8DEBC6531F28755E9C977815A3C587776E04"
+        },
+        "encode": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\encode.log",
+          "bytes": 5577,
+          "sha256": "6D1AFA0EFAA88217FD5B4835A8C1D2D8FAB98EDEC63FBD4B98E7750A80BCFBA2"
+        },
+        "decode": {
+          "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\decode.log",
+          "bytes": 2252,
+          "sha256": "737533539F2CFE407CE40052CC6D03ABD2EFE69CC035CC631E5178B71041EC85"
+        }
+      },
+      "raw_avi": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\ember_foundry\\ambient.avi",
+        "bytes": 150299162,
+        "sha256": "E60A294A7EFD630F779B1BB52E3EB1300107B14CF28D6E956896A79930EF5E7F",
+        "deleted_after_verified_decode": true
+      },
+      "finished_utc": "2026-10-04T19:31:26.269855+00:00",
+      "visual_observations": [
+        "Native spillway crops show orange molten ribbons with cooled/bright streaks at different heights over 0/2/5/10 seconds. Advected material coordinates run downstream in the reviewed shader source.",
+        "The left and right flywheel spokes turn between sample times, while their housings and chain routes remain fixed.",
+        "Smoke and ember placements change around the rear structures. The molten palette stays orange and copper rather than the earlier pale cream."
+      ]
+    }
+  ],
+  "problems": [],
+  "visual_review": "Accepted through bound assistant inspection of all twenty native movie samples; continuous human viewing remains unverified.",
+  "limitations": [
+    "Stationary-player ambient scenery fixtures, not human gameplay or performance measurements.",
+    "Actual encoded dimensions are measured; no upscaling is applied.",
+    "Full decode proves readable media, not animation quality; sample images require visual inspection.",
+    "MP4s contain visual presentation only; audio quality is not tested."
+  ],
+  "gpu_preflight": {
+    "label": "read-only GPU health",
+    "pid": 15456,
+    "started_utc": "2026-10-04T19:27:46.436016+00:00",
+    "finished_utc": "2026-10-04T19:27:46.497544+00:00",
+    "exit_code": 0,
+    "timed_out": false,
+    "timeout_seconds": 20,
+    "log": {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\gpu_preflight.log",
+      "bytes": 284,
+      "sha256": "E8BFC359431E9E45EAD06128A34B271E7E4A0BDB62D8BF105C45D769D1C9A1CE"
+    }
+  },
+  "visual_acceptance": {
+    "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\movie_acceptance.json",
+    "bytes": 64235,
+    "sha256": "08D1C0C94BE1F39976BCDA70693AF6DABA294B110386FD902136944E2DD0F3C8"
+  },
+  "visual_promoted_utc": "2026-10-04T19:42:53.868755+00:00"
+}

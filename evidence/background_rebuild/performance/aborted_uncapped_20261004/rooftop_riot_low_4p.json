@@ -1,0 +1,72 @@
+{
+  "active_fighter_samples": {
+    "4": 55207
+  },
+  "arena": "rooftop_riot",
+  "captured_pixels": "(1920, 1080)",
+  "completed_matches": [],
+  "contacts": 109,
+  "duration_seconds": 60.00003,
+  "engine": "4.7.2-stable (official)",
+  "frame_intervals": {
+    "available": true,
+    "count": 55207,
+    "max_ms": 11.96,
+    "mean_ms": 1.08681924393647,
+    "over_16_667": 0,
+    "p95_ms": 2.373,
+    "p99_ms": 3.322
+  },
+  "gpu_name": "NVIDIA GeForce RTX 4080 SUPER",
+  "logical_viewport": "(1600.0, 900.0)",
+  "measurement_note": "Frame intervals are monotonic process-frame intervals. Viewport CPU/GPU uses RenderingServer measured render time; process/physics are engine callback monitors. These are separate overlapping measurements, not additive.",
+  "peak_draws": 247.0,
+  "peak_primitives": 433789.0,
+  "peak_vram_bytes": 511506640.0,
+  "physics_callback": {
+    "available": true,
+    "count": 55207,
+    "max_ms": 10.642,
+    "mean_ms": 3.50303778506247,
+    "over_16_667": 0,
+    "p95_ms": 7.206,
+    "p99_ms": 10.642
+  },
+  "players": 4,
+  "process_callback": {
+    "available": true,
+    "count": 55207,
+    "max_ms": 6.479,
+    "mean_ms": 4.36292080714397,
+    "over_16_667": 0,
+    "p95_ms": 5.52,
+    "p99_ms": 6.479
+  },
+  "quality": "Low",
+  "readback_inside_sample_window": false,
+  "render_cap": 0,
+  "renderer": "forward_plus",
+  "simulation_ticks_in_sample_window": 3600,
+  "tick": 3783,
+  "viewport_render_cpu": {
+    "available": true,
+    "count": 55207,
+    "max_ms": 2.16499996185303,
+    "mean_ms": 0.217864745380228,
+    "over_16_667": 0,
+    "p95_ms": 0.382999986410141,
+    "p99_ms": 0.559000015258789
+  },
+  "viewport_render_gpu": {
+    "available": true,
+    "count": 55207,
+    "max_ms": 4.84899997711182,
+    "mean_ms": 0.567729798610199,
+    "over_16_667": 0,
+    "p95_ms": 0.866999983787537,
+    "p99_ms": 1.09099996089935
+  },
+  "vsync": "disabled",
+  "warmup_seconds": 3,
+  "window_pixels": "(1920, 1080)"
+}

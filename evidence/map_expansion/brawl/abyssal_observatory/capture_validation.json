@@ -1,0 +1,31 @@
+{
+  "started_utc": "2026-10-03T22:26:05.7256340Z",
+  "finished_utc": "2026-10-03T22:26:59.1617507Z",
+  "requested_arena": "abyssal_observatory",
+  "ticks": 900,
+  "contacts": 43,
+  "passed": true,
+  "files": [
+    {
+      "file": "brawl.mp4",
+      "bytes": 18357116,
+      "sha256": "9FE195FBA17AAE30C6EF0625B8400B96EB0EE973FF2BD80AA6C35842AA67AFCC"
+    },
+    {
+      "file": "brawl_half_speed.mp4",
+      "bytes": 20683522,
+      "sha256": "C6686620598DA277480779C676F52BF670F1A44932F56C1878D87B2DF591E1B9"
+    },
+    {
+      "file": "brawl.png",
+      "bytes": 2203607,
+      "sha256": "5F05FD3743EAB1617353179DE5A28E3CF9159FDBBD5F575AE96131A9DD67FB65"
+    },
+    {
+      "file": "smoke_runtime.json",
+      "bytes": 14053,
+      "sha256": "B88AADB4D1366CF7B06C981773CC41C39A8DB408144F16C5A40CB937A01F469C"
+    }
+  ],
+  "scope": "Continuous four-CPU movie; screenshot arena requires visual inspection. Movie recording costs are not performance evidence."
+}

@@ -1,0 +1,1241 @@
+{
+  "rows": [
+    {
+      "capture": "f01_clutch_special_side",
+      "fighter": "f01_clutch",
+      "clip": "special_side",
+      "frame": 17.00000000000002,
+      "source_foot_origin_separation": 0.966666460037227,
+      "max_deformed_forward_reach": 0.4627411961555481,
+      "shoulder_surface_forward_reach": 0.3354765474796295,
+      "minimum_deformed_height": 0.028232678771018982,
+      "gap_to_target_hurt_capsule_near_edge": 0.08392526388167898,
+      "bones": {
+        "chest": {
+          "head_forward_height": [
+            0.07266826182603836,
+            1.2414122819900513
+          ],
+          "tail_forward_height": [
+            0.17332389950752258,
+            1.3886210918426514
+          ]
+        },
+        "upper_arm.L": {
+          "head_forward_height": [
+            0.001055195927619934,
+            1.3752384185791016
+          ],
+          "tail_forward_height": [
+            0.14423340559005737,
+            1.139384150505066
+          ]
+        },
+        "upper_arm.R": {
+          "head_forward_height": [
+            0.3272916078567505,
+            1.3752384185791016
+          ],
+          "tail_forward_height": [
+            0.2874384820461273,
+            1.0978655815124512
+          ]
+        },
+        "forearm.L": {
+          "head_forward_height": [
+            0.14423340559005737,
+            1.139384150505066
+          ],
+          "tail_forward_height": [
+            0.3330240249633789,
+            1.285992980003357
+          ]
+        },
+        "forearm.R": {
+          "head_forward_height": [
+            0.2874384820461273,
+            1.0978655815124512
+          ],
+          "tail_forward_height": [
+            0.39620503783226013,
+            1.3107585906982422
+          ]
+        },
+        "hand.L": {
+          "head_forward_height": [
+            0.3330240249633789,
+            1.285992980003357
+          ],
+          "tail_forward_height": [
+            0.435030996799469,
+            1.3654439449310303
+          ]
+        },
+        "hand.R": {
+          "head_forward_height": [
+            0.39620503783226013,
+            1.3107585906982422
+          ],
+          "tail_forward_height": [
+            0.4549735486507416,
+            1.4259402751922607
+          ]
+        },
+        "foot.L": {
+          "head_forward_height": [
+            0.021329618990421295,
+            0.14346590638160706
+          ],
+          "tail_forward_height": [
+            0.1813298463821411,
+            0.07846597582101822
+          ]
+        },
+        "foot.R": {
+          "head_forward_height": [
+            -0.450358510017395,
+            0.2534095048904419
+          ],
+          "tail_forward_height": [
+            -0.29035842418670654,
+            0.18840955197811127
+          ]
+        }
+      }
+    },
+    {
+      "capture": "f01_clutch_ultimate_opener",
+      "fighter": "f01_clutch",
+      "clip": "ultimate",
+      "frame": 31.0,
+      "source_foot_origin_separation": 1.0,
+      "max_deformed_forward_reach": 0.6936864256858826,
+      "shoulder_surface_forward_reach": 0.26449158787727356,
+      "minimum_deformed_height": 0.005438701249659061,
+      "gap_to_target_hurt_capsule_near_edge": -0.1136864256858825,
+      "bones": {
+        "chest": {
+          "head_forward_height": [
+            0.060011256486177444,
+            1.2548233270645142
+          ],
+          "tail_forward_height": [
+            0.1707962155342102,
+            1.4366090297698975
+          ]
+        },
+        "upper_arm.L": {
+          "head_forward_height": [
+            0.08625171333551407,
+            1.4066416025161743
+          ],
+          "tail_forward_height": [
+            0.330645889043808,
+            1.2765790224075317
+          ]
+        },
+        "upper_arm.R": {
+          "head_forward_height": [
+            0.23519805073738098,
+            1.433524489402771
+          ],
+          "tail_forward_height": [
+            0.23620939254760742,
+            1.1475647687911987
+          ]
+        },
+        "forearm.L": {
+          "head_forward_height": [
+            0.330645889043808,
+            1.2765790224075317
+          ],
+          "tail_forward_height": [
+            0.552916407585144,
+            1.3658437728881836
+          ]
+        },
+        "forearm.R": {
+          "head_forward_height": [
+            0.23620939254760742,
+            1.1475647687911987
+          ],
+          "tail_forward_height": [
+            0.35105109214782715,
+            1.3510841131210327
+          ]
+        },
+        "hand.L": {
+          "head_forward_height": [
+            0.552916407585144,
+            1.3658437728881836
+          ],
+          "tail_forward_height": [
+            0.6730329990386963,
+            1.4139505624771118
+          ]
+        },
+        "hand.R": {
+          "head_forward_height": [
+            0.35105109214782715,
+            1.3510841131210327
+          ],
+          "tail_forward_height": [
+            0.4132308065891266,
+            1.4615861177444458
+          ]
+        },
+        "foot.L": {
+          "head_forward_height": [
+            0.01748233661055565,
+            0.12085562944412231
+          ],
+          "tail_forward_height": [
+            0.17749427258968353,
+            0.05589521676301956
+          ]
+        },
+        "foot.R": {
+          "head_forward_height": [
+            -0.2795315980911255,
+            0.15915316343307495
+          ],
+          "tail_forward_height": [
+            -0.11960768699645996,
+            0.0939900130033493
+          ]
+        }
+      }
+    },
+    {
+      "capture": "f01_clutch_ultimate_finisher",
+      "fighter": "f01_clutch",
+      "clip": "ultimate",
+      "frame": 67.0,
+      "source_foot_origin_separation": 0.699999988079071,
+      "max_deformed_forward_reach": 0.6630330085754395,
+      "shoulder_surface_forward_reach": 0.30204418301582336,
+      "minimum_deformed_height": 0.041823338717222214,
+      "gap_to_target_hurt_capsule_near_edge": -0.3830330204963684,
+      "bones": {
+        "chest": {
+          "head_forward_height": [
+            0.025959493592381477,
+            1.2683974504470825
+          ],
+          "tail_forward_height": [
+            0.07801928371191025,
+            1.4818625450134277
+          ]
+        },
+        "upper_arm.L": {
+          "head_forward_height": [
+            0.03024888038635254,
+            1.4624565839767456
+          ],
+          "tail_forward_height": [
+            0.17342707514762878,
+            1.22660231590271
+          ]
+        },
+        "upper_arm.R": {
+          "head_forward_height": [
+            0.1163242906332016,
+            1.4624565839767456
+          ],
+          "tail_forward_height": [
+            0.3643162250518799,
+            1.6042414903640747
+          ]
+        },
+        "forearm.L": {
+          "head_forward_height": [
+            0.17342707514762878,
+            1.22660231590271
+          ],
+          "tail_forward_height": [
+            0.310843825340271,
+            1.4216687679290771
+          ]
+        },
+        "forearm.R": {
+          "head_forward_height": [
+            0.3643162250518799,
+            1.6042414903640747
+          ],
+          "tail_forward_height": [
+            0.5531069040298462,
+            1.7515649795532227
+          ]
+        },
+        "hand.L": {
+          "head_forward_height": [
+            0.310843825340271,
+            1.4216687679290771
+          ],
+          "tail_forward_height": [
+            0.3850925862789154,
+            1.527380108833313
+          ]
+        },
+        "hand.R": {
+          "head_forward_height": [
+            0.5531069040298462,
+            1.7515649795532227
+          ],
+          "tail_forward_height": [
+            0.655113935470581,
+            1.831213116645813
+          ]
+        },
+        "foot.L": {
+          "head_forward_height": [
+            -0.021111786365509033,
+            0.2633010149002075
+          ],
+          "tail_forward_height": [
+            0.13888823986053467,
+            0.1983010172843933
+          ]
+        },
+        "foot.R": {
+          "head_forward_height": [
+            -0.24494659900665283,
+            0.1576499342918396
+          ],
+          "tail_forward_height": [
+            -0.08494660258293152,
+            0.0926499143242836
+          ]
+        }
+      }
+    },
+    {
+      "capture": "f03_heavy_duty_special_side",
+      "fighter": "f03_heavy_duty",
+      "clip": "special_side",
+      "frame": 17.99999973422194,
+      "source_foot_origin_separation": 1.2499999999999958,
+      "max_deformed_forward_reach": 0.9188110828399658,
+      "shoulder_surface_forward_reach": 0.39577531814575195,
+      "minimum_deformed_height": -0.05162656679749489,
+      "gap_to_target_hurt_capsule_near_edge": -0.08881108283996997,
+      "bones": {
+        "chest": {
+          "head_forward_height": [
+            0.061194490641355515,
+            1.232812762260437
+          ],
+          "tail_forward_height": [
+            0.1815783530473709,
+            1.4254671335220337
+          ]
+        },
+        "upper_arm.L": {
+          "head_forward_height": [
+            0.17063435912132263,
+            1.407953143119812
+          ],
+          "tail_forward_height": [
+            0.4802449643611908,
+            1.3828381299972534
+          ]
+        },
+        "upper_arm.R": {
+          "head_forward_height": [
+            0.17063435912132263,
+            1.407953143119812
+          ],
+          "tail_forward_height": [
+            0.4802449643611908,
+            1.3828381299972534
+          ]
+        },
+        "forearm.L": {
+          "head_forward_height": [
+            0.4802449643611908,
+            1.3828381299972534
+          ],
+          "tail_forward_height": [
+            0.7273603677749634,
+            1.4484554529190063
+          ]
+        },
+        "forearm.R": {
+          "head_forward_height": [
+            0.4802449643611908,
+            1.3828381299972534
+          ],
+          "tail_forward_height": [
+            0.7273603677749634,
+            1.4484554529190063
+          ]
+        },
+        "hand.L": {
+          "head_forward_height": [
+            0.7273603677749634,
+            1.4484554529190063
+          ],
+          "tail_forward_height": [
+            0.8563863635063171,
+            1.4828686714172363
+          ]
+        },
+        "hand.R": {
+          "head_forward_height": [
+            0.7273603677749634,
+            1.4484554529190063
+          ],
+          "tail_forward_height": [
+            0.8563863635063171,
+            1.4828686714172363
+          ]
+        },
+        "foot.L": {
+          "head_forward_height": [
+            0.04442102462053299,
+            0.06810593605041504
+          ],
+          "tail_forward_height": [
+            0.2044210135936737,
+            0.0009863823652267456
+          ]
+        },
+        "foot.R": {
+          "head_forward_height": [
+            -0.22101430594921112,
+            0.07581618428230286
+          ],
+          "tail_forward_height": [
+            -0.061014324426651,
+            0.008696593344211578
+          ]
+        }
+      }
+    },
+    {
+      "capture": "f03_heavy_duty_special_side_lift",
+      "fighter": "f03_heavy_duty",
+      "clip": "special_side",
+      "frame": 27.999999734221902,
+      "source_foot_origin_separation": 0.41028806567192083,
+      "max_deformed_forward_reach": 0.4376436769962311,
+      "shoulder_surface_forward_reach": 0.14662368595600128,
+      "minimum_deformed_height": -0.018638107925653458,
+      "gap_to_target_hurt_capsule_near_edge": -0.44735561132431023,
+      "bones": {
+        "chest": {
+          "head_forward_height": [
+            -0.02008216828107834,
+            1.3016139268875122
+          ],
+          "tail_forward_height": [
+            -0.06101205199956894,
+            1.525070309638977
+          ]
+        },
+        "upper_arm.L": {
+          "head_forward_height": [
+            -0.057291142642498016,
+            1.5047560930252075
+          ],
+          "tail_forward_height": [
+            0.1857561469078064,
+            1.6761817932128906
+          ]
+        },
+        "upper_arm.R": {
+          "head_forward_height": [
+            -0.057291142642498016,
+            1.5047560930252075
+          ],
+          "tail_forward_height": [
+            0.1857561469078064,
+            1.6761817932128906
+          ]
+        },
+        "forearm.L": {
+          "head_forward_height": [
+            0.1857561469078064,
+            1.6761817932128906
+          ],
+          "tail_forward_height": [
+            0.318647563457489,
+            1.8892382383346558
+          ]
+        },
+        "forearm.R": {
+          "head_forward_height": [
+            0.1857561469078064,
+            1.6761817932128906
+          ],
+          "tail_forward_height": [
+            0.318647563457489,
+            1.8892382383346558
+          ]
+        },
+        "hand.L": {
+          "head_forward_height": [
+            0.318647563457489,
+            1.8892382383346558
+          ],
+          "tail_forward_height": [
+            0.388644278049469,
+            2.0009758472442627
+          ]
+        },
+        "hand.R": {
+          "head_forward_height": [
+            0.318647563457489,
+            1.8892382383346558
+          ],
+          "tail_forward_height": [
+            0.388644278049469,
+            2.0009758472442627
+          ]
+        },
+        "foot.L": {
+          "head_forward_height": [
+            0.004145949147641659,
+            0.1082158088684082
+          ],
+          "tail_forward_height": [
+            0.16420266032218933,
+            0.0412316620349884
+          ]
+        },
+        "foot.R": {
+          "head_forward_height": [
+            0.09351504594087601,
+            0.11326366662979126
+          ],
+          "tail_forward_height": [
+            0.25967028737068176,
+            0.0633084774017334
+          ]
+        }
+      }
+    },
+    {
+      "capture": "f03_heavy_duty_special_side_slam",
+      "fighter": "f03_heavy_duty",
+      "clip": "special_side",
+      "frame": 42.99999973422196,
+      "source_foot_origin_separation": 0.6973251104354858,
+      "max_deformed_forward_reach": 0.5604789853096008,
+      "shoulder_surface_forward_reach": 0.3211987614631653,
+      "minimum_deformed_height": -0.0575827918946743,
+      "gap_to_target_hurt_capsule_near_edge": -0.283153874874115,
+      "bones": {
+        "chest": {
+          "head_forward_height": [
+            0.09029991924762726,
+            1.172219157218933
+          ],
+          "tail_forward_height": [
+            0.2591230273246765,
+            1.3242281675338745
+          ]
+        },
+        "upper_arm.L": {
+          "head_forward_height": [
+            0.24377545714378357,
+            1.3104091882705688
+          ],
+          "tail_forward_height": [
+            0.35007303953170776,
+            1.0415756702423096
+          ]
+        },
+        "upper_arm.R": {
+          "head_forward_height": [
+            0.24377545714378357,
+            1.3104091882705688
+          ],
+          "tail_forward_height": [
+            0.35007303953170776,
+            1.0415756702423096
+          ]
+        },
+        "forearm.L": {
+          "head_forward_height": [
+            0.35007303953170776,
+            1.0415756702423096
+          ],
+          "tail_forward_height": [
+            0.4779893755912781,
+            0.8222012519836426
+          ]
+        },
+        "forearm.R": {
+          "head_forward_height": [
+            0.35007303953170776,
+            1.0415756702423096
+          ],
+          "tail_forward_height": [
+            0.4779893755912781,
+            0.8222012519836426
+          ]
+        },
+        "hand.L": {
+          "head_forward_height": [
+            0.4779893755912781,
+            0.8222012519836426
+          ],
+          "tail_forward_height": [
+            0.5447781085968018,
+            0.7071017622947693
+          ]
+        },
+        "hand.R": {
+          "head_forward_height": [
+            0.4779893755912781,
+            0.8222012519836426
+          ],
+          "tail_forward_height": [
+            0.5447781085968018,
+            0.7071017622947693
+          ]
+        },
+        "foot.L": {
+          "head_forward_height": [
+            0.04865625500679016,
+            0.06309357285499573
+          ],
+          "tail_forward_height": [
+            0.20865625143051147,
+            -0.00402599573135376
+          ]
+        },
+        "foot.R": {
+          "head_forward_height": [
+            0.04865625500679016,
+            0.06309357285499573
+          ],
+          "tail_forward_height": [
+            0.20865625143051147,
+            -0.00402599573135376
+          ]
+        }
+      }
+    },
+    {
+      "capture": "f03_heavy_duty_ultimate_opener",
+      "fighter": "f03_heavy_duty",
+      "clip": "ultimate",
+      "frame": 32.00000092387198,
+      "source_foot_origin_separation": 1.100000023841858,
+      "max_deformed_forward_reach": 0.8626923561096191,
+      "shoulder_surface_forward_reach": 0.33357957005500793,
+      "minimum_deformed_height": -0.002821538131684065,
+      "gap_to_target_hurt_capsule_near_edge": -0.18269233226776116,
+      "bones": {
+        "chest": {
+          "head_forward_height": [
+            0.03855177015066147,
+            1.3080402612686157
+          ],
+          "tail_forward_height": [
+            0.11624983698129654,
+            1.5215139389038086
+          ]
+        },
+        "upper_arm.L": {
+          "head_forward_height": [
+            0.10918638110160828,
+            1.5021071434020996
+          ],
+          "tail_forward_height": [
+            0.41879701614379883,
+            1.4766533374786377
+          ]
+        },
+        "upper_arm.R": {
+          "head_forward_height": [
+            0.10918638110160828,
+            1.5021071434020996
+          ],
+          "tail_forward_height": [
+            0.41879701614379883,
+            1.4766533374786377
+          ]
+        },
+        "forearm.L": {
+          "head_forward_height": [
+            0.41879701614379883,
+            1.4766533374786377
+          ],
+          "tail_forward_height": [
+            0.6707431077957153,
+            1.5207470655441284
+          ]
+        },
+        "forearm.R": {
+          "head_forward_height": [
+            0.41879701614379883,
+            1.4766533374786377
+          ],
+          "tail_forward_height": [
+            0.6707431077957153,
+            1.5207470655441284
+          ]
+        },
+        "hand.L": {
+          "head_forward_height": [
+            0.6707431077957153,
+            1.5207470655441284
+          ],
+          "tail_forward_height": [
+            0.8022913336753845,
+            1.5438542366027832
+          ]
+        },
+        "hand.R": {
+          "head_forward_height": [
+            0.6707431077957153,
+            1.5207470655441284
+          ],
+          "tail_forward_height": [
+            0.8022913336753845,
+            1.5438542366027832
+          ]
+        },
+        "foot.L": {
+          "head_forward_height": [
+            1.3626276995637454e-07,
+            0.11671909689903259
+          ],
+          "tail_forward_height": [
+            0.16000014543533325,
+            0.04959956556558609
+          ]
+        },
+        "foot.R": {
+          "head_forward_height": [
+            1.3626276995637454e-07,
+            0.11671909689903259
+          ],
+          "tail_forward_height": [
+            0.16000014543533325,
+            0.04959956556558609
+          ]
+        }
+      }
+    },
+    {
+      "capture": "f03_heavy_duty_ultimate_lift",
+      "fighter": "f03_heavy_duty",
+      "clip": "ultimate",
+      "frame": 45.000000923872065,
+      "source_foot_origin_separation": 0.4002040624618529,
+      "max_deformed_forward_reach": 0.2696550488471985,
+      "shoulder_surface_forward_reach": 0.11757161468267441,
+      "minimum_deformed_height": -0.002821538131684065,
+      "gap_to_target_hurt_capsule_near_edge": -0.28945098638534555,
+      "bones": {
+        "chest": {
+          "head_forward_height": [
+            -0.036734238266944885,
+            1.3083529472351074
+          ],
+          "tail_forward_height": [
+            -0.11087504029273987,
+            1.523087978363037
+          ]
+        },
+        "upper_arm.L": {
+          "head_forward_height": [
+            -0.1041349545121193,
+            1.5035666227340698
+          ],
+          "tail_forward_height": [
+            0.10599879175424576,
+            1.7174745798110962
+          ]
+        },
+        "upper_arm.R": {
+          "head_forward_height": [
+            -0.1041349545121193,
+            1.5035666227340698
+          ],
+          "tail_forward_height": [
+            0.10599879175424576,
+            1.7174745798110962
+          ]
+        },
+        "forearm.L": {
+          "head_forward_height": [
+            0.10599879175424576,
+            1.7174745798110962
+          ],
+          "tail_forward_height": [
+            0.18715429306030273,
+            1.958790898323059
+          ]
+        },
+        "forearm.R": {
+          "head_forward_height": [
+            0.10599879175424576,
+            1.7174745798110962
+          ],
+          "tail_forward_height": [
+            0.18715429306030273,
+            1.958790898323059
+          ]
+        },
+        "hand.L": {
+          "head_forward_height": [
+            0.18715429306030273,
+            1.958790898323059
+          ],
+          "tail_forward_height": [
+            0.22981786727905273,
+            2.085068941116333
+          ]
+        },
+        "hand.R": {
+          "head_forward_height": [
+            0.18715429306030273,
+            1.958790898323059
+          ],
+          "tail_forward_height": [
+            0.22981786727905273,
+            2.085068941116333
+          ]
+        },
+        "foot.L": {
+          "head_forward_height": [
+            1.3626276995637454e-07,
+            0.11671909689903259
+          ],
+          "tail_forward_height": [
+            0.16000014543533325,
+            0.04959956556558609
+          ]
+        },
+        "foot.R": {
+          "head_forward_height": [
+            1.3626276995637454e-07,
+            0.11671909689903259
+          ],
+          "tail_forward_height": [
+            0.16000014543533325,
+            0.04959956556558609
+          ]
+        }
+      }
+    },
+    {
+      "capture": "f03_heavy_duty_ultimate_finisher",
+      "fighter": "f03_heavy_duty",
+      "clip": "ultimate",
+      "frame": 77.0000009238718,
+      "source_foot_origin_separation": 0.696056127548218,
+      "max_deformed_forward_reach": 0.6118392944335938,
+      "shoulder_surface_forward_reach": 0.33775168657302856,
+      "minimum_deformed_height": -0.08758281916379929,
+      "gap_to_target_hurt_capsule_near_edge": -0.33578316688537574,
+      "bones": {
+        "chest": {
+          "head_forward_height": [
+            0.09906074404716492,
+            1.138087272644043
+          ],
+          "tail_forward_height": [
+            0.2804899215698242,
+            1.2748039960861206
+          ]
+        },
+        "upper_arm.L": {
+          "head_forward_height": [
+            0.2639963626861572,
+            1.2623751163482666
+          ],
+          "tail_forward_height": [
+            0.3702939748764038,
+            0.997687816619873
+          ]
+        },
+        "upper_arm.R": {
+          "head_forward_height": [
+            0.2639963626861572,
+            1.2623751163482666
+          ],
+          "tail_forward_height": [
+            0.3702939748764038,
+            0.997687816619873
+          ]
+        },
+        "forearm.L": {
+          "head_forward_height": [
+            0.3702939748764038,
+            0.997687816619873
+          ],
+          "tail_forward_height": [
+            0.517033576965332,
+            0.7905609607696533
+          ]
+        },
+        "forearm.R": {
+          "head_forward_height": [
+            0.3702939748764038,
+            0.997687816619873
+          ],
+          "tail_forward_height": [
+            0.517033576965332,
+            0.7905609607696533
+          ]
+        },
+        "hand.L": {
+          "head_forward_height": [
+            0.517033576965332,
+            0.7905609607696533
+          ],
+          "tail_forward_height": [
+            0.5936505198478699,
+            0.6817910075187683
+          ]
+        },
+        "hand.R": {
+          "head_forward_height": [
+            0.517033576965332,
+            0.7905609607696533
+          ],
+          "tail_forward_height": [
+            0.5936505198478699,
+            0.6817910075187683
+          ]
+        },
+        "foot.L": {
+          "head_forward_height": [
+            0.04865625500679016,
+            0.033093541860580444
+          ],
+          "tail_forward_height": [
+            0.20865625143051147,
+            -0.03402602672576904
+          ]
+        },
+        "foot.R": {
+          "head_forward_height": [
+            0.04865625500679016,
+            0.033093541860580444
+          ],
+          "tail_forward_height": [
+            0.20865625143051147,
+            -0.03402602672576904
+          ]
+        }
+      }
+    },
+    {
+      "capture": "f04_deadfall_special_side",
+      "fighter": "f04_deadfall",
+      "clip": "special_side",
+      "frame": 14.99999999999998,
+      "source_foot_origin_separation": 1.616666555404659,
+      "max_deformed_forward_reach": 0.8517624139785767,
+      "shoulder_surface_forward_reach": 0.06930184364318848,
+      "minimum_deformed_height": 0.09589507430791855,
+      "gap_to_target_hurt_capsule_near_edge": 0.3449041414260825,
+      "bones": {
+        "chest": {
+          "head_forward_height": [
+            -0.037537261843681335,
+            1.1636180877685547
+          ],
+          "tail_forward_height": [
+            -0.11319061368703842,
+            1.3714739084243774
+          ]
+        },
+        "upper_arm.L": {
+          "head_forward_height": [
+            -0.10631303489208221,
+            1.3525779247283936
+          ],
+          "tail_forward_height": [
+            0.17570506036281586,
+            1.2595489025115967
+          ]
+        },
+        "upper_arm.R": {
+          "head_forward_height": [
+            -0.10631303489208221,
+            1.3525779247283936
+          ],
+          "tail_forward_height": [
+            0.020522043108940125,
+            1.6112642288208008
+          ]
+        },
+        "forearm.L": {
+          "head_forward_height": [
+            0.17570506036281586,
+            1.2595489025115967
+          ],
+          "tail_forward_height": [
+            0.35103315114974976,
+            1.4328365325927734
+          ]
+        },
+        "forearm.R": {
+          "head_forward_height": [
+            0.020522043108940125,
+            1.6112642288208008
+          ],
+          "tail_forward_height": [
+            0.06357835233211517,
+            1.8539741039276123
+          ]
+        },
+        "hand.L": {
+          "head_forward_height": [
+            0.35103315114974976,
+            1.4328365325927734
+          ],
+          "tail_forward_height": [
+            0.4430536925792694,
+            1.5243102312088013
+          ]
+        },
+        "hand.R": {
+          "head_forward_height": [
+            0.06357835233211517,
+            1.8539741039276123
+          ],
+          "tail_forward_height": [
+            0.08617636561393738,
+            1.981738805770874
+          ]
+        },
+        "foot.L": {
+          "head_forward_height": [
+            0.673877477645874,
+            0.37061843276023865
+          ],
+          "tail_forward_height": [
+            0.8338775038719177,
+            0.3052652180194855
+          ]
+        },
+        "foot.R": {
+          "head_forward_height": [
+            0.13253732025623322,
+            0.21203309297561646
+          ],
+          "tail_forward_height": [
+            0.2925373911857605,
+            0.14667989313602448
+          ]
+        }
+      }
+    },
+    {
+      "capture": "f05_fine_print_special_neutral",
+      "fighter": "f05_fine_print",
+      "clip": "special_neutral",
+      "frame": 14.000000000000021,
+      "source_foot_origin_separation": 2.09999990463256,
+      "max_deformed_forward_reach": 0.793409526348114,
+      "shoulder_surface_forward_reach": 0.2342856526374817,
+      "minimum_deformed_height": -0.0009064008481800556,
+      "gap_to_target_hurt_capsule_near_edge": 0.886590378284446,
+      "bones": {
+        "chest": {
+          "head_forward_height": [
+            0.012933332473039627,
+            1.262699007987976
+          ],
+          "tail_forward_height": [
+            0.03901617228984833,
+            1.4798723459243774
+          ]
+        },
+        "upper_arm.L": {
+          "head_forward_height": [
+            0.08550426363945007,
+            1.4601292610168457
+          ],
+          "tail_forward_height": [
+            0.3823750913143158,
+            1.4653079509735107
+          ]
+        },
+        "upper_arm.R": {
+          "head_forward_height": [
+            -0.012214239686727524,
+            1.4601292610168457
+          ],
+          "tail_forward_height": [
+            0.15808986127376556,
+            1.2178354263305664
+          ]
+        },
+        "forearm.L": {
+          "head_forward_height": [
+            0.3823750913143158,
+            1.4653079509735107
+          ],
+          "tail_forward_height": [
+            0.6297439336776733,
+            1.4653078317642212
+          ]
+        },
+        "forearm.R": {
+          "head_forward_height": [
+            0.15808986127376556,
+            1.2178354263305664
+          ],
+          "tail_forward_height": [
+            0.28177425265312195,
+            1.431963324546814
+          ]
+        },
+        "hand.L": {
+          "head_forward_height": [
+            0.6297439336776733,
+            1.4653078317642212
+          ],
+          "tail_forward_height": [
+            0.7585049867630005,
+            1.4653078317642212
+          ]
+        },
+        "hand.R": {
+          "head_forward_height": [
+            0.28177425265312195,
+            1.431963324546814
+          ],
+          "tail_forward_height": [
+            0.34615471959114075,
+            1.5434471368789673
+          ]
+        },
+        "foot.L": {
+          "head_forward_height": [
+            0.006341723725199699,
+            0.11406010389328003
+          ],
+          "tail_forward_height": [
+            0.16634170711040497,
+            0.04941336810588837
+          ]
+        },
+        "foot.R": {
+          "head_forward_height": [
+            -0.006341567728668451,
+            0.11406019330024719
+          ],
+          "tail_forward_height": [
+            0.15365847945213318,
+            0.04941350221633911
+          ]
+        }
+      }
+    },
+    {
+      "capture": "f05_fine_print_special_side",
+      "fighter": "f05_fine_print",
+      "clip": "special_side",
+      "frame": 16.0,
+      "source_foot_origin_separation": 0.7499999105930331,
+      "max_deformed_forward_reach": 0.9829209446907043,
+      "shoulder_surface_forward_reach": 0.08538565039634705,
+      "minimum_deformed_height": 0.0003662860835902393,
+      "gap_to_target_hurt_capsule_near_edge": -0.6529210340976712,
+      "bones": {
+        "chest": {
+          "head_forward_height": [
+            -0.022351466119289398,
+            1.261926531791687
+          ],
+          "tail_forward_height": [
+            -0.06784342229366302,
+            1.4759494066238403
+          ]
+        },
+        "upper_arm.L": {
+          "head_forward_height": [
+            -0.06370778381824493,
+            1.4564927816390991
+          ],
+          "tail_forward_height": [
+            0.08475024998188019,
+            1.201858401298523
+          ]
+        },
+        "upper_arm.R": {
+          "head_forward_height": [
+            -0.06370778381824493,
+            1.4564927816390991
+          ],
+          "tail_forward_height": [
+            0.10659626126289368,
+            1.2156403064727783
+          ]
+        },
+        "forearm.L": {
+          "head_forward_height": [
+            0.08475024998188019,
+            1.201858401298523
+          ],
+          "tail_forward_height": [
+            0.20843470096588135,
+            1.415830373764038
+          ]
+        },
+        "forearm.R": {
+          "head_forward_height": [
+            0.10659626126289368,
+            1.2156403064727783
+          ],
+          "tail_forward_height": [
+            0.21113888919353485,
+            1.4395650625228882
+          ]
+        },
+        "hand.L": {
+          "head_forward_height": [
+            0.20843470096588135,
+            1.415830373764038
+          ],
+          "tail_forward_height": [
+            0.2728152275085449,
+            1.5272728204727173
+          ]
+        },
+        "hand.R": {
+          "head_forward_height": [
+            0.21113888919353485,
+            1.4395650625228882
+          ],
+          "tail_forward_height": [
+            0.26555564999580383,
+            1.5561912059783936
+          ]
+        },
+        "foot.L": {
+          "head_forward_height": [
+            0.8184187412261963,
+            0.8788919448852539
+          ],
+          "tail_forward_height": [
+            0.97841876745224,
+            0.8142452239990234
+          ]
+        },
+        "foot.R": {
+          "head_forward_height": [
+            -0.02740301750600338,
+            0.11501702666282654
+          ],
+          "tail_forward_height": [
+            0.13259699940681458,
+            0.050370313227176666
+          ]
+        }
+      }
+    }
+  ],
+  "method": "Loaded final editable Blender actions at actual capture clip time. Exact evaluated linear-skinned vertex reach; no gameplay blending in this static replay. Gameplay hurt capsule radius is 0.42m. No files modified except this diagnostic report."
+}

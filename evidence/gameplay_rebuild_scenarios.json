@@ -1,0 +1,687 @@
+{
+  "checks": 136,
+  "failures": 0,
+  "limitation": "Headless behavior validation; human feel, animation appearance and physical controls require separate review.",
+  "results": [
+    {
+      "detail": "",
+      "name": "f01_clutch recovery remains finite facing -1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f01_clutch recovery remains finite facing 1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f01_clutch aerial input steers without reversing committed attack",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f01_clutch mirrored recovery velocity wins over opposite air input",
+      "passed": true
+    },
+    {
+      "detail": "8",
+      "name": "f01_clutch landing retains authored aerial punish window",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f01_clutch landing during special startup preserves its strike animation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f01_clutch heavy impact and recovery preserve commitment",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f02_sunstruck recovery remains finite facing -1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f02_sunstruck recovery remains finite facing 1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f02_sunstruck aerial input steers without reversing committed attack",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f02_sunstruck mirrored recovery velocity wins over opposite air input",
+      "passed": true
+    },
+    {
+      "detail": "8",
+      "name": "f02_sunstruck landing retains authored aerial punish window",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f02_sunstruck landing during special startup preserves its strike animation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f02_sunstruck heavy impact and recovery preserve commitment",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f03_heavy_duty recovery remains finite facing -1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f03_heavy_duty recovery remains finite facing 1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f03_heavy_duty aerial input steers without reversing committed attack",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f03_heavy_duty mirrored recovery velocity wins over opposite air input",
+      "passed": true
+    },
+    {
+      "detail": "8",
+      "name": "f03_heavy_duty landing retains authored aerial punish window",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f03_heavy_duty landing during special startup preserves its strike animation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f03_heavy_duty heavy impact and recovery preserve commitment",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f04_deadfall recovery remains finite facing -1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f04_deadfall recovery remains finite facing 1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f04_deadfall aerial input steers without reversing committed attack",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f04_deadfall mirrored recovery velocity wins over opposite air input",
+      "passed": true
+    },
+    {
+      "detail": "8",
+      "name": "f04_deadfall landing retains authored aerial punish window",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f04_deadfall landing during special startup preserves its strike animation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f04_deadfall heavy impact and recovery preserve commitment",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f05_fine_print recovery remains finite facing -1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f05_fine_print recovery remains finite facing 1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f05_fine_print aerial input steers without reversing committed attack",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f05_fine_print mirrored recovery velocity wins over opposite air input",
+      "passed": true
+    },
+    {
+      "detail": "8",
+      "name": "f05_fine_print landing retains authored aerial punish window",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f05_fine_print landing during special startup preserves its strike animation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f05_fine_print heavy impact and recovery preserve commitment",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f06_rugged_explorer recovery remains finite facing -1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f06_rugged_explorer recovery remains finite facing 1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f06_rugged_explorer aerial input steers without reversing committed attack",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f06_rugged_explorer mirrored recovery velocity wins over opposite air input",
+      "passed": true
+    },
+    {
+      "detail": "8",
+      "name": "f06_rugged_explorer landing retains authored aerial punish window",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f06_rugged_explorer landing during special startup preserves its strike animation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f06_rugged_explorer heavy impact and recovery preserve commitment",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f07_urban_sentinel recovery remains finite facing -1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f07_urban_sentinel recovery remains finite facing 1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f07_urban_sentinel aerial input steers without reversing committed attack",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f07_urban_sentinel mirrored recovery velocity wins over opposite air input",
+      "passed": true
+    },
+    {
+      "detail": "8",
+      "name": "f07_urban_sentinel landing retains authored aerial punish window",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f07_urban_sentinel landing during special startup preserves its strike animation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f07_urban_sentinel heavy impact and recovery preserve commitment",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f08_midnight_gentleman recovery remains finite facing -1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f08_midnight_gentleman recovery remains finite facing 1",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f08_midnight_gentleman aerial input steers without reversing committed attack",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f08_midnight_gentleman mirrored recovery velocity wins over opposite air input",
+      "passed": true
+    },
+    {
+      "detail": "8",
+      "name": "f08_midnight_gentleman landing retains authored aerial punish window",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f08_midnight_gentleman landing during special startup preserves its strike animation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f08_midnight_gentleman heavy impact and recovery preserve commitment",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Shadowstep teleport retains its authored stop on activation",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Heavy stomp preserves its explicit landing reaction and shockwave",
+      "passed": true
+    },
+    {
+      "detail": "[8]",
+      "name": "Corporate Ladder damage facing -1 never repeats a frozen active frame",
+      "passed": true
+    },
+    {
+      "detail": "58",
+      "name": "Corporate Ladder damage facing -1 exits its active windows despite seven-tick hitstop",
+      "passed": true
+    },
+    {
+      "detail": "[8]",
+      "name": "Corporate Ladder shield facing -1 never repeats a frozen active frame",
+      "passed": true
+    },
+    {
+      "detail": "58",
+      "name": "Corporate Ladder shield facing -1 exits its active windows despite seven-tick hitstop",
+      "passed": true
+    },
+    {
+      "detail": "[8, 14, 20]",
+      "name": "Corporate Ladder tracked target facing -1 never repeats a frozen active frame",
+      "passed": true
+    },
+    {
+      "detail": "58",
+      "name": "Corporate Ladder tracked target facing -1 exits its active windows despite seven-tick hitstop",
+      "passed": true
+    },
+    {
+      "detail": "[8, 14, 20]",
+      "name": "Corporate Ladder tracked target facing -1 retains one hit in each authored kick window",
+      "passed": true
+    },
+    {
+      "detail": "[8]",
+      "name": "Corporate Ladder damage facing 1 never repeats a frozen active frame",
+      "passed": true
+    },
+    {
+      "detail": "58",
+      "name": "Corporate Ladder damage facing 1 exits its active windows despite seven-tick hitstop",
+      "passed": true
+    },
+    {
+      "detail": "[8]",
+      "name": "Corporate Ladder shield facing 1 never repeats a frozen active frame",
+      "passed": true
+    },
+    {
+      "detail": "58",
+      "name": "Corporate Ladder shield facing 1 exits its active windows despite seven-tick hitstop",
+      "passed": true
+    },
+    {
+      "detail": "[8, 14, 20]",
+      "name": "Corporate Ladder tracked target facing 1 never repeats a frozen active frame",
+      "passed": true
+    },
+    {
+      "detail": "58",
+      "name": "Corporate Ladder tracked target facing 1 exits its active windows despite seven-tick hitstop",
+      "passed": true
+    },
+    {
+      "detail": "[8, 14, 20]",
+      "name": "Corporate Ladder tracked target facing 1 retains one hit in each authored kick window",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Final Ruling facing -1 reaches first contact through a normal heavy press and release",
+      "passed": true
+    },
+    {
+      "detail": "distance=0.266 radius=0.540",
+      "name": "Final Ruling facing -1 authored contact covers the striking hand",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Final Ruling facing -1 reaches an opponent at its visible fist",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Final Ruling facing -1 no longer reaches the old distant contact region",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Final Ruling facing 1 reaches first contact through a normal heavy press and release",
+      "passed": true
+    },
+    {
+      "detail": "distance=0.266 radius=0.540",
+      "name": "Final Ruling facing 1 authored contact covers the striking hand",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Final Ruling facing 1 reaches an opponent at its visible fist",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Final Ruling facing 1 no longer reaches the old distant contact region",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Locomotion start uses the ten-tick presentation profile",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Attack immediately interrupts visual movement start",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "A fast reversal interrupts the start transition",
+      "passed": true
+    },
+    {
+      "detail": "3",
+      "name": "Free landing ends after 3 ticks",
+      "passed": true
+    },
+    {
+      "detail": "5",
+      "name": "Free landing ends after 5 ticks",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "F6 sends live controls to P2 while keeping P1 neutral",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Replay reproduces movement, held buttons and press/release edges",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Pause freezes tape without rewinding its playhead",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Replay has a 45-tick neutral gap",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Loop resets simulation state before replaying the same positions",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Stock loss does not rewind or discard the playing tape",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Explicit reset removes stale damage and transient stock state",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Recording stops at ten seconds without growing its tape",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Dummy mode changes stop replay while preserving the saved tape",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Recording preserves a complete native tap between simulation ticks",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Playback preserves same-tick tap edges through normal action buffering",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "F1 during recording starts a fresh take at the reset positions",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "F7 saves a live recording before the playback reset",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "An F1-restarted take replays exact input edges and positions without the discarded pre-reset frames",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "F1 during playback rewinds and preserves the saved tape",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Combo damage comes from actual resolved contacts",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "An actionable gap starts a new combo and reports stale damage",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Repeated training reset restores the same unstaled damage",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "Blocked contacts never count as a damage combo",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f01_clutch CPU punishes visible recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f01_clutch CPU follows up a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f01_clutch CPU never treats a whiff as a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f01_clutch CPU prioritizes finite offstage recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f02_sunstruck CPU punishes visible recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f02_sunstruck CPU follows up a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f02_sunstruck CPU never treats a whiff as a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f02_sunstruck CPU prioritizes finite offstage recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f03_heavy_duty CPU punishes visible recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f03_heavy_duty CPU follows up a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f03_heavy_duty CPU never treats a whiff as a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f03_heavy_duty CPU prioritizes finite offstage recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f04_deadfall CPU punishes visible recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f04_deadfall CPU follows up a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f04_deadfall CPU never treats a whiff as a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f04_deadfall CPU prioritizes finite offstage recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f05_fine_print CPU punishes visible recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f05_fine_print CPU follows up a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f05_fine_print CPU never treats a whiff as a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f05_fine_print CPU prioritizes finite offstage recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f06_rugged_explorer CPU punishes visible recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f06_rugged_explorer CPU follows up a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f06_rugged_explorer CPU never treats a whiff as a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f06_rugged_explorer CPU prioritizes finite offstage recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f07_urban_sentinel CPU punishes visible recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f07_urban_sentinel CPU follows up a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f07_urban_sentinel CPU never treats a whiff as a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f07_urban_sentinel CPU prioritizes finite offstage recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f08_midnight_gentleman CPU punishes visible recovery",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f08_midnight_gentleman CPU follows up a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f08_midnight_gentleman CPU never treats a whiff as a confirmed jab",
+      "passed": true
+    },
+    {
+      "detail": "",
+      "name": "f08_midnight_gentleman CPU prioritizes finite offstage recovery",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "captured_pixel_size": "(1920, 1080)",
+  "connected_controllers": [],
+  "contacts": 94,
+  "engine": "4.7.2-stable (official)",
+  "fighters": [
+    {
+      "damage": 159.816,
+      "id": "f01_clutch",
+      "position": "(1.483286, 2.017666, 0.0)",
+      "state": "attack",
+      "stocks": 3
+    },
+    {
+      "damage": 190.64,
+      "id": "f04_deadfall",
+      "position": "(-10.09207, -1.031893, 0.0)",
+      "state": "attack",
+      "stocks": 3
+    },
+    {
+      "damage": 10.0,
+      "id": "f05_fine_print",
+      "position": "(2.98416, 1.806264, 0.0)",
+      "state": "hitstun",
+      "stocks": 2
+    },
+    {
+      "damage": 70.984,
+      "id": "f01_clutch",
+      "position": "(1.88572, 0.0, 0.0)",
+      "state": "landing",
+      "stocks": 2
+    }
+  ],
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "kos": [
+    {
+      "assists": [
+        2,
+        0,
+        1
+      ],
+      "credited": 0,
+      "tick": 1484,
+      "victim": 3
+    },
+    {
+      "assists": [
+        0,
+        3,
+        1
+      ],
+      "credited": 3,
+      "tick": 3407,
+      "victim": 2
+    }
+  ],
+  "logical_viewport": "(1600.0, 900.0)",
+  "mean_frame_ms": 0.746576916666664,
+  "memory_static": 117769503.0,
+  "nodes": 196.0,
+  "objects": 1,
+  "p95_frame_ms": 1.2,
+  "peak_draw_calls": 334.0,
+  "peak_primitives": 288144.0,
+  "peak_video_memory_bytes": 642043184.0,
+  "render_frames": 62774,
+  "render_texture_pixels": "(2304.0, 1296.0)",
+  "renderer": "forward_plus",
+  "sample_count": 12000,
+  "ticks": 3600,
+  "wall_seconds": 60.772,
+  "window_pixels": "(1920, 1080)"
+}

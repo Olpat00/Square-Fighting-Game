@@ -1,0 +1,16 @@
+{
+  "fighter_id": "f06_rugged_explorer",
+  "source_scene": "source_art\\characters\\f06_rugged_explorer\\curated.blend",
+  "editable_studio": "source_art\\characters\\f06_rugged_explorer\\portrait_studio.blend",
+  "image": "evidence\\characters\\portraits\\f06_rugged_explorer.png",
+  "resolution": [
+    768,
+    768
+  ],
+  "render_device": "OPTIX: NVIDIA GeForce RTX 4080 SUPER",
+  "curated_source_sha256": "1c2a82b9ff8f81d2cf82989387889273561baf4bbaf864baf623207595fcff4a",
+  "curated_source_unchanged": true,
+  "albedo_repainted": false,
+  "style": "Actual source-derived chest portrait; warm side key, cool rim and physical midnight backdrop",
+  "camera_ortho_size": 0.95
+}

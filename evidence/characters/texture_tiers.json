@@ -1,0 +1,374 @@
+{
+  "generator": "tools/blender/build_runtime_texture_tiers.py",
+  "maximum_texture_dimension": 1024,
+  "fighters": [
+    {
+      "fighter_id": "f01_clutch",
+      "source": "Game File\\assets\\characters\\f01_clutch.glb",
+      "output": "Game File\\assets\\characters\\f01_clutch_low.glb",
+      "source_sha256": "7f2dfc4f315443586c4486edf2953d8a4ef1d7f39db3eb843ff6362ebe47cff9",
+      "low_sha256": "6350ff0d6e7c7201fc4605c61fa98b7dc95b9d4e5f84404e56eb6f6e9a537eb4",
+      "source_bytes": 11195392,
+      "low_bytes": 8153492,
+      "textures": [
+        {
+          "name": "normal",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "base_color",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "metallic_roughness",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        }
+      ],
+      "unchanged_nonimage_buffer_views": 5772,
+      "mesh_skin_animation_metadata_and_bytes_identical": true
+    },
+    {
+      "fighter_id": "f02_sunstruck",
+      "source": "Game File\\assets\\characters\\f02_sunstruck.glb",
+      "output": "Game File\\assets\\characters\\f02_sunstruck_low.glb",
+      "source_sha256": "00991ecbfabf9726be944a742263eba3f970a467ab23b63d17d119d802d93d77",
+      "low_sha256": "f6d581e5855e1cd7410011d4f95180d32d5682ade36d00b9bddd650cba8e533a",
+      "source_bytes": 15369424,
+      "low_bytes": 10376388,
+      "textures": [
+        {
+          "name": "Image_2",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "Image_0",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "Image_1",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        }
+      ],
+      "unchanged_nonimage_buffer_views": 5562,
+      "mesh_skin_animation_metadata_and_bytes_identical": true
+    },
+    {
+      "fighter_id": "f03_heavy_duty",
+      "source": "Game File\\assets\\characters\\f03_heavy_duty.glb",
+      "output": "Game File\\assets\\characters\\f03_heavy_duty_low.glb",
+      "source_sha256": "3b2229df7c9786401147175eb3fa67b8744f056c0a29c2b67629035070009df0",
+      "low_sha256": "8741baaadc75aa3d3ea2203eea0bdf2624b2700491a19023b4348ee4dad5c31c",
+      "source_bytes": 14490168,
+      "low_bytes": 10204420,
+      "textures": [
+        {
+          "name": "normal",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "base_color",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "metallic_roughness",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        }
+      ],
+      "unchanged_nonimage_buffer_views": 5467,
+      "mesh_skin_animation_metadata_and_bytes_identical": true
+    },
+    {
+      "fighter_id": "f04_deadfall",
+      "source": "Game File\\assets\\characters\\f04_deadfall.glb",
+      "output": "Game File\\assets\\characters\\f04_deadfall_low.glb",
+      "source_sha256": "aca25b607175a072966aeb5b07d403bf69253db766fc3bfd93aad52505be1fca",
+      "low_sha256": "81804883463f61f5c3d883038cb5692c47b9794ad2f620c95f4cee4733e7d928",
+      "source_bytes": 13061832,
+      "low_bytes": 9212052,
+      "textures": [
+        {
+          "name": "normal",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "base_color",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "metallic_roughness",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        }
+      ],
+      "unchanged_nonimage_buffer_views": 5758,
+      "mesh_skin_animation_metadata_and_bytes_identical": true
+    },
+    {
+      "fighter_id": "f05_fine_print",
+      "source": "Game File\\assets\\characters\\f05_fine_print.glb",
+      "output": "Game File\\assets\\characters\\f05_fine_print_low.glb",
+      "source_sha256": "159a90e7c6b7654ed92caedbd41635d1d827b5b57d4a9afc5c75e78c332802eb",
+      "low_sha256": "a2ce9e46a1eb8ea1251e435bd76886561f98e04d3146bb2f57544bdcd166f32d",
+      "source_bytes": 11987072,
+      "low_bytes": 8690764,
+      "textures": [
+        {
+          "name": "normal",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "base_color",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "metallic_roughness",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        }
+      ],
+      "unchanged_nonimage_buffer_views": 5781,
+      "mesh_skin_animation_metadata_and_bytes_identical": true
+    },
+    {
+      "fighter_id": "f06_rugged_explorer",
+      "source": "Game File\\assets\\characters\\f06_rugged_explorer.glb",
+      "output": "Game File\\assets\\characters\\f06_rugged_explorer_low.glb",
+      "source_sha256": "d156747542c439a3f0ec051fc065348c4fb651d6626c4d9a819583559843f8b5",
+      "low_sha256": "943f52dd78baa9e183861d8eafb44bd7b70fd62f8b82d033c2d9bae089912af4",
+      "source_bytes": 14703972,
+      "low_bytes": 10260444,
+      "textures": [
+        {
+          "name": "Image_2",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "Image_0",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "Image_1",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        }
+      ],
+      "unchanged_nonimage_buffer_views": 5767,
+      "mesh_skin_animation_metadata_and_bytes_identical": true
+    },
+    {
+      "fighter_id": "f07_urban_sentinel",
+      "source": "Game File\\assets\\characters\\f07_urban_sentinel.glb",
+      "output": "Game File\\assets\\characters\\f07_urban_sentinel_low.glb",
+      "source_sha256": "2ea550946ada0a8b557fad8558d6b00d00ac28c6407e2814e1135c04e239f2e0",
+      "low_sha256": "75e58bf9370425ef53135d800c02862d8126bfb6a24dca0d929032d4e33d3ff6",
+      "source_bytes": 13288684,
+      "low_bytes": 9372292,
+      "textures": [
+        {
+          "name": "Image_2",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "Image_0",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "Image_1",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        }
+      ],
+      "unchanged_nonimage_buffer_views": 5627,
+      "mesh_skin_animation_metadata_and_bytes_identical": true
+    },
+    {
+      "fighter_id": "f08_midnight_gentleman",
+      "source": "Game File\\assets\\characters\\f08_midnight_gentleman.glb",
+      "output": "Game File\\assets\\characters\\f08_midnight_gentleman_low.glb",
+      "source_sha256": "1012a8d2d0e4f74e4212657ff581a58402ad2907f06da93397f1a12975efc6b4",
+      "low_sha256": "feba2a0676d9e098033122069a9981be743e2960b317a0a426e0dc28f5be7348",
+      "source_bytes": 12484648,
+      "low_bytes": 9114620,
+      "textures": [
+        {
+          "name": "Image_2",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "Image_0",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        },
+        {
+          "name": "Image_1",
+          "source_size": [
+            2048,
+            2048
+          ],
+          "low_size": [
+            1024,
+            1024
+          ]
+        }
+      ],
+      "unchanged_nonimage_buffer_views": 5644,
+      "mesh_skin_animation_metadata_and_bytes_identical": true
+    }
+  ]
+}

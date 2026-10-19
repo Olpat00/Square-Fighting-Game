@@ -1,0 +1,59 @@
+{
+  "passed": true,
+  "reviewed_utc": "2026-10-04T18:02:15.6134729Z",
+  "executable_sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562",
+  "pck_sha256": "6FE70417BF972CD7BF6A12749D8543606BF6915A4D2C0706C54E520E3EF239ED",
+  "captures": [
+    {
+      "arena": "verdant_shrine",
+      "capture": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\verdant_shrine\\release_gameplay.png",
+        "bytes": 2817306,
+        "sha256": "1EAB51BA7F51DAA08A20FB5D01AC3B29AF1604C5F785921F53FE7D7F9F7D6036",
+        "width": 1920,
+        "height": 1080
+      },
+      "reviewed": true
+    },
+    {
+      "arena": "abyssal_observatory",
+      "capture": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\abyssal_observatory\\release_gameplay.png",
+        "bytes": 2349951,
+        "sha256": "6D15956602565055F9C2400F8C3BE5E706FDB3CF6075F550FE39DCC6DDA96F60",
+        "width": 1920,
+        "height": 1080
+      },
+      "reviewed": true
+    },
+    {
+      "arena": "ember_foundry",
+      "capture": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\map_expansion\\release\\ember_foundry\\release_gameplay.png",
+        "bytes": 2399706,
+        "sha256": "55FE6555BD45D4BE2D03CDD04A27CB2C8BE4E70887F5F246CC66E564D8DE0957",
+        "width": 1920,
+        "height": 1080
+      },
+      "reviewed": true
+    },
+    {
+      "arena": "rooftop_riot",
+      "capture": {
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\windows_release_flow\\release_smoke\\release_gameplay.png",
+        "bytes": 1605487,
+        "sha256": "EFEDA3D1297F49550507307109840C09555735CCCC3BEF228446E8BD0EA08A48",
+        "width": 1920,
+        "height": 1080
+      },
+      "reviewed": true
+    }
+  ],
+  "findings": [
+    "Actual release stills show the refined platforms with live four-player combat and readable fighters and HUD.",
+    "No missing platform faces or surface overlap visible in these captured views."
+  ],
+  "limitations": [
+    "Still review does not establish all motion, player judgment or performance."
+  ]
+}

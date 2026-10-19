@@ -1,0 +1,9 @@
+{
+	"checks": 1777,
+	"engine": "4.7.2-stable (official)",
+	"extra_fighter_fixture": "Temporary user:// folder loaded using registry discovery; removed after test",
+	"failures": [],
+	"moves": 200,
+	"scope": "Definition and pure timing contracts; combat resolution and graphical animation validation run separately",
+	"shipped_fighters": 8
+}

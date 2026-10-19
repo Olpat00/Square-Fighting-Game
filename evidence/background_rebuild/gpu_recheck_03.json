@@ -1,0 +1,7 @@
+{
+  "checked_utc": "2026-10-04T19:03:50.3029806Z",
+  "command": "nvidia-smi --query-gpu=name,driver_version,temperature.gpu,memory.used --format=csv,noheader,nounits",
+  "exit_code": 6,
+  "output": "No devices were found\r\nUnable to determine the device handle for GPU0: 0000:01:00.0: GPU is lost.  Reboot the system to recover this GPU",
+  "active_godot_processes": []
+}

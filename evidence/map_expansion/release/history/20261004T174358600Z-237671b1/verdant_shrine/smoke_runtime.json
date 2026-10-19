@@ -1,0 +1,683 @@
+{
+  "arena": "verdant_shrine",
+  "captured_pixel_size": "(1920, 1080)",
+  "connected_controllers": [],
+  "contacts": 19,
+  "engine": "4.7.2-stable (official)",
+  "fighters": [
+    {
+      "damage": 41.488,
+      "id": "f06_rugged_explorer",
+      "input_provider": "res://input/cpu_input_provider.gd",
+      "position": "(-4.480392, 0.0, 0.0)",
+      "state": "attack",
+      "stocks": 3
+    },
+    {
+      "damage": 14.76,
+      "id": "f07_urban_sentinel",
+      "input_provider": "res://input/cpu_input_provider.gd",
+      "position": "(8.560586, 1.859306, 0.0)",
+      "state": "air",
+      "stocks": 3
+    },
+    {
+      "damage": 32.34,
+      "id": "f08_midnight_gentleman",
+      "input_provider": "res://input/cpu_input_provider.gd",
+      "position": "(-2.010183, 0.0, 0.0)",
+      "state": "idle",
+      "stocks": 3
+    },
+    {
+      "damage": 22.128,
+      "id": "f01_clutch",
+      "input_provider": "res://input/cpu_input_provider.gd",
+      "position": "(7.651227, 5.219221, 0.0)",
+      "state": "air",
+      "stocks": 3
+    }
+  ],
+  "frame_spikes": [
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.697,
+      "render_frame": 102,
+      "tick": 114
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.05,
+      "render_frame": 103,
+      "tick": 115
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.681,
+      "render_frame": 105,
+      "tick": 117
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.179,
+      "render_frame": 107,
+      "tick": 119
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.215,
+      "render_frame": 110,
+      "tick": 122
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.977,
+      "render_frame": 111,
+      "tick": 123
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.913,
+      "render_frame": 112,
+      "tick": 124
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.4,
+      "render_frame": 115,
+      "tick": 127
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.54,
+      "render_frame": 117,
+      "tick": 129
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.054,
+      "render_frame": 119,
+      "tick": 131
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.968,
+      "render_frame": 120,
+      "tick": 132
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.117,
+      "render_frame": 121,
+      "tick": 133
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.831,
+      "render_frame": 124,
+      "tick": 136
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.459,
+      "render_frame": 125,
+      "tick": 137
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.633,
+      "render_frame": 127,
+      "tick": 139
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 18.0,
+      "render_frame": 129,
+      "tick": 141
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.155,
+      "render_frame": 131,
+      "tick": 143
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.18,
+      "render_frame": 133,
+      "tick": 145
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.576,
+      "render_frame": 134,
+      "tick": 146
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.651,
+      "render_frame": 137,
+      "tick": 149
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.447,
+      "render_frame": 139,
+      "tick": 151
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.687,
+      "render_frame": 141,
+      "tick": 153
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.24,
+      "render_frame": 143,
+      "tick": 155
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 18.359,
+      "render_frame": 145,
+      "tick": 157
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.924,
+      "render_frame": 147,
+      "tick": 159
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.755,
+      "render_frame": 149,
+      "tick": 161
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.591,
+      "render_frame": 153,
+      "tick": 165
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.85,
+      "render_frame": 157,
+      "tick": 169
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.387,
+      "render_frame": 159,
+      "tick": 171
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.421,
+      "render_frame": 161,
+      "tick": 173
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.366,
+      "render_frame": 163,
+      "tick": 175
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.536,
+      "render_frame": 165,
+      "tick": 177
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.277,
+      "render_frame": 167,
+      "tick": 179
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.673,
+      "render_frame": 169,
+      "tick": 181
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.949,
+      "render_frame": 171,
+      "tick": 183
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.746,
+      "render_frame": 173,
+      "tick": 185
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.493,
+      "render_frame": 175,
+      "tick": 187
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.749,
+      "render_frame": 177,
+      "tick": 189
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.45,
+      "render_frame": 179,
+      "tick": 191
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.117,
+      "render_frame": 181,
+      "tick": 193
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.003,
+      "render_frame": 182,
+      "tick": 194
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.869,
+      "render_frame": 184,
+      "tick": 196
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.829,
+      "render_frame": 187,
+      "tick": 199
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.531,
+      "render_frame": 189,
+      "tick": 201
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.575,
+      "render_frame": 191,
+      "tick": 203
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.248,
+      "render_frame": 192,
+      "tick": 204
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.884,
+      "render_frame": 193,
+      "tick": 205
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.704,
+      "render_frame": 195,
+      "tick": 207
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.427,
+      "render_frame": 196,
+      "tick": 208
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.725,
+      "render_frame": 197,
+      "tick": 209
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.715,
+      "render_frame": 198,
+      "tick": 210
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.902,
+      "render_frame": 199,
+      "tick": 211
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.792,
+      "render_frame": 201,
+      "tick": 213
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.722,
+      "render_frame": 202,
+      "tick": 214
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.27,
+      "render_frame": 203,
+      "tick": 215
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.212,
+      "render_frame": 207,
+      "tick": 219
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 20.733,
+      "render_frame": 208,
+      "tick": 221
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.053,
+      "render_frame": 210,
+      "tick": 223
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.937,
+      "render_frame": 211,
+      "tick": 224
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.926,
+      "render_frame": 212,
+      "tick": 225
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.809,
+      "render_frame": 215,
+      "tick": 228
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.033,
+      "render_frame": 218,
+      "tick": 231
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.234,
+      "render_frame": 219,
+      "tick": 232
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.682,
+      "render_frame": 222,
+      "tick": 235
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.889,
+      "render_frame": 223,
+      "tick": 236
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.838,
+      "render_frame": 224,
+      "tick": 237
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.722,
+      "render_frame": 225,
+      "tick": 238
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.693,
+      "render_frame": 229,
+      "tick": 242
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.386,
+      "render_frame": 231,
+      "tick": 244
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 18.775,
+      "render_frame": 233,
+      "tick": 246
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.702,
+      "render_frame": 237,
+      "tick": 250
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.529,
+      "render_frame": 239,
+      "tick": 252
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 18.291,
+      "render_frame": 241,
+      "tick": 254
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.942,
+      "render_frame": 243,
+      "tick": 256
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.509,
+      "render_frame": 245,
+      "tick": 258
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 18.086,
+      "render_frame": 246,
+      "tick": 259
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.065,
+      "render_frame": 247,
+      "tick": 260
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.069,
+      "render_frame": 249,
+      "tick": 262
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.785,
+      "render_frame": 250,
+      "tick": 263
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.81,
+      "render_frame": 252,
+      "tick": 265
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.679,
+      "render_frame": 255,
+      "tick": 268
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 18.989,
+      "render_frame": 257,
+      "tick": 270
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.129,
+      "render_frame": 259,
+      "tick": 272
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 18.821,
+      "render_frame": 261,
+      "tick": 274
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.131,
+      "render_frame": 262,
+      "tick": 275
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 18.874,
+      "render_frame": 265,
+      "tick": 278
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 18.145,
+      "render_frame": 267,
+      "tick": 280
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 18.144,
+      "render_frame": 269,
+      "tick": 282
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.634,
+      "render_frame": 270,
+      "tick": 283
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.29,
+      "render_frame": 273,
+      "tick": 286
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 18.318,
+      "render_frame": 275,
+      "tick": 288
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 16.879,
+      "render_frame": 276,
+      "tick": 289
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.275,
+      "render_frame": 277,
+      "tick": 290
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 18.535,
+      "render_frame": 279,
+      "tick": 292
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 18.081,
+      "render_frame": 281,
+      "tick": 294
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.06,
+      "render_frame": 282,
+      "tick": 295
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.508,
+      "render_frame": 285,
+      "tick": 298
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 18.186,
+      "render_frame": 287,
+      "tick": 300
+    },
+    {
+      "capture_on_previous_frame": true,
+      "ms": 502.887,
+      "render_frame": 288,
+      "tick": 308
+    },
+    {
+      "capture_on_previous_frame": false,
+      "ms": 17.686,
+      "render_frame": 292,
+      "tick": 311
+    }
+  ],
+  "frames_over_16_667ms": 249,
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "kos": [],
+  "logical_viewport": "(1600.0, 900.0)",
+  "mean_frame_ms": 17.6452901878914,
+  "memory_static": 0.0,
+  "nodes": 426.0,
+  "objects": 0,
+  "p95_frame_ms": 18.626,
+  "p99_frame_ms": 20.238,
+  "peak_draw_calls": 517.0,
+  "peak_primitives": 150944.0,
+  "peak_video_memory_bytes": 562680560.0,
+  "profile_mode": true,
+  "render_frames": 580,
+  "render_texture_pixels": "(2304.0, 1296.0)",
+  "renderer": "forward_plus",
+  "sample_clock": "Time.get_ticks_usec between process callbacks; unsmoothed wall time",
+  "sample_count": 479,
+  "sample_sum_ms": 8452.094,
+  "sample_window_ms": 8452.094,
+  "settings": {
+    "blood": true,
+    "effects": 0.85,
+    "flashes": 0.45,
+    "fullscreen": false,
+    "graphics": "High",
+    "master": 0.8,
+    "music": 0.36,
+    "profanity": false,
+    "resolution": "1920x1080",
+    "rumble": 0.5,
+    "shake": 0.5,
+    "ui_scale": 1.0
+  },
+  "ticks": 600,
+  "wall_seconds": 10.502,
+  "warmup_seconds": 2,
+  "window_pixels": "(1920, 1080)",
+  "worst_frame_ms": 502.887
+}

@@ -1,0 +1,912 @@
+[
+  {
+    "id": "f01_clutch",
+    "checks": [
+      {
+        "clip": "run",
+        "foot": "L",
+        "stance_drift_m": 0.001301383972168002,
+        "ankle_height_error_m": 0.00037153810262680054,
+        "samples": [
+          {
+            "phase": 0.05,
+            "ankle_z": 0.11462846398353577,
+            "travel_compensated_x": 0.39695379734039304
+          },
+          {
+            "phase": 0.1,
+            "ankle_z": 0.11499440670013428,
+            "travel_compensated_x": 0.39825518131256105
+          },
+          {
+            "phase": 0.15000000000000002,
+            "ankle_z": 0.11500957608222961,
+            "travel_compensated_x": 0.39810841083526616
+          },
+          {
+            "phase": 0.2,
+            "ankle_z": 0.11501255631446838,
+            "travel_compensated_x": 0.39779996275901797
+          },
+          {
+            "phase": 0.25,
+            "ankle_z": 0.11496397852897644,
+            "travel_compensated_x": 0.3977252393960953
+          },
+          {
+            "phase": 0.30000000000000004,
+            "ankle_z": 0.11499014496803284,
+            "travel_compensated_x": 0.39784215986728677
+          },
+          {
+            "phase": 0.35000000000000003,
+            "ankle_z": 0.11506316065788269,
+            "travel_compensated_x": 0.3980830430984498
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "run",
+        "foot": "R",
+        "stance_drift_m": 0.005057072639465421,
+        "ankle_height_error_m": 0.0005573108792304993,
+        "samples": [
+          {
+            "phase": 0.55,
+            "ankle_z": 0.11501297354698181,
+            "travel_compensated_x": 1.3953525185585023
+          },
+          {
+            "phase": 0.6,
+            "ankle_z": 0.11505463719367981,
+            "travel_compensated_x": 1.398433369398117
+          },
+          {
+            "phase": 0.65,
+            "ankle_z": 0.1150197982788086,
+            "travel_compensated_x": 1.3981124192476273
+          },
+          {
+            "phase": 0.7,
+            "ankle_z": 0.11486458778381348,
+            "travel_compensated_x": 1.3980498254299163
+          },
+          {
+            "phase": 0.75,
+            "ankle_z": 0.11493352055549622,
+            "travel_compensated_x": 1.397787168622017
+          },
+          {
+            "phase": 0.8,
+            "ankle_z": 0.1150776743888855,
+            "travel_compensated_x": 1.3980233132839204
+          },
+          {
+            "phase": 0.8500000000000001,
+            "ankle_z": 0.11555731296539307,
+            "travel_compensated_x": 1.4004095911979677
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "walk",
+        "foot": "L",
+        "stance_drift_m": 0.002605053782463118,
+        "ankle_height_error_m": 1.9498169422149658e-05,
+        "samples": [
+          {
+            "phase": 0.075,
+            "ankle_z": 0.11500099301338196,
+            "travel_compensated_x": 0.29898391366004945
+          },
+          {
+            "phase": 0.15,
+            "ankle_z": 0.11500003933906555,
+            "travel_compensated_x": 0.2981571346521378
+          },
+          {
+            "phase": 0.22499999999999998,
+            "ankle_z": 0.11500123143196106,
+            "travel_compensated_x": 0.2977506726980209
+          },
+          {
+            "phase": 0.3,
+            "ankle_z": 0.11500012874603271,
+            "travel_compensated_x": 0.29783454835414885
+          },
+          {
+            "phase": 0.375,
+            "ankle_z": 0.11501950025558472,
+            "travel_compensated_x": 0.2983551472425461
+          },
+          {
+            "phase": 0.44999999999999996,
+            "ankle_z": 0.1149992048740387,
+            "travel_compensated_x": 0.29929625689983363
+          },
+          {
+            "phase": 0.525,
+            "ankle_z": 0.11500304937362671,
+            "travel_compensated_x": 0.30035572648048403
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "walk",
+        "foot": "R",
+        "stance_drift_m": 0.0019966989755629827,
+        "ankle_height_error_m": 2.6144087314605713e-05,
+        "samples": [
+          {
+            "phase": 0.575,
+            "ankle_z": 0.11498615145683289,
+            "travel_compensated_x": 0.7989387035369873
+          },
+          {
+            "phase": 0.65,
+            "ankle_z": 0.11500024795532227,
+            "travel_compensated_x": 0.7981574028730393
+          },
+          {
+            "phase": 0.725,
+            "ankle_z": 0.11499753594398499,
+            "travel_compensated_x": 0.7977511793375015
+          },
+          {
+            "phase": 0.8,
+            "ankle_z": 0.11500045657157898,
+            "travel_compensated_x": 0.7978340715169907
+          },
+          {
+            "phase": 0.875,
+            "ankle_z": 0.11499994993209839,
+            "travel_compensated_x": 0.7983900904655457
+          },
+          {
+            "phase": 0.95,
+            "ankle_z": 0.11500334739685059,
+            "travel_compensated_x": 0.799330186843872
+          },
+          {
+            "phase": 1.025,
+            "ankle_z": 0.11502614617347717,
+            "travel_compensated_x": 0.7997478783130645
+          }
+        ],
+        "pass": true
+      }
+    ],
+    "pass": true
+  },
+  {
+    "id": "f04_deadfall",
+    "checks": [
+      {
+        "clip": "run",
+        "foot": "L",
+        "stance_drift_m": 0.0012487828731537198,
+        "ankle_height_error_m": 0.0003885999321937561,
+        "samples": [
+          {
+            "phase": 0.05,
+            "ankle_z": 0.11523640155792236,
+            "travel_compensated_x": 0.3968461811542511
+          },
+          {
+            "phase": 0.1,
+            "ankle_z": 0.11561557650566101,
+            "travel_compensated_x": 0.3980949640274048
+          },
+          {
+            "phase": 0.15000000000000002,
+            "ankle_z": 0.1156339943408966,
+            "travel_compensated_x": 0.3978963822126389
+          },
+          {
+            "phase": 0.2,
+            "ankle_z": 0.11563661694526672,
+            "travel_compensated_x": 0.39755248427391054
+          },
+          {
+            "phase": 0.25,
+            "ankle_z": 0.11558863520622253,
+            "travel_compensated_x": 0.3974645882844925
+          },
+          {
+            "phase": 0.30000000000000004,
+            "ankle_z": 0.11561459302902222,
+            "travel_compensated_x": 0.3975942790508271
+          },
+          {
+            "phase": 0.35000000000000003,
+            "ankle_z": 0.11568829417228699,
+            "travel_compensated_x": 0.39787186384201056
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "run",
+        "foot": "R",
+        "stance_drift_m": 0.004757827520370572,
+        "ankle_height_error_m": 0.000537090003490448,
+        "samples": [
+          {
+            "phase": 0.55,
+            "ankle_z": 0.11569371819496155,
+            "travel_compensated_x": 1.3954318523406983
+          },
+          {
+            "phase": 0.6,
+            "ankle_z": 0.11568143963813782,
+            "travel_compensated_x": 1.3982908248901367
+          },
+          {
+            "phase": 0.65,
+            "ankle_z": 0.1156446635723114,
+            "travel_compensated_x": 1.3979012995958329
+          },
+          {
+            "phase": 0.7,
+            "ankle_z": 0.11548975110054016,
+            "travel_compensated_x": 1.397800201177597
+          },
+          {
+            "phase": 0.75,
+            "ankle_z": 0.11555826663970947,
+            "travel_compensated_x": 1.3975256830453873
+          },
+          {
+            "phase": 0.8,
+            "ankle_z": 0.11569985747337341,
+            "travel_compensated_x": 1.3977744042873383
+          },
+          {
+            "phase": 0.8500000000000001,
+            "ankle_z": 0.11616209149360657,
+            "travel_compensated_x": 1.400189679861069
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "walk",
+        "foot": "L",
+        "stance_drift_m": 0.0029044404625893083,
+        "ankle_height_error_m": 2.076476812362671e-05,
+        "samples": [
+          {
+            "phase": 0.075,
+            "ankle_z": 0.11562415957450867,
+            "travel_compensated_x": 0.2988586246967316
+          },
+          {
+            "phase": 0.15,
+            "ankle_z": 0.1156248152256012,
+            "travel_compensated_x": 0.2979451954364777
+          },
+          {
+            "phase": 0.22499999999999998,
+            "ankle_z": 0.1156260073184967,
+            "travel_compensated_x": 0.29749215990304945
+          },
+          {
+            "phase": 0.3,
+            "ankle_z": 0.11562499403953552,
+            "travel_compensated_x": 0.2975856393575668
+          },
+          {
+            "phase": 0.375,
+            "ankle_z": 0.11564576625823975,
+            "travel_compensated_x": 0.29816753417253494
+          },
+          {
+            "phase": 0.44999999999999996,
+            "ankle_z": 0.1156240701675415,
+            "travel_compensated_x": 0.29921537339687343
+          },
+          {
+            "phase": 0.525,
+            "ankle_z": 0.11562791466712952,
+            "travel_compensated_x": 0.30039660036563876
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "walk",
+        "foot": "R",
+        "stance_drift_m": 0.00229706168174737,
+        "ankle_height_error_m": 2.577155828475952e-05,
+        "samples": [
+          {
+            "phase": 0.575,
+            "ankle_z": 0.11561167240142822,
+            "travel_compensated_x": 0.7988215655088424
+          },
+          {
+            "phase": 0.65,
+            "ankle_z": 0.11562511324882507,
+            "travel_compensated_x": 0.7979457765817642
+          },
+          {
+            "phase": 0.725,
+            "ankle_z": 0.11562240123748779,
+            "travel_compensated_x": 0.797492778301239
+          },
+          {
+            "phase": 0.8,
+            "ankle_z": 0.1156252920627594,
+            "travel_compensated_x": 0.7975850135087967
+          },
+          {
+            "phase": 0.875,
+            "ankle_z": 0.11562511324882507,
+            "travel_compensated_x": 0.7982043996453285
+          },
+          {
+            "phase": 0.95,
+            "ankle_z": 0.11562827229499817,
+            "travel_compensated_x": 0.7992490053176879
+          },
+          {
+            "phase": 1.025,
+            "ankle_z": 0.11565077304840088,
+            "travel_compensated_x": 0.7997898399829864
+          }
+        ],
+        "pass": true
+      }
+    ],
+    "pass": true
+  },
+  {
+    "id": "f05_fine_print",
+    "checks": [
+      {
+        "clip": "run",
+        "foot": "L",
+        "stance_drift_m": 0.0011791497468948697,
+        "ankle_height_error_m": 0.00035197287797927856,
+        "samples": [
+          {
+            "phase": 0.05,
+            "ankle_z": 0.11402302980422974,
+            "travel_compensated_x": 0.39686686396598814
+          },
+          {
+            "phase": 0.1,
+            "ankle_z": 0.11437419056892395,
+            "travel_compensated_x": 0.398046013712883
+          },
+          {
+            "phase": 0.15000000000000002,
+            "ankle_z": 0.1143856942653656,
+            "travel_compensated_x": 0.39781172871589665
+          },
+          {
+            "phase": 0.2,
+            "ankle_z": 0.11438927054405212,
+            "travel_compensated_x": 0.3974488765001297
+          },
+          {
+            "phase": 0.25,
+            "ankle_z": 0.11433935165405273,
+            "travel_compensated_x": 0.39735862612724304
+          },
+          {
+            "phase": 0.30000000000000004,
+            "ankle_z": 0.11436563730239868,
+            "travel_compensated_x": 0.3974928319454194
+          },
+          {
+            "phase": 0.35000000000000003,
+            "ankle_z": 0.11443796753883362,
+            "travel_compensated_x": 0.3977857947349549
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "run",
+        "foot": "R",
+        "stance_drift_m": 0.00504506230354318,
+        "ankle_height_error_m": 0.0005804821848869324,
+        "samples": [
+          {
+            "phase": 0.55,
+            "ankle_z": 0.11433345079421997,
+            "travel_compensated_x": 1.39507914185524
+          },
+          {
+            "phase": 0.6,
+            "ankle_z": 0.11442780494689941,
+            "travel_compensated_x": 1.3982065141201019
+          },
+          {
+            "phase": 0.65,
+            "ankle_z": 0.11439502239227295,
+            "travel_compensated_x": 1.3978157222270966
+          },
+          {
+            "phase": 0.7,
+            "ankle_z": 0.11424010992050171,
+            "travel_compensated_x": 1.3977006018161773
+          },
+          {
+            "phase": 0.75,
+            "ankle_z": 0.11430910229682922,
+            "travel_compensated_x": 1.3974207043647766
+          },
+          {
+            "phase": 0.8,
+            "ankle_z": 0.11445602774620056,
+            "travel_compensated_x": 1.3976751923561097
+          },
+          {
+            "phase": 0.8500000000000001,
+            "ankle_z": 0.11495548486709595,
+            "travel_compensated_x": 1.4001242041587831
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "walk",
+        "foot": "L",
+        "stance_drift_m": 0.003024402260780379,
+        "ankle_height_error_m": 1.644343137741089e-05,
+        "samples": [
+          {
+            "phase": 0.075,
+            "ankle_z": 0.11437812447547913,
+            "travel_compensated_x": 0.29882473945617677
+          },
+          {
+            "phase": 0.15,
+            "ankle_z": 0.11437532305717468,
+            "travel_compensated_x": 0.2978610634803772
+          },
+          {
+            "phase": 0.22499999999999998,
+            "ankle_z": 0.11437627673149109,
+            "travel_compensated_x": 0.2973886638879776
+          },
+          {
+            "phase": 0.3,
+            "ankle_z": 0.11437526345252991,
+            "travel_compensated_x": 0.29748602509498595
+          },
+          {
+            "phase": 0.375,
+            "ankle_z": 0.11439144611358643,
+            "travel_compensated_x": 0.298101581633091
+          },
+          {
+            "phase": 0.44999999999999996,
+            "ankle_z": 0.11437439918518066,
+            "travel_compensated_x": 0.29918287396430965
+          },
+          {
+            "phase": 0.525,
+            "ankle_z": 0.11437815427780151,
+            "travel_compensated_x": 0.30041306614875796
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "walk",
+        "foot": "R",
+        "stance_drift_m": 0.002417187392711573,
+        "ankle_height_error_m": 2.65464186668396e-05,
+        "samples": [
+          {
+            "phase": 0.575,
+            "ankle_z": 0.11436384916305542,
+            "travel_compensated_x": 0.7987817049026489
+          },
+          {
+            "phase": 0.65,
+            "ankle_z": 0.11437523365020752,
+            "travel_compensated_x": 0.7978606760501862
+          },
+          {
+            "phase": 0.725,
+            "ankle_z": 0.11437264084815979,
+            "travel_compensated_x": 0.7973891630768776
+          },
+          {
+            "phase": 0.8,
+            "ankle_z": 0.11437556147575378,
+            "travel_compensated_x": 0.7974853098392487
+          },
+          {
+            "phase": 0.875,
+            "ankle_z": 0.11437481641769409,
+            "travel_compensated_x": 0.7981314957141876
+          },
+          {
+            "phase": 0.95,
+            "ankle_z": 0.11437857151031494,
+            "travel_compensated_x": 0.7992166399955749
+          },
+          {
+            "phase": 1.025,
+            "ankle_z": 0.11440154910087585,
+            "travel_compensated_x": 0.7998063504695891
+          }
+        ],
+        "pass": true
+      }
+    ],
+    "pass": true
+  },
+  {
+    "id": "source_damion",
+    "checks": [
+      {
+        "clip": "run",
+        "foot": "L",
+        "stance_drift_m": 0.0010941684246063565,
+        "ankle_height_error_m": 0.0003412589430809021,
+        "samples": [
+          {
+            "phase": 0.05,
+            "ankle_z": 0.11840873956680298,
+            "travel_compensated_x": 0.3969219982624054
+          },
+          {
+            "phase": 0.1,
+            "ankle_z": 0.11874538660049438,
+            "travel_compensated_x": 0.39801616668701173
+          },
+          {
+            "phase": 0.15000000000000002,
+            "ankle_z": 0.11876070499420166,
+            "travel_compensated_x": 0.39774732589721684
+          },
+          {
+            "phase": 0.2,
+            "ankle_z": 0.11876979470252991,
+            "travel_compensated_x": 0.39736505746841433
+          },
+          {
+            "phase": 0.25,
+            "ankle_z": 0.11871403455734253,
+            "travel_compensated_x": 0.39728234708309174
+          },
+          {
+            "phase": 0.30000000000000004,
+            "ankle_z": 0.11873859167098999,
+            "travel_compensated_x": 0.3974223196506501
+          },
+          {
+            "phase": 0.35000000000000003,
+            "ankle_z": 0.11881446838378906,
+            "travel_compensated_x": 0.39772484898567206
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "run",
+        "foot": "R",
+        "stance_drift_m": 0.00414944291114816,
+        "ankle_height_error_m": 0.0004788711667060852,
+        "samples": [
+          {
+            "phase": 0.55,
+            "ankle_z": 0.1189931333065033,
+            "travel_compensated_x": 1.39587060213089
+          },
+          {
+            "phase": 0.6,
+            "ankle_z": 0.11880996823310852,
+            "travel_compensated_x": 1.3982111930847168
+          },
+          {
+            "phase": 0.65,
+            "ankle_z": 0.11876881122589111,
+            "travel_compensated_x": 1.3977559983730317
+          },
+          {
+            "phase": 0.7,
+            "ankle_z": 0.11862826347351074,
+            "travel_compensated_x": 1.3976062923669814
+          },
+          {
+            "phase": 0.75,
+            "ankle_z": 0.11868688464164734,
+            "travel_compensated_x": 1.3973382860422134
+          },
+          {
+            "phase": 0.8,
+            "ankle_z": 0.1188172996044159,
+            "travel_compensated_x": 1.3975990921258927
+          },
+          {
+            "phase": 0.8500000000000001,
+            "ankle_z": 0.11922886967658997,
+            "travel_compensated_x": 1.4000200450420381
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "walk",
+        "foot": "L",
+        "stance_drift_m": 0.0031141519546509233,
+        "ankle_height_error_m": 1.6458332538604736e-05,
+        "samples": [
+          {
+            "phase": 0.075,
+            "ankle_z": 0.11874496936798096,
+            "travel_compensated_x": 0.29875936806201936
+          },
+          {
+            "phase": 0.15,
+            "ankle_z": 0.11875021457672119,
+            "travel_compensated_x": 0.29779749512672427
+          },
+          {
+            "phase": 0.22499999999999998,
+            "ankle_z": 0.11875098943710327,
+            "travel_compensated_x": 0.2973111182451248
+          },
+          {
+            "phase": 0.3,
+            "ankle_z": 0.1187501847743988,
+            "travel_compensated_x": 0.29741096794605254
+          },
+          {
+            "phase": 0.375,
+            "ankle_z": 0.11876645684242249,
+            "travel_compensated_x": 0.2980453222990036
+          },
+          {
+            "phase": 0.44999999999999996,
+            "ankle_z": 0.11874905228614807,
+            "travel_compensated_x": 0.29915883839130397
+          },
+          {
+            "phase": 0.525,
+            "ankle_z": 0.11875301599502563,
+            "travel_compensated_x": 0.3004252701997757
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "walk",
+        "foot": "R",
+        "stance_drift_m": 0.002507525682449274,
+        "ankle_height_error_m": 2.489238977432251e-05,
+        "samples": [
+          {
+            "phase": 0.575,
+            "ankle_z": 0.11874759197235107,
+            "travel_compensated_x": 0.7987752676010131
+          },
+          {
+            "phase": 0.65,
+            "ankle_z": 0.11875012516975403,
+            "travel_compensated_x": 0.7977973163127899
+          },
+          {
+            "phase": 0.725,
+            "ankle_z": 0.11874747276306152,
+            "travel_compensated_x": 0.7973118185997009
+          },
+          {
+            "phase": 0.8,
+            "ankle_z": 0.11875030398368835,
+            "travel_compensated_x": 0.7974109679460526
+          },
+          {
+            "phase": 0.875,
+            "ankle_z": 0.11875131726264954,
+            "travel_compensated_x": 0.798073023557663
+          },
+          {
+            "phase": 0.95,
+            "ankle_z": 0.11875319480895996,
+            "travel_compensated_x": 0.7991923511028289
+          },
+          {
+            "phase": 1.025,
+            "ankle_z": 0.1187748908996582,
+            "travel_compensated_x": 0.7998193442821502
+          }
+        ],
+        "pass": true
+      }
+    ],
+    "pass": true
+  },
+  {
+    "id": "source_will",
+    "checks": [
+      {
+        "clip": "run",
+        "foot": "L",
+        "stance_drift_m": 0.0012495726346969938,
+        "ankle_height_error_m": 0.00033499300479888916,
+        "samples": [
+          {
+            "phase": 0.05,
+            "ankle_z": 0.11216500401496887,
+            "travel_compensated_x": 0.3970371842384338
+          },
+          {
+            "phase": 0.1,
+            "ankle_z": 0.11250025033950806,
+            "travel_compensated_x": 0.3982867568731308
+          },
+          {
+            "phase": 0.15000000000000002,
+            "ankle_z": 0.11250686645507812,
+            "travel_compensated_x": 0.39813657402992253
+          },
+          {
+            "phase": 0.2,
+            "ankle_z": 0.11250099539756775,
+            "travel_compensated_x": 0.3978432506322861
+          },
+          {
+            "phase": 0.25,
+            "ankle_z": 0.1124630868434906,
+            "travel_compensated_x": 0.39775216579437256
+          },
+          {
+            "phase": 0.30000000000000004,
+            "ankle_z": 0.11249047517776489,
+            "travel_compensated_x": 0.39786640405654916
+          },
+          {
+            "phase": 0.35000000000000003,
+            "ankle_z": 0.11256152391433716,
+            "travel_compensated_x": 0.39810324907302863
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "run",
+        "foot": "R",
+        "stance_drift_m": 0.005396372079849332,
+        "ankle_height_error_m": 0.0005983859300613403,
+        "samples": [
+          {
+            "phase": 0.55,
+            "ankle_z": 0.11239811778068542,
+            "travel_compensated_x": 1.3950538396835328
+          },
+          {
+            "phase": 0.6,
+            "ankle_z": 0.11255353689193726,
+            "travel_compensated_x": 1.3984343230724334
+          },
+          {
+            "phase": 0.65,
+            "ankle_z": 0.11252075433731079,
+            "travel_compensated_x": 1.3981315970420838
+          },
+          {
+            "phase": 0.7,
+            "ankle_z": 0.11234989762306213,
+            "travel_compensated_x": 1.3980935156345367
+          },
+          {
+            "phase": 0.75,
+            "ankle_z": 0.11242923140525818,
+            "travel_compensated_x": 1.3978176265954971
+          },
+          {
+            "phase": 0.8,
+            "ankle_z": 0.11258271336555481,
+            "travel_compensated_x": 1.398049420118332
+          },
+          {
+            "phase": 0.8500000000000001,
+            "ankle_z": 0.1130983829498291,
+            "travel_compensated_x": 1.4004502117633821
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "walk",
+        "foot": "L",
+        "stance_drift_m": 0.002574945986270949,
+        "ankle_height_error_m": 1.2114644050598145e-05,
+        "samples": [
+          {
+            "phase": 0.075,
+            "ankle_z": 0.1125030517578125,
+            "travel_compensated_x": 0.29900398552417756
+          },
+          {
+            "phase": 0.15,
+            "ankle_z": 0.11249974370002747,
+            "travel_compensated_x": 0.298178368806839
+          },
+          {
+            "phase": 0.22499999999999998,
+            "ankle_z": 0.1125008761882782,
+            "travel_compensated_x": 0.2977763995528221
+          },
+          {
+            "phase": 0.3,
+            "ankle_z": 0.11249986290931702,
+            "travel_compensated_x": 0.2978594183921814
+          },
+          {
+            "phase": 0.375,
+            "ankle_z": 0.11251211166381836,
+            "travel_compensated_x": 0.29838670790195465
+          },
+          {
+            "phase": 0.44999999999999996,
+            "ankle_z": 0.11249896883964539,
+            "travel_compensated_x": 0.2993042737245559
+          },
+          {
+            "phase": 0.525,
+            "ankle_z": 0.1125028133392334,
+            "travel_compensated_x": 0.30035134553909304
+          }
+        ],
+        "pass": true
+      },
+      {
+        "clip": "walk",
+        "foot": "R",
+        "stance_drift_m": 0.0019665762782096197,
+        "ankle_height_error_m": 2.650916576385498e-05,
+        "samples": [
+          {
+            "phase": 0.575,
+            "ankle_z": 0.11248883605003357,
+            "travel_compensated_x": 0.7989619940519332
+          },
+          {
+            "phase": 0.65,
+            "ankle_z": 0.11249995231628418,
+            "travel_compensated_x": 0.79817875623703
+          },
+          {
+            "phase": 0.725,
+            "ankle_z": 0.1124972403049469,
+            "travel_compensated_x": 0.7977768912911415
+          },
+          {
+            "phase": 0.8,
+            "ankle_z": 0.11250022053718567,
+            "travel_compensated_x": 0.7978587478399277
+          },
+          {
+            "phase": 0.875,
+            "ankle_z": 0.11249887943267822,
+            "travel_compensated_x": 0.7984099239110947
+          },
+          {
+            "phase": 0.95,
+            "ankle_z": 0.1125032901763916,
+            "travel_compensated_x": 0.7993379950523376
+          },
+          {
+            "phase": 1.025,
+            "ankle_z": 0.11252650618553162,
+            "travel_compensated_x": 0.7997434675693511
+          }
+        ],
+        "pass": true
+      }
+    ],
+    "pass": true
+  }
+]

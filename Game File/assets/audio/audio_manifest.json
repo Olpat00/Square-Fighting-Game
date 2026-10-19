@@ -1,0 +1,216 @@
+{
+  "sample_rate": 44100,
+  "channels": 2,
+  "format": "PCM signed 16-bit WAV",
+  "generator": "tools/generate_audio.py",
+  "seed": 80223,
+  "assets": [
+    {
+      "file": "hit_light_1.wav",
+      "seconds": 0.21,
+      "peak_dbfs": -2.6,
+      "rms_dbfs": -18.94,
+      "loop": false,
+      "description": "Short pitched body impact with softened high-frequency contact transient.",
+      "sha256": "7ad9656d90262f3e54eeadcef4662328f01ef21a5ba6b48d33fcfd11abc00a18"
+    },
+    {
+      "file": "hit_light_2.wav",
+      "seconds": 0.224,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -19.26,
+      "loop": false,
+      "description": "Short pitched body impact with softened high-frequency contact transient.",
+      "sha256": "45ce5bd7e23ccb9dfd8a9efb6ed82dcdf332d496f50331a7feda7cbbd419a1ee"
+    },
+    {
+      "file": "hit_light_3.wav",
+      "seconds": 0.238,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -20.42,
+      "loop": false,
+      "description": "Short pitched body impact with softened high-frequency contact transient.",
+      "sha256": "47d9656fde896d8859679ef9a1e30be23af1116fafd95a80d98dc63271a75241"
+    },
+    {
+      "file": "hit_heavy_1.wav",
+      "seconds": 0.49,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -18.06,
+      "loop": false,
+      "description": "Low impact with a broad short thump and textured transient.",
+      "sha256": "735013283f8841f75f017b58774861061c389892739133778884d4716c0c43af"
+    },
+    {
+      "file": "hit_heavy_2.wav",
+      "seconds": 0.49,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -18.79,
+      "loop": false,
+      "description": "Low impact with a broad short thump and textured transient.",
+      "sha256": "e9729cefa334e98272482294442e1ee2d5188c8e05b0381b0ff96b65ce560e80"
+    },
+    {
+      "file": "launch.wav",
+      "seconds": 0.43,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -19.53,
+      "loop": false,
+      "description": "Air rush, bright rising trajectory cue.",
+      "sha256": "04e91690d2cfc32ce3a543e7da5cd73087807c5802b1b3aca459d5b24c7da4ba"
+    },
+    {
+      "file": "swing.wav",
+      "seconds": 0.25,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -15.83,
+      "loop": false,
+      "description": "Short air movement before a committed strike.",
+      "sha256": "ed40e73ab758cd90730763de5891c4ad2455d03f05dcaf0239413f200b6c5151"
+    },
+    {
+      "file": "shield.wav",
+      "seconds": 0.33,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -17.0,
+      "loop": false,
+      "description": "Resonant low shield contact.",
+      "sha256": "33cf26f6c43cb8f5b9622077033d400d1b650225277616a7aa3684000f8864c0"
+    },
+    {
+      "file": "parry.wav",
+      "seconds": 0.6,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -17.69,
+      "loop": false,
+      "description": "Clear original bell interval for perfect defense.",
+      "sha256": "9af97367a31864567d6650eebe6fde6c9f7172872f7832af71528536e3a41491"
+    },
+    {
+      "file": "jump.wav",
+      "seconds": 0.21,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -19.43,
+      "loop": false,
+      "description": "Gentle pitched spring and air pulse.",
+      "sha256": "aae2b9de07d70e86f565bae954eb2b137ecc48e57acba875646da82f79fd64fd"
+    },
+    {
+      "file": "land.wav",
+      "seconds": 0.2,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -17.83,
+      "loop": false,
+      "description": "Soft shoe/deck landing thud.",
+      "sha256": "58f313ad75005ca93e2794dc370218952d5e26607a5801f92fa556a85b80f1f6"
+    },
+    {
+      "file": "menu_move.wav",
+      "seconds": 0.09,
+      "peak_dbfs": -2.2,
+      "rms_dbfs": -14.53,
+      "loop": false,
+      "description": "Brief low-level menu navigation blip.",
+      "sha256": "f57e8290cbe1b1eea347277f5a83b163428381af6bfaaacb20d5755f12a0cd05"
+    },
+    {
+      "file": "menu_confirm.wav",
+      "seconds": 0.24,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -16.63,
+      "loop": false,
+      "description": "Two-note menu confirmation.",
+      "sha256": "31e0300d7633246981d68a098c231e207708925b132437aab76ebc3363f1a0fa"
+    },
+    {
+      "file": "menu_back.wav",
+      "seconds": 0.19,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -14.76,
+      "loop": false,
+      "description": "Falling UI cancel cue.",
+      "sha256": "1da7902f18f9ca9a006228bcff8b49e09e28a3f1acf6f6d503e1966bdbfe10bb"
+    },
+    {
+      "file": "meter_ready.wav",
+      "seconds": 1.1,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -14.46,
+      "loop": false,
+      "description": "Original rising major-seventh-flavored resource-ready chime.",
+      "sha256": "6beea59214dce249a92d40643f2e883ae63730a092410458e5a07ae340e2f030"
+    },
+    {
+      "file": "hazard_warning.wav",
+      "seconds": 1.05,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -18.1,
+      "loop": false,
+      "description": "Three evenly spaced amber warning beeps over one second.",
+      "sha256": "d8daab645ff488762361df5533b2e000835ada505509d6fc7c3de8df43ce33a2"
+    },
+    {
+      "file": "hazard_fire.wav",
+      "seconds": 0.85,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -20.85,
+      "loop": false,
+      "description": "Low pyrotechnic burst with no explosive crack spike.",
+      "sha256": "cae613ded34a4d0b6288f4dd174277e745a49ebf22ebafc7e2f78329d3d720f7"
+    },
+    {
+      "file": "ko.wav",
+      "seconds": 1.35,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -20.01,
+      "loop": false,
+      "description": "Broad musical ring-out impact; original non-vocal sound.",
+      "sha256": "8fd0d08490f6a9722d49d547dd7bc8208bde409d514fdd6fdab2e3c1ed2dd68d"
+    },
+    {
+      "file": "victory.wav",
+      "seconds": 1.6,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -15.04,
+      "loop": false,
+      "description": "Short four-tone match-result flourish.",
+      "sha256": "b46f45f939344831109cb4effe6c5cf98048e78d7aa1f885e699f8ae19e56a54"
+    },
+    {
+      "file": "ultimate.wav",
+      "seconds": 0.65,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -13.78,
+      "loop": false,
+      "description": "Build-up whoosh to precede an ultimate attack.",
+      "sha256": "db4d5a5a5a730254460ad00faad7d8ceae70d6c30434b6bd90a3dcd772ff0a92"
+    },
+    {
+      "file": "break_prop.wav",
+      "seconds": 0.38,
+      "peak_dbfs": -2.16,
+      "rms_dbfs": -20.55,
+      "loop": false,
+      "description": "Dry cosmetic prop-break crunch.",
+      "sha256": "e421100c03ce05dc836643ff27ea6fd930fabb0a2e27d659400c3bc4f70e1b5a"
+    },
+    {
+      "file": "last_resort_music.wav",
+      "seconds": 34.286,
+      "peak_dbfs": -6.2,
+      "rms_dbfs": -22.2,
+      "loop": true,
+      "description": "Original 16-bar, 112 BPM A-minor rooftop lounge-house composition; synthesized drums, bass, chords and mallets.",
+      "sha256": "0ec70db5d4a156c46acb3116ab438ced5939bb659ecf3b23b0888897b4cf4626"
+    },
+    {
+      "file": "rooftop_ambience.wav",
+      "seconds": 12.0,
+      "peak_dbfs": -6.2,
+      "rms_dbfs": -18.15,
+      "loop": true,
+      "description": "Original city-air and pool-water synthesis; quiet ambient loop.",
+      "sha256": "f1803fc7cbc237396f5ca5cfbf2aa8ecd1c56dbd232888410fed337999e9244d"
+    }
+  ]
+}

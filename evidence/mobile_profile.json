@@ -1,0 +1,58 @@
+{
+  "contacts": 54,
+  "engine": "4.7.2-stable (official)",
+  "fighters": [
+    {
+      "damage": 17.22,
+      "id": "f01_clutch",
+      "position": "(2.428926, 1.903666, 0.0)",
+      "state": "hitstun",
+      "stocks": 2
+    },
+    {
+      "damage": 101.52,
+      "id": "f04_deadfall",
+      "position": "(1.97104, 1.979278, 0.0)",
+      "state": "attack",
+      "stocks": 3
+    },
+    {
+      "damage": 118.8326,
+      "id": "f05_fine_print",
+      "position": "(12.98754, 4.269934, 0.0)",
+      "state": "air",
+      "stocks": 3
+    },
+    {
+      "damage": 131.168,
+      "id": "f01_clutch",
+      "position": "(13.19549, -0.648652, 0.0)",
+      "state": "air",
+      "stocks": 3
+    }
+  ],
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "kos": [
+    {
+      "assists": [
+        3,
+        1,
+        2
+      ],
+      "credited": 2,
+      "tick": 800,
+      "victim": 0
+    }
+  ],
+  "logical_viewport": "(1600.0, 900.0)",
+  "mean_frame_ms": 16.7783103448279,
+  "memory_static": 106800683.0,
+  "nodes": 175.0,
+  "objects": 0,
+  "p95_frame_ms": 16.6666666666667,
+  "render_frames": 1772,
+  "render_texture_pixels": "(2304.0, 1296.0)",
+  "renderer": "mobile",
+  "ticks": 1800,
+  "window_pixels": "(1920, 1080)"
+}

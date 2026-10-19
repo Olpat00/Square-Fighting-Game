@@ -1,0 +1,14 @@
+{
+  "checked_utc": "2026-10-03T22:50:27.5222723Z",
+  "consecutive_blocked_goal_turn": 2,
+  "gpu_lost": true,
+  "restart_required_by_nvidia": true,
+  "last_boot_utc": "2026-10-03T00:20:08.5000000Z",
+  "runtime_files": 515,
+  "source_matches_build": true,
+  "source_matches_gate": true,
+  "exe_matches": true,
+  "pck_matches": true,
+  "runtime_sha256": "6790E9229EF67703A2C07575C2B37F8DFFCAE88AD97533CAC3BA9DB488B118AC",
+  "graphical_jobs_running": 0
+}

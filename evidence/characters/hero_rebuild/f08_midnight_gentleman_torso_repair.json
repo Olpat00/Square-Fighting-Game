@@ -1,0 +1,22 @@
+{
+  "fighter": "f08_midnight_gentleman",
+  "all_animation_curves_unchanged": true,
+  "previous_curated_sha256": "50982e70974e74f4e632a2b1bd171287f484ceb876ce480e65679f1fcaabeb02",
+  "curated_sha256": "8434565dcd6b33ce6d8da086d6c682c8cd2a2bc2766b51f98b7230edc4c6f338",
+  "repairs": [
+    {
+      "mesh": "CharacterMesh",
+      "vertices_rebound": 3715,
+      "maximum_arm_weight_removed": 1.000000037252903
+    },
+    {
+      "mesh": "f08_midnight_gentleman waist band",
+      "vertices_rebound": 2112,
+      "maximum_arm_weight_removed": 0.409298300743103
+    }
+  ],
+  "topology": {
+    "source_faces_replaced": 7823,
+    "coverage": "structured woven coat panels and continuous capped sleeves; original trouser geometry and leg weights retained"
+  }
+}

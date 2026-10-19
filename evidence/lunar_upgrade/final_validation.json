@@ -1,0 +1,65 @@
+{
+  "date_utc": "2026-09-29T17:10:06.7677357Z",
+  "headless_suites": [
+    {
+      "name": "combat_scenarios",
+      "checks": 95,
+      "failures": 0,
+      "engine_errors": false
+    },
+    {
+      "name": "ability_scenarios",
+      "checks": 193,
+      "failures": 0,
+      "engine_errors": false
+    },
+    {
+      "name": "new_fighter_scenarios",
+      "checks": 67,
+      "failures": 0,
+      "engine_errors": false
+    },
+    {
+      "name": "presentation_state",
+      "checks": 97,
+      "failures": 0,
+      "engine_errors": false
+    },
+    {
+      "name": "stage_scenarios",
+      "checks": 36,
+      "failures": 0,
+      "engine_errors": false
+    }
+  ],
+  "headless_total": 488.0,
+  "exported_pck": {
+    "checks": 57,
+    "failures": 0,
+    "recorded_attack_and_gameplay_captures": 26,
+    "additional_arena_and_menu_stills": 5,
+    "engine_errors": false
+  },
+  "mobile_low": {
+    "checks": 6,
+    "failures": 0,
+    "captures": 3,
+    "engine_errors": false
+  },
+  "release_executable": {
+    "ticks": 180,
+    "fighters": 4,
+    "contacts": 5,
+    "capture": "exe/release_gameplay.png",
+    "engine_errors": false
+  },
+  "integrity": {
+    "runtime_source_files": 196,
+    "changed_since_export": 0,
+    "exe_sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562",
+    "pck_sha256": "DD805FEC6438D00915F398DEEC7CB588E9EA54EC4A2A427DE2599B30B440C9F6",
+    "earth_image_sha256": "FB67AC030214C1891994C8F976E7F6C9CD5B0F21586ABA8567250781A4FE708E",
+    "generated_horizon_sha256": "13AFE50D204517D4F692E029629A89F3F4833634CA2695A29C08D2B46A99B11F"
+  },
+  "scope": "Short scripted visual/functionality checks. Real gameplay screenshots, no long playtest or performance certification. Existing original character models and gameplay balance preserved."
+}

@@ -1,0 +1,282 @@
+{
+  "arenas": [
+    "verdant_shrine"
+  ],
+  "captures": [],
+  "cases": [
+    {
+      "arena": "verdant_shrine",
+      "bootstrap_draw_frames": 0,
+      "draw_frames_at_completion": 720,
+      "frame_readbacks_during_movie": 0,
+      "motion": {
+        "changed_clock_paths": [
+          "DistantArenaArtwork/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@273/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@274/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@275/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@276/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@277/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@278/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@279/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@280/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@281/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@282/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@283/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@284/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@285/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@286/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@287/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@288/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@289/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@290/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@291/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@292/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@293/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@294/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@295/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@296/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@297/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@298/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@299/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@300/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@301/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@302/surface0/scene_time",
+          "ShrineMarginFoliage0/material/scene_time",
+          "ShrineMarginFoliage1/material/scene_time",
+          "ShrineMarginFoliage2/material/scene_time",
+          "ShrineMarginFoliage3/material/scene_time",
+          "RiverMist/surface0/scene_time",
+          "RiverMist2/surface0/scene_time",
+          "RiverMist3/surface0/scene_time",
+          "CanopyShaft/surface0/scene_time",
+          "CanopyShaft2/surface0/scene_time",
+          "ValleySwallow0/surface0/scene_time",
+          "ValleySwallow1/surface0/scene_time",
+          "ValleySwallow2/surface0/scene_time",
+          "ValleySwallow3/surface0/scene_time",
+          "ValleySwallow4/surface0/scene_time"
+        ],
+        "changed_pose_paths": [
+          "WaterDetailPollen",
+          "ValleySwallow0",
+          "ValleySwallow1",
+          "ValleySwallow2",
+          "ValleySwallow3",
+          "ValleySwallow4"
+        ],
+        "from_tick": 0,
+        "to_tick": 720,
+        "visible_clock_changes": 45,
+        "visible_pose_changes": 6,
+        "visual_judgement": "Not inferred from state or image hashes; inspect captured motion."
+      },
+      "movie_path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\ambient.avi",
+      "movie_writer_fps": 60,
+      "quality": "High",
+      "resolution": [
+        1920,
+        1080
+      ],
+      "samples": [
+        {
+          "seconds": 0.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine/verdant_shrine_high_movie_t0000_state.json",
+            "saved": true,
+            "sha256": "dbcb471c548c85632a0998cf68b30eb369e255b99be0b77137444a87709f633d"
+          },
+          "tick": 0
+        },
+        {
+          "seconds": 2.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine/verdant_shrine_high_movie_t0120_state.json",
+            "saved": true,
+            "sha256": "3dfb7a3fbce3188a066317f05067fffcc9fec3a47fc18d9a368d853d522360f3"
+          },
+          "tick": 120
+        },
+        {
+          "seconds": 5.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine/verdant_shrine_high_movie_t0300_state.json",
+            "saved": true,
+            "sha256": "3e7aa83343be824a836f3a91953a46d9106cdeb1b05a856dab14904c4f461e5e"
+          },
+          "tick": 300
+        },
+        {
+          "seconds": 10.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine/verdant_shrine_high_movie_t0600_state.json",
+            "saved": true,
+            "sha256": "62e89ed65c860f0881f0c203d5aca60c07327a5bb4a94d21b36d9d39edd97ae8"
+          },
+          "tick": 600
+        },
+        {
+          "seconds": 12.0,
+          "state": {
+            "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine/verdant_shrine_high_movie_t0720_state.json",
+            "saved": true,
+            "sha256": "801b786411ce4ef1fa303c6392123b60745224aa2764305e659700249e8bb719"
+          },
+          "tick": 720
+        }
+      ],
+      "scenery_draw_frames": 720,
+      "simulation_seconds": 12.0,
+      "simulation_ticks": 720
+    }
+  ],
+  "checks": 13,
+  "failures": 0,
+  "gpu": "NVIDIA GeForce RTX 4080 SUPER",
+  "harness_sha256": "5357d265b380f710f05f7875c85cb4136317f9514fcbe754a79095d27f6adb69",
+  "limitations": [
+    "Deterministic stationary-player presentation fixtures, not performance measurements or human gameplay/controller testing.",
+    "State checks prove scene clock ownership, pause/reset and graphics restoration, not aesthetic quality or visibility at gameplay distance.",
+    "Pause image equality is reviewed separately; image hashes are identities, not a visual-motion verdict.",
+    "Movie writer may include setup/shutdown frames; bootstrap and captured draw-frame counts are recorded for editorial trimming."
+  ],
+  "movie": true,
+  "passed": true,
+  "qualities": [
+    "High"
+  ],
+  "renderer": "forward_plus",
+  "results": [
+    {
+      "details": {},
+      "name": "A graphical renderer is required",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Known arena verdant_shrine",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Known graphics tier High",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "Movie selects exactly one arena and tier",
+      "passed": true
+    },
+    {
+      "details": {
+        "fixed_fps": 60,
+        "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\motion\\verdant_shrine\\ambient.avi"
+      },
+      "name": "Movie uses engine AVI writer at fixed 60 FPS",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "verdant_shrine_high movie starts from reset scenery clock",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "verdant_shrine_high movie clocks follow tick 120",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "verdant_shrine_high movie clocks follow tick 300",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "verdant_shrine_high movie clocks follow tick 600",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "verdant_shrine_high movie clocks follow tick 720",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "verdant_shrine_high movie advances exactly 720 combat ticks",
+      "passed": true
+    },
+    {
+      "details": {},
+      "name": "verdant_shrine_high movie preserves Fair Fight geometry and clock-owned background",
+      "passed": true
+    },
+    {
+      "details": {
+        "changed_clock_paths": [
+          "DistantArenaArtwork/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@273/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@274/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@275/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@276/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@277/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@278/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@279/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@280/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@281/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@282/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@283/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@284/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@285/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@286/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@287/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@288/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@289/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@290/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@291/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@292/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@293/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@294/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@295/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@296/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@297/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@298/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@299/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@300/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@301/surface0/scene_time",
+          "MossStoneFightingDais/@MeshInstance3D@302/surface0/scene_time",
+          "ShrineMarginFoliage0/material/scene_time",
+          "ShrineMarginFoliage1/material/scene_time",
+          "ShrineMarginFoliage2/material/scene_time",
+          "ShrineMarginFoliage3/material/scene_time",
+          "RiverMist/surface0/scene_time",
+          "RiverMist2/surface0/scene_time",
+          "RiverMist3/surface0/scene_time",
+          "CanopyShaft/surface0/scene_time",
+          "CanopyShaft2/surface0/scene_time",
+          "ValleySwallow0/surface0/scene_time",
+          "ValleySwallow1/surface0/scene_time",
+          "ValleySwallow2/surface0/scene_time",
+          "ValleySwallow3/surface0/scene_time",
+          "ValleySwallow4/surface0/scene_time"
+        ],
+        "changed_pose_paths": [
+          "WaterDetailPollen",
+          "ValleySwallow0",
+          "ValleySwallow1",
+          "ValleySwallow2",
+          "ValleySwallow3",
+          "ValleySwallow4"
+        ],
+        "from_tick": 0,
+        "to_tick": 720,
+        "visible_clock_changes": 45,
+        "visible_pose_changes": 6,
+        "visual_judgement": "Not inferred from state or image hashes; inspect captured motion."
+      },
+      "name": "verdant_shrine_high movie has visible motion sources",
+      "passed": true
+    }
+  ],
+  "settings_saved": false,
+  "visual_review": "pending_human_or_image_inspection"
+}

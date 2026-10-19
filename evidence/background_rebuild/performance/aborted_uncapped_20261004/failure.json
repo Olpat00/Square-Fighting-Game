@@ -1,0 +1,93 @@
+{
+  "passed": false,
+  "recorded_utc": "2026-10-04T20:03:56.627957+00:00",
+  "status": "uncapped_matrix_aborted_during_lunar_reach_high",
+  "render_cap": 0,
+  "vsync": "disabled",
+  "completed_partial_reports": [
+    "rooftop_riot_high_4p.json",
+    "rooftop_riot_low_4p.json"
+  ],
+  "failed_case": "lunar_reach_high_4p",
+  "native_exit_code": null,
+  "engine_evidence": "Vulkan lost-device breadcrumbs followed by native signal 11; BLIT_PASS/UI_PASS breadcrumbs and nvoglv64.dll in backtrace.",
+  "observation": "Session 34622 no longer exists and no matching Godot/profile runner is alive. Windows LastBootUpTime is 2026-10-04T19:55:53.5Z; System event 41 reports an unclean restart.",
+  "gpu_after_restart": "nvidia-smi exit 0: RTX 4080 SUPER, driver 610.88, 30 degrees C, utilization 3 percent.",
+  "native_receipt_limitation": "Failed native log and process_failure.json retain their original lengths but consist entirely of NUL bytes after the unclean reboot; they are preserved as observed and cannot establish exit status.",
+  "retry_scope": "Full unchanged-runtime ten-case 60-second 1080p/four-CPU matrix with explicit 120 FPS render cap. This measures a controlled-rate workload and does not prove uncapped stability or a device/driver fix.",
+  "cause": "Unknown; no arena, shader, driver, or hardware root cause established.",
+  "artifacts": [
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\aborted_uncapped_20261004\\lunar_reach_high_4p.log",
+      "bytes": 2918,
+      "sha256": "E36569DA2EAB0B448C0E3C91D02C2C91FA411F94B78C322A482145102157EC98",
+      "nul_bytes": 0
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\aborted_uncapped_20261004\\lunar_reach_high_4p.native.log",
+      "bytes": 2983,
+      "sha256": "560AA2DFA5A59699102CDC3AF5D99A61B870F752A01D04E760CCADCCFC6505D7",
+      "nul_bytes": 2983
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\aborted_uncapped_20261004\\lunar_reach_high_4p.process_failure.json",
+      "bytes": 1693,
+      "sha256": "2A66DF80BC83EF3AC8CC74A5F15B5E77098A3AC2142D6CB97AE632ECE09D8F10",
+      "nul_bytes": 1693
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\aborted_uncapped_20261004\\rooftop_riot_high_4p.json",
+      "bytes": 1949,
+      "sha256": "AD2A6614F0E6BF854D242FD29116AF2755E77070A078F6B64BBD95C8F9235C06",
+      "nul_bytes": 0
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\aborted_uncapped_20261004\\rooftop_riot_high_4p.log",
+      "bytes": 1850,
+      "sha256": "7E6B1F4BDDCE2D36321FA5FA5B513239C6428E909842CB83B294CA727C056C89",
+      "nul_bytes": 0
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\aborted_uncapped_20261004\\rooftop_riot_high_4p.native.log",
+      "bytes": 1872,
+      "sha256": "10968B819A68CB0725756D3FD06E4019994A5C27BC2FAB8FBA56B2BB459B17DF",
+      "nul_bytes": 0
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\aborted_uncapped_20261004\\rooftop_riot_high_4p.png",
+      "bytes": 1793310,
+      "sha256": "22143ADCF6905D4C7A5B184B3039C732B3E60AD8F4FA2E8886889724DF3CF418",
+      "nul_bytes": 11690
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\aborted_uncapped_20261004\\rooftop_riot_low_4p.json",
+      "bytes": 1945,
+      "sha256": "24826986CB0C44A53CC2AA58088D9CC53D96BEFE95634AF8AE8574AC399DA562",
+      "nul_bytes": 0
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\aborted_uncapped_20261004\\rooftop_riot_low_4p.log",
+      "bytes": 1846,
+      "sha256": "8E7D042D69F632939A34F03C796159FBCBFA6B3B0126AA2E35222067492D7A48",
+      "nul_bytes": 0
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\aborted_uncapped_20261004\\rooftop_riot_low_4p.native.log",
+      "bytes": 1868,
+      "sha256": "65A466FA846AA88146D2C87CA8391A6853572FA6BDA8DA2ABB714FEFE8F2E452",
+      "nul_bytes": 0
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\aborted_uncapped_20261004\\rooftop_riot_low_4p.png",
+      "bytes": 1594113,
+      "sha256": "5EED3EFDCC92E07703DAB5E370B10E176810DBAD3A371950B936850730432B41",
+      "nul_bytes": 12101
+    },
+    {
+      "path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\evidence\\background_rebuild\\performance\\aborted_uncapped_20261004\\runner.log",
+      "bytes": 148,
+      "sha256": "8ECF9A43FA69448B2D666FB2DB5E8452B707A3D06402C88BDFE5019A973E3203",
+      "nul_bytes": 0
+    }
+  ]
+}

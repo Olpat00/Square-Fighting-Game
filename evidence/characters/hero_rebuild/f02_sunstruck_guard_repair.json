@@ -1,0 +1,14 @@
+{
+  "fighter": "f02_sunstruck",
+  "changed_clips": [
+    "shield_hold"
+  ],
+  "changed_bones": [
+    "spine",
+    "chest"
+  ],
+  "all_other_clips_unchanged": true,
+  "clip_seconds_preserved": 1.0,
+  "previous_curated_sha256": "26d1807504c42b668c1e081826a8fdfd318570a3be51b530164a3851e91ddd1f",
+  "new_curated_sha256": "bf80abb4a7f063358809d42f9f1429699d8951d2780fa32c00822cada70fc9b1"
+}

@@ -1,0 +1,349 @@
+{
+  "checks": [
+    {
+      "name": "Impacts blend faster than rest",
+      "passed": true
+    },
+    {
+      "name": "Turn receives authored visual duration",
+      "passed": true
+    },
+    {
+      "name": "Exported semantic effect socket overrides reach hand and foot attachments",
+      "passed": true
+    },
+    {
+      "name": "Explicit bone socket overrides take precedence and unconfigured bones retain their names",
+      "passed": true
+    },
+    {
+      "name": "f01_clutch finite leg poses through movement/turn/jump/landing",
+      "passed": true
+    },
+    {
+      "name": "f01_clutch footplant correction is bounded",
+      "passed": true
+    },
+    {
+      "name": "f01_clutch IK improves measured stance target error",
+      "passed": true
+    },
+    {
+      "name": "f01_clutch live skeleton footplant configured",
+      "passed": true
+    },
+    {
+      "name": "f01_clutch hitstop freezes facing and animation",
+      "passed": true
+    },
+    {
+      "name": "f01_clutch visual correction cannot move combat root",
+      "passed": true
+    },
+    {
+      "name": "f01_clutch walk/run preserve contact phase",
+      "passed": true
+    },
+    {
+      "name": "f01_clutch runtime profile is instance-local",
+      "passed": true
+    },
+    {
+      "name": "f01_clutch repeated move/charge release restarts visual clock",
+      "passed": true
+    },
+    {
+      "name": "f02_sunstruck finite leg poses through movement/turn/jump/landing",
+      "passed": true
+    },
+    {
+      "name": "f02_sunstruck footplant correction is bounded",
+      "passed": true
+    },
+    {
+      "name": "f02_sunstruck IK improves measured stance target error",
+      "passed": true
+    },
+    {
+      "name": "f02_sunstruck live skeleton footplant configured",
+      "passed": true
+    },
+    {
+      "name": "f02_sunstruck hitstop freezes facing and animation",
+      "passed": true
+    },
+    {
+      "name": "f02_sunstruck visual correction cannot move combat root",
+      "passed": true
+    },
+    {
+      "name": "f02_sunstruck walk/run preserve contact phase",
+      "passed": true
+    },
+    {
+      "name": "f02_sunstruck runtime profile is instance-local",
+      "passed": true
+    },
+    {
+      "name": "f02_sunstruck repeated move/charge release restarts visual clock",
+      "passed": true
+    },
+    {
+      "name": "f03_heavy_duty finite leg poses through movement/turn/jump/landing",
+      "passed": true
+    },
+    {
+      "name": "f03_heavy_duty footplant correction is bounded",
+      "passed": true
+    },
+    {
+      "name": "f03_heavy_duty IK improves measured stance target error",
+      "passed": true
+    },
+    {
+      "name": "f03_heavy_duty live skeleton footplant configured",
+      "passed": true
+    },
+    {
+      "name": "f03_heavy_duty hitstop freezes facing and animation",
+      "passed": true
+    },
+    {
+      "name": "f03_heavy_duty visual correction cannot move combat root",
+      "passed": true
+    },
+    {
+      "name": "f03_heavy_duty walk/run preserve contact phase",
+      "passed": true
+    },
+    {
+      "name": "f03_heavy_duty runtime profile is instance-local",
+      "passed": true
+    },
+    {
+      "name": "f03_heavy_duty repeated move/charge release restarts visual clock",
+      "passed": true
+    },
+    {
+      "name": "f04_deadfall finite leg poses through movement/turn/jump/landing",
+      "passed": true
+    },
+    {
+      "name": "f04_deadfall footplant correction is bounded",
+      "passed": true
+    },
+    {
+      "name": "f04_deadfall IK improves measured stance target error",
+      "passed": true
+    },
+    {
+      "name": "f04_deadfall live skeleton footplant configured",
+      "passed": true
+    },
+    {
+      "name": "f04_deadfall hitstop freezes facing and animation",
+      "passed": true
+    },
+    {
+      "name": "f04_deadfall visual correction cannot move combat root",
+      "passed": true
+    },
+    {
+      "name": "f04_deadfall walk/run preserve contact phase",
+      "passed": true
+    },
+    {
+      "name": "f04_deadfall runtime profile is instance-local",
+      "passed": true
+    },
+    {
+      "name": "f04_deadfall repeated move/charge release restarts visual clock",
+      "passed": true
+    },
+    {
+      "name": "f05_fine_print finite leg poses through movement/turn/jump/landing",
+      "passed": true
+    },
+    {
+      "name": "f05_fine_print footplant correction is bounded",
+      "passed": true
+    },
+    {
+      "name": "f05_fine_print IK improves measured stance target error",
+      "passed": true
+    },
+    {
+      "name": "f05_fine_print live skeleton footplant configured",
+      "passed": true
+    },
+    {
+      "name": "f05_fine_print hitstop freezes facing and animation",
+      "passed": true
+    },
+    {
+      "name": "f05_fine_print visual correction cannot move combat root",
+      "passed": true
+    },
+    {
+      "name": "f05_fine_print walk/run preserve contact phase",
+      "passed": true
+    },
+    {
+      "name": "f05_fine_print runtime profile is instance-local",
+      "passed": true
+    },
+    {
+      "name": "f05_fine_print repeated move/charge release restarts visual clock",
+      "passed": true
+    },
+    {
+      "name": "f06_rugged_explorer finite leg poses through movement/turn/jump/landing",
+      "passed": true
+    },
+    {
+      "name": "f06_rugged_explorer footplant correction is bounded",
+      "passed": true
+    },
+    {
+      "name": "f06_rugged_explorer IK improves measured stance target error",
+      "passed": true
+    },
+    {
+      "name": "f06_rugged_explorer live skeleton footplant configured",
+      "passed": true
+    },
+    {
+      "name": "f06_rugged_explorer hitstop freezes facing and animation",
+      "passed": true
+    },
+    {
+      "name": "f06_rugged_explorer visual correction cannot move combat root",
+      "passed": true
+    },
+    {
+      "name": "f06_rugged_explorer walk/run preserve contact phase",
+      "passed": true
+    },
+    {
+      "name": "f06_rugged_explorer runtime profile is instance-local",
+      "passed": true
+    },
+    {
+      "name": "f06_rugged_explorer repeated move/charge release restarts visual clock",
+      "passed": true
+    },
+    {
+      "name": "f07_urban_sentinel finite leg poses through movement/turn/jump/landing",
+      "passed": true
+    },
+    {
+      "name": "f07_urban_sentinel footplant correction is bounded",
+      "passed": true
+    },
+    {
+      "name": "f07_urban_sentinel IK improves measured stance target error",
+      "passed": true
+    },
+    {
+      "name": "f07_urban_sentinel live skeleton footplant configured",
+      "passed": true
+    },
+    {
+      "name": "f07_urban_sentinel hitstop freezes facing and animation",
+      "passed": true
+    },
+    {
+      "name": "f07_urban_sentinel visual correction cannot move combat root",
+      "passed": true
+    },
+    {
+      "name": "f07_urban_sentinel walk/run preserve contact phase",
+      "passed": true
+    },
+    {
+      "name": "f07_urban_sentinel runtime profile is instance-local",
+      "passed": true
+    },
+    {
+      "name": "f07_urban_sentinel repeated move/charge release restarts visual clock",
+      "passed": true
+    },
+    {
+      "name": "f08_midnight_gentleman finite leg poses through movement/turn/jump/landing",
+      "passed": true
+    },
+    {
+      "name": "f08_midnight_gentleman footplant correction is bounded",
+      "passed": true
+    },
+    {
+      "name": "f08_midnight_gentleman IK improves measured stance target error",
+      "passed": true
+    },
+    {
+      "name": "f08_midnight_gentleman live skeleton footplant configured",
+      "passed": true
+    },
+    {
+      "name": "f08_midnight_gentleman hitstop freezes facing and animation",
+      "passed": true
+    },
+    {
+      "name": "f08_midnight_gentleman visual correction cannot move combat root",
+      "passed": true
+    },
+    {
+      "name": "f08_midnight_gentleman walk/run preserve contact phase",
+      "passed": true
+    },
+    {
+      "name": "f08_midnight_gentleman runtime profile is instance-local",
+      "passed": true
+    },
+    {
+      "name": "f08_midnight_gentleman repeated move/charge release restarts visual clock",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot f01_clutch planted feet follow a rising and descending platform",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot f03_heavy_duty planted feet follow a rising and descending platform",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach f01_clutch planted feet follow a rising and descending platform",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach f03_heavy_duty planted feet follow a rising and descending platform",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine f01_clutch planted feet follow a rising and descending platform",
+      "passed": true
+    },
+    {
+      "name": "verdant_shrine f03_heavy_duty planted feet follow a rising and descending platform",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory f01_clutch planted feet follow a rising and descending platform",
+      "passed": true
+    },
+    {
+      "name": "abyssal_observatory f03_heavy_duty planted feet follow a rising and descending platform",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry f01_clutch planted feet follow a rising and descending platform",
+      "passed": true
+    },
+    {
+      "name": "ember_foundry f03_heavy_duty planted feet follow a rising and descending platform",
+      "passed": true
+    }
+  ],
+  "failures": 0
+}

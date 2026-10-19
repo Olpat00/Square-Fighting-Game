@@ -1,0 +1,21 @@
+{
+  "source": "tools/blender/stage_party_chair.py",
+  "meshes": 3,
+  "triangles": 7020,
+  "blender_bounds": [
+    [
+      -0.31050002574920654,
+      -0.31800004839897156,
+      4.656612873077393e-10
+    ],
+    [
+      0.3105000853538513,
+      0.4019888639450073,
+      0.961765706539154
+    ]
+  ],
+  "godot_height": 0.961765706539154,
+  "ground_origin": true,
+  "forward_godot": "+Z",
+  "runtime_scale": 1.0
+}

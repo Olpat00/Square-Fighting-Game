@@ -1,0 +1,72 @@
+{
+  "active_fighter_samples": {
+    "4": 39884
+  },
+  "arena": "abyssal_observatory",
+  "captured_pixels": "(1920, 1080)",
+  "completed_matches": [],
+  "contacts": 124,
+  "duration_seconds": 60.000297,
+  "engine": "4.7.2-stable (official)",
+  "frame_intervals": {
+    "available": true,
+    "count": 39884,
+    "max_ms": 121.362,
+    "mean_ms": 1.50437009828503,
+    "over_16_667": 305,
+    "p95_ms": 2.178,
+    "p99_ms": 8.456
+  },
+  "gpu_name": "NVIDIA GeForce RTX 4080 SUPER",
+  "logical_viewport": "(1600.0, 900.0)",
+  "measurement_note": "Frame intervals are monotonic process-frame intervals. Viewport CPU/GPU uses RenderingServer measured render time; process/physics are engine callback monitors. These are separate overlapping measurements, not additive.",
+  "peak_draws": 1043.0,
+  "peak_primitives": 282769.0,
+  "peak_vram_bytes": 525574528.0,
+  "physics_callback": {
+    "available": true,
+    "count": 39884,
+    "max_ms": 7.175,
+    "mean_ms": 2.79269288436457,
+    "over_16_667": 0,
+    "p95_ms": 4.616,
+    "p99_ms": 4.948
+  },
+  "players": 4,
+  "process_callback": {
+    "available": true,
+    "count": 39884,
+    "max_ms": 95.671,
+    "mean_ms": 5.00809800922697,
+    "over_16_667": 2170,
+    "p95_ms": 17.696,
+    "p99_ms": 41.428
+  },
+  "quality": "High",
+  "readback_inside_sample_window": false,
+  "render_cap": 0,
+  "renderer": "forward_plus",
+  "simulation_ticks_in_sample_window": 3600,
+  "tick": 3784,
+  "viewport_render_cpu": {
+    "available": true,
+    "count": 39884,
+    "max_ms": 3.9300000667572,
+    "mean_ms": 0.436783647677112,
+    "over_16_667": 0,
+    "p95_ms": 0.564000010490417,
+    "p99_ms": 1.05900001525879
+  },
+  "viewport_render_gpu": {
+    "available": true,
+    "count": 39884,
+    "max_ms": 50.6520004272461,
+    "mean_ms": 0.913210310331081,
+    "over_16_667": 109,
+    "p95_ms": 0.828999996185303,
+    "p99_ms": 1.45000004768372
+  },
+  "vsync": "disabled",
+  "warmup_seconds": 3,
+  "window_pixels": "(1920, 1080)"
+}

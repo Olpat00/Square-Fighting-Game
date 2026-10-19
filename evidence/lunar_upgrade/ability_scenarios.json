@@ -1,0 +1,1361 @@
+{
+  "checks": 193,
+  "engine": "4.7.2-stable (official)",
+  "failures": 0,
+  "limitation": "Headless combat-logic scenarios. No identity inference, model substitution, animation quality, visual attack alignment, or listening claim. All simulation advances use MatchWorld.step().",
+  "missing_visual_assets": [],
+  "results": [
+    {
+      "detail": "damage=3.5 pips=1",
+      "name": "Distinct-hit accumulation attempt 0",
+      "passed": true,
+      "scenario": "momentum distinct hits, cap, decay and spending",
+      "tick": 55
+    },
+    {
+      "detail": "damage=3.22 pips=1",
+      "name": "Distinct-hit accumulation attempt 1",
+      "passed": true,
+      "scenario": "momentum distinct hits, cap, decay and spending",
+      "tick": 110
+    },
+    {
+      "detail": "damage=7.0 pips=2",
+      "name": "Distinct-hit accumulation attempt 2",
+      "passed": true,
+      "scenario": "momentum distinct hits, cap, decay and spending",
+      "tick": 165
+    },
+    {
+      "detail": "damage=6.0 pips=3",
+      "name": "Distinct-hit accumulation attempt 3",
+      "passed": true,
+      "scenario": "momentum distinct hits, cap, decay and spending",
+      "tick": 220
+    },
+    {
+      "detail": "damage=8.0 pips=3",
+      "name": "Distinct-hit accumulation attempt 4",
+      "passed": true,
+      "scenario": "momentum distinct hits, cap, decay and spending",
+      "tick": 275
+    },
+    {
+      "detail": "",
+      "name": "Mirror opponent does not inherit Momentum",
+      "passed": true,
+      "scenario": "momentum distinct hits, cap, decay and spending",
+      "tick": 275
+    },
+    {
+      "detail": "",
+      "name": "Starting a special consumes exactly one pip",
+      "passed": true,
+      "scenario": "momentum distinct hits, cap, decay and spending",
+      "tick": 276
+    },
+    {
+      "detail": "",
+      "name": "Empowered Overtime produces two owned rings",
+      "passed": true,
+      "scenario": "momentum distinct hits, cap, decay and spending",
+      "tick": 292
+    },
+    {
+      "detail": "",
+      "name": "Unused Momentum expires through simulation ticks",
+      "passed": true,
+      "scenario": "momentum distinct hits, cap, decay and spending",
+      "tick": 572
+    },
+    {
+      "detail": "100.0",
+      "name": "A real hit near full meter clamps it to 100",
+      "passed": true,
+      "scenario": "momentum distinct hits, cap, decay and spending",
+      "tick": 592
+    },
+    {
+      "detail": "1",
+      "name": "Catch 1 awards one Encore pip",
+      "passed": true,
+      "scenario": "encore returns, ownership and empowerment",
+      "tick": 130
+    },
+    {
+      "detail": "2",
+      "name": "Catch 2 awards one Encore pip",
+      "passed": true,
+      "scenario": "encore returns, ownership and empowerment",
+      "tick": 260
+    },
+    {
+      "detail": "3",
+      "name": "Catch 3 awards one Encore pip",
+      "passed": true,
+      "scenario": "encore returns, ownership and empowerment",
+      "tick": 390
+    },
+    {
+      "detail": "",
+      "name": "Mirror Encore and damage remain independent",
+      "passed": true,
+      "scenario": "encore returns, ownership and empowerment",
+      "tick": 390
+    },
+    {
+      "detail": "",
+      "name": "Three catches empower and spend on next disc",
+      "passed": true,
+      "scenario": "encore returns, ownership and empowerment",
+      "tick": 403
+    },
+    {
+      "detail": "",
+      "name": "Empowered disc has authored larger radius",
+      "passed": true,
+      "scenario": "encore returns, ownership and empowerment",
+      "tick": 403
+    },
+    {
+      "detail": "",
+      "name": "Empowered disc catch begins the next Encore cycle",
+      "passed": true,
+      "scenario": "encore returns, ownership and empowerment",
+      "tick": 533
+    },
+    {
+      "detail": "",
+      "name": "Down special creates one reflector",
+      "passed": true,
+      "scenario": "reflector redirects and survives one attack instance",
+      "tick": 48
+    },
+    {
+      "detail": "30.0000008348261",
+      "name": "Own disc follows the modeled 30-degree reflector route",
+      "passed": true,
+      "scenario": "reflector redirects and survives one attack instance",
+      "tick": 61
+    },
+    {
+      "detail": "5.5",
+      "name": "One jab damages reflector once across its active frames",
+      "passed": true,
+      "scenario": "reflector redirects and survives one attack instance",
+      "tick": 74
+    },
+    {
+      "detail": "",
+      "name": "A second attack can destroy the weakened reflector",
+      "passed": true,
+      "scenario": "reflector redirects and survives one attack instance",
+      "tick": 124
+    },
+    {
+      "detail": "",
+      "name": "Only one disc is live per owner",
+      "passed": true,
+      "scenario": "disc ownership cap and stock cleanup",
+      "tick": 60
+    },
+    {
+      "detail": "",
+      "name": "Stock loss removes owned disc and Encore",
+      "passed": true,
+      "scenario": "disc ownership cap and stock cleanup",
+      "tick": 62
+    },
+    {
+      "detail": "damage=3.5 state=attack tick=19",
+      "name": "Armor takes damage without interrupting its first light hit",
+      "passed": true,
+      "scenario": "commitment absorbs one light strike",
+      "tick": 21
+    },
+    {
+      "detail": "",
+      "name": "Armor cannot absorb a second attack instance",
+      "passed": true,
+      "scenario": "commitment absorbs one light strike",
+      "tick": 28
+    },
+    {
+      "detail": "captured=true damage=14.0",
+      "name": "Command grab beats shield and delivers slam damage",
+      "passed": true,
+      "scenario": "command grab and grounded stomp",
+      "tick": 85
+    },
+    {
+      "detail": "0.85000002384186",
+      "name": "Authored waist-height lift-and-slam releases both capture links",
+      "passed": true,
+      "scenario": "command grab and grounded stomp",
+      "tick": 85
+    },
+    {
+      "detail": "damage=13.0 hits=1",
+      "name": "Ground stomp creates one damage event, not melee plus wave",
+      "passed": true,
+      "scenario": "command grab and grounded stomp",
+      "tick": 25
+    },
+    {
+      "detail": "",
+      "name": "Offstage elbow drop remains a genuine ring-out risk",
+      "passed": true,
+      "scenario": "command grab and grounded stomp",
+      "tick": 60
+    },
+    {
+      "detail": "",
+      "name": "Tripline cannot damage before its 30-tick arming period",
+      "passed": true,
+      "scenario": "trap warning, single trigger and Quick Fix",
+      "tick": 46
+    },
+    {
+      "detail": "",
+      "name": "Armed tripline hit grants one Quick Fix",
+      "passed": true,
+      "scenario": "trap warning, single trigger and Quick Fix",
+      "tick": 54
+    },
+    {
+      "detail": "",
+      "name": "Tripline triggers only once",
+      "passed": true,
+      "scenario": "trap warning, single trigger and Quick Fix",
+      "tick": 54
+    },
+    {
+      "detail": "",
+      "name": "Shortcut consumes earned Quick Fix",
+      "passed": true,
+      "scenario": "trap warning, single trigger and Quick Fix",
+      "tick": 55
+    },
+    {
+      "detail": "",
+      "name": "Third tripline replaces oldest at the two-tool cap",
+      "passed": true,
+      "scenario": "trap cap, lifetime, and damage-once durability",
+      "tick": 165
+    },
+    {
+      "detail": "",
+      "name": "Replacement specifically removes the oldest tripline",
+      "passed": true,
+      "scenario": "trap cap, lifetime, and damage-once durability",
+      "tick": 165
+    },
+    {
+      "detail": "",
+      "name": "Untriggered triplines expire at finite lifetime",
+      "passed": true,
+      "scenario": "trap cap, lifetime, and damage-once durability",
+      "tick": 725
+    },
+    {
+      "detail": "3.5",
+      "name": "One attack cannot repeatedly damage an arming tool",
+      "passed": true,
+      "scenario": "trap cap, lifetime, and damage-once durability",
+      "tick": 29
+    },
+    {
+      "detail": "",
+      "name": "Rolling log falls after leaving the main deck",
+      "passed": true,
+      "scenario": "log follows terrain then falls at edge",
+      "tick": 65
+    },
+    {
+      "detail": "",
+      "name": "Ground-route log cannot damage across the whole arena",
+      "passed": true,
+      "scenario": "log follows terrain then falls at edge",
+      "tick": 65
+    },
+    {
+      "detail": "{ 1: { \"count\": 1, \"remaining\": 383 } }",
+      "name": "Precise thrust citation attempt 0",
+      "passed": true,
+      "scenario": "citations precision, target scope, cap and consumption",
+      "tick": 55
+    },
+    {
+      "detail": "{ 1: { \"count\": 2, \"remaining\": 383 } }",
+      "name": "Precise thrust citation attempt 1",
+      "passed": true,
+      "scenario": "citations precision, target scope, cap and consumption",
+      "tick": 110
+    },
+    {
+      "detail": "{ 1: { \"count\": 3, \"remaining\": 383 } }",
+      "name": "Precise thrust citation attempt 2",
+      "passed": true,
+      "scenario": "citations precision, target scope, cap and consumption",
+      "tick": 165
+    },
+    {
+      "detail": "{ 1: { \"count\": 3, \"remaining\": 383 } }",
+      "name": "Precise thrust citation attempt 3",
+      "passed": true,
+      "scenario": "citations precision, target scope, cap and consumption",
+      "tick": 220
+    },
+    {
+      "detail": "",
+      "name": "Mirror opponent does not share target citations",
+      "passed": true,
+      "scenario": "citations precision, target scope, cap and consumption",
+      "tick": 220
+    },
+    {
+      "detail": "19.91",
+      "name": "Final Ruling consumes marks for a bounded bonus",
+      "passed": true,
+      "scenario": "citations precision, target scope, cap and consumption",
+      "tick": 252
+    },
+    {
+      "detail": "",
+      "name": "Inner thrust contact causes damage without a precise citation",
+      "passed": true,
+      "scenario": "citations precision, target scope, cap and consumption",
+      "tick": 35
+    },
+    {
+      "detail": "",
+      "name": "Precision fixture actually earns a mark",
+      "passed": true,
+      "scenario": "citations precision, target scope, cap and consumption",
+      "tick": 35
+    },
+    {
+      "detail": "",
+      "name": "Citations expire through live fighter ticks",
+      "passed": true,
+      "scenario": "citations precision, target scope, cap and consumption",
+      "tick": 485
+    },
+    {
+      "detail": "defender=0.0 attacker=11.0",
+      "name": "Strike inside counter window triggers real reprisal",
+      "passed": true,
+      "scenario": "f01_clutch counter timing and counterplay",
+      "tick": 10
+    },
+    {
+      "detail": "",
+      "name": "Successful counter is spent for the attack instance",
+      "passed": true,
+      "scenario": "f01_clutch counter timing and counterplay",
+      "tick": 10
+    },
+    {
+      "detail": "",
+      "name": "Counter recovery can be punished after its window",
+      "passed": true,
+      "scenario": "f01_clutch counter timing and counterplay",
+      "tick": 26
+    },
+    {
+      "detail": "",
+      "name": "Grab beats a counter stance",
+      "passed": true,
+      "scenario": "f01_clutch counter timing and counterplay",
+      "tick": 12
+    },
+    {
+      "detail": "defender=0.0 attacker=13.0",
+      "name": "Strike inside counter window triggers real reprisal",
+      "passed": true,
+      "scenario": "f05_fine_print counter timing and counterplay",
+      "tick": 10
+    },
+    {
+      "detail": "",
+      "name": "Successful counter is spent for the attack instance",
+      "passed": true,
+      "scenario": "f05_fine_print counter timing and counterplay",
+      "tick": 10
+    },
+    {
+      "detail": "",
+      "name": "Counter recovery can be punished after its window",
+      "passed": true,
+      "scenario": "f05_fine_print counter timing and counterplay",
+      "tick": 21
+    },
+    {
+      "detail": "",
+      "name": "Grab beats a counter stance",
+      "passed": true,
+      "scenario": "f05_fine_print counter timing and counterplay",
+      "tick": 12
+    },
+    {
+      "detail": "",
+      "name": "Missed ultimate spends meter and never auto-confirms",
+      "passed": true,
+      "scenario": "f01_clutch ultimate miss and telegraph",
+      "tick": 160
+    },
+    {
+      "detail": "",
+      "name": "Miss leaves no dangling capture",
+      "passed": true,
+      "scenario": "f01_clutch ultimate miss and telegraph",
+      "tick": 160
+    },
+    {
+      "detail": "",
+      "name": "Startup/warning never deals early damage",
+      "passed": true,
+      "scenario": "f01_clutch ultimate connects and cleans up",
+      "tick": 26
+    },
+    {
+      "detail": "maximum damage=31.64 hits=5",
+      "name": "Ultimate delivers authored damage through resolver",
+      "passed": true,
+      "scenario": "f01_clutch ultimate connects and cleans up",
+      "tick": 196
+    },
+    {
+      "detail": "sequence=true maximum damage=31.64",
+      "name": "Confirmed opener resolves its actual follow-up sequence",
+      "passed": true,
+      "scenario": "f01_clutch ultimate connects and cleans up",
+      "tick": 196
+    },
+    {
+      "detail": "",
+      "name": "Completed ultimate releases sequence and capture state",
+      "passed": true,
+      "scenario": "f01_clutch ultimate connects and cleans up",
+      "tick": 196
+    },
+    {
+      "detail": "",
+      "name": "Missed ultimate spends meter and never auto-confirms",
+      "passed": true,
+      "scenario": "f02_sunstruck ultimate miss and telegraph",
+      "tick": 160
+    },
+    {
+      "detail": "",
+      "name": "Miss leaves no dangling capture",
+      "passed": true,
+      "scenario": "f02_sunstruck ultimate miss and telegraph",
+      "tick": 160
+    },
+    {
+      "detail": "",
+      "name": "Startup/warning never deals early damage",
+      "passed": true,
+      "scenario": "f02_sunstruck ultimate connects and cleans up",
+      "tick": 38
+    },
+    {
+      "detail": "maximum damage=22.72 hits=3",
+      "name": "Ultimate delivers authored damage through resolver",
+      "passed": true,
+      "scenario": "f02_sunstruck ultimate connects and cleans up",
+      "tick": 208
+    },
+    {
+      "detail": "",
+      "name": "Completed ultimate releases sequence and capture state",
+      "passed": true,
+      "scenario": "f02_sunstruck ultimate connects and cleans up",
+      "tick": 208
+    },
+    {
+      "detail": "",
+      "name": "Missed ultimate spends meter and never auto-confirms",
+      "passed": true,
+      "scenario": "f03_heavy_duty ultimate miss and telegraph",
+      "tick": 160
+    },
+    {
+      "detail": "",
+      "name": "Miss leaves no dangling capture",
+      "passed": true,
+      "scenario": "f03_heavy_duty ultimate miss and telegraph",
+      "tick": 160
+    },
+    {
+      "detail": "",
+      "name": "Startup/warning never deals early damage",
+      "passed": true,
+      "scenario": "f03_heavy_duty ultimate connects and cleans up",
+      "tick": 31
+    },
+    {
+      "detail": "maximum damage=25.0 hits=1",
+      "name": "Ultimate delivers authored damage through resolver",
+      "passed": true,
+      "scenario": "f03_heavy_duty ultimate connects and cleans up",
+      "tick": 201
+    },
+    {
+      "detail": "sequence=true maximum damage=25.0",
+      "name": "Confirmed opener resolves its actual follow-up sequence",
+      "passed": true,
+      "scenario": "f03_heavy_duty ultimate connects and cleans up",
+      "tick": 201
+    },
+    {
+      "detail": "",
+      "name": "Completed ultimate releases sequence and capture state",
+      "passed": true,
+      "scenario": "f03_heavy_duty ultimate connects and cleans up",
+      "tick": 201
+    },
+    {
+      "detail": "",
+      "name": "Missed ultimate spends meter and never auto-confirms",
+      "passed": true,
+      "scenario": "f04_deadfall ultimate miss and telegraph",
+      "tick": 160
+    },
+    {
+      "detail": "",
+      "name": "Miss leaves no dangling capture",
+      "passed": true,
+      "scenario": "f04_deadfall ultimate miss and telegraph",
+      "tick": 160
+    },
+    {
+      "detail": "",
+      "name": "Startup/warning never deals early damage",
+      "passed": true,
+      "scenario": "f04_deadfall ultimate connects and cleans up",
+      "tick": 43
+    },
+    {
+      "detail": "maximum damage=31.0 hits=1",
+      "name": "Ultimate delivers authored damage through resolver",
+      "passed": true,
+      "scenario": "f04_deadfall ultimate connects and cleans up",
+      "tick": 213
+    },
+    {
+      "detail": "",
+      "name": "Completed ultimate releases sequence and capture state",
+      "passed": true,
+      "scenario": "f04_deadfall ultimate connects and cleans up",
+      "tick": 213
+    },
+    {
+      "detail": "",
+      "name": "Missed ultimate spends meter and never auto-confirms",
+      "passed": true,
+      "scenario": "f05_fine_print ultimate miss and telegraph",
+      "tick": 160
+    },
+    {
+      "detail": "",
+      "name": "Miss leaves no dangling capture",
+      "passed": true,
+      "scenario": "f05_fine_print ultimate miss and telegraph",
+      "tick": 160
+    },
+    {
+      "detail": "",
+      "name": "Startup/warning never deals early damage",
+      "passed": true,
+      "scenario": "f05_fine_print ultimate connects and cleans up",
+      "tick": 30
+    },
+    {
+      "detail": "maximum damage=29.8 hits=5",
+      "name": "Ultimate delivers authored damage through resolver",
+      "passed": true,
+      "scenario": "f05_fine_print ultimate connects and cleans up",
+      "tick": 200
+    },
+    {
+      "detail": "sequence=true maximum damage=29.8",
+      "name": "Confirmed opener resolves its actual follow-up sequence",
+      "passed": true,
+      "scenario": "f05_fine_print ultimate connects and cleans up",
+      "tick": 200
+    },
+    {
+      "detail": "",
+      "name": "Completed ultimate releases sequence and capture state",
+      "passed": true,
+      "scenario": "f05_fine_print ultimate connects and cleans up",
+      "tick": 200
+    },
+    {
+      "detail": "",
+      "name": "Fixture begins a different facing/uncharged move before projectile contact",
+      "passed": true,
+      "scenario": "projectile keeps its launch-time charge and facing",
+      "tick": 106
+    },
+    {
+      "detail": "damage=16.0 velocity_x=5.36242914199829",
+      "name": "Old charged blast retains damage and forward launch after owner turns",
+      "passed": true,
+      "scenario": "projectile keeps its launch-time charge and facing",
+      "tick": 106
+    },
+    {
+      "detail": "",
+      "name": "Opponent reflector does not alter disc ownership or trajectory",
+      "passed": true,
+      "scenario": "foreign reflector cannot redirect a mirror fighter's disc",
+      "tick": 64
+    },
+    {
+      "detail": "shield contacts=3 damage=0.0",
+      "name": "Spotlight resolves three distinct shieldable pulses",
+      "passed": true,
+      "scenario": "spotlight has exactly three telegraphed pulses",
+      "tick": 130
+    },
+    {
+      "detail": "",
+      "name": "Space beside the warned diagonal remains safe",
+      "passed": true,
+      "scenario": "falling tree uses diagonal capsule rather than filled rectangle",
+      "tick": 47
+    },
+    {
+      "detail": "",
+      "name": "Slide actually creates its authored cosmetic prop",
+      "passed": true,
+      "scenario": "cosmetic plank cannot deal independent contact damage",
+      "tick": 14
+    },
+    {
+      "detail": "",
+      "name": "Overlapping cosmetic plank behind the strike does not hit",
+      "passed": true,
+      "scenario": "cosmetic plank cannot deal independent contact damage",
+      "tick": 15
+    },
+    {
+      "detail": "",
+      "name": "Grab establishes paired capture",
+      "passed": true,
+      "scenario": "ordinary directional throw (1.0, 0.0)",
+      "tick": 9
+    },
+    {
+      "detail": "(5.140727, 2.968, 0.0)",
+      "name": "Selected throw delivers its declared launch direction",
+      "passed": true,
+      "scenario": "ordinary directional throw (1.0, 0.0)",
+      "tick": 17
+    },
+    {
+      "detail": "",
+      "name": "Throw releases both capture links",
+      "passed": true,
+      "scenario": "ordinary directional throw (1.0, 0.0)",
+      "tick": 17
+    },
+    {
+      "detail": "",
+      "name": "Grab establishes paired capture",
+      "passed": true,
+      "scenario": "ordinary directional throw (-1.0, 0.0)",
+      "tick": 9
+    },
+    {
+      "detail": "(-5.175403, 3.623856, 0.0)",
+      "name": "Selected throw delivers its declared launch direction",
+      "passed": true,
+      "scenario": "ordinary directional throw (-1.0, 0.0)",
+      "tick": 19
+    },
+    {
+      "detail": "",
+      "name": "Throw releases both capture links",
+      "passed": true,
+      "scenario": "ordinary directional throw (-1.0, 0.0)",
+      "tick": 19
+    },
+    {
+      "detail": "",
+      "name": "Grab establishes paired capture",
+      "passed": true,
+      "scenario": "ordinary directional throw (0.0, 1.0)",
+      "tick": 9
+    },
+    {
+      "detail": "(0.436127, 4.984958, 0.0)",
+      "name": "Selected throw delivers its declared launch direction",
+      "passed": true,
+      "scenario": "ordinary directional throw (0.0, 1.0)",
+      "tick": 18
+    },
+    {
+      "detail": "",
+      "name": "Throw releases both capture links",
+      "passed": true,
+      "scenario": "ordinary directional throw (0.0, 1.0)",
+      "tick": 18
+    },
+    {
+      "detail": "",
+      "name": "Grab establishes paired capture",
+      "passed": true,
+      "scenario": "ordinary directional throw (0.0, -1.0)",
+      "tick": 9
+    },
+    {
+      "detail": "(1.460591, 3.61509, 0.0)",
+      "name": "Selected throw delivers its declared launch direction",
+      "passed": true,
+      "scenario": "ordinary directional throw (0.0, -1.0)",
+      "tick": 19
+    },
+    {
+      "detail": "",
+      "name": "Throw releases both capture links",
+      "passed": true,
+      "scenario": "ordinary directional throw (0.0, -1.0)",
+      "tick": 19
+    },
+    {
+      "detail": "",
+      "name": "Cleanup fixture reaches a real command-grab sequence",
+      "passed": true,
+      "scenario": "confirmed sequence cancels when its owner loses stock",
+      "tick": 18
+    },
+    {
+      "detail": "",
+      "name": "KO cancels active capture and owned sequence",
+      "passed": true,
+      "scenario": "confirmed sequence cancels when its owner loses stock",
+      "tick": 21
+    },
+    {
+      "detail": "state=air pos=(14.57998, 6.598331, 0.0)",
+      "name": "Recovery spends once and ends in airborne helpless state",
+      "passed": true,
+      "scenario": "f01_clutch airborne resource and mirror isolation",
+      "tick": 53
+    },
+    {
+      "detail": "",
+      "name": "Second recovery input is rejected without a landing",
+      "passed": true,
+      "scenario": "f01_clutch airborne resource and mirror isolation",
+      "tick": 55
+    },
+    {
+      "detail": "",
+      "name": "Mirror fighter retains independent resources",
+      "passed": true,
+      "scenario": "f01_clutch airborne resource and mirror isolation",
+      "tick": 55
+    },
+    {
+      "detail": "",
+      "name": "Legitimate landing refreshes recovery",
+      "passed": true,
+      "scenario": "f01_clutch airborne resource and mirror isolation",
+      "tick": 56
+    },
+    {
+      "detail": "",
+      "name": "A new recovery becomes available after landing",
+      "passed": true,
+      "scenario": "f01_clutch airborne resource and mirror isolation",
+      "tick": 65
+    },
+    {
+      "detail": "",
+      "name": "Reset clears ability objects and capture state",
+      "passed": true,
+      "scenario": "f01_clutch airborne resource and mirror isolation",
+      "tick": 66
+    },
+    {
+      "detail": "state=air pos=(12.89085, 7.274311, 0.0)",
+      "name": "Recovery spends once and ends in airborne helpless state",
+      "passed": true,
+      "scenario": "f02_sunstruck airborne resource and mirror isolation",
+      "tick": 58
+    },
+    {
+      "detail": "",
+      "name": "Second recovery input is rejected without a landing",
+      "passed": true,
+      "scenario": "f02_sunstruck airborne resource and mirror isolation",
+      "tick": 60
+    },
+    {
+      "detail": "",
+      "name": "Mirror fighter retains independent resources",
+      "passed": true,
+      "scenario": "f02_sunstruck airborne resource and mirror isolation",
+      "tick": 60
+    },
+    {
+      "detail": "",
+      "name": "Legitimate landing refreshes recovery",
+      "passed": true,
+      "scenario": "f02_sunstruck airborne resource and mirror isolation",
+      "tick": 61
+    },
+    {
+      "detail": "",
+      "name": "A new recovery becomes available after landing",
+      "passed": true,
+      "scenario": "f02_sunstruck airborne resource and mirror isolation",
+      "tick": 70
+    },
+    {
+      "detail": "",
+      "name": "Reset clears ability objects and capture state",
+      "passed": true,
+      "scenario": "f02_sunstruck airborne resource and mirror isolation",
+      "tick": 71
+    },
+    {
+      "detail": "state=air pos=(13.19415, 4.303887, 0.0)",
+      "name": "Recovery spends once and ends in airborne helpless state",
+      "passed": true,
+      "scenario": "f03_heavy_duty airborne resource and mirror isolation",
+      "tick": 62
+    },
+    {
+      "detail": "",
+      "name": "Second recovery input is rejected without a landing",
+      "passed": true,
+      "scenario": "f03_heavy_duty airborne resource and mirror isolation",
+      "tick": 64
+    },
+    {
+      "detail": "",
+      "name": "Mirror fighter retains independent resources",
+      "passed": true,
+      "scenario": "f03_heavy_duty airborne resource and mirror isolation",
+      "tick": 64
+    },
+    {
+      "detail": "",
+      "name": "Legitimate landing refreshes recovery",
+      "passed": true,
+      "scenario": "f03_heavy_duty airborne resource and mirror isolation",
+      "tick": 65
+    },
+    {
+      "detail": "",
+      "name": "A new recovery becomes available after landing",
+      "passed": true,
+      "scenario": "f03_heavy_duty airborne resource and mirror isolation",
+      "tick": 74
+    },
+    {
+      "detail": "",
+      "name": "Reset clears ability objects and capture state",
+      "passed": true,
+      "scenario": "f03_heavy_duty airborne resource and mirror isolation",
+      "tick": 75
+    },
+    {
+      "detail": "state=air pos=(16.53917, 3.464724, 0.0)",
+      "name": "Recovery spends once and ends in airborne helpless state",
+      "passed": true,
+      "scenario": "f04_deadfall airborne resource and mirror isolation",
+      "tick": 59
+    },
+    {
+      "detail": "",
+      "name": "Second recovery input is rejected without a landing",
+      "passed": true,
+      "scenario": "f04_deadfall airborne resource and mirror isolation",
+      "tick": 61
+    },
+    {
+      "detail": "",
+      "name": "Mirror fighter retains independent resources",
+      "passed": true,
+      "scenario": "f04_deadfall airborne resource and mirror isolation",
+      "tick": 61
+    },
+    {
+      "detail": "",
+      "name": "Legitimate landing refreshes recovery",
+      "passed": true,
+      "scenario": "f04_deadfall airborne resource and mirror isolation",
+      "tick": 62
+    },
+    {
+      "detail": "",
+      "name": "A new recovery becomes available after landing",
+      "passed": true,
+      "scenario": "f04_deadfall airborne resource and mirror isolation",
+      "tick": 71
+    },
+    {
+      "detail": "",
+      "name": "Reset clears ability objects and capture state",
+      "passed": true,
+      "scenario": "f04_deadfall airborne resource and mirror isolation",
+      "tick": 72
+    },
+    {
+      "detail": "state=air pos=(14.01835, 7.052224, 0.0)",
+      "name": "Recovery spends once and ends in airborne helpless state",
+      "passed": true,
+      "scenario": "f05_fine_print airborne resource and mirror isolation",
+      "tick": 60
+    },
+    {
+      "detail": "",
+      "name": "Second recovery input is rejected without a landing",
+      "passed": true,
+      "scenario": "f05_fine_print airborne resource and mirror isolation",
+      "tick": 62
+    },
+    {
+      "detail": "",
+      "name": "Mirror fighter retains independent resources",
+      "passed": true,
+      "scenario": "f05_fine_print airborne resource and mirror isolation",
+      "tick": 62
+    },
+    {
+      "detail": "",
+      "name": "Legitimate landing refreshes recovery",
+      "passed": true,
+      "scenario": "f05_fine_print airborne resource and mirror isolation",
+      "tick": 63
+    },
+    {
+      "detail": "",
+      "name": "A new recovery becomes available after landing",
+      "passed": true,
+      "scenario": "f05_fine_print airborne resource and mirror isolation",
+      "tick": 72
+    },
+    {
+      "detail": "",
+      "name": "Reset clears ability objects and capture state",
+      "passed": true,
+      "scenario": "f05_fine_print airborne resource and mirror isolation",
+      "tick": 73
+    },
+    {
+      "detail": "",
+      "name": "Real special input creates its authored cosmetic effect",
+      "passed": true,
+      "scenario": "cosmetic precision_line",
+      "tick": 13
+    },
+    {
+      "detail": "",
+      "name": "Confirmed thrust enters real hitstop with its precision trace visible",
+      "passed": true,
+      "scenario": "cosmetic precision_line",
+      "tick": 13
+    },
+    {
+      "detail": "frozen_age=0 hitstop_ticks=5",
+      "name": "Attached precision trace keeps its age and visibility throughout source hitstop",
+      "passed": true,
+      "scenario": "cosmetic precision_line",
+      "tick": 17
+    },
+    {
+      "detail": "hits=1 damage=10.0 contacts=1",
+      "name": "Cosmetic overlap adds no contact or damage beyond the authored melee hit",
+      "passed": true,
+      "scenario": "cosmetic precision_line",
+      "tick": 87
+    },
+    {
+      "detail": "",
+      "name": "Cosmetic effect expires after its finite lifetime",
+      "passed": true,
+      "scenario": "cosmetic precision_line",
+      "tick": 87
+    },
+    {
+      "detail": "",
+      "name": "Interruption removes the cosmetic object and frees its visual",
+      "passed": true,
+      "scenario": "cosmetic precision_line",
+      "tick": 14
+    },
+    {
+      "detail": "",
+      "name": "Real special input creates its authored cosmetic effect",
+      "passed": true,
+      "scenario": "cosmetic ribbon",
+      "tick": 14
+    },
+    {
+      "detail": "hits=1 damage=9.0 contacts=1",
+      "name": "Cosmetic overlap adds no contact or damage beyond the authored melee hit",
+      "passed": true,
+      "scenario": "cosmetic ribbon",
+      "tick": 84
+    },
+    {
+      "detail": "",
+      "name": "Cosmetic effect expires after its finite lifetime",
+      "passed": true,
+      "scenario": "cosmetic ribbon",
+      "tick": 84
+    },
+    {
+      "detail": "",
+      "name": "Interruption removes the cosmetic object and frees its visual",
+      "passed": true,
+      "scenario": "cosmetic ribbon",
+      "tick": 15
+    },
+    {
+      "detail": "",
+      "name": "Real special input creates its authored cosmetic effect",
+      "passed": true,
+      "scenario": "cosmetic ring",
+      "tick": 23
+    },
+    {
+      "detail": "filaments=12 physical=9 visible_radius=0.57922494411469 hit_radius=1.05",
+      "name": "Clap wave combines soft filaments and lit fragments within its authored radius",
+      "passed": true,
+      "scenario": "cosmetic ring",
+      "tick": 23
+    },
+    {
+      "detail": "hits=1 damage=15.0 contacts=1",
+      "name": "Cosmetic overlap adds no contact or damage beyond the authored melee hit",
+      "passed": true,
+      "scenario": "cosmetic ring",
+      "tick": 93
+    },
+    {
+      "detail": "",
+      "name": "Cosmetic effect expires after its finite lifetime",
+      "passed": true,
+      "scenario": "cosmetic ring",
+      "tick": 93
+    },
+    {
+      "detail": "",
+      "name": "Interruption removes the cosmetic object and frees its visual",
+      "passed": true,
+      "scenario": "cosmetic ring",
+      "tick": 24
+    },
+    {
+      "detail": "",
+      "name": "Projectile fixture spawns an actual palm wave",
+      "passed": true,
+      "scenario": "independent projectile during source hitstop",
+      "tick": 16
+    },
+    {
+      "detail": "",
+      "name": "Independent projectile age and travel continue while its source is in hitstop",
+      "passed": true,
+      "scenario": "independent projectile during source hitstop",
+      "tick": 18
+    },
+    {
+      "detail": "",
+      "name": "Recovery creates exactly three temporary steps",
+      "passed": true,
+      "scenario": "three noncolliding recovery steps",
+      "tick": 9
+    },
+    {
+      "detail": "",
+      "name": "Only the first recovery step is initially visible",
+      "passed": true,
+      "scenario": "three noncolliding recovery steps",
+      "tick": 9
+    },
+    {
+      "detail": "[9, 15, 21]",
+      "name": "The three recovery steps become visible six simulation ticks apart",
+      "passed": true,
+      "scenario": "three noncolliding recovery steps",
+      "tick": 24
+    },
+    {
+      "detail": "",
+      "name": "Each step anchors at the current foot position then remains fixed while the fighter rises",
+      "passed": true,
+      "scenario": "three noncolliding recovery steps",
+      "tick": 24
+    },
+    {
+      "detail": "",
+      "name": "Recovery steps never add or alter authoritative platforms",
+      "passed": true,
+      "scenario": "three noncolliding recovery steps",
+      "tick": 24
+    },
+    {
+      "detail": "",
+      "name": "A descending fighter passes through a visible step without landing",
+      "passed": true,
+      "scenario": "three noncolliding recovery steps",
+      "tick": 25
+    },
+    {
+      "detail": "",
+      "name": "Overlapping recovery steps produce no gameplay contacts",
+      "passed": true,
+      "scenario": "three noncolliding recovery steps",
+      "tick": 25
+    },
+    {
+      "detail": "",
+      "name": "All staggered recovery steps expire",
+      "passed": true,
+      "scenario": "three noncolliding recovery steps",
+      "tick": 50
+    },
+    {
+      "detail": "",
+      "name": "Interruption clears both visible and delayed steps before they can reappear",
+      "passed": true,
+      "scenario": "three noncolliding recovery steps",
+      "tick": 29
+    },
+    {
+      "detail": "",
+      "name": "Real slide creates the plank visual",
+      "passed": true,
+      "scenario": "loaded GLB surface alignment facing 1",
+      "tick": 14
+    },
+    {
+      "detail": "bottom=-0.06700000166893 top=0.08999998867512 actor_origin=0.0",
+      "name": "Actual plank GLB top preserves authored 0.09 m foot clearance in either facing",
+      "passed": true,
+      "scenario": "loaded GLB surface alignment facing 1",
+      "tick": 14
+    },
+    {
+      "detail": "",
+      "name": "Plank visual alignment preserves the authoritative object offset",
+      "passed": true,
+      "scenario": "loaded GLB surface alignment facing 1",
+      "tick": 14
+    },
+    {
+      "detail": "",
+      "name": "Real down special creates the reflector visual",
+      "passed": true,
+      "scenario": "loaded GLB surface alignment facing 1",
+      "tick": 18
+    },
+    {
+      "detail": "bottom=0.0 top=0.5007432103157 support={ \"id\": 0, \"x\": 0.0, \"width\": 18.0, \"y\": 0.0, \"previous_y\": 0.0 }",
+      "name": "Actual reflector GLB bottom rests on its support surface in either facing",
+      "passed": true,
+      "scenario": "loaded GLB surface alignment facing 1",
+      "tick": 18
+    },
+    {
+      "detail": "",
+      "name": "Reflector visual alignment preserves its authoritative terrain height",
+      "passed": true,
+      "scenario": "loaded GLB surface alignment facing 1",
+      "tick": 18
+    },
+    {
+      "detail": "",
+      "name": "Real slide creates the plank visual",
+      "passed": true,
+      "scenario": "loaded GLB surface alignment facing -1",
+      "tick": 14
+    },
+    {
+      "detail": "bottom=-0.06700000166893 top=0.08999998867512 actor_origin=0.0",
+      "name": "Actual plank GLB top preserves authored 0.09 m foot clearance in either facing",
+      "passed": true,
+      "scenario": "loaded GLB surface alignment facing -1",
+      "tick": 14
+    },
+    {
+      "detail": "",
+      "name": "Plank visual alignment preserves the authoritative object offset",
+      "passed": true,
+      "scenario": "loaded GLB surface alignment facing -1",
+      "tick": 14
+    },
+    {
+      "detail": "",
+      "name": "Real down special creates the reflector visual",
+      "passed": true,
+      "scenario": "loaded GLB surface alignment facing -1",
+      "tick": 18
+    },
+    {
+      "detail": "bottom=0.0 top=0.5007432103157 support={ \"id\": 0, \"x\": 0.0, \"width\": 18.0, \"y\": 0.0, \"previous_y\": 0.0 }",
+      "name": "Actual reflector GLB bottom rests on its support surface in either facing",
+      "passed": true,
+      "scenario": "loaded GLB surface alignment facing -1",
+      "tick": 18
+    },
+    {
+      "detail": "",
+      "name": "Reflector visual alignment preserves its authoritative terrain height",
+      "passed": true,
+      "scenario": "loaded GLB surface alignment facing -1",
+      "tick": 18
+    },
+    {
+      "detail": "",
+      "name": "First taunt creates one delayed authored chair",
+      "passed": true,
+      "scenario": "Heavy Duty chair taunt is cosmetic and bounded",
+      "tick": 1
+    },
+    {
+      "detail": "",
+      "name": "Chair remains hidden before the unfold beat",
+      "passed": true,
+      "scenario": "Heavy Duty chair taunt is cosmetic and bounded",
+      "tick": 11
+    },
+    {
+      "detail": "",
+      "name": "Chair unfolds visibly on the delayed taunt beat",
+      "passed": true,
+      "scenario": "Heavy Duty chair taunt is cosmetic and bounded",
+      "tick": 14
+    },
+    {
+      "detail": "",
+      "name": "Unfolded chair remains cosmetic despite overlapping a target",
+      "passed": true,
+      "scenario": "Heavy Duty chair taunt is cosmetic and bounded",
+      "tick": 22
+    },
+    {
+      "detail": "",
+      "name": "Chair expires at the end of its 55-tick taunt",
+      "passed": true,
+      "scenario": "Heavy Duty chair taunt is cosmetic and bounded",
+      "tick": 58
+    },
+    {
+      "detail": "",
+      "name": "Second alternating taunt does not borrow the chair",
+      "passed": true,
+      "scenario": "Heavy Duty chair taunt is cosmetic and bounded",
+      "tick": 73
+    },
+    {
+      "detail": "",
+      "name": "Interruption fixture has a chair at tick 2",
+      "passed": true,
+      "scenario": "Chair taunt interruption clears hidden and unfolded props",
+      "tick": 2
+    },
+    {
+      "detail": "",
+      "name": "Hit interruption removes the chair at tick 2",
+      "passed": true,
+      "scenario": "Chair taunt interruption clears hidden and unfolded props",
+      "tick": 3
+    },
+    {
+      "detail": "",
+      "name": "Interruption fixture has a chair at tick 17",
+      "passed": true,
+      "scenario": "Chair taunt interruption clears hidden and unfolded props",
+      "tick": 17
+    },
+    {
+      "detail": "",
+      "name": "Hit interruption removes the chair at tick 17",
+      "passed": true,
+      "scenario": "Chair taunt interruption clears hidden and unfolded props",
+      "tick": 18
+    },
+    {
+      "detail": "",
+      "name": "f01_clutch down-air startup does not trigger manual fast-fall",
+      "passed": true,
+      "scenario": "Down-aerial startup owns descent rather than manual fast-fall",
+      "tick": 1
+    },
+    {
+      "detail": "",
+      "name": "f01_clutch descending free movement still permits manual fast-fall",
+      "passed": true,
+      "scenario": "Down-aerial startup owns descent rather than manual fast-fall",
+      "tick": 2
+    },
+    {
+      "detail": "",
+      "name": "f02_sunstruck down-air startup does not trigger manual fast-fall",
+      "passed": true,
+      "scenario": "Down-aerial startup owns descent rather than manual fast-fall",
+      "tick": 1
+    },
+    {
+      "detail": "",
+      "name": "f02_sunstruck descending free movement still permits manual fast-fall",
+      "passed": true,
+      "scenario": "Down-aerial startup owns descent rather than manual fast-fall",
+      "tick": 2
+    },
+    {
+      "detail": "",
+      "name": "f03_heavy_duty down-air startup does not trigger manual fast-fall",
+      "passed": true,
+      "scenario": "Down-aerial startup owns descent rather than manual fast-fall",
+      "tick": 1
+    },
+    {
+      "detail": "",
+      "name": "f03_heavy_duty descending free movement still permits manual fast-fall",
+      "passed": true,
+      "scenario": "Down-aerial startup owns descent rather than manual fast-fall",
+      "tick": 2
+    },
+    {
+      "detail": "",
+      "name": "f04_deadfall down-air startup does not trigger manual fast-fall",
+      "passed": true,
+      "scenario": "Down-aerial startup owns descent rather than manual fast-fall",
+      "tick": 1
+    },
+    {
+      "detail": "",
+      "name": "f04_deadfall descending free movement still permits manual fast-fall",
+      "passed": true,
+      "scenario": "Down-aerial startup owns descent rather than manual fast-fall",
+      "tick": 2
+    },
+    {
+      "detail": "",
+      "name": "f05_fine_print down-air startup does not trigger manual fast-fall",
+      "passed": true,
+      "scenario": "Down-aerial startup owns descent rather than manual fast-fall",
+      "tick": 1
+    },
+    {
+      "detail": "",
+      "name": "f05_fine_print descending free movement still permits manual fast-fall",
+      "passed": true,
+      "scenario": "Down-aerial startup owns descent rather than manual fast-fall",
+      "tick": 2
+    }
+  ],
+  "tick_hz": 60
+}

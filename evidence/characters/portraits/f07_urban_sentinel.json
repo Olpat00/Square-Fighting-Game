@@ -1,0 +1,16 @@
+{
+  "fighter_id": "f07_urban_sentinel",
+  "source_scene": "source_art\\characters\\f07_urban_sentinel\\curated.blend",
+  "editable_studio": "source_art\\characters\\f07_urban_sentinel\\portrait_studio.blend",
+  "image": "evidence\\characters\\portraits\\f07_urban_sentinel.png",
+  "resolution": [
+    768,
+    768
+  ],
+  "render_device": "OPTIX: NVIDIA GeForce RTX 4080 SUPER",
+  "curated_source_sha256": "def849e51b7d4bf2bd4fb97e445ddb75fa0d95c88fb47ff2ed66fde56c89fdf2",
+  "curated_source_unchanged": true,
+  "albedo_repainted": false,
+  "style": "Actual source-derived chest portrait; warm side key, cool rim and physical midnight backdrop",
+  "camera_ortho_size": 0.95
+}

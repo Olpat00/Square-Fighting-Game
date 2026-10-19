@@ -1,0 +1,224 @@
+{
+  "started_utc": "2026-09-28T18:25:19.3832692Z",
+  "finished_utc": "2026-09-28T18:26:24.1287059Z",
+  "godot": "D:\\Game Engines\\Godot\\Godot_v4.7.2-stable_win64_console.exe",
+  "passed": false,
+  "failed_suites": 2,
+  "completed_suites": 8,
+  "mapping_provenance_accepted": true,
+  "roster_preflight": {
+    "passed": true,
+    "mapping_provenance_accepted": true,
+    "mapping_record": "docs/confirmed_character_mapping.json",
+    "mapping_record_sha256": "D71F8BEA1C9F38091031AA1989E312A1378518B184B346488BFBAFE75DC1DD1D",
+    "mapping_confirmation_date": "2026-09-22",
+    "full_roster_required": true,
+    "canonical_models": [
+      {
+        "fighter_id": "f01_clutch",
+        "confirmed_source_folder": "Wes",
+        "path": "Game File/assets/characters/f01_clutch.glb",
+        "present": true,
+        "sha256": "821939E60ABEB825AF022803B142620155E0F699F2F743C8FAF1EDBA596D386B"
+      },
+      {
+        "fighter_id": "f02_sunstruck",
+        "confirmed_source_folder": "Will",
+        "path": "Game File/assets/characters/f02_sunstruck.glb",
+        "present": true,
+        "sha256": "6D3A29653F7BBAC2883825BCD381316FD16B929D242CFC3969C4651FFBC242CB"
+      },
+      {
+        "fighter_id": "f03_heavy_duty",
+        "confirmed_source_folder": "Damion",
+        "path": "Game File/assets/characters/f03_heavy_duty.glb",
+        "present": true,
+        "sha256": "D8E43BB5D6D5A450D9B8C079024F94F906A499A5785ADF39499473B31A79DA65"
+      },
+      {
+        "fighter_id": "f04_deadfall",
+        "confirmed_source_folder": "Jaydon",
+        "path": "Game File/assets/characters/f04_deadfall.glb",
+        "present": true,
+        "sha256": "48D73CD1DC99988FBCE0202B36316129EFBCBB6E7274203C5A9A2ED0DA638CB7"
+      },
+      {
+        "fighter_id": "f05_fine_print",
+        "confirmed_source_folder": "Josh",
+        "path": "Game File/assets/characters/f05_fine_print.glb",
+        "present": true,
+        "sha256": "8A9ADEABE1FE8710DD9FD632658DE3F5BD41BC7520AF43D1E1D09D9A24C534AD"
+      }
+    ],
+    "originals_preserved": true,
+    "original_sources": [
+      {
+        "path": "Assets/Wes/Meshy_AI_Colts_Quarter_Zip_Stu_0920200835_texture.glb",
+        "recorded_path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Assets\\Wes\\Meshy_AI_Colts_Quarter_Zip_Stu_0920200835_texture.glb",
+        "expected_sha256": "A6B5F4A2D86D268ED54FB380AF0FA836249C48F547779A9EB1C269592A9AAC0B",
+        "actual_sha256": "A6B5F4A2D86D268ED54FB380AF0FA836249C48F547779A9EB1C269592A9AAC0B",
+        "preserved": true
+      },
+      {
+        "path": "Assets/Will/Meshy_AI_Tropical_Street_Fight_0920200858_texture.glb",
+        "recorded_path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Assets\\Will\\Meshy_AI_Tropical_Street_Fight_0920200858_texture.glb",
+        "expected_sha256": "BDC32EC43AA35428B8199F4F874271EB99B39D6110B6CA66F699ADE66BBB2D78",
+        "actual_sha256": "BDC32EC43AA35428B8199F4F874271EB99B39D6110B6CA66F699ADE66BBB2D78",
+        "preserved": true
+      },
+      {
+        "path": "Assets/Damion/Meshy_AI_Roman_Warrior_0920200819_texture.glb",
+        "recorded_path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Assets\\Damion\\Meshy_AI_Roman_Warrior_0920200819_texture.glb",
+        "expected_sha256": "25D03E6FA3471CC6EA6F1B92F48720A1B65099FDA06966331B5C9B287937CA77",
+        "actual_sha256": "25D03E6FA3471CC6EA6F1B92F48720A1B65099FDA06966331B5C9B287937CA77",
+        "preserved": true
+      },
+      {
+        "path": "Assets/Jaydon/Meshy_AI_Casual_Confidence_0920200803_texture.glb",
+        "recorded_path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Assets\\Jaydon\\Meshy_AI_Casual_Confidence_0920200803_texture.glb",
+        "expected_sha256": "79E0611F7830DBABF076E7ED7903FFC04B440DC7FEFD0A858BB1CCCAEFD91F01",
+        "actual_sha256": "79E0611F7830DBABF076E7ED7903FFC04B440DC7FEFD0A858BB1CCCAEFD91F01",
+        "preserved": true
+      },
+      {
+        "path": "Assets/Josh/Meshy_AI_Casual_Confidence_0920200745_texture.glb",
+        "recorded_path": "C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Assets\\Josh\\Meshy_AI_Casual_Confidence_0920200745_texture.glb",
+        "expected_sha256": "BD0DC51B3D1DD0AE6F94CAF90FA1FFD5D2E47F071DE5270B7ABD5F7C7E377086",
+        "actual_sha256": "BD0DC51B3D1DD0AE6F94CAF90FA1FFD5D2E47F071DE5270B7ABD5F7C7E377086",
+        "preserved": true
+      }
+    ],
+    "problems": []
+  },
+  "allowed_missing_model_warnings": false,
+  "suites": [
+    {
+      "name": "headless_import",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 2.267,
+      "command": "\"D:\\Game Engines\\Godot\\Godot_v4.7.2-stable_win64_console.exe\" --headless --path \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Game File\" --editor --import --quit",
+      "script_sha256": null,
+      "log": "evidence/validation_import.log",
+      "report": null,
+      "checks": null,
+      "missing_model_warning_count": 0,
+      "unexpected_error_lines": [],
+      "unexpected_warning_lines": [],
+      "problems": []
+    },
+    {
+      "name": "input",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 0.326,
+      "command": "\"D:\\Game Engines\\Godot\\Godot_v4.7.2-stable_win64_console.exe\" --headless --path \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Game File\" --script \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Game File\\input\\validate_input.gd\"",
+      "script_sha256": "E26F0A3BC14372F00A3046BCE193DFB041DA566AB2C49EF51414119ADC4C5314",
+      "log": "evidence/input_validation.log",
+      "report": "docs/moves/input-validation.json",
+      "checks": 2440,
+      "missing_model_warning_count": 0,
+      "unexpected_error_lines": [],
+      "unexpected_warning_lines": [],
+      "problems": []
+    },
+    {
+      "name": "content",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 0.292,
+      "command": "\"D:\\Game Engines\\Godot\\Godot_v4.7.2-stable_win64_console.exe\" --headless --path \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Game File\" --script \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\docs\\moves\\validate_content.gd\"",
+      "script_sha256": "5CBD910B3A21EE851150B2A5F644593A2A48DEF2457F6535573467E33AAEFD22",
+      "log": "evidence/content_validation.log",
+      "report": "docs/moves/content-validation.json",
+      "checks": 1114,
+      "missing_model_warning_count": 0,
+      "unexpected_error_lines": [],
+      "unexpected_warning_lines": [],
+      "problems": []
+    },
+    {
+      "name": "core",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 1.312,
+      "command": "\"D:\\Game Engines\\Godot\\Godot_v4.7.2-stable_win64_console.exe\" --headless --path \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Game File\" --script \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\tools\\validation\\combat_scenarios.gd\"",
+      "script_sha256": "8D45EF58B5779EFCBBBA0099C644CFDC2D04859EC03CE523392C6A4DC0DEEA4A",
+      "log": "evidence/combat_scenarios.log",
+      "report": "evidence/combat_scenarios.json",
+      "checks": 95,
+      "missing_model_warning_count": 0,
+      "unexpected_error_lines": [],
+      "unexpected_warning_lines": [],
+      "problems": []
+    },
+    {
+      "name": "abilities",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 23.979,
+      "command": "\"D:\\Game Engines\\Godot\\Godot_v4.7.2-stable_win64_console.exe\" --headless --path \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Game File\" --script \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\tools\\validation\\ability_scenarios.gd\"",
+      "script_sha256": "4DF5BF237879606BF3C31647077B70497AF58A3DE146BB4309E176A69280D338",
+      "log": "evidence/ability_scenarios.log",
+      "report": "evidence/ability_scenarios.json",
+      "checks": 193,
+      "missing_model_warning_count": 0,
+      "unexpected_error_lines": [],
+      "unexpected_warning_lines": [],
+      "problems": []
+    },
+    {
+      "name": "presentation_state",
+      "passed": false,
+      "exit_code": -1073741819,
+      "duration_seconds": 5.372,
+      "command": "\"D:\\Game Engines\\Godot\\Godot_v4.7.2-stable_win64_console.exe\" --headless --path \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Game File\" --script \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\tools\\validation\\presentation_state.gd\"",
+      "script_sha256": "DF00DB423C39F5672557D9644BA2957EA2CBD6A42730A80BFB3EB7FFC363F331",
+      "log": "evidence/presentation_state.log",
+      "report": "evidence/presentation_state.json",
+      "checks": 88,
+      "missing_model_warning_count": 0,
+      "unexpected_error_lines": [],
+      "unexpected_warning_lines": [],
+      "problems": [
+        "Godot exited with code -1073741819."
+      ]
+    },
+    {
+      "name": "settings",
+      "passed": true,
+      "exit_code": 0,
+      "duration_seconds": 0.203,
+      "command": "\"D:\\Game Engines\\Godot\\Godot_v4.7.2-stable_win64_console.exe\" --headless --path \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Game File\" --script \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\tools\\validation\\settings_scenarios.gd\"",
+      "script_sha256": "D5F61886B4CE44DF1CB29C6455A997E5AA3E70D8349A757A797A324551523E7A",
+      "log": "evidence/settings_scenarios.log",
+      "report": "evidence/settings_scenarios.json",
+      "checks": null,
+      "missing_model_warning_count": 0,
+      "unexpected_error_lines": [],
+      "unexpected_warning_lines": [],
+      "problems": []
+    },
+    {
+      "name": "pairing_soak",
+      "passed": false,
+      "exit_code": -1073741819,
+      "duration_seconds": 30.527,
+      "command": "\"D:\\Game Engines\\Godot\\Godot_v4.7.2-stable_win64_console.exe\" --headless --path \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\Game File\" --script \"C:\\Users\\dayw9\\Desktop\\Codex\\Games\\Godot\\Fighting Game\\tools\\validation\\pairing_soak.gd\"",
+      "script_sha256": "8F272AC71A588F596DF4230DDED75B5A122ADBC6DB6F0918D04AC6921922BEA1",
+      "log": "evidence/pairing_soak.log",
+      "report": "evidence/pairing_soak.json",
+      "checks": null,
+      "missing_model_warning_count": 0,
+      "unexpected_error_lines": [],
+      "unexpected_warning_lines": [],
+      "problems": [
+        "Godot exited with code -1073741819."
+      ]
+    }
+  ],
+  "known_limitations": [
+    "User-confirmed identity mappings are recorded; source model/texture licensing and commercial permissions are not established by this validation.",
+    "Headless logic/content checks do not establish graphical quality, animation alignment, audio quality, hardware controller operation, or rendered performance."
+  ]
+}

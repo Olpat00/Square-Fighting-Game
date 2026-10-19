@@ -1,0 +1,305 @@
+{
+  "checks": 14,
+  "failures": 0,
+  "graphical": true,
+  "limitation": "Accelerated full-match lifecycle coverage; not a real-time performance measurement or human playtest.",
+  "matches": [
+    {
+      "arena": "rooftop_riot",
+      "contacts": 270,
+      "kos": 11,
+      "preset": "Party",
+      "result": {
+        "ko_log": [
+          {
+            "assists": [
+              1,
+              3,
+              0
+            ],
+            "credited": 1,
+            "tick": 3132,
+            "victim": 2
+          },
+          {
+            "assists": [
+              3,
+              0,
+              2
+            ],
+            "credited": 0,
+            "tick": 3474,
+            "victim": 1
+          },
+          {
+            "assists": [
+              1,
+              0,
+              2
+            ],
+            "credited": 0,
+            "tick": 3795,
+            "victim": 3
+          },
+          {
+            "assists": [
+              0,
+              3,
+              1
+            ],
+            "credited": 0,
+            "tick": 4733,
+            "victim": 2
+          },
+          {
+            "assists": [
+              1,
+              3,
+              0
+            ],
+            "credited": 3,
+            "tick": 6072,
+            "victim": 2
+          },
+          {
+            "assists": [
+              2,
+              3,
+              0
+            ],
+            "credited": 3,
+            "tick": 6099,
+            "victim": 1
+          },
+          {
+            "assists": [
+              3,
+              1,
+              2
+            ],
+            "credited": 1,
+            "tick": 6581,
+            "victim": 0
+          },
+          {
+            "assists": [
+              1,
+              3
+            ],
+            "credited": 1,
+            "tick": 8306,
+            "victim": 0
+          },
+          {
+            "assists": [
+              1,
+              0,
+              2
+            ],
+            "credited": 1,
+            "tick": 8551,
+            "victim": 3
+          },
+          {
+            "assists": [
+              3,
+              0
+            ],
+            "credited": 0,
+            "tick": 10616,
+            "victim": 1
+          },
+          {
+            "assists": [
+              1,
+              3
+            ],
+            "credited": 3,
+            "tick": 16003,
+            "victim": 0
+          }
+        ],
+        "reason": "LAST ONE STANDING",
+        "ticks": 16003,
+        "winner": 3
+      },
+      "ticks": 16003
+    },
+    {
+      "arena": "lunar_reach",
+      "contacts": 306,
+      "kos": 11,
+      "preset": "Fair Fight",
+      "result": {
+        "ko_log": [
+          {
+            "assists": [
+              3
+            ],
+            "credited": 3,
+            "tick": 470,
+            "victim": 1
+          },
+          {
+            "assists": [
+              1,
+              0,
+              2
+            ],
+            "credited": 2,
+            "tick": 1915,
+            "victim": 3
+          },
+          {
+            "assists": [
+              2,
+              1,
+              3
+            ],
+            "credited": 2,
+            "tick": 4175,
+            "victim": 0
+          },
+          {
+            "assists": [
+              2,
+              3,
+              0
+            ],
+            "credited": 3,
+            "tick": 4319,
+            "victim": 1
+          },
+          {
+            "assists": [
+              3,
+              2,
+              0
+            ],
+            "credited": 0,
+            "tick": 7637,
+            "victim": 1
+          },
+          {
+            "assists": [
+              0,
+              3,
+              1
+            ],
+            "credited": 3,
+            "tick": 7641,
+            "victim": 2
+          },
+          {
+            "assists": [
+              2,
+              0,
+              1
+            ],
+            "credited": 0,
+            "tick": 8344,
+            "victim": 3
+          },
+          {
+            "assists": [
+              2,
+              0
+            ],
+            "credited": 0,
+            "tick": 10182,
+            "victim": 3
+          },
+          {
+            "assists": [
+              3,
+              1,
+              2
+            ],
+            "credited": 2,
+            "tick": 10622,
+            "victim": 0
+          },
+          {
+            "assists": [
+              0,
+              3
+            ],
+            "credited": 0,
+            "tick": 10953,
+            "victim": 2
+          },
+          {
+            "assists": [
+              0
+            ],
+            "credited": 0,
+            "tick": 14753,
+            "victim": 2
+          }
+        ],
+        "reason": "LAST ONE STANDING",
+        "ticks": 14753,
+        "winner": 0
+      },
+      "ticks": 14753
+    }
+  ],
+  "results": [
+    {
+      "name": "rooftop_riot starts four selected fighters through main",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot completes the full ready countdown before combat",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot finishes through stock or clock rules without forced result",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot full match contains real contacts and ring-outs",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot finish signal displays results and hides match HUD",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot rematch preserves selections and rules with clean resources",
+      "passed": true
+    },
+    {
+      "name": "rooftop_riot leaving rematch clears combat ownership",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach starts four selected fighters through main",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach completes the full ready countdown before combat",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach finishes through stock or clock rules without forced result",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach full match contains real contacts and ring-outs",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach finish signal displays results and hides match HUD",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach rematch preserves selections and rules with clean resources",
+      "passed": true
+    },
+    {
+      "name": "lunar_reach leaving rematch clears combat ownership",
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,7086 @@
+{
+  "clocks": {
+    "CanopyShaft/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "CanopyShaft2/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "DistantArenaArtwork/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/shrine_backdrop.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@273/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@274/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@275/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@276/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@277/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@278/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@279/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@280/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@281/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@282/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@283/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@284/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@285/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@286/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@287/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@288/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@289/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@290/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@291/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@292/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@293/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@294/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@295/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@296/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@297/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@298/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@299/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@300/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@301/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@302/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "RiverMist/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "RiverMist2/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "RiverMist3/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "ShrineMarginFoliage0/material/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "ShrineMarginFoliage1/material/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "ShrineMarginFoliage2/material/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "ShrineMarginFoliage3/material/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "SpiritGeyser/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "SpiritGeyser2/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "SpiritWellWarning/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "SpiritWellWarning2/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "ValleySwallow0/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "ValleySwallow1/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "ValleySwallow2/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "ValleySwallow3/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "ValleySwallow4/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "ValleySwallow5/surface0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 0.0,
+      "visible": true
+    },
+    "owned/animated_materials/0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/1/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/10/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/11/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/12/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/13/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/14/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/15/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/16/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/17/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/18/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/19/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/2/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/3/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/4/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/shrine_backdrop.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/5/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/6/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/7/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/8/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/animated_materials/9/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/shrine_backdrop.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/10/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/11/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/12/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/14/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/15/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/16/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/17/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/18/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/19/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/20/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/21/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/22/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/quality_materials/9/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/shrine_materials/leaf0/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/shrine_materials/leaf1/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/shrine_materials/leaf2/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": false
+    },
+    "owned/shrine_materials/leaf3/scene_time": {
+      "name": "scene_time",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "value": 0.0,
+      "visible": false
+    }
+  },
+  "collision_probes": [
+    {
+      "landed": true,
+      "name": "fall_0",
+      "platform": 0,
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "support_0",
+      "platform": 0,
+      "position": [
+        0.100000001490116,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "ignore_0",
+      "platform": -1,
+      "position": [
+        0.0,
+        -0.349999994039536,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "fall_1",
+      "platform": 1,
+      "position": [
+        -5.80000019073486,
+        3.25,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "support_1",
+      "platform": 1,
+      "position": [
+        -5.70000028610229,
+        3.25,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "ignore_1",
+      "platform": -1,
+      "position": [
+        -5.80000019073486,
+        2.90000009536743,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "fall_2",
+      "platform": 2,
+      "position": [
+        5.80000019073486,
+        3.25,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "support_2",
+      "platform": 2,
+      "position": [
+        5.90000009536743,
+        3.25,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "ignore_2",
+      "platform": -1,
+      "position": [
+        5.80000019073486,
+        2.90000009536743,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "fall_3",
+      "platform": 3,
+      "position": [
+        0.0,
+        6.19999980926514,
+        0.0
+      ]
+    },
+    {
+      "landed": true,
+      "name": "support_3",
+      "platform": 3,
+      "position": [
+        0.100000001490116,
+        6.19999980926514,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "ignore_3",
+      "platform": -1,
+      "position": [
+        0.0,
+        5.84999990463257,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "swept_side_-1",
+      "platform": -1,
+      "position": [
+        -10.25,
+        -0.400000005960464,
+        0.0
+      ]
+    },
+    {
+      "landed": false,
+      "name": "swept_side_1",
+      "platform": -1,
+      "position": [
+        10.25,
+        -0.400000005960464,
+        0.0
+      ]
+    }
+  ],
+  "engine_time_shaders": [],
+  "environment": {
+    "fog": true,
+    "fog_density": 0.000349999987520278,
+    "glow": true,
+    "ssao": true,
+    "ssil": true,
+    "ssr": false
+  },
+  "materials": {
+    "@MeshInstance3D@337/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/ancient_bark.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "@MeshInstance3D@338/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/ancient_bark.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "@MeshInstance3D@339/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/ancient_bark.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "@MeshInstance3D@340/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/ancient_bark.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "@MeshInstance3D@341/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/ancient_bark.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "@MeshInstance3D@353/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@MeshInstance3D@354/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@MeshInstance3D@357/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@MeshInstance3D@358/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@Node3D@313/Masonry_course_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "@Node3D@313/Masonry_course_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "@Node3D@313/Masonry_dais/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "@Node3D@313/Masonry_edge/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "@Node3D@313/Masonry_mortar/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "@Node3D@313/Masonry_paving_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "@Node3D@313/Masonry_paving_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "@Node3D@313/Masonry_paving_3/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "@Node3D@313/Masonry_rune/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.3882, 0.5608, 0.4745, 1.0)",
+      "emission_energy": 0.0350000001490116,
+      "visible": true
+    },
+    "@Node3D@313/Masonry_temple/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "CanopyShaft/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "CanopyShaft2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "DistantArenaArtwork/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_backdrop.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/HeartstonePendant/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/HeartstonePendant2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/HeartstonePendant3/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_course_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_course_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_dais/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_edge/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_mortar/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_paving_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_paving_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_paving_3/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_rune/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.3882, 0.5608, 0.4745, 1.0)",
+      "emission_energy": 0.0350000001490116,
+      "visible": true
+    },
+    "LevitatingHeartstone/Masonry_temple/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@273/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@274/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@275/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@276/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@277/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@278/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@279/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@280/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@281/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@282/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@283/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@284/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@285/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@286/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@287/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@288/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@289/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@290/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@291/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@292/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@293/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@294/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@295/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@296/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@297/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@298/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@299/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@300/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@301/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@302/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_course_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_course_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_dais/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_edge/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_mortar/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_paving_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_paving_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_paving_3/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_rune/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.3882, 0.5608, 0.4745, 1.0)",
+      "emission_energy": 0.0350000001490116,
+      "visible": true
+    },
+    "MossStoneFightingDais/Masonry_temple/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "RiverMist/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "RiverMist2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "RiverMist3/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_course_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_course_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_dais/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_edge/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_mortar/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": true
+    },
+    "RootTerrace/Masonry_paving_1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_paving_2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_paving_3/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "RootTerrace/Masonry_rune/surface0": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.3882, 0.5608, 0.4745, 1.0)",
+      "emission_energy": 0.0350000001490116,
+      "visible": true
+    },
+    "RootTerrace/Masonry_temple/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": true
+    },
+    "ShrineMarginFoliage0/material": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "ShrineMarginFoliage1/material": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "ShrineMarginFoliage2/material": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "ShrineMarginFoliage3/material": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "SpiritGeyser/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "SpiritGeyser2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "SpiritWellWarning/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "SpiritWellWarning2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "ValleySwallow0/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "ValleySwallow1/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "ValleySwallow2/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "ValleySwallow3/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "ValleySwallow4/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "ValleySwallow5/surface0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 0.0
+      },
+      "visible": true
+    },
+    "WaterDetailPollen/material": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.7725, 0.8353, 0.5804, 1.0)",
+      "emission_energy": 0.449999988079071,
+      "visible": true
+    },
+    "owned/animated_materials/0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/1": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/10": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/11": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/12": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/13": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/14": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/15": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/valley_bird.gdshader",
+      "uniforms": {
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/16": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/17": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/18": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/19": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/2": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/3": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/4": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_backdrop.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/5": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/6": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/7": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/8": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/animated_materials/9": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_backdrop.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/1": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/quality_materials/10": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/11": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/12": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/13": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/ancient_bark.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/quality_materials/14": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/15": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/16": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/17": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/18": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/atmosphere.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/19": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/2": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/quality_materials/20": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/21": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/22": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/spirit_geyser.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/quality_materials/3": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/quality_materials/4": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/quality_materials/5": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/quality_materials/6": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/quality_materials/7": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/quality_materials/8": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/quality_materials/9": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/bark": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/ancient_bark.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/bronze": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/shrine_materials/cliff": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/course_1": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/course_2": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/dais": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/edge": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/far": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/leaf0": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/leaf1": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/leaf2": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/leaf3": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/jungle_leaf.gdshader",
+      "uniforms": {
+        "low_quality": false,
+        "scene_time": 0.0
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/mortar": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/shrine_materials/paving_1": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/paving_2": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/paving_3": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    },
+    "owned/shrine_materials/pollen": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.7725, 0.8353, 0.5804, 1.0)",
+      "emission_energy": 0.449999988079071,
+      "visible": false
+    },
+    "owned/shrine_materials/recess": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.0, 0.0, 0.0, 1.0)",
+      "emission_energy": 1.0,
+      "visible": false
+    },
+    "owned/shrine_materials/rune": {
+      "class": "StandardMaterial3D",
+      "emission": "(0.3882, 0.5608, 0.4745, 1.0)",
+      "emission_energy": 0.0350000001490116,
+      "visible": false
+    },
+    "owned/shrine_materials/temple": {
+      "class": "ShaderMaterial",
+      "shader": "res://stages/verdant_shrine/shrine_stone.gdshader",
+      "uniforms": {
+        "low_quality": false
+      },
+      "visible": false
+    }
+  },
+  "nodes": {
+    ".": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@337": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@338": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@339": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@340": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@341": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@353": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -8.0,
+        0.0120000001043081,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@354": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -8.0,
+        0.0120000001043081,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@357": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        8.0,
+        0.0120000001043081,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@MeshInstance3D@358": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        8.0,
+        0.0120000001043081,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@313": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        5.80000019073486,
+        3.25,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@313/Masonry_course_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@313/Masonry_course_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@313/Masonry_dais": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@313/Masonry_edge": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@313/Masonry_mortar": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@313/Masonry_paving_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@313/Masonry_paving_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@313/Masonry_paving_3": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@313/Masonry_rune": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@Node3D@313/Masonry_temple": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "@OmniLight3D@262": {
+      "light": {
+        "color": "(0.3843, 0.7137, 0.6118, 1.0)",
+        "energy": 0.75,
+        "shadow": false
+      },
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        8.0,
+        -1.0,
+        -5.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CanopyShaft": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.935896813869476,
+        -0.352274239063263,
+        0.0,
+        0.352274239063263,
+        0.935896813869476,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -11.5,
+        0.0,
+        -8.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CanopyShaft2": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.935896813869476,
+        -0.352274239063263,
+        0.0,
+        0.352274239063263,
+        0.935896813869476,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        12.0,
+        1.0,
+        -10.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "CanopySun": {
+      "light": {
+        "color": "(1.0, 0.9137, 0.7647, 1.0)",
+        "energy": 1.95000004768372,
+        "shadow": true
+      },
+      "transform": [
+        0.848048090934753,
+        0.0,
+        0.529919266700745,
+        0.354585200548172,
+        0.743144810199738,
+        -0.567454934120178,
+        -0.393806755542755,
+        0.669130623340607,
+        0.63022255897522,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "DistantArenaArtwork": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.956304788589478,
+        -0.292371690273285,
+        0.0,
+        0.292371690273285,
+        0.956304788589478,
+        0.0,
+        -165.915390014648,
+        -551.345947265625
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "FighterCanopyRim": {
+      "light": {
+        "color": "(0.7333, 0.851, 0.7804, 1.0)",
+        "energy": 0.479999989271164,
+        "shadow": false
+      },
+      "transform": [
+        -0.819152057170868,
+        0.0,
+        -0.5735764503479,
+        -0.28678822517395,
+        0.866025388240814,
+        0.409576028585434,
+        0.496731758117676,
+        0.5,
+        -0.709406495094299,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "FighterLagoonBounce": {
+      "light": {
+        "color": "(0.8863, 0.9098, 0.9294, 1.0)",
+        "energy": 1.20000004768372,
+        "shadow": false
+      },
+      "transform": [
+        0.939692616462708,
+        0.0,
+        -0.342020124197006,
+        -0.139112114906311,
+        0.913545429706573,
+        -0.382207423448563,
+        0.312450915575027,
+        0.406736642122269,
+        0.858451902866364,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        6.19999980926514,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/HeartstonePendant": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.340000003576279,
+        0.0,
+        0.0,
+        0.0,
+        0.300000011920929,
+        -1.10000002384186,
+        -0.529999971389771,
+        -0.100000001490116
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/HeartstonePendant2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.340000003576279,
+        0.0,
+        0.0,
+        0.0,
+        0.300000011920929,
+        0.0,
+        -0.529999971389771,
+        -0.100000001490116
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/HeartstonePendant3": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        0.25,
+        0.0,
+        0.0,
+        0.0,
+        0.340000003576279,
+        0.0,
+        0.0,
+        0.0,
+        0.300000011920929,
+        1.10000002384186,
+        -0.529999971389771,
+        -0.100000001490116
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_course_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_course_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_dais": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_edge": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_mortar": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_paving_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_paving_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_paving_3": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_rune": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "LevitatingHeartstone/Masonry_temple": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@273": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0624118410050869,
+        -0.00853424053639174,
+        -0.000963836559094489,
+        0.00527918664738536,
+        0.0277742631733418,
+        0.0959203913807869,
+        -0.0125688528642058,
+        -0.0951056554913521,
+        0.0282301045954227,
+        -8.73999977111816,
+        -0.140000000596046,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@274": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0848423615098,
+        -0.00591213954612613,
+        -0.000568397343158722,
+        0.00369461299851537,
+        0.0406480804085732,
+        0.128682121634483,
+        -0.00867351330816746,
+        -0.12839263677597,
+        0.040805671364069,
+        -8.61999988555908,
+        -0.165999993681908,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@275": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.107100002467632,
+        0.0,
+        0.0,
+        0.0,
+        0.0525328852236271,
+        0.161679610610008,
+        0.0,
+        -0.161679610610008,
+        0.0525328852236271,
+        -8.5,
+        -0.19200000166893,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@276": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0628461912274361,
+        0.00437936279922724,
+        0.000421035074396059,
+        -0.00273675029166043,
+        0.0301096886396408,
+        0.0953200832009315,
+        0.00642482424154878,
+        -0.0951056554913521,
+        0.0302264224737883,
+        -8.38000011444092,
+        -0.217999994754791,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@277": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0842559859156609,
+        0.0115212248638272,
+        0.00130117929074913,
+        -0.00712690176442266,
+        0.0374952554702759,
+        0.129492536187172,
+        0.0169679503887892,
+        -0.12839263677597,
+        0.0381106398999691,
+        -8.26000022888184,
+        -0.244000002741814,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@278": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0624118410050869,
+        -0.00853424053639174,
+        -0.000963836559094489,
+        0.00527918664738536,
+        0.0277742631733418,
+        0.0959203913807869,
+        -0.0125688528642058,
+        -0.0951056554913521,
+        0.0282301045954227,
+        -6.1399998664856,
+        -0.140000000596046,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@279": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0848423615098,
+        -0.00591213954612613,
+        -0.000568397343158722,
+        0.00369461299851537,
+        0.0406480804085732,
+        0.128682121634483,
+        -0.00867351330816746,
+        -0.12839263677597,
+        0.040805671364069,
+        -6.01999998092651,
+        -0.165999993681908,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@280": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.107100002467632,
+        0.0,
+        0.0,
+        0.0,
+        0.0525328852236271,
+        0.161679610610008,
+        0.0,
+        -0.161679610610008,
+        0.0525328852236271,
+        -5.90000009536743,
+        -0.19200000166893,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@281": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0628461912274361,
+        0.00437936279922724,
+        0.000421035074396059,
+        -0.00273675029166043,
+        0.0301096886396408,
+        0.0953200832009315,
+        0.00642482424154878,
+        -0.0951056554913521,
+        0.0302264224737883,
+        -5.78000020980835,
+        -0.217999994754791,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@282": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0842559859156609,
+        0.0115212248638272,
+        0.00130117929074913,
+        -0.00712690176442266,
+        0.0374952554702759,
+        0.129492536187172,
+        0.0169679503887892,
+        -0.12839263677597,
+        0.0381106398999691,
+        -5.65999984741211,
+        -0.244000002741814,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@283": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0624118410050869,
+        -0.00853424053639174,
+        -0.000963836559094489,
+        0.00527918664738536,
+        0.0277742631733418,
+        0.0959203913807869,
+        -0.0125688528642058,
+        -0.0951056554913521,
+        0.0282301045954227,
+        -2.14000010490417,
+        -0.140000000596046,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@284": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0848423615098,
+        -0.00591213954612613,
+        -0.000568397343158722,
+        0.00369461299851537,
+        0.0406480804085732,
+        0.128682121634483,
+        -0.00867351330816746,
+        -0.12839263677597,
+        0.040805671364069,
+        -2.01999998092651,
+        -0.165999993681908,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@285": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.107100002467632,
+        0.0,
+        0.0,
+        0.0,
+        0.0525328852236271,
+        0.161679610610008,
+        0.0,
+        -0.161679610610008,
+        0.0525328852236271,
+        -1.89999997615814,
+        -0.19200000166893,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@286": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0628461912274361,
+        0.00437936279922724,
+        0.000421035074396059,
+        -0.00273675029166043,
+        0.0301096886396408,
+        0.0953200832009315,
+        0.00642482424154878,
+        -0.0951056554913521,
+        0.0302264224737883,
+        -1.77999997138977,
+        -0.217999994754791,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@287": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0842559859156609,
+        0.0115212248638272,
+        0.00130117929074913,
+        -0.00712690176442266,
+        0.0374952554702759,
+        0.129492536187172,
+        0.0169679503887892,
+        -0.12839263677597,
+        0.0381106398999691,
+        -1.6599999666214,
+        -0.244000002741814,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@288": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0624118410050869,
+        -0.00853424053639174,
+        -0.000963836559094489,
+        0.00527918664738536,
+        0.0277742631733418,
+        0.0959203913807869,
+        -0.0125688528642058,
+        -0.0951056554913521,
+        0.0282301045954227,
+        2.85999989509583,
+        -0.140000000596046,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@289": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0848423615098,
+        -0.00591213954612613,
+        -0.000568397343158722,
+        0.00369461299851537,
+        0.0406480804085732,
+        0.128682121634483,
+        -0.00867351330816746,
+        -0.12839263677597,
+        0.040805671364069,
+        2.98000001907349,
+        -0.165999993681908,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@290": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.107100002467632,
+        0.0,
+        0.0,
+        0.0,
+        0.0525328852236271,
+        0.161679610610008,
+        0.0,
+        -0.161679610610008,
+        0.0525328852236271,
+        3.09999990463257,
+        -0.19200000166893,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@291": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0628461912274361,
+        0.00437936279922724,
+        0.000421035074396059,
+        -0.00273675029166043,
+        0.0301096886396408,
+        0.0953200832009315,
+        0.00642482424154878,
+        -0.0951056554913521,
+        0.0302264224737883,
+        3.22000002861023,
+        -0.217999994754791,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@292": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0842559859156609,
+        0.0115212248638272,
+        0.00130117929074913,
+        -0.00712690176442266,
+        0.0374952554702759,
+        0.129492536187172,
+        0.0169679503887892,
+        -0.12839263677597,
+        0.0381106398999691,
+        3.33999991416931,
+        -0.244000002741814,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@293": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0624118410050869,
+        -0.00853424053639174,
+        -0.000963836559094489,
+        0.00527918664738536,
+        0.0277742631733418,
+        0.0959203913807869,
+        -0.0125688528642058,
+        -0.0951056554913521,
+        0.0282301045954227,
+        6.3600001335144,
+        -0.140000000596046,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@294": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0848423615098,
+        -0.00591213954612613,
+        -0.000568397343158722,
+        0.00369461299851537,
+        0.0406480804085732,
+        0.128682121634483,
+        -0.00867351330816746,
+        -0.12839263677597,
+        0.040805671364069,
+        6.48000001907349,
+        -0.165999993681908,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@295": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.107100002467632,
+        0.0,
+        0.0,
+        0.0,
+        0.0525328852236271,
+        0.161679610610008,
+        0.0,
+        -0.161679610610008,
+        0.0525328852236271,
+        6.59999990463257,
+        -0.19200000166893,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@296": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0628461912274361,
+        0.00437936279922724,
+        0.000421035074396059,
+        -0.00273675029166043,
+        0.0301096886396408,
+        0.0953200832009315,
+        0.00642482424154878,
+        -0.0951056554913521,
+        0.0302264224737883,
+        6.71999979019165,
+        -0.217999994754791,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@297": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0842559859156609,
+        0.0115212248638272,
+        0.00130117929074913,
+        -0.00712690176442266,
+        0.0374952554702759,
+        0.129492536187172,
+        0.0169679503887892,
+        -0.12839263677597,
+        0.0381106398999691,
+        6.84000015258789,
+        -0.244000002741814,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@298": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0624118410050869,
+        -0.00853424053639174,
+        -0.000963836559094489,
+        0.00527918664738536,
+        0.0277742631733418,
+        0.0959203913807869,
+        -0.0125688528642058,
+        -0.0951056554913521,
+        0.0282301045954227,
+        8.65999984741211,
+        -0.140000000596046,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@299": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0848423615098,
+        -0.00591213954612613,
+        -0.000568397343158722,
+        0.00369461299851537,
+        0.0406480804085732,
+        0.128682121634483,
+        -0.00867351330816746,
+        -0.12839263677597,
+        0.040805671364069,
+        8.77999973297119,
+        -0.165999993681908,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@300": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.107100002467632,
+        0.0,
+        0.0,
+        0.0,
+        0.0525328852236271,
+        0.161679610610008,
+        0.0,
+        -0.161679610610008,
+        0.0525328852236271,
+        8.89999961853027,
+        -0.19200000166893,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@301": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0628461912274361,
+        0.00437936279922724,
+        0.000421035074396059,
+        -0.00273675029166043,
+        0.0301096886396408,
+        0.0953200832009315,
+        0.00642482424154878,
+        -0.0951056554913521,
+        0.0302264224737883,
+        9.02000045776367,
+        -0.217999994754791,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/@MeshInstance3D@302": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.0842559859156609,
+        0.0115212248638272,
+        0.00130117929074913,
+        -0.00712690176442266,
+        0.0374952554702759,
+        0.129492536187172,
+        0.0169679503887892,
+        -0.12839263677597,
+        0.0381106398999691,
+        9.14000034332275,
+        -0.244000002741814,
+        1.46000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_course_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_course_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_dais": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_edge": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_mortar": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_paving_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_paving_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_paving_3": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_rune": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "MossStoneFightingDais/Masonry_temple": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RiverMist": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -3.40000009536743,
+        -6.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RiverMist2": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -8.5,
+        -0.699999988079071,
+        -14.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RiverMist3": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        8.30000019073486,
+        -0.200000002980232,
+        -17.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace": {
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -5.80000019073486,
+        3.25,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_course_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_course_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_dais": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_edge": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_mortar": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_paving_1": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_paving_2": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_paving_3": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_rune": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "RootTerrace/Masonry_temple": {
+      "shadow": 1,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "ShrineMarginFoliage0": {
+      "instance_transforms": [
+        [
+          0.35222789645195,
+          -0.255514562129974,
+          0.0681027546525002,
+          0.105173207819462,
+          0.699985265731812,
+          0.265350788831711,
+          -0.0710596442222595,
+          -0.230505764484406,
+          0.730308830738068,
+          -11.8999996185303,
+          4.15000009536743,
+          -7.0
+        ],
+        [
+          0.0876995548605919,
+          -0.260913550853729,
+          -1.09459674358368,
+          0.426147878170013,
+          0.714775860309601,
+          -0.0221868380904198,
+          0.331865340471268,
+          -0.848893105983734,
+          0.317750841379166,
+          -12.1800003051758,
+          4.05000019073486,
+          -7.0
+        ],
+        [
+          0.372267872095108,
+          -0.276304334402084,
+          -0.602134227752686,
+          0.271999806165695,
+          0.756939053535461,
+          0.382534384727478,
+          0.164744958281517,
+          -0.625379204750061,
+          0.729041695594788,
+          -12.460000038147,
+          3.95000004768372,
+          -7.0
+        ],
+        [
+          0.409755170345306,
+          -0.273733735084534,
+          0.0796259865164757,
+          0.0949777513742447,
+          0.749896883964539,
+          0.456620097160339,
+          -0.0985085964202881,
+          -0.415601253509521,
+          0.771464645862579,
+          -12.7399997711182,
+          3.84999990463257,
+          -7.0
+        ],
+        [
+          0.232787072658539,
+          -0.255514562129974,
+          0.554899513721466,
+          -0.011513477191329,
+          0.699985265731812,
+          0.343285948038101,
+          -0.293006777763367,
+          -0.230505764484406,
+          0.427365571260452,
+          -13.0200004577637,
+          3.75,
+          -7.0
+        ],
+        [
+          0.425531566143036,
+          -0.260913550853729,
+          -0.66753214597702,
+          0.316224157810211,
+          0.714775860309601,
+          0.595548093318939,
+          0.135473385453224,
+          -0.848893105983734,
+          0.70662796497345,
+          -13.3000001907349,
+          3.65000009536743,
+          -7.0
+        ],
+        [
+          0.468948304653168,
+          -0.276304334402084,
+          0.0978499948978424,
+          0.0706579089164734,
+          0.756939053535461,
+          0.667663276195526,
+          -0.121668115258217,
+          -0.625379204750061,
+          0.764886379241943,
+          -13.5799999237061,
+          3.54999995231628,
+          -7.0
+        ],
+        [
+          0.270674407482147,
+          -0.273733735084534,
+          0.645818054676056,
+          -0.0821528807282448,
+          0.749896883964539,
+          0.46729177236557,
+          -0.326512277126312,
+          -0.415601253509521,
+          0.417800635099411,
+          -13.8599996566772,
+          3.45000004768372,
+          -7.0
+        ],
+        [
+          0.400177657604218,
+          0.419501155614853,
+          -0.177362233400345,
+          -0.218618050217628,
+          0.767891705036163,
+          -0.324659407138824,
+          0.0,
+          0.369947403669357,
+          0.875007927417755,
+          -12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.323609381914139,
+          0.419501155614853,
+          0.521528244018555,
+          0.264582961797714,
+          0.767891705036163,
+          0.094893790781498,
+          -0.182232826948166,
+          0.369947403669357,
+          -0.788354873657227,
+          -12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.296324253082275,
+          0.419501155614853,
+          0.587713599205017,
+          0.267853140830994,
+          0.767891705036163,
+          0.0380498208105564,
+          -0.21996046602726,
+          0.369947403669357,
+          -0.745415866374969,
+          -13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          -0.265934526920319,
+          0.419501155614853,
+          0.647741675376892,
+          0.268316984176636,
+          0.767891705036163,
+          -0.0191929284483194,
+          -0.255383670330048,
+          0.369947403669357,
+          -0.694667100906372,
+          -14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          0.104697413742542,
+          0.419501155614853,
+          -0.823979735374451,
+          -0.237748086452484,
+          0.767891705036163,
+          0.259830385446548,
+          0.374767005443573,
+          0.369947403669357,
+          0.395026028156281,
+          -14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          -0.232758656144142,
+          0.419501155614853,
+          0.700983166694641,
+          0.265969663858414,
+          0.767891705036163,
+          -0.07623440772295,
+          -0.28813111782074,
+          0.369947403669357,
+          -0.63664036989212,
+          -14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ],
+        [
+          0.0637185722589493,
+          0.419501155614853,
+          -0.841960191726685,
+          -0.223753467202187,
+          0.767891705036163,
+          0.309101313352585,
+          0.39218658208847,
+          0.369947403669357,
+          0.313144326210022,
+          -14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ],
+        [
+          -0.197144016623497,
+          0.419501155614853,
+          0.746880531311035,
+          0.260835766792297,
+          0.767891705036163,
+          -0.132477402687073,
+          -0.317859917879105,
+          0.369947403669357,
+          -0.571943283081055,
+          -15.4200000762939,
+          -5.28000020980835,
+          -5.42000007629395
+        ],
+        [
+          0.0220721531659365,
+          0.419501155614853,
+          -0.85111939907074,
+          -0.207414597272873,
+          0.767891705036163,
+          0.355133831501007,
+          0.405497223138809,
+          0.369947403669357,
+          0.227981775999069,
+          -15.4200000762939,
+          -5.28000020980835,
+          -5.42000007629395
+        ],
+        [
+          -0.0198055282235146,
+          0.419501155614853,
+          -0.851361393928528,
+          -0.188902631402016,
+          0.767891705036163,
+          0.397445559501648,
+          0.414559423923492,
+          0.369947403669357,
+          0.140430629253387,
+          -16.1000003814697,
+          -5.40000009536743,
+          -5.65000009536743
+        ],
+        [
+          -0.0614755004644394,
+          0.419501155614853,
+          -0.842683732509613,
+          -0.168411627411842,
+          0.767891705036163,
+          0.435593098402023,
+          0.419278293848038,
+          0.369947403669357,
+          0.0514086410403252,
+          -16.7800006866455,
+          -5.51999998092651,
+          -5.88000011444092
+        ],
+        [
+          0.230888530611992,
+          0.419501155614853,
+          0.70366233587265,
+          0.0610150545835495,
+          0.767891705036163,
+          -0.544687271118164,
+          -0.388463199138641,
+          0.369947403669357,
+          0.332678735256195,
+          -16.7800006866455,
+          -5.51999998092651,
+          -5.88000011444092
+        ],
+        [
+          -0.102501593530178,
+          0.419501155614853,
+          -0.825177073478699,
+          -0.146156057715416,
+          0.767891705036163,
+          0.469177037477493,
+          0.419604361057281,
+          0.369947403669357,
+          -0.0381523817777634,
+          -17.4599990844727,
+          -5.6399998664856,
+          -6.1100001335144
+        ],
+        [
+          0.264205604791641,
+          0.419501155614853,
+          0.650805175304413,
+          0.0339692644774914,
+          0.767891705036163,
+          -0.554827928543091,
+          -0.370104670524597,
+          0.369947403669357,
+          0.413664758205414,
+          -17.4599990844727,
+          -5.6399998664856,
+          -6.1100001335144
+        ],
+        [
+          0.35222789645195,
+          0.255514562129974,
+          -0.0681027546525002,
+          -0.105173207819462,
+          0.699985265731812,
+          0.265350788831711,
+          0.0710596442222595,
+          -0.230505764484406,
+          0.730308830738068,
+          11.8999996185303,
+          4.15000009536743,
+          -7.0
+        ],
+        [
+          -0.0445859879255295,
+          0.260913550853729,
+          -1.10584616661072,
+          0.423862189054489,
+          0.714775860309601,
+          0.0944713279604912,
+          0.343192040920258,
+          -0.848893105983734,
+          -0.260344237089157,
+          12.1800003051758,
+          4.05000019073486,
+          -7.0
+        ],
+        [
+          0.0894585028290749,
+          0.276304334402084,
+          -0.964013159275055,
+          0.286764651536942,
+          0.756939053535461,
+          0.332452952861786,
+          0.386615246534348,
+          -0.625379204750061,
+          -0.0235287621617317,
+          12.460000038147,
+          3.95000004768372,
+          -7.0
+        ],
+        [
+          0.181883960962296,
+          0.273733735084534,
+          -0.769081115722656,
+          0.137054920196533,
+          0.749896883964539,
+          0.407586276531219,
+          0.367094248533249,
+          -0.415601253509521,
+          0.22888346016407,
+          12.7399997711182,
+          3.84999990463257,
+          -7.0
+        ],
+        [
+          0.232787072658539,
+          0.255514562129974,
+          -0.554899513721466,
+          0.011513477191329,
+          0.699985265731812,
+          0.343285948038101,
+          0.293006777763367,
+          -0.230505764484406,
+          0.427365571260452,
+          13.0200004577637,
+          3.75,
+          -7.0
+        ],
+        [
+          -0.398001372814178,
+          0.260913550853729,
+          -0.737564921379089,
+          0.338470548391342,
+          0.714775860309601,
+          -0.53987330198288,
+          0.162666693329811,
+          -0.848893105983734,
+          -0.68127429485321,
+          13.3000001907349,
+          3.65000009536743,
+          -7.0
+        ],
+        [
+          -0.25393933057785,
+          0.276304334402084,
+          -0.827147126197815,
+          0.317793667316437,
+          0.756939053535461,
+          -0.170605912804604,
+          0.272452175617218,
+          -0.625379204750061,
+          -0.571945130825043,
+          13.5799999237061,
+          3.54999995231628,
+          -7.0
+        ],
+        [
+          -0.122485473752022,
+          0.273733735084534,
+          -0.818507194519043,
+          0.234123915433884,
+          0.749896883964539,
+          0.0987247452139854,
+          0.341770857572556,
+          -0.415601253509521,
+          -0.360970109701157,
+          13.8599996566772,
+          3.45000004768372,
+          -7.0
+        ],
+        [
+          0.400177657604218,
+          0.419501155614853,
+          -0.177362233400345,
+          -0.218618050217628,
+          0.767891705036163,
+          -0.324659407138824,
+          0.0,
+          0.369947403669357,
+          0.875007927417755,
+          12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.323609381914139,
+          0.419501155614853,
+          0.521528244018555,
+          0.264582961797714,
+          0.767891705036163,
+          0.094893790781498,
+          -0.182232826948166,
+          0.369947403669357,
+          -0.788354873657227,
+          12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.296324253082275,
+          0.419501155614853,
+          0.587713599205017,
+          0.267853140830994,
+          0.767891705036163,
+          0.0380498208105564,
+          -0.21996046602726,
+          0.369947403669357,
+          -0.745415866374969,
+          13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          -0.265934526920319,
+          0.419501155614853,
+          0.647741675376892,
+          0.268316984176636,
+          0.767891705036163,
+          -0.0191929284483194,
+          -0.255383670330048,
+          0.369947403669357,
+          -0.694667100906372,
+          14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          0.104697413742542,
+          0.419501155614853,
+          -0.823979735374451,
+          -0.237748086452484,
+          0.767891705036163,
+          0.259830385446548,
+          0.374767005443573,
+          0.369947403669357,
+          0.395026028156281,
+          14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          -0.232758656144142,
+          0.419501155614853,
+          0.700983166694641,
+          0.265969663858414,
+          0.767891705036163,
+          -0.07623440772295,
+          -0.28813111782074,
+          0.369947403669357,
+          -0.63664036989212,
+          14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ],
+        [
+          0.0637185722589493,
+          0.419501155614853,
+          -0.841960191726685,
+          -0.223753467202187,
+          0.767891705036163,
+          0.309101313352585,
+          0.39218658208847,
+          0.369947403669357,
+          0.313144326210022,
+          14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ],
+        [
+          -0.197144016623497,
+          0.419501155614853,
+          0.746880531311035,
+          0.260835766792297,
+          0.767891705036163,
+          -0.132477402687073,
+          -0.317859917879105,
+          0.369947403669357,
+          -0.571943283081055,
+          15.4200000762939,
+          -5.28000020980835,
+          -5.42000007629395
+        ],
+        [
+          0.0220721531659365,
+          0.419501155614853,
+          -0.85111939907074,
+          -0.207414597272873,
+          0.767891705036163,
+          0.355133831501007,
+          0.405497223138809,
+          0.369947403669357,
+          0.227981775999069,
+          15.4200000762939,
+          -5.28000020980835,
+          -5.42000007629395
+        ],
+        [
+          -0.0198055282235146,
+          0.419501155614853,
+          -0.851361393928528,
+          -0.188902631402016,
+          0.767891705036163,
+          0.397445559501648,
+          0.414559423923492,
+          0.369947403669357,
+          0.140430629253387,
+          16.1000003814697,
+          -5.40000009536743,
+          -5.65000009536743
+        ],
+        [
+          -0.0614755004644394,
+          0.419501155614853,
+          -0.842683732509613,
+          -0.168411627411842,
+          0.767891705036163,
+          0.435593098402023,
+          0.419278293848038,
+          0.369947403669357,
+          0.0514086410403252,
+          16.7800006866455,
+          -5.51999998092651,
+          -5.88000011444092
+        ],
+        [
+          0.230888530611992,
+          0.419501155614853,
+          0.70366233587265,
+          0.0610150545835495,
+          0.767891705036163,
+          -0.544687271118164,
+          -0.388463199138641,
+          0.369947403669357,
+          0.332678735256195,
+          16.7800006866455,
+          -5.51999998092651,
+          -5.88000011444092
+        ],
+        [
+          -0.102501593530178,
+          0.419501155614853,
+          -0.825177073478699,
+          -0.146156057715416,
+          0.767891705036163,
+          0.469177037477493,
+          0.419604361057281,
+          0.369947403669357,
+          -0.0381523817777634,
+          17.4599990844727,
+          -5.6399998664856,
+          -6.1100001335144
+        ],
+        [
+          0.264205604791641,
+          0.419501155614853,
+          0.650805175304413,
+          0.0339692644774914,
+          0.767891705036163,
+          -0.554827928543091,
+          -0.370104670524597,
+          0.369947403669357,
+          0.413664758205414,
+          17.4599990844727,
+          -5.6399998664856,
+          -6.1100001335144
+        ]
+      ],
+      "instances": 44,
+      "shadow": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true,
+      "visible_instances": -1
+    },
+    "ShrineMarginFoliage1": {
+      "instance_transforms": [
+        [
+          0.365598261356354,
+          -0.273733735084534,
+          -0.393623232841492,
+          0.198237150907516,
+          0.749896883964539,
+          0.277651757001877,
+          0.116892918944359,
+          -0.415601253509521,
+          0.760243475437164,
+          -11.8999996185303,
+          4.15000009536743,
+          -7.0
+        ],
+        [
+          0.339715570211411,
+          -0.255514562129974,
+          0.205463379621506,
+          0.0792258828878403,
+          0.699985265731812,
+          0.301956623792648,
+          -0.135985031723976,
+          -0.230505764484406,
+          0.689207494258881,
+          -12.1800003051758,
+          4.05000019073486,
+          -7.0
+        ],
+        [
+          0.185349002480507,
+          -0.260913550853729,
+          -1.04039287567139,
+          0.420490324497223,
+          0.714775860309601,
+          0.145882859826088,
+          0.297088384628296,
+          -0.848893105983734,
+          0.44260710477829,
+          -12.460000038147,
+          3.95000004768372,
+          -7.0
+        ],
+        [
+          0.420153468847275,
+          -0.276304334402084,
+          -0.444827318191528,
+          0.232427343726158,
+          0.756939053535461,
+          0.482670336961746,
+          0.0956909507513046,
+          -0.625379204750061,
+          0.780741930007935,
+          -12.7399997711182,
+          3.84999990463257,
+          -7.0
+        ],
+        [
+          0.395163029432297,
+          -0.273733735084534,
+          0.239413678646088,
+          0.0518748983740807,
+          0.749896883964539,
+          0.485772460699081,
+          -0.166670873761177,
+          -0.415601253509521,
+          0.718822777271271,
+          -13.0200004577637,
+          3.75,
+          -7.0
+        ],
+        [
+          0.178295001387596,
+          -0.255514562129974,
+          0.636505126953125,
+          -0.0424259342253208,
+          0.699985265731812,
+          0.332578241825104,
+          -0.326475560665131,
+          -0.230505764484406,
+          0.304389536380768,
+          -13.3000001907349,
+          3.65000009536743,
+          -7.0
+        ],
+        [
+          0.478387147188187,
+          -0.260913550853729,
+          -0.488091468811035,
+          0.256545633077621,
+          0.714775860309601,
+          0.709251046180725,
+          0.0689780116081238,
+          -0.848893105983734,
+          0.747214496135712,
+          -13.5799999237061,
+          3.54999995231628,
+          -7.0
+        ],
+        [
+          0.451638877391815,
+          -0.276304334402084,
+          0.280599623918533,
+          0.00886117294430733,
+          0.756939053535461,
+          0.683448970317841,
+          -0.188817277550697,
+          -0.625379204750061,
+          0.703250586986542,
+          -13.8599996566772,
+          3.45000004768372,
+          -7.0
+        ],
+        [
+          0.217609867453575,
+          0.498985588550568,
+          -0.906853795051575,
+          -0.307055473327637,
+          0.913386940956116,
+          0.182782471179962,
+          0.390590101480484,
+          0.440042704343796,
+          0.648927450180054,
+          -12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.0071945795789361,
+          0.498985588550568,
+          1.01374983787537,
+          0.238580450415611,
+          0.913386940956116,
+          -0.442236244678497,
+          -0.487057864665985,
+          0.440042704343796,
+          -0.231599614024162,
+          -12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          0.171973153948784,
+          0.498985588550568,
+          -0.948446393013,
+          -0.296478390693665,
+          0.913386940956116,
+          0.247217044234276,
+          0.420384973287582,
+          0.440042704343796,
+          0.5623459815979,
+          -13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          0.0425849780440331,
+          0.498985588550568,
+          1.00997149944305,
+          0.215631321072578,
+          0.913386940956116,
+          -0.490728944540024,
+          -0.495870321989059,
+          0.440042704343796,
+          -0.126659959554672,
+          -13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          0.0919183492660522,
+          0.498985588550568,
+          0.995611548423767,
+          0.190423041582108,
+          0.913386940956116,
+          -0.534080266952515,
+          -0.499487549066544,
+          0.440042704343796,
+          -0.0203932877629995,
+          -14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          0.140288501977921,
+          0.498985588550568,
+          0.970820784568787,
+          0.163219824433327,
+          0.913386940956116,
+          -0.571835815906525,
+          -0.497871667146683,
+          0.440042704343796,
+          0.0860865488648415,
+          -14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ],
+        [
+          -0.328582972288132,
+          0.498985588550568,
+          -0.747868716716766,
+          -0.0279628857970238,
+          0.913386940956116,
+          0.662744641304016,
+          0.430637985467911,
+          0.440042704343796,
+          -0.527600169181824,
+          -14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ],
+        [
+          0.187189057469368,
+          0.498985588550568,
+          0.935858488082886,
+          0.134306415915489,
+          0.913386940956116,
+          -0.603600323200226,
+          -0.491039514541626,
+          0.440042704343796,
+          0.191664963960648,
+          -15.4200000762939,
+          -5.28000020980835,
+          -5.42000007629395
+        ],
+        [
+          -0.3635573387146,
+          0.498985588550568,
+          -0.673974573612213,
+          0.00470246374607086,
+          0.913386940956116,
+          0.665227949619293,
+          0.402494341135025,
+          0.440042704343796,
+          -0.616546869277954,
+          -15.4200000762939,
+          -5.28000020980835,
+          -5.42000007629395
+        ],
+        [
+          0.232128441333771,
+          0.498985588550568,
+          0.891091227531433,
+          0.103985860943794,
+          0.913386940956116,
+          -0.629040956497192,
+          -0.479062736034393,
+          0.440042704343796,
+          0.295235306024551,
+          -16.1000003814697,
+          -5.40000009536743,
+          -5.65000009536743
+        ],
+        [
+          -0.394722759723663,
+          0.498985588550568,
+          -0.593019247055054,
+          0.037318542599678,
+          0.913386940956116,
+          0.660741686820984,
+          0.37013378739357,
+          0.440042704343796,
+          -0.699033975601196,
+          -16.1000003814697,
+          -5.40000009536743,
+          -5.65000009536743
+        ],
+        [
+          -0.421752870082855,
+          0.498985588550568,
+          -0.50585001707077,
+          0.0695439502596855,
+          0.913386940956116,
+          0.649332821369171,
+          0.333895027637482,
+          0.440042704343796,
+          -0.774198055267334,
+          -16.7800006866455,
+          -5.51999998092651,
+          -5.88000011444092
+        ],
+        [
+          -0.444364070892334,
+          0.498985588550568,
+          -0.413381844758987,
+          0.101040445268154,
+          0.913386940956116,
+          0.631120979785919,
+          0.294158399105072,
+          0.440042704343796,
+          -0.84125018119812,
+          -17.4599990844727,
+          -5.6399998664856,
+          -6.1100001335144
+        ],
+        [
+          0.48645082116127,
+          0.498985588550568,
+          -0.0292278751730919,
+          -0.222474291920662,
+          0.913386940956116,
+          -0.477287113666534,
+          -0.0898250043392181,
+          0.440042704343796,
+          1.02383720874786,
+          -17.4599990844727,
+          -5.6399998664856,
+          -6.1100001335144
+        ],
+        [
+          0.352338284254074,
+          0.273733735084534,
+          -0.443010151386261,
+          0.00981230195611715,
+          0.749896883964539,
+          0.497229009866714,
+          0.249770835042,
+          -0.415601253509521,
+          0.605396747589111,
+          11.8999996185303,
+          4.15000009536743,
+          -7.0
+        ],
+        [
+          0.339715570211411,
+          0.255514562129974,
+          -0.205463379621506,
+          -0.0792258828878403,
+          0.699985265731812,
+          0.301956623792648,
+          0.135985031723976,
+          -0.230505764484406,
+          0.689207494258881,
+          12.1800003051758,
+          4.05000019073486,
+          -7.0
+        ],
+        [
+          -0.144031077623367,
+          0.260913550853729,
+          -1.06840312480927,
+          0.424798488616943,
+          0.714775860309601,
+          -0.0739997699856758,
+          0.313415259122849,
+          -0.848893105983734,
+          -0.390690058469772,
+          12.460000038147,
+          3.95000004768372,
+          -7.0
+        ],
+        [
+          0.0004586749128066,
+          0.276304334402084,
+          -0.981863021850586,
+          0.311741709709167,
+          0.756939053535461,
+          0.213640943169594,
+          0.377524882555008,
+          -0.625379204750061,
+          -0.175221398472786,
+          12.7399997711182,
+          3.84999990463257,
+          -7.0
+        ],
+        [
+          0.108891829848289,
+          0.273733735084534,
+          -0.826804280281067,
+          0.171537131071091,
+          0.749896883964539,
+          0.346326351165771,
+          0.381236910820007,
+          -0.415601253509521,
+          0.080329030752182,
+          13.0200004577637,
+          3.75,
+          -7.0
+        ],
+        [
+          0.178295001387596,
+          0.255514562129974,
+          -0.636505126953125,
+          0.0424259342253208,
+          0.699985265731812,
+          0.332578241825104,
+          0.326475560665131,
+          -0.230505764484406,
+          0.304389536380768,
+          13.3000001907349,
+          3.65000009536743,
+          -7.0
+        ],
+        [
+          -0.457700908184052,
+          0.260913550853729,
+          -0.567696034908295,
+          0.283438861370087,
+          0.714775860309601,
+          -0.663330912590027,
+          0.0979803800582886,
+          -0.848893105983734,
+          -0.73301637172699,
+          13.5799999237061,
+          3.54999995231628,
+          -7.0
+        ],
+        [
+          -0.324352264404297,
+          0.276304334402084,
+          -0.71234792470932,
+          0.296608924865723,
+          0.756939053535461,
+          -0.292573541402817,
+          0.215701028704643,
+          -0.625379204750061,
+          -0.668850481510162,
+          13.8599996566772,
+          3.45000004768372,
+          -7.0
+        ],
+        [
+          0.217609867453575,
+          0.498985588550568,
+          -0.906853795051575,
+          -0.307055473327637,
+          0.913386940956116,
+          0.182782471179962,
+          0.390590101480484,
+          0.440042704343796,
+          0.648927450180054,
+          12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.0071945795789361,
+          0.498985588550568,
+          1.01374983787537,
+          0.238580450415611,
+          0.913386940956116,
+          -0.442236244678497,
+          -0.487057864665985,
+          0.440042704343796,
+          -0.231599614024162,
+          12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          0.171973153948784,
+          0.498985588550568,
+          -0.948446393013,
+          -0.296478390693665,
+          0.913386940956116,
+          0.247217044234276,
+          0.420384973287582,
+          0.440042704343796,
+          0.5623459815979,
+          13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          0.0425849780440331,
+          0.498985588550568,
+          1.00997149944305,
+          0.215631321072578,
+          0.913386940956116,
+          -0.490728944540024,
+          -0.495870321989059,
+          0.440042704343796,
+          -0.126659959554672,
+          13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          0.0919183492660522,
+          0.498985588550568,
+          0.995611548423767,
+          0.190423041582108,
+          0.913386940956116,
+          -0.534080266952515,
+          -0.499487549066544,
+          0.440042704343796,
+          -0.0203932877629995,
+          14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          0.140288501977921,
+          0.498985588550568,
+          0.970820784568787,
+          0.163219824433327,
+          0.913386940956116,
+          -0.571835815906525,
+          -0.497871667146683,
+          0.440042704343796,
+          0.0860865488648415,
+          14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ],
+        [
+          -0.328582972288132,
+          0.498985588550568,
+          -0.747868716716766,
+          -0.0279628857970238,
+          0.913386940956116,
+          0.662744641304016,
+          0.430637985467911,
+          0.440042704343796,
+          -0.527600169181824,
+          14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ],
+        [
+          0.187189057469368,
+          0.498985588550568,
+          0.935858488082886,
+          0.134306415915489,
+          0.913386940956116,
+          -0.603600323200226,
+          -0.491039514541626,
+          0.440042704343796,
+          0.191664963960648,
+          15.4200000762939,
+          -5.28000020980835,
+          -5.42000007629395
+        ],
+        [
+          -0.3635573387146,
+          0.498985588550568,
+          -0.673974573612213,
+          0.00470246374607086,
+          0.913386940956116,
+          0.665227949619293,
+          0.402494341135025,
+          0.440042704343796,
+          -0.616546869277954,
+          15.4200000762939,
+          -5.28000020980835,
+          -5.42000007629395
+        ],
+        [
+          0.232128441333771,
+          0.498985588550568,
+          0.891091227531433,
+          0.103985860943794,
+          0.913386940956116,
+          -0.629040956497192,
+          -0.479062736034393,
+          0.440042704343796,
+          0.295235306024551,
+          16.1000003814697,
+          -5.40000009536743,
+          -5.65000009536743
+        ],
+        [
+          -0.394722759723663,
+          0.498985588550568,
+          -0.593019247055054,
+          0.037318542599678,
+          0.913386940956116,
+          0.660741686820984,
+          0.37013378739357,
+          0.440042704343796,
+          -0.699033975601196,
+          16.1000003814697,
+          -5.40000009536743,
+          -5.65000009536743
+        ],
+        [
+          -0.421752870082855,
+          0.498985588550568,
+          -0.50585001707077,
+          0.0695439502596855,
+          0.913386940956116,
+          0.649332821369171,
+          0.333895027637482,
+          0.440042704343796,
+          -0.774198055267334,
+          16.7800006866455,
+          -5.51999998092651,
+          -5.88000011444092
+        ],
+        [
+          -0.444364070892334,
+          0.498985588550568,
+          -0.413381844758987,
+          0.101040445268154,
+          0.913386940956116,
+          0.631120979785919,
+          0.294158399105072,
+          0.440042704343796,
+          -0.84125018119812,
+          17.4599990844727,
+          -5.6399998664856,
+          -6.1100001335144
+        ],
+        [
+          0.48645082116127,
+          0.498985588550568,
+          -0.0292278751730919,
+          -0.222474291920662,
+          0.913386940956116,
+          -0.477287113666534,
+          -0.0898250043392181,
+          0.440042704343796,
+          1.02383720874786,
+          17.4599990844727,
+          -5.6399998664856,
+          -6.1100001335144
+        ]
+      ],
+      "instances": 44,
+      "shadow": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true,
+      "visible_instances": -1
+    },
+    "ShrineMarginFoliage2": {
+      "instance_transforms": [
+        [
+          0.238506957888603,
+          -0.276304334402084,
+          -0.846851110458374,
+          0.320703744888306,
+          0.756939053535461,
+          0.145058065652847,
+          0.282792687416077,
+          -0.625379204750061,
+          0.549728453159332,
+          -11.8999996185303,
+          4.15000009536743,
+          -7.0
+        ],
+        [
+          0.394701898097992,
+          -0.273733735084534,
+          -0.242692857980728,
+          0.169499948620796,
+          0.749896883964539,
+          0.350652784109116,
+          0.0458715409040451,
+          -0.415601253509521,
+          0.792554557323456,
+          -12.1800003051758,
+          4.05000019073486,
+          -7.0
+        ],
+        [
+          0.314976453781128,
+          -0.255514562129974,
+          0.335429072380066,
+          0.0504271052777767,
+          0.699985265731812,
+          0.327694594860077,
+          -0.196016103029251,
+          -0.230505764484406,
+          0.623300552368164,
+          -12.460000038147,
+          3.95000004768372,
+          -7.0
+        ],
+        [
+          0.276327461004257,
+          -0.260913550853729,
+          -0.948743462562561,
+          0.399698674678802,
+          0.714775860309601,
+          0.308701992034912,
+          0.251618683338165,
+          -0.848893105983734,
+          0.551533222198486,
+          -12.7399997711182,
+          3.84999990463257,
+          -7.0
+        ],
+        [
+          0.452917069196701,
+          -0.276304334402084,
+          -0.271510392427444,
+          0.184489488601685,
+          0.756939053535461,
+          0.565434277057648,
+          0.0231928899884224,
+          -0.625379204750061,
+          0.804342031478882,
+          -13.0200004577637,
+          3.75,
+          -7.0
+        ],
+        [
+          0.366348385810852,
+          -0.273733735084534,
+          0.390584498643875,
+          0.00690499739721417,
+          0.749896883964539,
+          0.497441083192825,
+          -0.228834435343742,
+          -0.415601253509521,
+          0.640309393405914,
+          -13.3000001907349,
+          3.65000009536743,
+          -7.0
+        ],
+        [
+          0.117385797202587,
+          -0.255514562129974,
+          0.695201933383942,
+          -0.0718114376068115,
+          0.699985265731812,
+          0.309900492429733,
+          -0.348194003105164,
+          -0.230505764484406,
+          0.170457988977432,
+          -13.5799999237061,
+          3.54999995231628,
+          -7.0
+        ],
+        [
+          0.514024794101715,
+          -0.260913550853729,
+          -0.291083604097366,
+          0.187633693218231,
+          0.714775860309601,
+          0.797426998615265,
+          0.0,
+          -0.848893105983734,
+          0.760907590389252,
+          -13.8599996566772,
+          3.45000004768372,
+          -7.0
+        ],
+        [
+          -0.237244158983231,
+          0.57846999168396,
+          -1.06638669967651,
+          -0.142420813441277,
+          1.05888223648071,
+          0.711921036243439,
+          0.564642310142517,
+          0.510137975215912,
+          -0.26849153637886,
+          -12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          0.435839712619781,
+          0.57846999168396,
+          0.746330618858337,
+          -0.0199508648365736,
+          1.05888223648071,
+          -0.770156383514404,
+          -0.452808022499084,
+          0.510137975215912,
+          0.752296328544617,
+          -12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.288325905799866,
+          0.57846999168396,
+          -1.01027584075928,
+          -0.106742799282074,
+          1.05888223648071,
+          0.738522171974182,
+          0.548510313034058,
+          0.510137975215912,
+          -0.387334078550339,
+          -13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          0.470176935195923,
+          0.57846999168396,
+          0.649602234363556,
+          -0.0576357655227184,
+          1.05888223648071,
+          -0.761873006820679,
+          -0.413522928953171,
+          0.510137975215912,
+          0.844787776470184,
+          -13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          -0.336386829614639,
+          0.57846999168396,
+          -0.943580031394959,
+          -0.0699464455246925,
+          1.05888223648071,
+          0.757385969161987,
+          0.526631534099579,
+          0.510137975215912,
+          -0.502118527889252,
+          -14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          0.499588012695313,
+          0.57846999168396,
+          0.546067893505096,
+          -0.0947168096899986,
+          1.05888223648071,
+          -0.745607435703278,
+          -0.369905292987823,
+          0.510137975215912,
+          0.92842835187912,
+          -14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          0.523764967918396,
+          0.57846999168396,
+          0.436812490224838,
+          -0.130805507302284,
+          1.05888223648071,
+          -0.721530199050903,
+          -0.322412133216858,
+          0.510137975215912,
+          1.00234174728394,
+          -14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ],
+        [
+          0.542454302310944,
+          0.57846999168396,
+          0.322980940341949,
+          -0.16552360355854,
+          1.05888223648071,
+          -0.68989360332489,
+          -0.271541327238083,
+          0.510137975215912,
+          1.06575322151184,
+          -15.4200000762939,
+          -5.28000020980835,
+          -5.42000007629395
+        ],
+        [
+          -0.555999755859375,
+          0.57846999168396,
+          0.199342504143715,
+          0.292811840772629,
+          1.05888223648071,
+          0.471951514482498,
+          0.0226917490363121,
+          0.510137975215912,
+          -1.20566344261169,
+          -15.4200000762939,
+          -5.28000020980835,
+          -5.42000007629395
+        ],
+        [
+          0.555460393428802,
+          0.57846999168396,
+          0.205765083432198,
+          -0.198507636785507,
+          1.05888223648071,
+          -0.65102881193161,
+          -0.217825323343277,
+          0.510137975215912,
+          1.11799919605255,
+          -16.1000003814697,
+          -5.40000009536743,
+          -5.65000009536743
+        ],
+        [
+          -0.543305993080139,
+          0.57846999168396,
+          0.316706359386444,
+          0.314435184001923,
+          1.05888223648071,
+          0.407120764255524,
+          -0.036585371941328,
+          0.510137975215912,
+          -1.20418000221252,
+          -16.1000003814697,
+          -5.40000009536743,
+          -5.65000009536743
+        ],
+        [
+          0.562646865844727,
+          0.57846999168396,
+          0.0863933935761452,
+          -0.229411914944649,
+          1.05888223648071,
+          -0.605343043804169,
+          -0.161827147006989,
+          0.510137975215912,
+          1.158531665802,
+          -16.7800006866455,
+          -5.51999998092651,
+          -5.88000011444092
+        ],
+        [
+          -0.524920105934143,
+          0.57846999168396,
+          0.430752068758011,
+          0.332764208316803,
+          1.05888223648071,
+          0.33802455663681,
+          -0.0954791903495789,
+          0.510137975215912,
+          -1.1900806427002,
+          -16.7800006866455,
+          -5.51999998092651,
+          -5.88000011444092
+        ],
+        [
+          -0.501034379005432,
+          0.57846999168396,
+          0.54028582572937,
+          0.347606986761093,
+          1.05888223648071,
+          0.265386283397675,
+          -0.153373211622238,
+          0.510137975215912,
+          -1.16351246833801,
+          -17.4599990844727,
+          -5.6399998664856,
+          -6.1100001335144
+        ],
+        [
+          0.254711598157883,
+          0.276304334402084,
+          -0.826115846633911,
+          0.207117676734924,
+          0.756939053535461,
+          0.530334889888763,
+          0.363225042819977,
+          -0.625379204750061,
+          0.276906967163086,
+          11.8999996185303,
+          4.15000009536743,
+          -7.0
+        ],
+        [
+          0.30583781003952,
+          0.273733735084534,
+          -0.573667466640472,
+          0.0547106489539146,
+          0.749896883964539,
+          0.484420299530029,
+          0.300156623125076,
+          -0.415601253509521,
+          0.496228396892548,
+          12.1800003051758,
+          4.05000019073486,
+          -7.0
+        ],
+        [
+          0.314976453781128,
+          0.255514562129974,
+          -0.335429072380066,
+          -0.0504271052777767,
+          0.699985265731812,
+          0.327694594860077,
+          0.196016103029251,
+          -0.230505764484406,
+          0.623300552368164,
+          12.460000038147,
+          3.95000004768372,
+          -7.0
+        ],
+        [
+          -0.238292336463928,
+          0.260913550853729,
+          -0.992506504058838,
+          0.410445690155029,
+          0.714775860309601,
+          -0.239807695150375,
+          0.272358149290085,
+          -0.848893105983734,
+          -0.506974458694458,
+          12.7399997711182,
+          3.84999990463257,
+          -7.0
+        ],
+        [
+          -0.0885577127337456,
+          0.276304334402084,
+          -0.964374125003815,
+          0.325498729944229,
+          0.756939053535461,
+          0.0871396437287331,
+          0.354846835136414,
+          -0.625379204750061,
+          -0.320607632398605,
+          13.0200004577637,
+          3.75,
+          -7.0
+        ],
+        [
+          0.0319805778563023,
+          0.273733735084534,
+          -0.85476940870285,
+          0.19984544813633,
+          0.749896883964539,
+          0.272601634263992,
+          0.381658285856247,
+          -0.415601253509521,
+          -0.0711164474487305,
+          13.3000001907349,
+          3.65000009536743,
+          -7.0
+        ],
+        [
+          0.117385797202587,
+          0.255514562129974,
+          -0.695201933383942,
+          0.0718114376068115,
+          0.699985265731812,
+          0.309900492429733,
+          0.348194003105164,
+          -0.230505764484406,
+          0.170457988977432,
+          13.5799999237061,
+          3.54999995231628,
+          -7.0
+        ],
+        [
+          -0.500927209854126,
+          0.260913550853729,
+          -0.377394706010818,
+          0.218205645680428,
+          0.714775860309601,
+          -0.762914657592773,
+          0.0297675132751465,
+          -0.848893105983734,
+          -0.758376240730286,
+          13.8599996566772,
+          3.45000004768372,
+          -7.0
+        ],
+        [
+          -0.237244158983231,
+          0.57846999168396,
+          -1.06638669967651,
+          -0.142420813441277,
+          1.05888223648071,
+          0.711921036243439,
+          0.564642310142517,
+          0.510137975215912,
+          -0.26849153637886,
+          12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          0.435839712619781,
+          0.57846999168396,
+          0.746330618858337,
+          -0.0199508648365736,
+          1.05888223648071,
+          -0.770156383514404,
+          -0.452808022499084,
+          0.510137975215912,
+          0.752296328544617,
+          12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.288325905799866,
+          0.57846999168396,
+          -1.01027584075928,
+          -0.106742799282074,
+          1.05888223648071,
+          0.738522171974182,
+          0.548510313034058,
+          0.510137975215912,
+          -0.387334078550339,
+          13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          0.470176935195923,
+          0.57846999168396,
+          0.649602234363556,
+          -0.0576357655227184,
+          1.05888223648071,
+          -0.761873006820679,
+          -0.413522928953171,
+          0.510137975215912,
+          0.844787776470184,
+          13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          -0.336386829614639,
+          0.57846999168396,
+          -0.943580031394959,
+          -0.0699464455246925,
+          1.05888223648071,
+          0.757385969161987,
+          0.526631534099579,
+          0.510137975215912,
+          -0.502118527889252,
+          14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          0.499588012695313,
+          0.57846999168396,
+          0.546067893505096,
+          -0.0947168096899986,
+          1.05888223648071,
+          -0.745607435703278,
+          -0.369905292987823,
+          0.510137975215912,
+          0.92842835187912,
+          14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          0.523764967918396,
+          0.57846999168396,
+          0.436812490224838,
+          -0.130805507302284,
+          1.05888223648071,
+          -0.721530199050903,
+          -0.322412133216858,
+          0.510137975215912,
+          1.00234174728394,
+          14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ],
+        [
+          0.542454302310944,
+          0.57846999168396,
+          0.322980940341949,
+          -0.16552360355854,
+          1.05888223648071,
+          -0.68989360332489,
+          -0.271541327238083,
+          0.510137975215912,
+          1.06575322151184,
+          15.4200000762939,
+          -5.28000020980835,
+          -5.42000007629395
+        ],
+        [
+          -0.555999755859375,
+          0.57846999168396,
+          0.199342504143715,
+          0.292811840772629,
+          1.05888223648071,
+          0.471951514482498,
+          0.0226917490363121,
+          0.510137975215912,
+          -1.20566344261169,
+          15.4200000762939,
+          -5.28000020980835,
+          -5.42000007629395
+        ],
+        [
+          0.555460393428802,
+          0.57846999168396,
+          0.205765083432198,
+          -0.198507636785507,
+          1.05888223648071,
+          -0.65102881193161,
+          -0.217825323343277,
+          0.510137975215912,
+          1.11799919605255,
+          16.1000003814697,
+          -5.40000009536743,
+          -5.65000009536743
+        ],
+        [
+          -0.543305993080139,
+          0.57846999168396,
+          0.316706359386444,
+          0.314435184001923,
+          1.05888223648071,
+          0.407120764255524,
+          -0.036585371941328,
+          0.510137975215912,
+          -1.20418000221252,
+          16.1000003814697,
+          -5.40000009536743,
+          -5.65000009536743
+        ],
+        [
+          0.562646865844727,
+          0.57846999168396,
+          0.0863933935761452,
+          -0.229411914944649,
+          1.05888223648071,
+          -0.605343043804169,
+          -0.161827147006989,
+          0.510137975215912,
+          1.158531665802,
+          16.7800006866455,
+          -5.51999998092651,
+          -5.88000011444092
+        ],
+        [
+          -0.524920105934143,
+          0.57846999168396,
+          0.430752068758011,
+          0.332764208316803,
+          1.05888223648071,
+          0.33802455663681,
+          -0.0954791903495789,
+          0.510137975215912,
+          -1.1900806427002,
+          16.7800006866455,
+          -5.51999998092651,
+          -5.88000011444092
+        ],
+        [
+          -0.501034379005432,
+          0.57846999168396,
+          0.54028582572937,
+          0.347606986761093,
+          1.05888223648071,
+          0.265386283397675,
+          -0.153373211622238,
+          0.510137975215912,
+          -1.16351246833801,
+          17.4599990844727,
+          -5.6399998664856,
+          -6.1100001335144
+        ]
+      ],
+      "instances": 44,
+      "shadow": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true,
+      "visible_instances": -1
+    },
+    "ShrineMarginFoliage3": {
+      "instance_transforms": [
+        [
+          -0.0131064001470804,
+          -0.260913550853729,
+          -1.10940456390381,
+          0.416467756032944,
+          0.714775860309601,
+          -0.189458087086678,
+          0.354698032140732,
+          -0.848893105983734,
+          0.181458219885826,
+          -11.8999996185303,
+          4.15000009536743,
+          -7.0
+        ],
+        [
+          0.310983777046204,
+          -0.276304334402084,
+          -0.737769365310669,
+          0.301782548427582,
+          0.756939053535461,
+          0.26863044500351,
+          0.227869525551796,
+          -0.625379204750061,
+          0.651102185249329,
+          -12.1800003051758,
+          4.05000019073486,
+          -7.0
+        ],
+        [
+          0.409599602222443,
+          -0.273733735084534,
+          -0.0830275937914848,
+          0.134662196040154,
+          0.749896883964539,
+          0.411033302545547,
+          -0.0268008261919022,
+          -0.415601253509521,
+          0.79634040594101,
+          -12.460000038147,
+          3.95000004768372,
+          -7.0
+        ],
+        [
+          0.278900802135468,
+          -0.255514562129974,
+          0.453322142362595,
+          0.0198133699595928,
+          0.699985265731812,
+          0.341638326644897,
+          -0.248992249369621,
+          -0.230505764484406,
+          0.534960091114044,
+          -12.7399997711182,
+          3.84999990463257,
+          -7.0
+        ],
+        [
+          0.357360512018204,
+          -0.260913550853729,
+          -0.822947382926941,
+          0.364521265029907,
+          0.714775860309601,
+          0.460410565137863,
+          0.197092860937119,
+          -0.848893105983734,
+          0.640608906745911,
+          -13.0200004577637,
+          3.75,
+          -7.0
+        ],
+        [
+          0.469379514455795,
+          -0.276304334402084,
+          -0.0884213894605637,
+          0.129911541938782,
+          0.756939053535461,
+          0.62784731388092,
+          -0.050139918923378,
+          -0.625379204750061,
+          0.79899263381958,
+          -13.3000001907349,
+          3.65000009536743,
+          -7.0
+        ],
+        [
+          0.324348300695419,
+          -0.273733735084534,
+          0.527697622776031,
+          -0.0383134186267853,
+          0.749896883964539,
+          0.491206079721451,
+          -0.282761871814728,
+          -0.415601253509521,
+          0.538750231266022,
+          -13.5799999237061,
+          3.54999995231628,
+          -7.0
+        ],
+        [
+          0.0522517375648022,
+          -0.255514562129974,
+          0.728877365589142,
+          -0.0986122861504555,
+          0.699985265731812,
+          0.276068955659866,
+          -0.357380360364914,
+          -0.230505764484406,
+          0.0303914789110422,
+          -13.8599996566772,
+          3.45000004768372,
+          -7.0
+        ],
+        [
+          -0.623425126075745,
+          0.657954454421997,
+          -0.31671530008316,
+          0.202880159020424,
+          1.20437753200531,
+          0.768718004226685,
+          0.285817861557007,
+          0.580233335494995,
+          -1.23647248744965,
+          -12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.63569962978363,
+          0.657954454421997,
+          -0.182288318872452,
+          0.239536181092262,
+          1.20437753200531,
+          0.721484661102295,
+          0.223650351166725,
+          0.580233335494995,
+          -1.29086434841156,
+          -13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          0.610709726810455,
+          0.657954454421997,
+          -0.410388082265854,
+          -0.366074025630951,
+          1.20437753200531,
+          -0.43351274728775,
+          0.067338690161705,
+          0.580233335494995,
+          1.36519169807434,
+          -13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          -0.641313850879669,
+          0.657954454421997,
+          -0.0459517240524292,
+          0.273682534694672,
+          1.20437753200531,
+          0.66669237613678,
+          0.159139797091484,
+          0.580233335494995,
+          -1.33173179626465,
+          -14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          0.587373852729797,
+          0.657954454421997,
+          -0.538298189640045,
+          -0.385427594184875,
+          1.20437753200531,
+          -0.35328072309494,
+          0.133972063660622,
+          0.580233335494995,
+          1.34369921684265,
+          -14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          -0.640209019184113,
+          0.657954454421997,
+          0.0908665731549263,
+          0.304961562156677,
+          1.20437753200531,
+          0.604914963245392,
+          0.0929617881774902,
+          0.580233335494995,
+          -1.35864675045013,
+          -14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ],
+        [
+          0.557884156703949,
+          0.657954454421997,
+          -0.660568594932556,
+          -0.400743007659912,
+          1.20437753200531,
+          -0.269347369670868,
+          0.199201822280884,
+          0.580233335494995,
+          1.30812895298004,
+          -14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ],
+        [
+          0.522549450397491,
+          0.657954454421997,
+          -0.775918126106262,
+          -0.41185986995697,
+          1.20437753200531,
+          -0.182592034339905,
+          0.262344509363174,
+          0.580233335494995,
+          1.25885319709778,
+          -15.4200000762939,
+          -5.28000020980835,
+          -5.42000007629395
+        ],
+        [
+          0.481740117073059,
+          0.657954454421997,
+          -0.883137822151184,
+          -0.418661534786224,
+          1.20437753200531,
+          -0.0939240753650665,
+          0.322738349437714,
+          0.580233335494995,
+          1.19638860225677,
+          -16.1000003814697,
+          -5.40000009536743,
+          -5.65000009536743
+        ],
+        [
+          -0.250106543302536,
+          0.657954454421997,
+          1.23113656044006,
+          0.396761983633041,
+          1.20437753200531,
+          -0.293816179037094,
+          -0.53994232416153,
+          0.580233335494995,
+          -0.786177277565002,
+          -16.1000003814697,
+          -5.40000009536743,
+          -5.65000009536743
+        ],
+        [
+          0.435883373022079,
+          0.657954454421997,
+          -0.981105446815491,
+          -0.421076983213425,
+          1.20437753200531,
+          -0.00427171634510159,
+          0.379751086235046,
+          0.580233335494995,
+          1.1213892698288,
+          -16.7800006866455,
+          -5.51999998092651,
+          -5.88000011444092
+        ],
+        [
+          -0.188388213515282,
+          0.657954454421997,
+          1.27795100212097,
+          0.380266904830933,
+          1.20437753200531,
+          -0.376773148775101,
+          -0.575689136981964,
+          0.580233335494995,
+          -0.66707044839859,
+          -16.7800006866455,
+          -5.51999998092651,
+          -5.88000011444092
+        ],
+        [
+          0.385459870100021,
+          0.657954454421997,
+          -1.06879389286041,
+          -0.419080764055252,
+          1.20437753200531,
+          0.0854254513978958,
+          0.432785212993622,
+          0.580233335494995,
+          1.03464102745056,
+          -17.4599990844727,
+          -5.6399998664856,
+          -6.1100001335144
+        ],
+        [
+          -0.124696120619774,
+          0.657954454421997,
+          1.31137657165527,
+          0.359787732362747,
+          1.20437753200531,
+          -0.45578271150589,
+          -0.605404555797577,
+          0.580233335494995,
+          -0.540974736213684,
+          -17.4599990844727,
+          -5.6399998664856,
+          -6.1100001335144
+        ],
+        [
+          0.0564638115465641,
+          0.260913550853729,
+          -1.10348832607269,
+          0.407670438289642,
+          0.714775860309601,
+          0.259542346000671,
+          0.360616832971573,
+          -0.848893105983734,
+          -0.120628222823143,
+          11.8999996185303,
+          4.15000009536743,
+          -7.0
+        ],
+        [
+          0.175238654017448,
+          0.276304334402084,
+          -0.911467015743256,
+          0.251466482877731,
+          0.756939053535461,
+          0.439299494028091,
+          0.381790786981583,
+          -0.625379204750061,
+          0.129010811448097,
+          12.1800003051758,
+          4.05000019073486,
+          -7.0
+        ],
+        [
+          0.248329728841782,
+          0.273733735084534,
+          -0.683677613735199,
+          0.0976398959755898,
+          0.749896883964539,
+          0.454176515340805,
+          0.339739322662354,
+          -0.415601253509521,
+          0.369199931621552,
+          12.460000038147,
+          3.95000004768372,
+          -7.0
+        ],
+        [
+          0.278900802135468,
+          0.255514562129974,
+          -0.453322142362595,
+          -0.0198133699595928,
+          0.699985265731812,
+          0.341638326644897,
+          0.248992249369621,
+          -0.230505764484406,
+          0.534960091114044,
+          12.7399997711182,
+          3.84999990463257,
+          -7.0
+        ],
+        [
+          -0.323977053165436,
+          0.260913550853729,
+          -0.880887985229492,
+          0.381320297718048,
+          0.714775860309601,
+          -0.39698451757431,
+          0.22149845957756,
+          -0.848893105983734,
+          -0.605011999607086,
+          13.0200004577637,
+          3.75,
+          -7.0
+        ],
+        [
+          -0.17438679933548,
+          0.276304334402084,
+          -0.912175834178925,
+          0.327540516853333,
+          0.756939053535461,
+          -0.0424980148673058,
+          0.319397240877151,
+          -0.625379204750061,
+          -0.454454720020294,
+          13.3000001907349,
+          3.65000009536743,
+          -7.0
+        ],
+        [
+          -0.0460817515850067,
+          0.273733735084534,
+          -0.851970136165619,
+          0.220961049199104,
+          0.749896883964539,
+          0.18906557559967,
+          0.36834317445755,
+          -0.415601253509521,
+          -0.220002442598343,
+          13.5799999237061,
+          3.54999995231628,
+          -7.0
+        ],
+        [
+          0.0522517375648022,
+          0.255514562129974,
+          -0.728877365589142,
+          0.0986122861504555,
+          0.699985265731812,
+          0.276068955659866,
+          0.357380360364914,
+          -0.230505764484406,
+          0.0303914789110422,
+          13.8599996566772,
+          3.45000004768372,
+          -7.0
+        ],
+        [
+          -0.623425126075745,
+          0.657954454421997,
+          -0.31671530008316,
+          0.202880159020424,
+          1.20437753200531,
+          0.768718004226685,
+          0.285817861557007,
+          0.580233335494995,
+          -1.23647248744965,
+          12.6999998092651,
+          -4.80000019073486,
+          -4.5
+        ],
+        [
+          -0.63569962978363,
+          0.657954454421997,
+          -0.182288318872452,
+          0.239536181092262,
+          1.20437753200531,
+          0.721484661102295,
+          0.223650351166725,
+          0.580233335494995,
+          -1.29086434841156,
+          13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          0.610709726810455,
+          0.657954454421997,
+          -0.410388082265854,
+          -0.366074025630951,
+          1.20437753200531,
+          -0.43351274728775,
+          0.067338690161705,
+          0.580233335494995,
+          1.36519169807434,
+          13.3800001144409,
+          -4.92000007629395,
+          -4.73000001907349
+        ],
+        [
+          -0.641313850879669,
+          0.657954454421997,
+          -0.0459517240524292,
+          0.273682534694672,
+          1.20437753200531,
+          0.66669237613678,
+          0.159139797091484,
+          0.580233335494995,
+          -1.33173179626465,
+          14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          0.587373852729797,
+          0.657954454421997,
+          -0.538298189640045,
+          -0.385427594184875,
+          1.20437753200531,
+          -0.35328072309494,
+          0.133972063660622,
+          0.580233335494995,
+          1.34369921684265,
+          14.0600004196167,
+          -5.03999996185303,
+          -4.96000003814697
+        ],
+        [
+          -0.640209019184113,
+          0.657954454421997,
+          0.0908665731549263,
+          0.304961562156677,
+          1.20437753200531,
+          0.604914963245392,
+          0.0929617881774902,
+          0.580233335494995,
+          -1.35864675045013,
+          14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ],
+        [
+          0.557884156703949,
+          0.657954454421997,
+          -0.660568594932556,
+          -0.400743007659912,
+          1.20437753200531,
+          -0.269347369670868,
+          0.199201822280884,
+          0.580233335494995,
+          1.30812895298004,
+          14.7399997711182,
+          -5.15999984741211,
+          -5.19000005722046
+        ],
+        [
+          0.522549450397491,
+          0.657954454421997,
+          -0.775918126106262,
+          -0.41185986995697,
+          1.20437753200531,
+          -0.182592034339905,
+          0.262344509363174,
+          0.580233335494995,
+          1.25885319709778,
+          15.4200000762939,
+          -5.28000020980835,
+          -5.42000007629395
+        ],
+        [
+          0.481740117073059,
+          0.657954454421997,
+          -0.883137822151184,
+          -0.418661534786224,
+          1.20437753200531,
+          -0.0939240753650665,
+          0.322738349437714,
+          0.580233335494995,
+          1.19638860225677,
+          16.1000003814697,
+          -5.40000009536743,
+          -5.65000009536743
+        ],
+        [
+          -0.250106543302536,
+          0.657954454421997,
+          1.23113656044006,
+          0.396761983633041,
+          1.20437753200531,
+          -0.293816179037094,
+          -0.53994232416153,
+          0.580233335494995,
+          -0.786177277565002,
+          16.1000003814697,
+          -5.40000009536743,
+          -5.65000009536743
+        ],
+        [
+          0.435883373022079,
+          0.657954454421997,
+          -0.981105446815491,
+          -0.421076983213425,
+          1.20437753200531,
+          -0.00427171634510159,
+          0.379751086235046,
+          0.580233335494995,
+          1.1213892698288,
+          16.7800006866455,
+          -5.51999998092651,
+          -5.88000011444092
+        ],
+        [
+          -0.188388213515282,
+          0.657954454421997,
+          1.27795100212097,
+          0.380266904830933,
+          1.20437753200531,
+          -0.376773148775101,
+          -0.575689136981964,
+          0.580233335494995,
+          -0.66707044839859,
+          16.7800006866455,
+          -5.51999998092651,
+          -5.88000011444092
+        ],
+        [
+          0.385459870100021,
+          0.657954454421997,
+          -1.06879389286041,
+          -0.419080764055252,
+          1.20437753200531,
+          0.0854254513978958,
+          0.432785212993622,
+          0.580233335494995,
+          1.03464102745056,
+          17.4599990844727,
+          -5.6399998664856,
+          -6.1100001335144
+        ],
+        [
+          -0.124696120619774,
+          0.657954454421997,
+          1.31137657165527,
+          0.359787732362747,
+          1.20437753200531,
+          -0.45578271150589,
+          -0.605404555797577,
+          0.580233335494995,
+          -0.540974736213684,
+          17.4599990844727,
+          -5.6399998664856,
+          -6.1100001335144
+        ]
+      ],
+      "instances": 44,
+      "shadow": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true,
+      "visible_instances": -1
+    },
+    "SpiritGeyser": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -8.0,
+        1.08500003814697,
+        0.0599999986588955
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "SpiritGeyser2": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        8.0,
+        1.08500003814697,
+        0.0599999986588955
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "SpiritWellWarning": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0000000437113882867379,
+        -1.0,
+        0.0,
+        1.0,
+        -0.0000000437113882867379,
+        -8.0,
+        0.0399999991059303,
+        0.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "SpiritWellWarning2": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.0000000437113882867379,
+        -1.0,
+        0.0,
+        1.0,
+        -0.0000000437113882867379,
+        8.0,
+        0.0399999991059303,
+        0.0
+      ],
+      "visible": false,
+      "visible_in_tree": false
+    },
+    "ValleySwallow0": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.997191309928894,
+        0.0748962163925171,
+        0.0,
+        -0.0748962163925171,
+        0.997191309928894,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -11.0,
+        1.53806138038635,
+        -19.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "ValleySwallow1": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.997900307178497,
+        0.0647684633731842,
+        0.0,
+        -0.0647684633731842,
+        0.997900307178497,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -9.5600004196167,
+        1.7555068731308,
+        -19.3999996185303
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "ValleySwallow2": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.999626874923706,
+        -0.0273155849426985,
+        0.0,
+        0.0273155849426985,
+        0.999626874923706,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -8.11999988555908,
+        1.54858410358429,
+        -19.7999992370605
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "ValleySwallow3": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.996398389339447,
+        -0.084795244038105,
+        0.0,
+        0.084795244038105,
+        0.996398389339447,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -6.67999982833862,
+        0.710532188415527,
+        -20.2000007629395
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "ValleySwallow4": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.999384343624115,
+        -0.0350853838026524,
+        0.0,
+        0.0350853838026524,
+        0.999384343624115,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -5.23999977111816,
+        1.23834431171417,
+        -20.6000003814697
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "ValleySwallow5": {
+      "shadow": 0,
+      "surfaces": 1,
+      "transform": [
+        0.998254179954529,
+        0.0590647272765636,
+        0.0,
+        -0.0590647272765636,
+        0.998254179954529,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -3.79999995231628,
+        1.99592483043671,
+        -21.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "WaterDetailBounce": {
+      "light": {
+        "color": "(0.3843, 0.7137, 0.6118, 1.0)",
+        "energy": 0.75,
+        "shadow": false
+      },
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        -8.0,
+        -1.0,
+        -5.0
+      ],
+      "visible": true,
+      "visible_in_tree": true
+    },
+    "WaterDetailPollen": {
+      "instance_transforms": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          12.5504608154297,
+          3.81955051422119,
+          -4.9548077583313
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          -16.2713527679443,
+          -1.56987798213959,
+          -7.83646535873413
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          -16.0115585327148,
+          0.820618033409119,
+          -6.90196847915649
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          5.03971767425537,
+          5.46487617492676,
+          -7.91488456726074
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          -7.99412155151367,
+          1.41077172756195,
+          -5.61089992523193
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          1.98062968254089,
+          6.46239471435547,
+          -4.23308706283569
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          -4.57860279083252,
+          0.137432277202606,
+          -4.58573532104492
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          19.1059818267822,
+          3.0240261554718,
+          -7.64300203323364
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          12.2410221099854,
+          3.47926306724548,
+          -4.76484155654907
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          -14.8876810073853,
+          0.761083602905273,
+          -4.73695850372314
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          -13.3672761917114,
+          5.34783744812012,
+          -6.76806735992432
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          -2.92358064651489,
+          2.80300068855286,
+          -8.56274223327637
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          -18.3000068664551,
+          6.64995574951172,
+          -7.25320053100586
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          11.7436676025391,
+          2.48861074447632,
+          -7.26048755645752
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          -13.8425159454346,
+          -0.35463547706604,
+          -4.27588891983032
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          -11.2189073562622,
+          -0.510333061218262,
+          -8.32835006713867
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          6.50018882751465,
+          4.12508106231689,
+          -4.41594934463501
+        ],
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          13.6547927856445,
+          0.732264280319214,
+          -8.92707824707031
+        ]
+      ],
+      "instances": 18,
+      "shadow": 0,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "visible": true,
+      "visible_in_tree": true,
+      "visible_instances": -1
+    }
+  },
+  "platforms": [
+    {
+      "id": 0,
+      "previous_y": 0.0,
+      "width": 20.0,
+      "x": 0.0,
+      "y": 0.0
+    },
+    {
+      "id": 1,
+      "previous_y": 3.25,
+      "width": 4.0,
+      "x": -5.8,
+      "y": 3.25
+    },
+    {
+      "id": 2,
+      "previous_y": 3.25,
+      "width": 4.0,
+      "x": 5.8,
+      "y": 3.25
+    },
+    {
+      "amplitude": 0.65,
+      "base_y": 6.2,
+      "id": 3,
+      "period_ticks": 180.0,
+      "previous_y": 6.2,
+      "width": 4.0,
+      "x": 0.0,
+      "y": 6.2
+    }
+  ],
+  "quality": "High",
+  "stage_tick": 0
+}

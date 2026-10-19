@@ -1,0 +1,32 @@
+{
+  "fighter": "f06_rugged_explorer",
+  "all_animation_curves_unchanged": true,
+  "previous_curated_sha256": "f5ab628dda79a4916a63baad22df19241519081540d6fc07d44ea4e4523324dc",
+  "curated_sha256": "1c2a82b9ff8f81d2cf82989387889273561baf4bbaf864baf623207595fcff4a",
+  "repairs": [
+    {
+      "mesh": "CharacterMesh",
+      "vertices_rebound": 4447,
+      "maximum_arm_weight_removed": 1.0000000298023224
+    },
+    {
+      "mesh": "f06_rugged_explorer reinforced utility pocket -1",
+      "vertices_rebound": 788,
+      "maximum_arm_weight_removed": 0.6333828270435333
+    },
+    {
+      "mesh": "f06_rugged_explorer reinforced utility pocket 1",
+      "vertices_rebound": 430,
+      "maximum_arm_weight_removed": 0.866228424012661
+    },
+    {
+      "mesh": "f06_rugged_explorer waist band",
+      "vertices_rebound": 1174,
+      "maximum_arm_weight_removed": 0.5655647739768028
+    }
+  ],
+  "topology": {
+    "source_faces_replaced": 8359,
+    "coverage": "structured woven coat panels and continuous capped sleeves; original trouser geometry and leg weights retained"
+  }
+}

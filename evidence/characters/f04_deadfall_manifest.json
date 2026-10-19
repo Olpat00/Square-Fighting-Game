@@ -1,0 +1,827 @@
+{
+  "fighter_id": "f04_deadfall",
+  "mapping": "confirmed: red flannel",
+  "source_path": "Assets\\Jaydon\\Meshy_AI_Casual_Confidence_0920200803_texture.glb",
+  "source_sha256": "79e0611f7830dbabf076e7ed7903ffc04b440dc7fefd0a858bb1cccaefd91f01",
+  "output": "Game File\\assets\\characters\\f04_deadfall.glb",
+  "editable_source": "source_art\\characters\\f04_deadfall\\curated.blend",
+  "stats": {
+    "source_vertices": 1027463,
+    "source_triangles": 1981988,
+    "runtime_vertices": 20984,
+    "runtime_triangles": 53672,
+    "source_scale_factor": 0.9715656983246029,
+    "weight_sum_error": 0,
+    "semantic_bones": [
+      "brow.L",
+      "brow.R",
+      "chest",
+      "clavicle.L",
+      "clavicle.R",
+      "foot.L",
+      "foot.R",
+      "forearm.L",
+      "forearm.R",
+      "forearm_twist.L",
+      "forearm_twist.R",
+      "hand.L",
+      "hand.R",
+      "head",
+      "index_01.L",
+      "index_01.R",
+      "index_02.L",
+      "index_02.R",
+      "index_03.L",
+      "index_03.R",
+      "middle_01.L",
+      "middle_01.R",
+      "middle_02.L",
+      "middle_02.R",
+      "middle_03.L",
+      "middle_03.R",
+      "mouth.L",
+      "mouth.R",
+      "neck",
+      "pelvis",
+      "pinky_01.L",
+      "pinky_01.R",
+      "pinky_02.L",
+      "pinky_02.R",
+      "pinky_03.L",
+      "pinky_03.R",
+      "ring_01.L",
+      "ring_01.R",
+      "ring_02.L",
+      "ring_02.R",
+      "ring_03.L",
+      "ring_03.R",
+      "root",
+      "shin.L",
+      "shin.R",
+      "spine",
+      "thigh.L",
+      "thigh.R",
+      "thumb_01.L",
+      "thumb_01.R",
+      "thumb_02.L",
+      "thumb_02.R",
+      "thumb_03.L",
+      "thumb_03.R",
+      "toe.L",
+      "toe.R",
+      "upper_arm.L",
+      "upper_arm.R",
+      "upper_arm_twist.L",
+      "upper_arm_twist.R"
+    ],
+    "height": 1.85,
+    "welded_source_vertices": 990973,
+    "binding": "welded topology + Blender bone heat, repaired unweighted vertices and normalized top-four influences",
+    "repaired_vertices": 0
+  },
+  "animations": [
+    {
+      "name": "air_back",
+      "seconds": 0.6166666666666667,
+      "frames": 38,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "deb40e7b1492277d13f2c08b7aa1aadb08e5b35399cf23393e13bf576c1e3612"
+    },
+    {
+      "name": "air_dodge",
+      "seconds": 0.6,
+      "frames": 37,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "d3340a912a1c22d50acc3c8917967b65ce1e382d5c07ca9d35ddde56baad2df0"
+    },
+    {
+      "name": "air_down",
+      "seconds": 0.8666666666666667,
+      "frames": 53,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "d80daa65fae81596f6573a0cf03b692470823a369a21b3d744a751b1a3b58e91"
+    },
+    {
+      "name": "air_forward",
+      "seconds": 0.7,
+      "frames": 43,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "eeb8c9c00493499be2fbcd3773cf956496088e7d3f4bc7343218d636b6c8d1c2"
+    },
+    {
+      "name": "air_neutral",
+      "seconds": 0.6166666666666667,
+      "frames": 38,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "df8547aea3de43b9ea2bab8ca74fb6d602e2a879546ec95797bb9a8c115141af"
+    },
+    {
+      "name": "air_up",
+      "seconds": 0.55,
+      "frames": 34,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "8fb8450115c535e550dd7c23646bb0eb7b9546d0432cdbd2913bfee2689a317e"
+    },
+    {
+      "name": "crouch",
+      "seconds": 0.5,
+      "frames": 31,
+      "loop": true,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "0bccca0465fae25efbc7a7413535af6dfd0f1555db7ae01cd0bf0e73e8bc2252"
+    },
+    {
+      "name": "dash",
+      "seconds": 0.6833333333333333,
+      "frames": 42,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "d8cc7633a1d07bd75ff9a4c9d78be4f54df46950bf1204b58b6062df91845a86"
+    },
+    {
+      "name": "double_jump",
+      "seconds": 0.5,
+      "frames": 31,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "37fc31ee4ce42b9c097bfe2fadd590b0d853cab8eee12180524ce1477ce5b5d9"
+    },
+    {
+      "name": "fall",
+      "seconds": 0.9,
+      "frames": 55,
+      "loop": true,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "60541a42b8ec9c90d4d9383723fe6453d15bc3f5b894e59c14c3b6891adf01d9"
+    },
+    {
+      "name": "final_ko",
+      "seconds": 1.6,
+      "frames": 97,
+      "loop": false,
+      "category": "personality",
+      "source_motion": "custom choreography",
+      "curve_sha256": "9038e009c4791e3f4e5d6197de24e09da6c911cebb15b642e7659154e5ade3e8"
+    },
+    {
+      "name": "getup",
+      "seconds": 0.8,
+      "frames": 49,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "cfb7e9a043c34c670318fcaf5d1087b88b3863d4a37a7204b2ab8026fe7a5a24"
+    },
+    {
+      "name": "grab",
+      "seconds": 0.6,
+      "frames": 37,
+      "loop": false,
+      "category": "grapple",
+      "source_motion": "custom choreography",
+      "curve_sha256": "1efd49e7174110af665d6b60007e8e40a0625e5093dd1cf9ef53b6851f83e8de"
+    },
+    {
+      "name": "grab_hold",
+      "seconds": 0.8,
+      "frames": 49,
+      "loop": true,
+      "category": "grapple",
+      "source_motion": "custom choreography",
+      "curve_sha256": "00e9c9f57d0fc2308d00ef2fcdca2878af575777084c60262640a1b1ab899734"
+    },
+    {
+      "name": "grab_release",
+      "seconds": 0.4,
+      "frames": 25,
+      "loop": false,
+      "category": "grapple",
+      "source_motion": "custom choreography",
+      "curve_sha256": "104b21bc2c782e76ceed0591e087a3692bbb4f26264a9bc03021fb77370ff170"
+    },
+    {
+      "name": "heavy_charge",
+      "seconds": 1.0,
+      "frames": 61,
+      "loop": true,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "80ef8ae3259219f314660de4503388a54bfd5a4ab6bc38822c61224ea7e9842a"
+    },
+    {
+      "name": "heavy_down",
+      "seconds": 1.0166666666666666,
+      "frames": 62,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "5e0fdb09d9f2054261fb190087d385ac66da02c261178f0e69e78c730f17c0b2"
+    },
+    {
+      "name": "heavy_side",
+      "seconds": 0.9833333333333333,
+      "frames": 60,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "9a4af789e955b8ddffe9689a7f4e7a087f129b50d0f124d97083f0c0891348bd"
+    },
+    {
+      "name": "heavy_up",
+      "seconds": 0.9333333333333333,
+      "frames": 57,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "4facc02aa72aaa38cc1e2a49a485073383708f7958797ba9faea6b7fb208b672"
+    },
+    {
+      "name": "helpless",
+      "seconds": 0.8,
+      "frames": 49,
+      "loop": true,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "c7dad7aba2030c258c4d66bc029fbff2a0f8ca242066dc127c8b8436bd666211"
+    },
+    {
+      "name": "hit_heavy",
+      "seconds": 0.65,
+      "frames": 40,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "755974be096b53e9c7ac8708fb54ee3a257c60b4acc79f891c514fc2f95e78ee"
+    },
+    {
+      "name": "hit_light",
+      "seconds": 0.3,
+      "frames": 19,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "009a68f14bbf40d74100534f62408d0951d0b14befc27c4e3aef5ab34de7f494"
+    },
+    {
+      "name": "idle",
+      "seconds": 2.4,
+      "frames": 145,
+      "loop": true,
+      "category": "stance",
+      "source_motion": "Quaternius / Idle_Loop",
+      "curve_sha256": "4e898c7e15f3c788256b99aeff4d2b416ee5c60aa55a41018b0192a054d61497"
+    },
+    {
+      "name": "intro",
+      "seconds": 1.8,
+      "frames": 109,
+      "loop": false,
+      "category": "personality",
+      "source_motion": "custom choreography",
+      "curve_sha256": "aaae1dbdda5fb23864aee82b79a290e5ec1817b939525c0013e026237b401465"
+    },
+    {
+      "name": "jab1",
+      "seconds": 0.35,
+      "frames": 22,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "227e6ade2a588feb764c63df504759bdfaf66fad2c2ec79fb5d78b32753a0cf6"
+    },
+    {
+      "name": "jab2",
+      "seconds": 0.4,
+      "frames": 25,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "72763352063ece3a61685ef86ac0cdaf8deed810770b29afd99649d6db700e63"
+    },
+    {
+      "name": "jab3",
+      "seconds": 0.5666666666666667,
+      "frames": 35,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "64659bf6054211b8d4828bce0aa7e5d2effafdf924b6ef8d23fc1114bb77ed29"
+    },
+    {
+      "name": "jump_anticipation",
+      "seconds": 0.16666666666666666,
+      "frames": 11,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "7697f187531c41a90a4a3b63f04007452f0aab2ec6b8d4ff475b5977c20f04f3"
+    },
+    {
+      "name": "jump_rise",
+      "seconds": 0.6,
+      "frames": 37,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "0f0441fb43c29c163492789d5b7a3b1e082be977cf1faf1688c83d3539eb93a8"
+    },
+    {
+      "name": "knockdown",
+      "seconds": 0.65,
+      "frames": 40,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "c0f4df01513001d8cc73ef5ff1014630f9853f9035192f39474a11e19a4299da"
+    },
+    {
+      "name": "land_hard",
+      "seconds": 0.48333333333333334,
+      "frames": 30,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "b795e47922c19080465844fd386b7eb5bdb4c34ec18dcf6233e985a050f5914d"
+    },
+    {
+      "name": "land_soft",
+      "seconds": 0.25,
+      "frames": 16,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "7847cd3f1a1861151e518b488acb85b6ce9eb1aa2952564ef5cee8ee36cc475d"
+    },
+    {
+      "name": "launch",
+      "seconds": 0.4166666666666667,
+      "frames": 26,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "64222d4f63b087fa488c87eb8d2f2e276c34c23b541298b5f7a9e8a022d9223e"
+    },
+    {
+      "name": "ledge_catch",
+      "seconds": 0.3,
+      "frames": 19,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "1f36b94d708c81d5037ee37207f3851a19e2b4d8376cb25db7428af3b3088b3f"
+    },
+    {
+      "name": "ledge_hold",
+      "seconds": 1.0,
+      "frames": 61,
+      "loop": true,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "30b0550588460ede672364a8c36c0b4103e48988ef0459e147f1096bab46cddb"
+    },
+    {
+      "name": "ledge_release",
+      "seconds": 0.35,
+      "frames": 22,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "9e7547c4a866976b7199765899e4f1aaf7c4d483f0864825317e91ebe94cd43f"
+    },
+    {
+      "name": "lose",
+      "seconds": 2.0,
+      "frames": 121,
+      "loop": false,
+      "category": "personality",
+      "source_motion": "custom choreography",
+      "curve_sha256": "5c4475c8105d1f82443fb0dd316e81ee5be41a9bb4de42bf513ded32b8030fbd"
+    },
+    {
+      "name": "move_start",
+      "seconds": 0.25,
+      "frames": 16,
+      "loop": false,
+      "category": "locomotion",
+      "source_motion": "custom choreography",
+      "curve_sha256": "0cc7c201d81e3446666b0abe94dccb08fbeb639311117cf8db23961492f1317c"
+    },
+    {
+      "name": "move_stop",
+      "seconds": 0.3,
+      "frames": 19,
+      "loop": false,
+      "category": "locomotion",
+      "source_motion": "custom choreography",
+      "curve_sha256": "dc000d07cda87e93896ef09226e60b16292d1589f48989ec7c126f63f43a721c"
+    },
+    {
+      "name": "parry",
+      "seconds": 0.2833333333333333,
+      "frames": 18,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "1a038c594b05647154e52f89ab76d316d416a7aee73c5d9b9648d152ce5f4fc4"
+    },
+    {
+      "name": "qa_deep_pose",
+      "seconds": 1.0,
+      "frames": 61,
+      "loop": false,
+      "category": "deformation_qa",
+      "source_motion": "custom choreography",
+      "curve_sha256": "06f4b3533524d15751c092eaad076cda974548bfddc9abff3566f3faa9099e97"
+    },
+    {
+      "name": "qa_elbow_bend",
+      "seconds": 1.0,
+      "frames": 61,
+      "loop": false,
+      "category": "deformation_qa",
+      "source_motion": "custom choreography",
+      "curve_sha256": "d6dc0f6c0cecf3ce11cbb35b829c4bdad20f35e5539e8ff215e7f33304792e7c"
+    },
+    {
+      "name": "qa_knee_bend",
+      "seconds": 1.0,
+      "frames": 61,
+      "loop": false,
+      "category": "deformation_qa",
+      "source_motion": "custom choreography",
+      "curve_sha256": "ccf775688d14a857aecc64e3a40628e4148ae450e9160a9ccd17f2a4889e07ed"
+    },
+    {
+      "name": "qa_shoulder_raise",
+      "seconds": 1.0,
+      "frames": 61,
+      "loop": false,
+      "category": "deformation_qa",
+      "source_motion": "custom choreography",
+      "curve_sha256": "9544955dac5a5057db6ffe9163e73e2492223547ae0e6448a5d73db3c7772417"
+    },
+    {
+      "name": "qa_torso_twist",
+      "seconds": 1.0,
+      "frames": 61,
+      "loop": false,
+      "category": "deformation_qa",
+      "source_motion": "custom choreography",
+      "curve_sha256": "fda9510039bb81603b2d9752a4f5febec1c4cf726d4246a22b508d265a007707"
+    },
+    {
+      "name": "respawn",
+      "seconds": 1.2,
+      "frames": 73,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "8c566e8666c1b888d7eab7399a70d9e9181ed77e16f8b4d7683cdac17e8668fa"
+    },
+    {
+      "name": "roll_back",
+      "seconds": 0.6,
+      "frames": 37,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "09e95d540db5d7b8f777f9e047775bf8a2b54ad0e3517877669d1b9e4a03cbf4"
+    },
+    {
+      "name": "roll_forward",
+      "seconds": 0.6,
+      "frames": 37,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "d3340a912a1c22d50acc3c8917967b65ce1e382d5c07ca9d35ddde56baad2df0"
+    },
+    {
+      "name": "run",
+      "seconds": 0.6166666666666667,
+      "frames": 38,
+      "loop": true,
+      "category": "locomotion",
+      "source_motion": "Quaternius / Jog_Fwd_Loop",
+      "curve_sha256": "217ed8cb702996385501c39c999c6e3ce90d7a9241564f9cd6021f6a33a0c366"
+    },
+    {
+      "name": "shield_break",
+      "seconds": 1.4,
+      "frames": 85,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "a60be14cd8bfec12492c42360ff0b3d4d5ae692c546427a920effd857c412da8"
+    },
+    {
+      "name": "shield_enter",
+      "seconds": 0.13333333333333333,
+      "frames": 9,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "a76b4416e70d1bf39b02d740ca59b925134985f3edb38bffaeba7a1ca5593048"
+    },
+    {
+      "name": "shield_exit",
+      "seconds": 0.18333333333333332,
+      "frames": 12,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "843ff530010ab933f9fcb57bdd8bbb14fe3edfc577fb67b8866335411c2bd1f2"
+    },
+    {
+      "name": "shield_hold",
+      "seconds": 1.0,
+      "frames": 61,
+      "loop": true,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "9397ceffc8487cf213713d9a8a07f2d0f08b23643bf4cba777dbab74e90ea1f6"
+    },
+    {
+      "name": "special_down",
+      "seconds": 0.7666666666666667,
+      "frames": 47,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "31f0d3b1ed765fcce2b90be82a1ea7781c935c59d701bdb36f770fc0bb132de3"
+    },
+    {
+      "name": "special_neutral",
+      "seconds": 0.7666666666666667,
+      "frames": 47,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "f4c9c0361ca9e61193badac9854c031e81ea501169c0d84f0a922339150f6102"
+    },
+    {
+      "name": "special_side",
+      "seconds": 0.8333333333333334,
+      "frames": 51,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "69cb691c6e45d82d8718df61df93b5bbd2d990b2afe982025b9d14da5d7e70db"
+    },
+    {
+      "name": "special_up",
+      "seconds": 0.95,
+      "frames": 58,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "dce817b853fe5d767acb632bf000d22bf28e86888ecec09254f5ef4837f39c39"
+    },
+    {
+      "name": "spot_dodge",
+      "seconds": 0.4166666666666667,
+      "frames": 26,
+      "loop": false,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "b10d201c856e2ff2cb6b64bc1c54086733faad6df76695e64ebbc5a48b3b33d8"
+    },
+    {
+      "name": "taunt1",
+      "seconds": 1.8,
+      "frames": 109,
+      "loop": false,
+      "category": "personality",
+      "source_motion": "custom choreography",
+      "curve_sha256": "3f31ab58088447c696308688963f6e1af49bda5be345e4f67cdc18be93c9b40f"
+    },
+    {
+      "name": "taunt2",
+      "seconds": 1.8,
+      "frames": 109,
+      "loop": false,
+      "category": "personality",
+      "source_motion": "custom choreography",
+      "curve_sha256": "e65fec9b0b4f7eb953dd5e38c0d694bf26df5c5a116da60a44955ab84515cc61"
+    },
+    {
+      "name": "throw_back",
+      "seconds": 0.55,
+      "frames": 34,
+      "loop": false,
+      "category": "grapple",
+      "source_motion": "custom choreography",
+      "curve_sha256": "810d085187bb8d15918ab4c07ebcc2d1154ec99bfd424a05d66c3c32f1581841"
+    },
+    {
+      "name": "throw_down",
+      "seconds": 0.5333333333333333,
+      "frames": 33,
+      "loop": false,
+      "category": "grapple",
+      "source_motion": "custom choreography",
+      "curve_sha256": "ac02596235281b7f04399e5fb77f3ff26abb83d75717703b2c22e0c06fe44f38"
+    },
+    {
+      "name": "throw_forward",
+      "seconds": 0.4666666666666667,
+      "frames": 29,
+      "loop": false,
+      "category": "grapple",
+      "source_motion": "custom choreography",
+      "curve_sha256": "cbddbb4eff4b6eb40862ccfc0ba266a06d0d686d43287b3cd977c6090f8fd785"
+    },
+    {
+      "name": "throw_up",
+      "seconds": 0.5,
+      "frames": 31,
+      "loop": false,
+      "category": "grapple",
+      "source_motion": "custom choreography",
+      "curve_sha256": "3277a6ed0767027359eeaa5d40e82b77dabf2e95ad45847b62d5543a06901dda"
+    },
+    {
+      "name": "thrown_back",
+      "seconds": 0.7,
+      "frames": 43,
+      "loop": false,
+      "category": "victim",
+      "source_motion": "custom choreography",
+      "curve_sha256": "13804723d578b5849caf8c759a53282dd30b0f28b5bb27d009c0cde768d84afd"
+    },
+    {
+      "name": "thrown_down",
+      "seconds": 0.7,
+      "frames": 43,
+      "loop": false,
+      "category": "victim",
+      "source_motion": "custom choreography",
+      "curve_sha256": "7de3313903d98240372e7688e98a08756643500a70d1c2880683e59bc6345d51"
+    },
+    {
+      "name": "thrown_up",
+      "seconds": 0.7,
+      "frames": 43,
+      "loop": false,
+      "category": "victim",
+      "source_motion": "custom choreography",
+      "curve_sha256": "1c1219e6365d302c370cf710a3fe8cc17c1b6766e194f2dd91cc6e8e385b504c"
+    },
+    {
+      "name": "tilt_down",
+      "seconds": 0.5,
+      "frames": 31,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "72f22058da5c7bc02ec3b376028ea7a8aad68f8bd71fd1c2ffdf596009ef8740"
+    },
+    {
+      "name": "tilt_side",
+      "seconds": 0.5666666666666667,
+      "frames": 35,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "37417b61a3ba4b0a2a2ef69a9926785dc4e8497652ba02ddc13cebf95b7b5e96"
+    },
+    {
+      "name": "tilt_up",
+      "seconds": 0.55,
+      "frames": 34,
+      "loop": false,
+      "category": "attack",
+      "source_motion": "custom choreography",
+      "curve_sha256": "5f0bc02ac296a7f20586659651e09cfc8cea064392fee610a24e3406ab6c3d49"
+    },
+    {
+      "name": "tumble",
+      "seconds": 0.85,
+      "frames": 52,
+      "loop": true,
+      "category": "shared",
+      "source_motion": "custom choreography",
+      "curve_sha256": "d8344333682c3d1defa664a386a22d998847c626a70a1ed1036adf5c518a7ac1"
+    },
+    {
+      "name": "turnaround",
+      "seconds": 0.23333333333333334,
+      "frames": 15,
+      "loop": false,
+      "category": "locomotion",
+      "source_motion": "custom choreography",
+      "curve_sha256": "426c53db821a2149992b3b26222d0c67c1a8ab5f5149c00f394cb622ab801023"
+    },
+    {
+      "name": "ultimate",
+      "seconds": 1.4666666666666666,
+      "frames": 89,
+      "loop": false,
+      "category": "signature",
+      "source_motion": "custom choreography",
+      "curve_sha256": "8065c3f8329aa3660d3fe4083c524718f65a55be791e23ec1580203433c4d32f"
+    },
+    {
+      "name": "victim_grab",
+      "seconds": 0.85,
+      "frames": 52,
+      "loop": true,
+      "category": "victim",
+      "source_motion": "custom choreography",
+      "curve_sha256": "d6e87bc5a6997b743b9d971df3a973710096d0bb816040a82e3505c7bcef0200"
+    },
+    {
+      "name": "victim_throw",
+      "seconds": 0.7,
+      "frames": 43,
+      "loop": false,
+      "category": "victim",
+      "source_motion": "custom choreography",
+      "curve_sha256": "388466fa4747734a99dc33f91e9502cbe89f5143982588c060997a6418885a0a"
+    },
+    {
+      "name": "walk",
+      "seconds": 1.05,
+      "frames": 64,
+      "loop": true,
+      "category": "locomotion",
+      "source_motion": "Quaternius / Walk_Loop",
+      "curve_sha256": "0e794e364ba6542ba5c5b32b7a01662c08db439bc62cbae6c3241e084f6c9139"
+    },
+    {
+      "name": "win",
+      "seconds": 2.2,
+      "frames": 133,
+      "loop": false,
+      "category": "personality",
+      "source_motion": "custom choreography",
+      "curve_sha256": "d3a27252ff47f227c5a0b91a5df1489e568556520b1161600c9f515c427cb81d"
+    }
+  ],
+  "forward_godot": "+Z",
+  "up_godot": "+Y",
+  "materials": [
+    "material"
+  ],
+  "texture_images": [
+    {
+      "name": "base_color",
+      "size": [
+        2048,
+        2048
+      ],
+      "color_space": "sRGB"
+    },
+    {
+      "name": "metallic_roughness",
+      "size": [
+        2048,
+        2048
+      ],
+      "color_space": "Non-Color"
+    },
+    {
+      "name": "normal",
+      "size": [
+        2048,
+        2048
+      ],
+      "color_space": "Non-Color"
+    }
+  ],
+  "source_rig": false,
+  "source_animations": 0,
+  "source_pose": "relaxed A pose",
+  "rig_binding": "welded topology + Blender bone heat, repaired unweighted vertices and normalized top-four influences",
+  "pending_validation": [
+    "Review current runtime evidence and continuous capture; historical September renders do not validate this export"
+  ],
+  "canonical_fighter_id": "f04_deadfall",
+  "selectable_runtime_fighter": true,
+  "validation": {
+    "structural_pass": true,
+    "runtime_sha256": "aca25b607175a072966aeb5b07d403bf69253db766fc3bfd93aad52505be1fca",
+    "current_asset_evidence": "evidence/characters/hero_rebuild/asset_validation.json",
+    "runtime_validation_record": "evidence/rebuild/animation_scenarios.json"
+  },
+  "surface_policy": "Original 2K source albedo, normal, roughness and per-pixel metallic restored; no UV/geometry/weight/action edits",
+  "portrait_studio": "source_art\\characters\\f04_deadfall\\portrait_studio.blend",
+  "portrait": "Game File/assets/portraits/f04_deadfall.png",
+  "hero_rebuild_report": "evidence/characters/hero_rebuild/asset_validation.json"
+}
